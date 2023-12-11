@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-31T18:23:21.331Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/hpe-telco-&amp;-5g,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-and-nec-collaborate-to-advance-adoption-of-network-functions-virtualization-technology"
+        jcr:uuid="0f1577c8-f205-4ad9-9ce2-90b6024be93f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        mediaContactEmail="erik.denny"
+        mediaContactName="Erik Denny, HP"
+        metaDescription="HP and NEC Collaborate to Advance Adoption of Network Functions Virtualization Technology"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-and-nec-collaborate-to-advance-adoption-of-network-functions-virtualization-technology/jcr:content/main-par/body-par/textonlycomponent_iyv2"
+        navTitle="HP and NEC Collaborate to Advance Adoption of Network Functions Virtualization Technology"
+        pageTitle="HP and NEC Collaborate to Advance Adoption of Network Functions Virtualization Technology"
+        priority="(None)"
+        subtitle="Integrated, Pre-Validated Carrier-Grade Solution Will Enable Telcos to Launch Services Faster and More Cost Effectively"
+        theme="dark"
+        UAID="13c6d6e0-cb5a-4d5d-9a55-5b008bd7fad8"
+        UCID="09394a7c-56c2-486c-a636-16842a233823"
+        WPID="1509">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-26T07:45:15.410Z"
+                jcr:lastModifiedBy="irina.rac@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="July 14, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Integrated, Pre-Validated Carrier-Grade Solution Will Enable Telcos to Launch Services Faster and More Cost Effectively&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_iyv2
+                    jcr:lastModified="{Date}2023-03-31T18:23:21.323Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SHANGHAI, CHINA--(Marketwired - Jul 14, 2015) - Today at&amp;nbsp;&lt;a href=&quot;http://www.mwcshanghai.com/&quot;>Mobile World Congress Shanghai&lt;/a>&amp;nbsp;HP (NYSE:HPQ) and NEC Corporation (NEC) (TSE:6701) announced the two companies will collaborate to accelerate communications service provider (CSP) adoption of network functions virtualization (NFV) technology. The combination of the&amp;nbsp;HP OpenNFV Platform&amp;nbsp;with NEC's virtualized network functions and management systems will provide CSPs with robust carrier-grade, open source-based NFV solutions.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>NFV offers a new way for CSPs to design, deploy, and manage networking services. By decoupling the network functions from proprietary hardware appliances, CSPs can accelerate the introduction of new, compelling services quickly and cost-effectively.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>When fully integrated, NEC will be able to offer its virtual network functions on the HP OpenNFV Platform, including HP Helion OpenStack® Carrier Grade, providing a pre-validated solution that will deliver the reliability, scalability and performance CSPs require.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Pre-validation will include proof-of-concept testing to verify NEC's virtual network functions integrate properly with HP industry standard infrastructure products. The resulting offering will feature an open architecture aligned with the European Telecommunications Standards Institute NFV Industry Specification Group (ETSI NFV ISG) Standard, allowing telecom operators the flexibility to scale or add new services.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;NFV technologies enable flexible, scalable, and operationally efficient service deployment that will transform conventional network operations,&amp;quot; said Atsuo Kawamura, senior vice president, NEC Corporation. &amp;quot;NEC has a track record of expertise in commercially delivering SDN/NFV solutions for mobile and fixed networks. This collaboration with HP will help us further strengthen our NFV solutions portfolio to help CSPs bring new innovative services to market more quickly and efficiently.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The integrated offering will encompass HP hardware, including HP servers, networking and storage products. Availability is targeted for later this year. Additionally, the companies plan to develop a joint NFV reference platform to demonstrate NEC virtual network functions and management software on HP OpenNFV infrastructure in OpenStack and Linux KVM environments.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;CSPs are looking for ways to easily implement NFV technology,&amp;quot; said Werner Schaefer, vice president, Network Functions Virtualization, HP. &amp;quot;Our collaboration with NEC is intended to create more open environments for customers, meeting their desire for faster deployment at a lower cost, continuing our commitment to enabling increased adoption of NFV technology.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xd;&#xa;&lt;/b> HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About NEC Corporation&lt;br>&#xd;&#xa;&lt;/b> NEC Corporation is a leader in the integration of IT and network technologies that benefit businesses and people around the world. By providing a combination of products and solutions that cross utilize the company's experience and global resources, NEC's advanced technologies meet the complex and ever-changing needs of its customers. NEC brings more than 100 years of expertise in technological innovation to empower people, businesses and society.For more information, visit NEC at&amp;nbsp;&lt;a href=&quot;http://www.nec.com/&quot; target=&quot;_blank&quot;>http://www.nec.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;br>&#xd;&#xa; This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>©2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The OpenStack™ Word Mark and OpenStack Logo are either registered trademarks/service marks or trademarks/service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission. HP is not affiliated with, endorsed or sponsored by the OpenStack Foundation, or the OpenStack community.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_utve
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                        </contentblock_utve>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_25sc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-and-red-hat-join-forces-to-give-customers-greater-choice-for-nfv-deployments"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Aug11.jpg"/>
+                        </contentblock_25sc>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nna6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-launches-virtualized-management-to-increase-telecom-services-quality-and-agility"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate02.jpg"/>
+                        </contentblock_nna6>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

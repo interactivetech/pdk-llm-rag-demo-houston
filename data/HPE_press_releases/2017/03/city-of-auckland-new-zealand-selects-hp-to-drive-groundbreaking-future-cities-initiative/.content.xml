@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:42:18.425Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/csr,hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="city-of-auckland-new-zealand-selects-hp-to-drive-groundbreaking-future-cities-initiative"
+        jcr:uuid="63408266-3fdd-433e-ae18-1bbff2279624"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="City of Auckland, New Zealand Selects HP to Drive Groundbreaking Future Cities Initiative"
+        navTitle="City of Auckland, New Zealand Selects HP to Drive Groundbreaking Future Cities Initiative"
+        pageTitle="City of Auckland, New Zealand Selects HP to Drive Groundbreaking Future Cities Initiative"
+        priority="(None)"
+        subtitle="HP HAVEn Big Data Solution Will Streamline Traffic Flow and Provide Enhanced Safety for Citizens"
+        theme="dark"
+        UAID="6bfb6239-c294-4ef1-8152-e828182fe19d"
+        UCID="002a8d1c-521d-4205-a88b-30ad3850a461"
+        WPID="1571">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-17T14:26:57.734Z"
+                jcr:lastModifiedBy="hpe.publishers"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 30, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP HAVEn Big Data Solution Will Streamline Traffic Flow and Provide Enhanced Safety for Citizens&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_krym
+                    jcr:lastModified="{Date}2018-10-17T14:28:02.987Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Sep 30, 2014) - HP (NYSE: HPQ) today announced that the city of Auckland, New Zealand has selected HP Software to deliver a visionary &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-solutions/big-data-overview.html&quot;>Big Data&lt;/a> project designed to provide a safer community and more efficient roadways for its citizens.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Auckland Transport, Auckland's government agency responsible for all of its transportation infrastructure and services, will deploy video analytics powered by &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/technology/idol-the-os/&quot;>HP IDOL&lt;/a> on servers and storage from HP Enterprise Group, and with support from HP Software Professional Services.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The safety and well-being of our citizens is always our top priority and the Future Cities initiative is a big step in the right direction,&amp;quot; said &lt;/i>Roger Jones, CIO Auckland Transport&lt;i>. &amp;quot;Only HP could comprehensively deliver the custom solution, expertise and ecosystem at this scale to transform our vision into reality.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Auckland Transport (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/AklTransport&quot;>@AklTransport&lt;/a>) will use HP's integrated big data platform, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/big-data-platform-haven/&quot;>HAVEn&lt;/a>, to analyze, understand and act on vast quantities of data of virtually any type including text, images, audio and real-time video. The system will leverage data from a variety of sources, including thousands of security and traffic management cameras, a vast network of road and environmental sensors as well as real-time social media and news feeds.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In the first phase of the project, Auckland Transport will focus on improving public safety. Law enforcement will use &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/pdoc/assets/global/pdf/Products/Power/Surveillance/20130304_CI_BR_HP_AUTN_Scene_Analysis_web.pdf&quot;>HP Intelligent Scene Analysis System&lt;/a> and license plate recognition for accurate identification and scene analysis for dangerous activities and analyzing safety threats from over 2,000 cameras deployed within Auckland. Going forward this information will be linked with rich insight from social media news sources to provide a comprehensive solution that can proactively identify breaking trends and respond to critical safety incidents for cyclists and transport users.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;https://www.youtube.com/watch?v=-CGzVscmF6c&amp;amp;list=UUzkjUSqmy8tbv8oCDZj5SbQ&quot;>HP Surveillance Software Demo Video&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Enterprise Group will supply the hardware infrastructure for Auckland Transport, a combination of powerful servers and storage systems. HP Proliant Gen8 BladeSystem, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/products/data-storage/data-storage-products.html?compURI=1225854&quot;>HP 3PAR StoreServ Storage&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/products/data-storage/data-storage-products.html?compURI=1225919&quot;>HP StoreAll Archive&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://h17007.www1.hp.com/us/en/solutions/datacenter/index.aspx&quot;>HP FlexFabric &lt;/a>will give Auckland Transport the most advanced hardware, providing superior capabilities for the safe city initiative.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Software Professional Services will also be instrumental in the process, lending support and expertise to ensure a swift and smooth implementation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP partner VidSys (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/VidSys&quot;>@VidSys&lt;/a>), a global leader in physical security information management systems, will provide a platform that unifies the control and monitoring functions of physical security, building and traffic management, and computer aided dispatch systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Auckland Transport's investment in big data technologies from HP is part of a larger trend around the emergence of &amp;quot;Smart Cities.&amp;quot; Enlightened city planners are looking at how to leverage big data, sensor data, and data from people and their devices to create improved products and services for citizens. According to market research firm IHS, investment in Smart City projects and technologies will rise from &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.ubmfuturecities.com/author.asp?doc_id=526799&amp;amp;f_src=UBMFutureCities_theurbanizer&amp;amp;es_c=17133&amp;amp;es_t=1407124845&quot;>$1 Billion in 2013 to $12 Billion&lt;/a> in 2025.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;We are proud to work with such an innovative and forward-thinking government agency like Auckland Transport,&amp;quot; &lt;/i>said Colin Mahony, SVP &amp;amp; General Manager, Big Data Group, HP Software. &lt;i>&amp;quot;This comprehensive HP HAVEn big data solution will enhance the life of their citizens and will become a model of transport systems for cities around the globe.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hp&quot;>@HP&lt;/a> will be exhibiting at &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.asisonline.org/Pages/default.aspx&quot;>ASIS International&lt;/a> (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/ASIS_Intl&quot;>@ASIS_Intl&lt;/a>). Please stop by the booth (# 2753) for more information and to see our innovative technology in action. Join the conversation &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/search?q=%23ASIS14&amp;amp;src=typd&quot;>#ASIS14&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HP Software on &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.linkedin.com/company/hp-software&quot;>LinkedIn&lt;/a> and follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsoftware&quot;>@HPSoftware&lt;/a> on Twitter.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy; the impact of macroeconomic and geopolitical trends and events; the need to manage third party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Quarterly Report on Form 10-Q for the fiscal quarter ended April 30, 2013 and HP's other filings with the Securities and Exchange Commission, including HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2012.HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hheq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/5-global-cities-realizing-the-potential-of-iot"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="5 Global Cities Realizing the Potential of IoT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="5 Global Cities Realizing the Potential of IoT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/5-global-cities.jpg"/>
+                        </contentblock_hheq>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3env
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/01/hpe-launches-customer-experience-centre-in-india"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Launches Customer Experience Centre in India"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Customer Experience Centre in India"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/01/image-norend/Pic-1-Shri-Devender-Singh-Principal-Secretary-Electronics-I.T.-and-.._.jpg"/>
+                        </contentblock_3env>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_rrye
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/top-5-things-you-shouldnt-miss-from-the-new-living-progress-report"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Top 5 things you shouldnt miss from the new Living Progress Report"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Top 5 things you shouldnt miss from the new Living Progress Report"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Living-Progress-Report-2018.jpg"/>
+                        </contentblock_rrye>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:45:51.866Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-introduces-new-information-security-service-to-help-businesses-reduce-risk"
+        jcr:uuid="eafb0523-da5d-488d-8ebd-136fc8ef06e8"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:33.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Introduces New Information-Security Service to Help Businesses Reduce Risk"
+        navTitle="HP Introduces New Information-Security Service to Help Businesses Reduce Risk"
+        pageTitle="HP Introduces New Information-Security Service to Help Businesses Reduce Risk"
+        priority="(None)"
+        theme="dark"
+        UAID="2957c1bf-96c0-4cc9-a576-0f87ddb34207"
+        UCID="92ec5daa-4f9a-4fe9-91f5-d065d9424c46"
+        WPID="1614">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-16T14:31:55.960Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 28, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_7j3s
+                    jcr:lastModified="{Date}2018-10-16T14:32:54.630Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Apr 28, 2014) - HP (NYSE: HPQ) today announced new consulting services to help clients make rapid, data-driven decisions about the management information-security risk across their organizations.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new &lt;a rel=&quot;nofollow&quot; href=&quot;http://h20195.www2.hp.com/V2/GetDocument.aspx?docname=4AA5-1183ENW&quot;>HP Security Metrics Services&lt;/a> offer a patent-pending methodology and framework to more clearly demonstrate the potential that a security incident might have on business objectives.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Security Metrics Services utilize an organization's existing sources of security data, set parameters that give stakeholders a clear alert when their business objectives are at risk, and enable them to determine their overall risk posture. When threats or incidents impact stakeholder objectives, users can quickly identify the source of the risk and make timely decisions to address the threat.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Most organizations today are not able to proactively address security risks before impacting their business. This is due to the lack of necessary visibility into key security data and alerts that can help organizations determine the level of potential risk to their business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In spite of this, a recent survey conducted by the Ponemon Institute found that 75 percent of respondents indicated that metrics are &amp;quot;important&amp;quot; or &amp;quot;very important&amp;quot; to a risk-based security program.&lt;sup>(1)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Security risks are getting harder for organizations to navigate, and point-solution defenses are no match for the adversaries,&amp;quot; said Arthur Wong, senior vice president and general manager, Enterprise Security Services, HP. &amp;quot;By aligning information-security data with stakeholder business objectives, HP Security Metrics Services help transform organizations to a consistent, measurable and proactive security posture to make informed risk decisions and justify security spending.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HP Security Metrics Services allows businesses to:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>1) Identify security risk indicators through cutting edge framework&lt;br>&#xa;By utilizing a simple, clear framework that links IT assets to 34 identified key risk components, organizations can prioritize their business objectives and processes and correlate them to threats, vulnerabilities and incidents. These components are underpinned by a predefined library of security data sources, which specifies how the data is gathered and used to provide ongoing business-related risk information.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Using this framework, changes in risk indicators will alert stakeholders to see which risk component category has triggered the change. Once the category has been identified, stakeholders can drill down into the associated higher-level reporting, trending, information dashboard and data layers to investigate causes of the changed risk-indicator status.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2) Manage risk by leveraging at-a-glance security incident alerts&lt;br>&#xa;HP Security Metrics Services leverage the HP Executive Scorecard software application to display critical business objectives in a user-friendly dashboard. This allows for quick, at-a-glance security incident alerts that enable users quickly to obtain additional detail, including processes and assets prioritized by their risk status.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Security Metrics Services use the HP Executive Scorecard coupled with patent pending methodology and framework to help clients:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Deepen executive-level security engagement by demonstrating how specific security risks imperil business objectives.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Reduce risk exposure and minimize security incident damage by alerting key stakeholders to risks, enabling them to take timely and effective action.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Assist regulatory compliance with better incident reporting as well as trends in threats and vulnerabilities that may affect compliance.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>By providing identifiable links among security management activities, supporting resources and business objectives, support investment decisions and track results achieved from security investments.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's premier Americas client event, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/discover&quot;>HP Discover&lt;/a>, takes place June 10-12 in Las Vegas.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability &lt;br>&#xa; &lt;/b>&lt;a rel=&quot;nofollow&quot; href=&quot;http://h20195.www2.hp.com/V2/GetDocument.aspx?docname=4AA5-1183ENW&quot;>HP Security Metrics Services&lt;/a> is available immediately worldwide.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HPis available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>(1)&lt;/sup> Ponemon, &amp;quot;The state of risk-based security management,&amp;quot; July 2013.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_kjnd
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-security-arcsight-wins-trust-award-for-best-siem-security-solution-at-sc-awards-2017"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Glow.jpg"/>
+                        </contentblock_kjnd>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_j05n
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/09/aruba-modernizes-network-security-to-help-businesses-reduce-risk-in-the-era-of-mobile-cloud-and-iot"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Aruba-Modernizes-Network-Security-to-Help-Businesses-Reduce-Risk-in-the-Era-of-Mobile-Cloud-and-IoT-1.jpg"/>
+                        </contentblock_j05n>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7ce
+                            jcr:created="{Date}2018-10-16T14:37:17.736Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-16T14:38:20.413Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/hungry-for-solutions-hpe-and-the-world-economic-forum-tackle-todays-and-tomorrows-food-challenges.html"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Hungry for solutions: HPE and the World Economic Forum tackle today’s — and tomorrow’s — food challenges"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hungry for solutions: HPE and the World Economic Forum tackle today’s — and tomorrow’s — food challenges"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-16T14:38:20.413Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Hungry-for-solutions-HPE-the-World-Economic-Forum-tackle-feeding-the-world.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-16T14:38:20.413Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7ce>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

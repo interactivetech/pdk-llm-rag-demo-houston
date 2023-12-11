@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:30:45.533Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/hpe-telco-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-simplifies-datacenter-deployments-with-new-network-virtualization-solution"
+        jcr:uuid="0028477c-b293-4e64-9528-000a8dccddd6"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Simplifies Datacenter Deployments With New Network Virtualization Solution"
+        navTitle="HP Simplifies Datacenter Deployments With New Network Virtualization Solution"
+        pageTitle="HP Simplifies Datacenter Deployments With New Network Virtualization Solution"
+        priority="(None)"
+        subtitle="Software-Defined Networking Solution Enables Greater Scalability and Agility Across Distributed Infrastructure"
+        theme="dark"
+        UAID="7f44eaea-16fc-4efd-8e12-fbef31363601"
+        UCID="fa47dfb0-6bde-4bee-8b93-de3dcfcdec5a"
+        WPID="1569">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-17T14:34:43.208Z"
+                jcr:lastModifiedBy="hpe.publishers"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 14, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Software-Defined Networking Solution Enables Greater Scalability and Agility Across Distributed Infrastructure&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_rirx
+                    jcr:lastModified="{Date}2020-07-02T18:34:22.960Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>DUSSELDORF, GERMANY--(Marketwired - Oct 14, 2014) - HP (NYSE: HPQ) today announced at SDN and OpenFlow World Congress the expansion of its network virtualization portfolio with a new Distributed Cloud Networking (DCN) solution.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Legacy networks are constraining the full potential of a unified software-defined data center, limiting IT's ability to simplify complex frameworks and enable seamless multi data center deployments. While IT has the ability to provision, manage and oversee virtualized servers and storage, they are still required to manually configure networking systems.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>DCN is a software-defined networking (SDN) solution that enables service providers and large organizations to automatically deploy secure cloud networks across a distributed infrastructure in minutes versus months.&lt;sup>(1)&lt;/sup> DCN is also accelerating communication service providers' (CSP) journey to Network Function Virtualization (NFV) by optimizing network resources, increasing agility and speeding time-to-market through dynamic, service-driven configuration.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through SDN and network virtualization, DCN enables network administrators to control the distributed networking environment from one central location, whether the organization incorporates private, public or hybrid data centers. Through highly automated management, DCN not only provides a true return on investment of networking equipment, it also lowers the total cost of ownership to deliver an enhanced user experience and increased productivity.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Customers are looking for ways to upgrade their networks to better focus on building business and incorporating new technologies that adapt to rapidly changing demands,&amp;quot; said Antonio Neri, senior vice president and general manager, Servers and Networking, HP. &amp;quot;Distributed Cloud Networking allows customers to seamlessly work across their distributed environment, removing the need to manually reconfigure the network and offering a more efficient infrastructure at reduced costs.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Technology Services offers solution level support with Datacenter Care, which is a flexible, comprehensive, relationship-based approach to personalized support and management of DCN solutions. To help customers manage risk, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/services/trustednetworktransformation&quot;>HP Trusted Network Transformation&lt;/a> spans strategy, assessment, design, deployment, customized support, management of change, and complete lifecycle program management across all transformational elements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Addressing new business needs with SDN and network virtualization&lt;br>&#xd;&#xa; &lt;/b>The DCN enables organizations to radically simplify network provisioning with the following key elements:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Virtualized Service Directory, refines service design and integrates with customer service policies. This allows for seamless management of users, compute and network resources.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Distributed Services Controller, serves as a robust control plane of the &lt;a href=&quot;https://www.hpe.com/us/en/networking/data-center.html&quot; target=&quot;_blank&quot;>data center network&lt;/a>. Through controller federation, network administrators have a centralized control of their network, regardless of how many data centers are being managed, allowing scalability, resiliency and consistency of network implementation.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Distributed Virtual Routing and Switching, based on Open vSwitch, serves as a virtual endpoint for network services allowing for changes in the compute environment to be immediately detected, thereby triggering the right network connectivity to ensure the needs of applications are met.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The DCN solution also addresses a wide range of use cases, specifically:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Automation: Complex network configuration can be done automatically and in real-time without human intervention, which is programmatically controlled by HP Cloud System application management.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>IT self-service: Enabling customers to move from building clouds to simplified usability without human intervention.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Multi Data Center: An enhanced consistency of user experience across multiple data centers.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>DevOps: Rapid provisioning of test environments which can reduce deployment time, resulting in lower agility with direct business impact.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>NFV&lt;b>:&lt;/b> Reliable, dynamic and open architecture for smooth carrier transition to a fully automated multi data center environment.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Optimization of user experience: Workload mobility is designed to distribute the applications closer to where the end user is located, resulting in a boost in speed and responsiveness.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;sup>(2) &lt;br>&#xd;&#xa; &lt;/sup>&lt;/b>The DCN solution is immediately available worldwide with a starting price of $65,585 for a single instance and will also be offered for enhanced virtual networking as part of the previously announced &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/opennfv&quot;>HP OpenNFV&lt;/a> program.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's premier EMEA client event, &lt;a rel=&quot;nofollow&quot; href=&quot;http://h30614.www3.hp.com/Discover&quot;>HP Discover&lt;/a>, takes place December 2-4 in Barcelona.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1) Based on HP internal testing.&lt;br>&#xd;&#xa; (2) Estimated U.S. list prices. Actual prices may vary.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_p4q0
+                            jcr:lastModified="{Date}2020-07-02T18:35:12.143Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T18:35:12.143Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T18:35:12.143Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_p4q0>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_elnq
+                            jcr:lastModified="{Date}2020-07-02T18:35:19.551Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/gartner-names-hpe-a-leader-in-magic-quadrant-for-operations-support-systems"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T18:35:19.551Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Gartner-Names-HPE-a-Leader-in-Magic-Quadrant-for-Operations-Support-Systems.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T18:35:19.551Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_elnq>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yb4i
+                            jcr:lastModified="{Date}2020-07-02T18:35:27.591Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-launches-virtualized-management-to-increase-telecom-services-quality-and-agility"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T18:35:27.591Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate02.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T18:35:27.591Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_yb4i>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

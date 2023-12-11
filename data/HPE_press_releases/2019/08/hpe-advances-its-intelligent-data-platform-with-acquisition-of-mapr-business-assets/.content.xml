@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:43:26.522Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services,hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE advances its intelligent data platform with acquisition of MapR business assets"
+        jcr:uuid="6eb2c55b-d0bf-4554-86d1-9b273bf0e949"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE advances its intelligent data platform with acquisition of MapR business assets"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-08-05T04:00:00.000-07:00"
+        metaDescription="MapR technology provides innovative file system for unified analytics from edge to cloud"
+        metaKeywords="Asset Acquisition, file storage, MapR"
+        metaOgImage="/content/dam/hpe/newsroom/2019/08/image-norend/hpe-advances-its-intelligent-data-platform-with-acquisition-of-mapr-business-assets.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE advances its intelligent data platform with acquisition of MapR business assets"
+        pageTitle="HPE advances its intelligent data platform with acquisition of MapR business assets"
+        priority="(None)"
+        socialDescription="MapR technology provides innovative file system for unified analytics from edge to cloud"
+        subtitle="MapR technology provides innovative file system for unified analytics from edge to cloud"
+        theme="dark"
+        UAID="cccd582c-6334-4466-88f0-5d2314f8222e"
+        UCID="d7e6effa-c29e-4e2b-8021-470674f51c94">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-08-04T23:08:38.255Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="AUGUST 5, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:09:00.835Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/08/image-norend/hpe-advances-its-intelligent-data-platform-with-acquisition-of-mapr-business-assets.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:11:32.507Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Acquisition of MapR’s business assets accelerates HPE’s Intelligent Data Platform capabilities.&amp;nbsp; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>MapR’s file system technology enables HPE to offer a complete portfolio of products to drive artificial intelligence and analytics applications. &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE welcomes MapR customers and partners and plans to support existing deployments along with ongoing renewals.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_38
+                    jcr:created="{Date}2019-08-04T23:11:53.029Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:12:13.092Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>MapR technology provides innovative file system for unified analytics from edge to cloud&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-05T13:14:16.415Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN JOSE, CALIF. – (August 5, 2019) – Hewlett Packard Enterprise (NYSE: HPE) today announced it has acquired the business assets of MapR, a leading data platform for artificial intelligence and analytics applications powered by scale-out, multi-cloud and multi-protocol file system technology.&amp;nbsp;This transaction includes MapR’s technology, intellectual property, and domain expertise in artificial intelligence and machine learning (AI/ML) and analytics data management.&amp;nbsp; HPE welcomes MapR customers and partners and plans to support existing deployments along with ongoing renewals.&lt;br>&#xa; &lt;br>&#xa; “The explosion of data is creating a new era of intelligence where the winners will be the ones who harness the power of data, wherever it lives,” said Antonio Neri, president and CEO of Hewlett Packard Enterprise. “MapR’s file system technology enables HPE to offer a complete portfolio of products to drive artificial intelligence and analytics applications and strengthens our ability to help customers manage their data assets end to end, from edge to cloud.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_2d82
+                    jcr:created="{Date}2019-08-04T23:13:17.955Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:13:45.714Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>With MapR we now have a complete portfolio of products powered by AI/ML capabilities&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-08-04T23:13:45.714Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_2d82>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:15:53.109Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>This asset acquisition accelerates HPE’s Intelligent Data Platform capabilities and helps customers optimize workload solutions for mission-critical big-data workflows – whether they are cloud-native or on-premises.&lt;br>&#xa; &lt;br>&#xa; The MapR Data Platform helps deliver the foundation for a next-generation edge-to-cloud AI/ML and analytics data pipeline by:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Extending BlueData capabilities for stateful container-based applications.&lt;/b> The combination of the BlueData and MapR technologies can empower data scientists and data analysts to stitch together AI/ML and analytics data pipelines in minutes across on-premises, hybrid cloud, and multi-cloud environments.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enabling storage and consumption of data by a broader set of AI/ML and analytics data, engines, applications, and tools from ISV partners&lt;/b>. MapR allows for multiple workloads in the same environment and offers expansive APIs for easy access.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Ensuring a consistent approach to secure, govern, protect, and orchestrate data up to exabyte scale across the AI/ML and analytics data pipeline.&lt;/b> MapR handles a variety of data types from files and streams to documents.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simplifying AI/ML and analytics data management and processing from edge to cloud&lt;/b>. MapR multi-cloud and container support ensure seamless portability of applications across disparate environments running MapR Data Platform.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:16:25.822Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“At HPE, we are working to simplify our customers’ and partners’ adoption of artificial intelligence and machine learning,” said Phil Davis, president, Hybrid IT, Hewlett Packard Enterprise. “MapR’s enterprise-grade file system and cloud-native storage services complement HPE’s BlueData container platform strategy and will allow us to provide a unique value proposition for customers. We are pleased to welcome MapR’s world-class team to the HPE family.”&lt;/span> &lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:16:52.798Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is pleased to welcome MapR’s world class technology team, customers and partners&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-08-04T23:16:52.798Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:17:29.223Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Leading enterprises across industries such as financial services, manufacturing, and consumer technology, use the MapR Data Platform to power their digital transformation initiatives and unlock business value. These companies have been able to move more quickly, grow revenue, reduce costs, and diminish risk.&lt;br>&#xa;&lt;br>&#xa;MapR has a rich ecosystem of partners that spans resellers, independent software vendors and system integrators in the AI/ML and analytics market. HPE will add these partners, as appropriate, and continue to offer choice through a broad ecosystem that includes many other data-centric ISVs.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-04T23:23:33.659Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa; &lt;br>&#xa; &lt;b>Forward-Looking Statement&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Information set forth in this communication, including statements as to Hewlett Packard Enterprise's outlook and financial estimates and statements as to the expected timing, completion, and effects of the transaction between Hewlett Packard Enterprise and MapR, constitute forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>These statements are based on various assumptions and the current expectations of the management of Hewlett Packard Enterprise and may not be accurate because of risks and uncertainties surrounding these assumptions and expectations. Factors listed below, as well as other factors, may cause actual results to differ significantly from these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Major risks, uncertainties, and assumptions include, but are not limited to: the expected benefits and costs of the transaction; management plans relating to the transaction; the expected timing of the completion of the transaction; statements of the plans, strategies, and objectives of Hewlett Packard Enterprise for future operations, including with respect to artificial intelligence and big data analytics; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing; the risk that disruptions from the transaction will harm Hewlett Packard Enterprise business; the effect of economic, competitive, legal, governmental and technological factors, and other factors described under &amp;quot;Risk Factors&amp;quot; in Hewlett Packard Enterprise's Annual Report on Form 10-K and Quarterly Reports on Form 10-Q.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Stefanie Notaney, HPE&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>+1-650-258-0188&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:stefanie.notaney@hpe.com&quot; target=&quot;_blank&quot;>stefanie.notaney@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Investor Relations&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:investor.relations@hpe.com&quot; target=&quot;_blank&quot;>Investor.relations@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-08-04T23:28:42.876Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/hpe-advances-its-intelligent-data-strategy"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE advances its intelligent data strategy"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances its intelligent data strategy"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-04T23:28:42.876Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/HPE-Advances-Its-Intelligent-Data-Strategy.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-04T23:28:42.876Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-08-04T23:30:52.409Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hewlett-packard-enterprise-redefines-mission-critical-storage-with-new-platform-designed-for-the-intelligence-era"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-04T23:30:52.409Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hewlett-packard-enterprise-unveils-new-mission-critical-storage-for-the-....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-04T23:30:52.409Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-08-04T23:36:14.707Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/security-from-edge-to-cloud-balancing-innovation-security-in-a-shifting-threat-landscape"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Security from edge to cloud: Balancing innovation &amp; security in a shifting threat landscape"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Security from edge to cloud: Balancing innovation &amp; security in a shifting threat landscape"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-04T23:36:14.707Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/security-from-edge-to-cloud-balancing-innovation-security-in-a-shifting-threat-landscape.html.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-04T23:36:14.707Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-08-04T23:10:40.831Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

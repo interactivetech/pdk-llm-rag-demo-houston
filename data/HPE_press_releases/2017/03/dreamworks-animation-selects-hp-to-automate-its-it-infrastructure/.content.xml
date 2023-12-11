@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:44:06.296Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/company---customers,hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="dreamworks-animation-selects-hp-to-automate-its-it-infrastructure"
+        jcr:uuid="5a73b8a9-a1d2-4e22-bdd6-57472d171ec4"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        metaDescription="DreamWorks Animation Selects HP to Automate Its IT Infrastructure"
+        navTitle="DreamWorks Animation Selects HP to Automate Its IT Infrastructure"
+        pageTitle="DreamWorks Animation Selects HP to Automate Its IT Infrastructure"
+        priority="(None)"
+        subtitle="HP Will Enable DreamWorks Animation to Deliver Applications and IT Services More Quickly and Reliably"
+        theme="dark"
+        UAID="e449bc8b-67af-436c-bdd8-14f9634eeb78"
+        UCID="2f854d84-188d-4d66-9efb-64170766489b"
+        WPID="1515">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-16T14:52:42.908Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 2, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP Will Enable DreamWorks Animation to Deliver Applications and IT Services More Quickly and Reliably&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_3zo9
+                    jcr:lastModified="{Date}2018-10-19T12:53:16.529Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, NV--(Marketwired - Jun 2, 2015) - Today, HP (NYSE: HPQ) announced that DreamWorks Animation has selected HP to automate its IT infrastructure. By deploying &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/services/consulting/cloud-strategy.html&quot;>HP Datacenter Care - Infrastructure Automation&lt;/a>, HP is providing an agile deployment model, enabling DreamWorks Animation to manage its infrastructure as code to continuously deliver applications and services more quickly and reliably.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>According to IDC, the average number of application deployments per month for Fortune 1000 companies is expected to double in two years.&lt;sup>1&lt;/sup> By automating, high-performing organizations can deploy code 30 times more frequently with 50 percent fewer failures.&lt;sup>2&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As we continuously push the boundaries of digital animation, we require a much faster and more reliable way to deliver applications and IT services,&amp;quot; said Derek Chan, Head of Global Technology Operations, DreamWorks Animation. &amp;quot;With a strong technology partner like HP, we are moving toward a new agile model that will enable IT with a greater capacity to innovate.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more than a decade, HP solutions and services have supported all areas of DreamWorks Animation's production processes, digital infrastructure and business divisions. This latest collaboration with HP will provide advice, support and tools to help DreamWorks Animation transform business ideas into customer value through software development and IT service delivery with agility, speed, efficiency, and reliability. For IT operations, this service will enable fast release cycles without interrupting production systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Datacenter Care - Infrastructure Automation features open source tools, including Chef, to improve reliability and agility for IT environments. Chef's IT automation platform turns infrastructure into code so datacenter management is versionable, repeatable and significantly less costly.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Automating infrastructure makes IT a strategic asset that can meet the growing demands being placed on IT teams to rapidly deliver applications and IT services,&amp;quot; said Scott Weller, senior vice president and general manager, HP Technology Services Support, HP. &amp;quot;With Datacenter Care - Infrastructure Automation, we're providing DreamWorks Animation high degrees of automation and collaborative software delivery processes.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With HP's robust support and advice tailored to DevOps environments, DreamWorks Animation will be able to reliably adopt and scale lean and agile IT. The HP Datacenter Care - Infrastructure Automation global Center of Excellence (CoE) will provide guidance and best practices for infrastructure as code and processes, along with support for tools that automate how DreamWorks Animation builds, deploys, and manages infrastructure. HP will also conduct proactive assessments and review tools usage quarterly to identify challenges, opportunities for improvement, and plan for future needs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Datacenter Care - Infrastructure Automation is now available to customers worldwide. More information is available at: &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/services/datacentercare&quot;>http://www.hp.com/services/datacentercare&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About DreamWorks Animation&lt;br>&#xa; &lt;/b>DreamWorks Animation creates high-quality entertainment, including CG animated feature films, television specials and series and live entertainment properties, meant for audiences around the world. The company has world-class creative talent, a strong and experienced management team and advanced filmmaking technology and techniques. DreamWorks Animation has been named one of the &amp;quot;100 Best Companies to Work For&amp;quot; by FORTUNE Magazine for five consecutive years. In 2013, DreamWorks Animation ranked #12 on the list.All of DreamWorks Animation's feature films are produced in 3D. The Company has theatrically released a total of 31 animated feature films, including the franchise properties of &lt;i>Shrek, Madagascar, Kung Fu Panda, How to Train Your Dragon, Puss In Boots&lt;/i> and &lt;i>The Croods&lt;/i>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1)IDC Research, DevOps Best Practices Metrics: Fortune 1000 Survey, December 2014 #253155&lt;br>&#xa; (2)2014 State of DevOps 2014, Puppet Labs, 2014&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statements&lt;br>&#xa; This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance if Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission, including HP's Quarterly Report on Form 10-Q for the fiscal quarter ended January 31, 2015. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_t1oq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/how-hpe-synergy-helps-dreamworks-animation-bring-epic-adventures-to-life"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="How HPE Synergy Helps DreamWorks Animation Bring Epic Adventures to Life"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How HPE Synergy Helps DreamWorks Animation Bring Epic Adventures to Life"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Hero.jpg"/>
+                        </contentblock_t1oq>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_e16n
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/taking-hpes-composable-strategy-to-the-next-level"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Taking HPEs Composable Strategy to the Next Level"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Taking HPEs Composable Strategy to the Next Level"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Digital-TransformationWeb.jpg"/>
+                        </contentblock_e16n>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0dyj
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/enterprise-it-at-cloud-speed"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Enterprise IT at Cloud-Speed"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Enterprise IT at Cloud-Speed"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SuperComputer.jpg"/>
+                        </contentblock_0dyj>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

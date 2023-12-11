@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:27:43.612Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-launches-new-solutions-to-give-smbs-competitive-edge"
+        jcr:uuid="9f0406c9-d066-49d6-bfce-d066df7eea04"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:25.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Launches New Solutions to Give SMBs Competitive Edge"
+        navTitle="Hewlett Packard Enterprise Launches New Solutions to Give SMBs Competitive Edge"
+        pageTitle="Hewlett Packard Enterprise Launches New Solutions to Give SMBs Competitive Edge"
+        priority="(None)"
+        subtitle="Compute Platforms, Integrated Hardware Solutions and the HPE Small Business Marketplace Help SMB Customers Win in the New Style of Business"
+        theme="dark"
+        UAID="adc22eef-9aa9-43d8-b45d-70f2c1c8efc3"
+        UCID="7f0ff224-1540-4711-a17d-39d6afba36cb"
+        WPID="1464">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-22T14:23:38.194Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 11, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Compute Platforms, Integrated Hardware Solutions and the HPE Small Business Marketplace Help SMB Customers Win in the New Style of Business&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_8hgi
+                    jcr:lastModified="{Date}2018-10-22T14:25:41.227Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Nov 11, 2015) - Hewlett Packard Enterprise (NYSE: HPE) today announced new end-to-end solutions to provide small and midsize businesses (SMBs) the tools they need to increase productivity, reduce costs and grow their businesses.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new solutions are engineered specifically for SMBs, allowing for quick deployment and easy management at every stage of business growth, and are priced within reach of today's SMBs. They are available through the HPE &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/solutions/smb.html&quot;>Just Right IT Program&lt;/a> and include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>ProLiant Tower and Rack Gen9 servers featuring Intel Xeon E5-2600 v3 series and Xeon E3-1200 v5 series&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Pre-engineered and configured Flex Solutions&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Small Business Marketplace e-commerce platform&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HPE Subscription for Servers financing option&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Small and midsize businesses have to embrace major enterprise technology trends but with a fraction of the resources and budget,&amp;quot; said Doug Oathout, Vice President of Channel Partner Alliances and OEM Marketing at HPE. &amp;quot;Hewlett Packard Enterprise is launching new tools that will allow our SMB customers to easily and affordably adapt to the changing technology landscape without comprising quality, efficiency and flexibility.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hewlett Packard Enterprise Innovation Helps SMBs Jumpstart and Grow Their Business &lt;br>&#xa; &lt;/b>To address the multiple workloads of SMB customers, HPE is expanding its ProLiant 10 series Compute portfolio. The new servers are designed to provide small businesses on a budget with the right balance of memory, storage, performance and manageability to drive business growth. They include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>ProLiant DL20 Gen9&lt;/b>: Anentry-level compact rack server designed for customers that need to managetheir servers both onsite and remotely, and require a scalable solutionthat can handle multiple applications at once, all within an affordableprice point.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>ProLiant ML30 Gen9&lt;/b>: Anaffordable, standalone unit for small businesses and home officesfeaturing a compact design and a wide range of storage expandability,making it the ideal platform for growing businesses and service providersrunning IT infrastructure workloads in space-constrained environments.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>These two new servers are part of our purpose-built ProLiant 10 and 100 series family that address priority workloads to run small and mid-sized businesses.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hewlett Packard Enterprise's Flex Solutions Enable Better Productivity for SMBs&lt;br>&#xa; &lt;/b>To address SMB needs to increase productivity, HPE is introducing new offerings that integrate server, storage, networking and services financial services and options, which helps enable workplace productivity. They include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise Flex Solution for My First Server: Enables employees to work from anywhere, anytime and with any device, while protecting critical business data.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise Flex Solution for Secure Encryption: Protects critical customer data at rest on any hard disk drive, solid state drive or cache memory connected to the server.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hewlett Packard Enterprise Offers Better Online Buying Experience for SMBs&lt;br>&#xa; &lt;/b>Targeted to SMBs, HPE's Small Business Marketplace will pull direct feeds from participating partners' online inventory so that customers can easily compare pricing and availability at a glance. Hewlett Packard Enterprise will pilot the Marketplace in the U.S. starting this year and plans to roll it out to other regions in 2016. For more information on the HPE Small Business Marketplace, please visit &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hpe.com/marketplace&quot;>www.hpe.com/marketplace&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hewlett Packard Enterprise Offers New Financing Options &lt;br>&#xa; &lt;/b>New to the HPE Financial Services portfolio, the HPE Subscription for Servers&lt;sup>1&lt;/sup> program enables SMB customers to access a fully-supported IT solution with the flexibility to acquire, consume and pay on a monthly basis. Partners can custom-configure a bundle of hardware, software and support to help SMB customers meet unique business demands.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;br>&#xa; &lt;/b>The ProLiant DL20 and ML30 Gen9 servers will be available on December 1, 2015 from HPE and worldwide channel partners. Initial configuration pricing is expected to start at approximately $660 for the ProLiant DL20 and $599 for the ProLiant ML30 Gen9.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Flex solutions and financing options, including Subscription Services, Technology Refresh, Consolidation Services, Payment Deferrals and Pre-Provisioning, are available through HPE Financial Services to provide authorized partners and customers with an easy and effective way to acquire ProLiant 10 series servers and refresh over time.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking statements&lt;/b>&lt;br>&#xa;This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended August 10, 2015, September 4, 2015, September 15, 2015, September 28, 2015 and October 7, 2015. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and is subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_zxwq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/09/hpe-introduces-industrys-broadest-high-performance-flash-portfolio-for-midsize-businesses"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Office.jpg"/>
+                        </contentblock_zxwq>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d708
+                            jcr:created="{Date}2018-10-22T14:27:45.800Z"
+                            jcr:createdBy="alexandru.ion@hpe.com"
+                            jcr:lastModified="{Date}2018-10-22T14:35:37.884Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/10/hpe-transforms-future-of-small-to-midsized-businesses-with-simple-and-secure-hybrid-cloud-solutions"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Transforms Future of Small to Midsized Businesses with Simple and Secure Hybrid Cloud Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText=" "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-22T14:35:37.884Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Transforms-Future-of-Small-to-Midsized-Businesses-with-Simple-and-Secure-Hybrid-Cloud-Solutions-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-22T14:35:37.884Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_d708>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_bee6
+                            jcr:created="{Date}2018-10-22T14:26:05.662Z"
+                            jcr:createdBy="alexandru.ion@hpe.com"
+                            jcr:lastModified="{Date}2018-10-22T14:26:05.662Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/09/how-to-find-more-time-money-and-higher-security-for-your-small-business"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="How to Find More Time, Money and Higher Security for Your Small Business"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How to Find More Time, Money and Higher Security for Your Small Business"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/How-to-Find-More-Time-Money-and-Higher-Security-for-Your-Small-Business.jpg"/>
+                        </contentblock_bee6>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

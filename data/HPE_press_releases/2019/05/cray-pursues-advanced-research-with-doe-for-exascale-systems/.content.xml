@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:43:52.598Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/csr,hpe-newsroom:categories/industry---energy,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Cray pursues advanced research with DOE for exascale systems"
+        jcr:uuid="3a32ddab-607c-4f43-b2d7-dcee7fae344c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Cray pursues advanced research with DOE for exascale systems"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-05-07T09:11:00.000-07:00"
+        metaDescription="Cray to partner with Oak Ridge National Laboratory to develop new technologies for the Exascale Era"
+        metaKeywords="Cray, Shasta supercomputer, Frontier supercomputer, exascale, exascale era, Slingshot interconnect, ORNL, US Department of Energy, DOE, high performance computing, HPC, AMD EPYC"
+        metaOgImage="/content/dam/hpe/newsroom/2019/05/image-norend/cray-pursues-advanced-research-with-doe-for-exascale-systems.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Cray pursues advanced research with DOE for exascale systems"
+        pageTitle="Cray pursues advanced research with DOE for exascale systems"
+        priority="(None)"
+        socialDescription="Cray to partner with Oak Ridge National Laboratory to develop new technologies for the Exascale Era"
+        subtitle="Cray to partner with Oak Ridge National Laboratory to develop new technologies for the Exascale Era"
+        theme="dark"
+        UAID="a5301db7-49c7-4bf2-b4c9-20be2d052b55"
+        UCID="6bacd8d4-64b2-413a-96bc-099a8dc541c0">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-09-10T15:57:06.107Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MAY 7, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T15:57:14.873Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/05/image-norend/cray-pursues-advanced-research-with-doe-for-exascale-systems.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T15:57:57.941Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Shasta supercomputers are set to be the technology underpinning the Exascale Era—one characterized by a deluge of data and a convergence of modeling, simulation, analytics, and AI workloads&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Frontier is the third major contract award for the Shasta architecture and Slingshot interconnect&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent
+                    jcr:created="{Date}2020-09-10T15:58:06.686Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T15:58:19.753Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomMargin="0"
+                    bottomPadding="0"
+                    leftMargin="0"
+                    leftPadding="0"
+                    rightMargin="0"
+                    rightPadding="0"
+                    textIsRich="true"
+                    textOnly="&lt;h2>Cray to partner with Oak Ridge National Laboratory to develop new technologies for the Exascale Era&lt;/h2>&#xd;&#xa;"
+                    topMargin="0"
+                    topPadding="0"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T15:59:05.092Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Cray Inc.&amp;nbsp;and the&amp;nbsp;U.S. Department of Energy&amp;nbsp;(DOE) today announced they are pushing forward the technology boundaries of computational science with the development of the “Frontier” exascale supercomputer for&amp;nbsp;Oak Ridge National Laboratory&amp;nbsp;(ORNL), expected to be delivered in 2021. The system will be based on Cray’s new Shasta architecture and Cray Slingshot interconnect and will feature future generation AMD EPYC CPU and Radeon Instinct GPU technology. This is the third major contract award for the Shasta architecture and Slingshot interconnect; previous awards were for the National Energy Research Scientific Computing Center’s NERSC-9 pre-exascale system, and the Argonne National Laboratory’s Aurora exascale system.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;“The Frontier system architecture embodies the compute- and data-intensive capabilities required to unlock the full potential of the Exascale Era,” said&amp;nbsp;Jeff Nichols,&amp;nbsp;Associate Lab&amp;nbsp;Director at ORNL. “The power and flexibility of the system will enable the creation of new converged HPC, analytics, and AI applications across the full breadth of the exascale computing program’s mission.”&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;Shasta supercomputers are set to be the technology underpinning the Exascale Era, which is characterized by a deluge of new data and a convergence of modeling, simulation, analytics, and AI workloads. To enable this fusion of workloads to run simultaneously across the system, Slingshot was designed to incorporate intelligent features like adaptive routing, quality-of-service, and congestion management.&amp;nbsp;Frontier&amp;nbsp;will utilize Cray’s new Shasta system software for monitoring, orchestration, and application development to provide a single developer interface across the system. The new software stack is a fully containerized architecture that combines the scalability and performance of HPC while enabling the productivity and portability of cloud.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;“Exascale systems demand a complex balance of compute, interconnect, and software capabilities to enable HPC and AI applications to execute simultaneously and with optimal performance,” said&amp;nbsp;Steve Scott, CTO at Cray. “This poses a number of architectural challenges across the entire HPC space ranging from the development of new high-density compute infrastructure, to modernizing developer software for the creation of extreme scale, data-intensive applications. Delivering these technologies for&amp;nbsp;Frontier&amp;nbsp;is incredibly exciting, as they will also become standard product offerings from Cray, enabling us to deliver enhanced performance and productivity to businesses large and small.”&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:00:13.995Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span&#xd;&#xa;      class=&quot;body-copy-large&quot;>&lt;b>Innovation for Frontier&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;&lt;/b>In addition to the capabilities native to the Shasta system, Cray has also been awarded a separate joint development contract to pursue new foundational technologies for the Frontier system. This includes the development of new high-density compute infrastructure, enhancements to HPC developer tools for GPU scaling and AI, and the creation of a Center of Excellence to establish best practices for exascale application development and tuning.&lt;br />&#xd;&#xa;&lt;b&#xd;&#xa;      style=&quot;&quot;>&lt;br />&#xd;&#xa;Compute Blade and Cabinet Infrastructure&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;&lt;/b>Current approaches to delivering dense GPU compute form factors have hit limitations in packaging density due the amount of power that can be delivered to a blade, resulting in more data center floorspace being required to deliver comparable performance. To reach sustained exaflop performance, the Frontier system will transcend those limitations with powerful and dense compute and cabinet infrastructure capabilities. For Frontier, Cray is designing a new AMD EPYC CPU and Radeon Instinct GPU powered blade for the Shasta high-density cabinet. Cray will also engineer new high-efficiency power delivery and integrated direct liquid cooling capabilities for key server components to ensure high operational energy efficiency and low total cost of ownership.&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;“The Frontier design is a marvel of engineering and AMD is proud to be bringing its technical innovation to the project in conjunction with Cray, Oak Ridge National Lab and the Department of Energy,” said Mark Papermaster, executive vice president and chief technology officer, AMD. “AMD has a long history of pushing the boundaries of compute performance and working with DOE on advanced exascale research. I’m very excited to see a combination of custom AMD EPYC CPUs, purpose-built Radeon Instinct GPUs, and our open software development tool set selected to power this amazing machine.”&lt;br />&#xd;&#xa;&lt;b style=&quot;&quot;>&lt;br />&#xd;&#xa;Software Innovation and Collaboration&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;&lt;/b>To enable developer productivity, users will require a high-level software development environment with tightly coupled compilers, tools, and libraries which abstract away system complexity. The Cray Programming Environment (Cray PE) has delivered these core capabilities for Cray users for decades and, as part of this program, will see a number of enhancements for increased functionality and scale.&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:13:35.673Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>This will start with Cray working with AMD to enhance these tools for optimized GPU scaling with extensions for Radeon Open Compute Platform (ROCm). These software enhancements will leverage low-level integrations of AMD ROCmRDMA technology with Cray Slingshot to enable direct communication between the Slingshot NIC to read and write data directly to GPU memory for higher application performance. Finally, to provide a seamless developer workflow, Cray PE will be integrated with a full machine learning software stack with support for the most popular tools and frameworks. Taken together, the rich HPC development capabilities of Cray PE, in combination with an optimized and scalable data science suite, will enable developers to fully embrace the converged use of analytics, AI, and HPC at extreme scale for the first time.&lt;br>&#xd;&#xa; &lt;b>&lt;br>&#xd;&#xa;Application Development and Tuning&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>To further accelerate user adoption of the system, a Center of Excellence will be established by&amp;nbsp;Cray and Oak Ridge National Lab&amp;nbsp;to drive collaboration and innovation, and to assist in the porting and tuning of key DOE applications and libraries for the&amp;nbsp;Frontier&amp;nbsp;system. This will include collaborative modernization of new and legacy code to support directive-based programming models such as OpenMP, and delivering training and workshops for hands-on learning of how to fully leverage the system. This collaboration will ensure that best practices are defined and disseminated quickly to further accelerate development of exascale-class applications.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “This is another major win for Cray and means that in 2021 America’s top two supercomputers and most powerful entries in the global exascale race will use the Cray ‘Shasta’ architecture,” said&amp;nbsp;Steve Conway,&amp;nbsp;Hyperion Research&amp;nbsp;senior vice president of research. “This architecture is designed to support the extreme heterogeneity needed for future HPC and AI workloads.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Cray Shasta systems fuse the performance and scale of supercomputing with the productivity of cloud computing and full data center interoperability. By providing a flexible compute infrastructure, a modular and containerized software architecture, and an intelligent and ethernet-capable system interconnect, Shasta supercomputers seamlessly bridge the worlds of extreme scale advanced research and enterprise data centers for the first time.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The contract award includes technology development funding, a center of excellence, several early-delivery systems, the main&amp;nbsp;Frontier&amp;nbsp;system, and multi-year system support.&amp;nbsp; The&amp;nbsp;Frontier&amp;nbsp;system is expected to be delivered in 2021 and acceptance is anticipated in 2022.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; For more information about the work being done by Cray with the DOE’s ORNL visit their website&amp;nbsp;&lt;a href=&quot;https://www.ornl.gov/&quot; target=&quot;_blank&quot;>HERE&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:02:22.579Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&lt;p>&lt;span&#xd;&#xa;      class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a&#xd;&#xa;      href=&quot;http://www.hpe.com/&quot;&#xd;&#xa;      target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;br />&#xd;&#xa;&lt;i style=&quot;&quot;>&lt;br />&#xd;&#xa;This press release originally published on cray.com and has been updated and published here in HPE’s Newsroom.&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T16:04:04.928Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/11/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T16:04:04.928Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T16:04:04.928Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T16:05:40.404Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-delivers-worlds-largest-arm-supercomputer-for-u-s-department-of-energy-doe"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Delivers World's Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers World's Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T16:05:40.404Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-World-Largest-Arm-Supercomputer-for-US-Department-of-Energy-DOE.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T16:05:40.404Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T16:08:05.429Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/03/hpe-and-amd-power-complex-scientific-discovery-in-worlds-fastest-supercomputer-for-us-department-of-energys-doe-national-nuclear-security-administration-nnsa"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE and AMD power complex scientific discovery in world’s fastest supercomputer for U.S. Department of Energy’s (DOE) National Nuclear Security Administration (NNSA)"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and AMD power complex scientific discovery in world’s fastest supercomputer for U.S. Department of Energy’s (DOE) National Nuclear Security Administration (NNSA)"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T16:08:05.429Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2020/03/image-norend/hpe-and-amd-power-complex-scientific-discovery-in-worlds-fastest-supercomputer.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T16:08:05.429Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-09-05T17:38:02.066Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:37:51.543Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-simplifies-connectivity-across-the-iot-ecosystem"
+        jcr:uuid="95c47127-8548-4c06-9bce-349656bef7d5"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:58:30.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Simplifies Connectivity Across the IoT Ecosystem"
+        navTitle="Hewlett Packard Enterprise Simplifies Connectivity Across the IoT Ecosystem"
+        pageTitle="Hewlett Packard Enterprise Simplifies Connectivity Across the IoT Ecosystem"
+        priority="(None)"
+        subtitle="HPE Universal IoT Platform Streamlines Interoperability and Management of Heterogeneous IoT Devices and Applications"
+        theme="dark"
+        UAID="c4a29445-97ee-4b98-a559-05ebad46e29f"
+        UCID="8fa2ebe7-7f53-4fb8-b05d-950210e1bea7"
+        WPID="1351">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T13:30:01.156Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 10, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Universal IoT Platform Streamlines Interoperability and Management of Heterogeneous IoT Devices and Applications&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_4vn9
+                    jcr:lastModified="{Date}2018-10-23T13:31:33.585Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SANTA CLARA, CA--(Marketwired - May 10, 2016) - Today at &lt;a rel=&quot;nofollow&quot; href=&quot;https://iotworldevent.com/&quot;>IoT World 2016&lt;/a> Hewlett Packard Enterprise (NYSE: HPE) announced availability of the HPE Universal Internet of Things (IoT) Platform.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>According to &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.gartner.com/doc/3159717/forecast-internet-things--endpoints&quot;>Gartner&lt;/a>, the &amp;quot;endpoints of IoT will grow at a 31.7 percent CAGR from 2013 through 2020, reaching an installed base of 20.8 billion units.&amp;quot;&lt;sup>1&lt;/sup> As the IoT market expands and organizations extend their networks to connect a broad range of devices, communications service providers and enterprises require horizontal solutions to connect and manage devices and applications, while meeting the scalability and versatility requirements of IoT operators. The HPE Universal IoT Platform enables the ability to add new functionality and benefits to users, acting as a driving force in building the infrastructure that enables the growth of IoT.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The value of the IoT lies in enriching data collected from devices with analytics and exposing it to applications that enable organizations to derive business value,&amp;quot; said Nigel Upton, director and general manager, IoT, Hewlett Packard Enterprise. &amp;quot;The HPE Universal IoT Platform dramatically simplifies integrating diverse devices with different communications protocols, enabling customers to realize tremendous benefits from their IoT data, and is designed to scale to billions of transactions tried and tested in rigorous large scale Global Telco and Enterprise environments in a variety of smart ecosystems.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Universal IoT Platform is aligned with the oneM2M industry standard and is designed to be industry and vendor-agnostic, enabling IoT operators to simultaneously manage heterogeneous sets of sensors, operate vertical applications on machine-to-machine (M2M) devices, as well as process, analyze and monetize collected data in a single secure cloud platform. The HPE Universal IoT Platform provides increased support for long range, low power connectivity, ensuring that LoRa&lt;sup>&lt;/sup> and SIGFOX deployments can be supported alongside other connectivity protocols, including cellular, radio, Wi-Fi and Bluetooth. Additional enhancements to the HPE Universal IoT Platform include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Multi connectivity &lt;/i>- communication over different types of underlying networks, to acquire IoT data and maintain it in a consistent data model aligned with the oneM2M standard.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Device Management &lt;/i>- standardized device lifecycle management (oneM2M) across disparate IoT gateways, devices and underlying networks.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Mashup &lt;/i>- ability to enrich data from the devices with external data sources, so developing contextual data that provides greater insight.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Developer Portal &lt;/i>- sophisticated application development environment for developers and partners.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Data analytics &lt;/i>- discovers meaningful patterns in data collected from sensors to derive valuable business insights using HPE Vertica and HPE Haven OnDemand.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Enhance Data Security&lt;/i> - utilizes key exchanges and Codec libraries to interpret data flows in a secure manner.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;From multiple back office IT systems and diverse connectivity technologies to business processes, the biggest barrier encountered by enterprises deploying IoT across multiple countries is complexity,&amp;quot; said Jim Morrish, Chief Research Officer, Machina Research. &amp;quot;The most important thing a supplier can provide enterprises is simplicity -- Hewlett Packard Enterprise certainly helps with reducing the complexity, pulling together components of an end-to-end enterprise IoT offering.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.objenious.com/homepage/&quot;>Objenious&lt;/a>, a subsidiary of Bouygues Telecom, a French provider of mobile, fixed, TV, internet and cloud services, is using the HPE Universal IoT Platform and the LoRa network to deliver IoT services that address a number IoT use cases, ranging from vehicle fleet management, remote meter reading, predictive maintenance and geolocation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Our partnership with HPE in building and rolling out new, leading edge networks like LoRa to enable the Internet of Things has been extremely valuable,&amp;quot; said Stphane Allaire, CEO of Objenious. &amp;quot;HPE resources in IoT were key to build solutions that enable Objenious to lead in the IoT market.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information about the HPE Universal IoT Platform visit: &lt;a rel=&quot;nofollow&quot; href=&quot;http://h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA6-5354ENW4AA6-5353ENW&quot;>http://h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA6-5354ENW4AA6-5353ENW&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;br>&#xa; &lt;/b>The HPE Universal IoT Platform is available worldwide and can be deployed on premises or in a private cloud environment for a comprehensive as-a-service model.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;sup>1&lt;/sup>&lt;/b> &lt;b>Gartner,&lt;/b> &lt;b>Forecast: Internet of Things -- Endpoints and Associated Services, Worldwide, 2015 29 October 2015&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement&lt;br>&#xa; &lt;/b>The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_xdak
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-removes-barriers-for-mass-adoption-of-iot"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/RemovesBarriers-vb.jpg"/>
+                        </contentblock_xdak>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_woiv
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/7-iot-leaders-to-watch-in-2017"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="7 IoT Leaders to Watch in 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="7 IoT Leaders to Watch in 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/7_IoT_leaders.jpg"/>
+                        </contentblock_woiv>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_58rt
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/maximize-enterprise-iot-value-with-the-intelligent-edge"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Maximize Enterprise IoT Value with the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Maximize Enterprise IoT Value with the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Maximize_Entperise.jpg"/>
+                        </contentblock_58rt>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

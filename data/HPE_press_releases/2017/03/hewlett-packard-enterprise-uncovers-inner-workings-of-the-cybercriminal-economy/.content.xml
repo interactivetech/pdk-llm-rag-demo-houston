@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-24T18:49:44.077Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-uncovers-inner-workings-of-the-cybercriminal-economy"
+        jcr:uuid="71a23abe-e166-4e24-b1a7-ea0cb0b75c73"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:58:30.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Uncovers Inner Workings of the Cybercriminal Economy"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-uncovers-inner-workings-of-the-cybercriminal-economy/jcr:content/main-par/body-par/textonlycomponent_tbag"
+        navTitle="Hewlett Packard Enterprise Uncovers Inner Workings of the Cybercriminal Economy"
+        pageTitle="Hewlett Packard Enterprise Uncovers Inner Workings of the Cybercriminal Economy"
+        priority="(None)"
+        subtitle="New Business of Hacking Report Looks at Adversary Value Chain as Driving Force in Cybercrime and Provides Actionable Insights to Improve Enterprise Defenses"
+        theme="dark"
+        UAID="b7f068cd-ef72-41e1-b95a-376e1b94887e"
+        UCID="28fbc544-d13c-4343-8977-fff8b1728939"
+        WPID="1349">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="March 31, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Business of Hacking Report Looks at Adversary Value Chain as Driving Force in Cybercrime and Provides Actionable Insights to Improve Enterprise Defenses&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_tbag
+                    jcr:lastModified="{Date}2023-03-24T18:49:44.069Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - May 17, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today published &amp;quot;The Business of Hacking,&amp;quot; an extensive report assessing the underlying economy driving cybercrime. The research delivers an in-depth analysis of the motivations behind the attacks adversaries choose to pursue, and the 'value chain' illegal organizations have established to expand their reach and maximize profits. Based on this insight, the report also provides actionable recommendations for enterprises to mitigate risk through disruption of these adversary groups.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The profile of typical cyber attackers -- and the interconnected nature of their underground economy -- have evolved dramatically in the last several years. Adversaries are increasingly leveraging sophisticated management principles in the creation and expansion of their operations to ultimately increase their impact and financial profits, which are both core motivations for nearly all attack groups today. Enterprises can use this inside knowledge against the attackers to disrupt the organizational structure and mitigate their risks.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Organizations that think of cybersecurity as purely another checkbox to mark, often do not leverage the value in high fidelity cybersecurity intelligence,&amp;quot; said Andrzej Kawalec (&lt;/i>&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/digitalkawalec&quot;>&lt;i>@digitalkawalec&lt;/i>&lt;/a>&lt;i>), Head of HPE Security Research and Chief Technology Officer, HPE Security Services, Hewlett Packard Enterprise. &amp;quot;This report gives us a unique perspective on how our adversaries operate and how we can disrupt them at each step of their criminal value chain.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>The Attackers' 'Value Chain'&lt;br>&#xd;&#xa; &lt;/b>Today's adversaries often create a formalized operating model and 'value chain' that is very similar to legitimate businesses in structure, and delivers greater ROI for the cybercriminal organization throughout the attack lifecycle. If enterprise-level security leaders, regulators and law enforcement are to disrupt the attackers' organization, they must first understand every step in the value chain of this underground economy.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Critical elements to the attackers' value chain models typically include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Human Resources Management&lt;/b> - includesrecruiting, vetting and paying the supporting 'staff' needed to deliver onspecific attack requirements; the skills-based training and education ofattackers also falls within this category.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Operations&lt;/b> - the 'management team' thatensures the smooth flow of information and funds throughout the attacklifecycle; this group will actively seek to reduce costs and maximize ROIat every step.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Technical Development&lt;/b> - thefront-line 'workers' providing the technical expertise required to performany given attack, including research, vulnerability exploitation,automation, and more.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Marketing and Sales&lt;/b> - these teamsensure that the attack group's reputation in the underground marketplaceis strong and the illicit products are both known and trusted among thetarget audience of potential buyers.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Outbound Logistics&lt;/b> - thisencompasses both the people and systems responsible for deliveringpurchased goods to a buyer, be it large batches of stolen credit carddata, medical records, intellectual property or otherwise.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Cybercriminals are highly professional, have robust funding, and are working together to launch concentrated attacks,&amp;quot; said Chris Christiansen, Program Vice President, Security Products and Services, IDC. &amp;quot;The HPE Business of Hacking Report offers key insight for legitimate organizations to better disrupt adversaries and mitigate risks by understanding how they are operating and maximizing profits.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Disrupting the Chain and Advancing Enterprise Protection&lt;br>&#xd;&#xa; &lt;/b>HPE recommends a number of approaches for enterprise security professionals to better defend against these organized attackers:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reduce the Profits&lt;/b> - Limit thefinancial rewards adversaries can realize from an attack on the enterpriseby implementing end-to-end encryption solutions, such as HPE SecureData. By encrypting data at rest, in motion and in use, theinformation is rendered useless to the attackers, restricting theirability to sell and reducing profits.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reduce the Target Pool&lt;/b> - The expansionof mobile and IoT has dramatically increased the possible attack surface for allenterprises. Organizations must build security into their developmentprocesses, and focus on protecting the interactions between data, apps andusers regardless of device to better mitigate and disrupt adversaryattacks.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Learn from the Adversaries &lt;/b>- Newtechnologies such as 'deception grids' provide methods of trapping,monitoring and learning from attackers as they navigate their way througha realistic duplication of the network. Enterprises can use thisinformation to better protect their real network, disrupt similar attacksbefore they begin, and slow down the progress of attackers.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Related Videos, Infographic and Webinar&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Businessof Hacking Video&lt;u>:&lt;/u> A discussion of &amp;quot;The Business of Hacking&amp;quot; and whatit means for enterprises.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Infographic:This timeline provides a short history of the enterprise security defensesdeveloped to disrupt cyber attacks, and demonstrates why organizationsmust build security and analytics into their operations.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Webcast:Register for the webcast on June 14 at 10:00 a.m. PT to hear HPE Security andIDC industry expert, Chris Christiansen, discuss what organizations aredoing to effectively make themselves less of a target for cyber criminals,how security has evolved over time, and get a glimpse of what the futureholds.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Webcast:Cybercriminals - The unaddressed competition. Hear how HPE is digging intothe world of cybercriminals to understand it and to disrupt it.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Methodology &lt;br>&#xd;&#xa; &lt;/b>The &amp;quot;Business of Hacking&amp;quot; leverages data and observations from HPE Security teams, open source intelligence, and other industry reports to deliver key insights into attackers' motivations, organizations and opportunities so that enterprises can better disrupt these activities and mitigate risks.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HPE Security&lt;br>&#xd;&#xa; &lt;/b>HPE Security helps organizations protect their business-critical digital assets by building security into the fabric of the enterprise, detecting and responding to advanced threats, and safeguarding continuity and compliance to effectively mitigate risk. With an integrated suite of market-leading products, services, threat intelligence and security research, HPE Security empowers organizations to balance protection with innovation to keep pace with today's idea economy.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HPE Software &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPE_Software&quot;>@HPE_Software&lt;/a> on Twitter. To learn more about HPE Enterprise Security products and services on Twitter, please follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPE_Security&quot;>@HPE_Security&lt;/a> &lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xd;&#xa; &lt;/b>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;br>&#xd;&#xa; This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended August 10, 2015, September 4, 2015, September 15, 2015, September 28, 2015 and October 7, 2015. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_n727
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-report-reveals-trials-and-errors-of-security-operations"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SecurityOperations.jpg"/>
+                        </contentblock_n727>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_boob
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-first-to-market-data-centric-iot-security"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE_Discover16_LV_14978.jpg"/>
+                        </contentblock_boob>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys"/>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

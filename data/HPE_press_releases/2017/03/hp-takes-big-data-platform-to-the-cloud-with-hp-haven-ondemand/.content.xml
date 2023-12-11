@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-31T15:31:12.168Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-takes-big-data-platform-to-the-cloud-with-hp-haven-ondemand"
+        jcr:uuid="dda8847b-941d-4c78-b751-260b3b7fd78e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:38.000-07:00"
+        metaDescription="HP Takes Big Data Platform to the Cloud With HP Haven OnDemand"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-takes-big-data-platform-to-the-cloud-with-hp-haven-ondemand/jcr:content/main-par/body-par/textonlycomponent_y14x"
+        navTitle="HP Takes Big Data Platform to the Cloud With HP Haven OnDemand"
+        pageTitle="HP Takes Big Data Platform to the Cloud With HP Haven OnDemand"
+        priority="(None)"
+        subtitle="Innovations Give Customers Fast Path to Data-Driven Insights and Extends Haven Analytics Throughout HP Software Portfolio"
+        theme="dark"
+        UAID="0e2eb8c8-02bf-447b-83b3-4c0beaae98cd"
+        UCID="216615db-4bbe-4885-95ae-4f24f1f68097"
+        WPID="1550">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T15:21:25.738Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="December 2, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Innovations Give Customers Fast Path to Data-Driven Insights and Extends Haven Analytics Throughout HP Software Portfolio&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_y14x
+                    jcr:lastModified="{Date}2023-03-31T15:31:12.159Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>BARCELONA, SPAIN--(Marketwired - Dec 2, 2014) - HP (NYSE: HPQ) today unveiled&amp;nbsp;HP Haven OnDemand, an important milestone in its Big Data strategy that gives organizations of all sizes cloud-based access to key components of HP's world class&amp;nbsp;analytics platform.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Haven OnDemand, which runs on the&amp;nbsp;HP Helion&amp;nbsp;cloud, enables customers to analyze all forms of data, including business data, machine data, and unstructured, human information. Developers can also leverage this innovative web service, as well as engage with a robust and growing community to create next-generation applications and services.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Thomson Reuters is the world's leading source of intelligent information for businesses and professionals; we deliver critical information via a combination of innovative technology and industry expertise,&amp;quot; said Chris Blatchford, Director, Business Operations - Platform Group Thomson Reuters (@thomsonreuters). &amp;quot;For a recent hackathon event, we utilized HP's Haven OnDemand platform to produce several innovative new applications over an incredibly short amount of time. In particular HP IDOL OnDemand's intuitive interface and wide array of API's allowed our developers to 'think big' and realize their vision.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP also announced that it will embed its unique Haven assets deeper into the HP Software application portfolio with new offerings that leverage&amp;nbsp;Big Data analytics&amp;nbsp;to help businesses transform their IT operations, power information governance and compliance, and achieve greater levels of information security.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Empowering the Entire Enterprise with Data Discovery and Next-Gen Applications&lt;br>&#xd;&#xa; &lt;/b>HP Haven is a powerful platform that allows organizations to put data and insights at the core of their business, transforming every aspect of an enterprise, from the data center to mobile, customer-facing applications at the edge. With HP Haven OnDemand, customers, partners, and developers can tap into key components of the HP Haven Enterprise platform to gain blazing fast insights, rapid time to value and analytic functionality on all types of data, within minutes:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Vertica OnDemand&lt;/b>&amp;nbsp;- delivers enterprise-class&amp;nbsp;Big Data analytics&amp;nbsp;via the cloud.&amp;nbsp;HP Vertica OnDemand&amp;nbsp;offers an extensive set of built-in analytic capabilities with no compromises on performance and flexibility. The service places a premium on simplicity and ease of use, and customers can be up and running analytics using HP Vertica OnDemand within minutes. This comprehensive service is available in a wide range of flexible consumption models, including a managed virtual private cloud Haven platform offering developed in partnership with HP Enterprise Services, to meet the availability and compliance needs of today's most demanding enterprises.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP IDOL OnDemand&lt;/b>&amp;nbsp;- provides the industry's most comprehensive set of Big Data web services that developers, partners, and customers can use to build next generation applications that can analyze a broad spectrum of data types, including images, social media, text, video and more.&amp;nbsp;HP IDOL OnDemand&amp;nbsp;leverages the advanced data processing engine of HP IDOL to enable a broad range of unique functions, including contextual search, sentiment analysis and face detection. To date, over 5,000 developers have signed up as registered users of the service.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Software also unveiled several innovations across its portfolio that leverage HP Haven&amp;nbsp;Big Data analytics:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>IT Operations Management&lt;/b>&amp;nbsp;- HP today unveiled a comprehensive set of new IT Operations Management solutions that leverage Haven analytics to help organizations automate and optimize IT application and&amp;nbsp;system management, resulting in faster time to market, greater cost efficiencies, and exceptional customer experiences.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Security&amp;nbsp;&lt;/b>- HP today introduced a new version of&amp;nbsp;HP ArcSight ESM, a market-leading security information and event management (SIEM) solution. The solution detects and protects against security threats through real-time correlation and analysis of billions of events per day. The new release includes several innovations to improve the speed and performance of the solution. Additionally,&amp;nbsp;HP Application Defender, the industry's first cloud-managed application self-protection service, leverages HP Haven analytics to provide immediate visibility and actively defend production applications against attacks. HP Application Defender is generally available now, and customers can visit&amp;nbsp;www.hp-application-defender.com&amp;nbsp;to sign up for an immediate trial.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Intelligent Retention and Content Management&lt;/b>&amp;nbsp;- HP today announced a new solution that combines HP hardware and software technologies to allow organizations to intelligently manage data throughout its lifecycle. The solution brings together HP&amp;nbsp;StoreAll, HP&amp;nbsp;ControlPoint,&amp;nbsp;HP&amp;nbsp;Records Manager&amp;nbsp;and HP Haven analytics to reinvent end-to-end information lifecycle management.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;To succeed in today's marketplace, businesses must be able to leverage all forms of data, at high speed and in context, in order to capitalize on emerging opportunities and manage risk and costs,&amp;quot; said Robert Youngjohns, GM and EVP, HP Software. &amp;quot;With today's announcement, we are making our unique Big Data platform more accessible and adaptable than ever before, giving customers, partners, and developers an unmatched set of assets that can help them create winning, data-driven businesses.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Pricing and Availability&amp;nbsp;&lt;br>&#xd;&#xa; &lt;/b>HP Vertica OnDemand will be available in CY Q1, 2015 with pricing starting as low as $999 per month. HP IDOL OnDemand is available now as an early access web service. &amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP IT Operations Management software solutions referred to in this announcement are generally available now.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP ArcSight ESM 6.8c&amp;nbsp;is available for download in January 2015. HP Application Defender is generally available now.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Intelligent Retention and Content Management solution is generally available now. Pricing is based on the amount of information managed by terabyte.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HP Software &lt;a href=&quot;https://twitter.com/hpsoftware&quot;>@HPSoftware&lt;/a>&amp;nbsp;on Twitter, as well as news this week from Barcelona at #HPDiscover.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&amp;nbsp;&lt;br>&#xd;&#xa; This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance if Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and HP's other filings with the Securities and Exchange Commission, including HP's Quarterly Report on Form 10-Q for the fiscal quarter ended July 31, 2014. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_t30m
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/using-data-to-predict-soccer-outcomes"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Using Data to Predict Soccer Outcomes"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Using Data to Predict Soccer Outcomes"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-8.jpg"/>
+                        </contentblock_t30m>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ouiv
+                            jcr:lastModified="{Date}2018-10-19T15:24:02.445Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpes-top-5-things-you-shouldnt-miss-from-last-quarter"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE’s Top 5 Things You Shouldn’t Miss From Last Quarter"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE’s Top 5 Things You Shouldn’t Miss From Last Quarter"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-19T15:24:02.445Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPEelementhero.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-19T15:24:02.445Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_ouiv>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5ccg
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/aruba-delivers-first-asset-tracking-solution-fully-integrated-into-wlan-infrastructure-to-improve-staff-efficiency-and-customer-experience-while-controlling-costs"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Delivers First Asset Tracking Solution Fully Integrated into WLAN Infrastructure to Improve Staff Efficiency and Customer Experience while Controlling Costs"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Delivers First Asset Tracking Solution Fully Integrated into WLAN Infrastructure to Improve Staff Efficiency and Customer Experience while Controlling Costs"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/V2-2.jpg"/>
+                        </contentblock_5ccg>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

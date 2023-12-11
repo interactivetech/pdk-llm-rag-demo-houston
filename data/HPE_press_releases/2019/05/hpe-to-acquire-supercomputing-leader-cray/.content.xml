@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:41:32.450Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE to acquire supercomputing leader Cray"
+        jcr:uuid="a1f6bca0-4474-4897-9484-8c078494da56"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE to acquire supercomputing leader Cray"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-05-17T04:45:00.000-07:00"
+        metaDescription="Combined Company Will Drive Next Generation of High Performance Computing"
+        metaKeywords="hpe, cray, supercomputing, supercomputer, high performance computing, HPC"
+        metaOgImage="/content/dam/hpe/newsroom/2019/05/image-norend/hpe-to-acquire-supercomputing-leader-cray.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE to acquire supercomputing leader Cray"
+        pageTitle="HPE to acquire supercomputing leader Cray"
+        priority="(None)"
+        socialDescription="Combined Company Will Drive Next Generation of High Performance Computing"
+        subtitle="Combined Company Will Drive Next Generation of High Performance Computing"
+        theme="dark"
+        UAID="2e34c91e-978e-4ecf-a3c3-891d0a9961c4"
+        UCID="adec5ca8-6095-4575-9fdb-8bf4f4411361">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-05-16T20:20:20.722Z"
+                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MAY 17, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-16T20:21:41.948Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/05/image-norend/hpe-to-acquire-supercomputing-leader-cray.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE to acquire supercomputing leader Cray "
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-21T02:57:35.369Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Accelerates HPE’s strategy to tackle customers’ most data-intensive challenges by combining deep supercomputing talent and cutting-edge technologies&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Establishes the most comprehensive end-to-end portfolio across compute, storage, interconnect, software and services in the fast growing &lt;a href=&quot;https://www.hpe.com/us/en/solutions/hpc-high-performance-computing.html&quot; target=&quot;_blank&quot;>High Performance Computing&lt;/a> and Artificial Intelligence segments&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Creates opportunity for significant economic upside through enhanced growth and profitability&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T00:44:36.264Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>&lt;b>Combined Company Will Drive Next Generation of High Performance Computing&lt;/b>&lt;/h3>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T01:09:05.033Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>San Jose, Calif., and Seattle, Wash., May 17, 2019 – &lt;/b>Hewlett Packard Enterprise (NYSE:HPE) and Cray Inc. (Nasdaq: CRAY), a global supercomputer leader, today announced that the companies have entered into a definitive agreement under which HPE will acquire Cray &amp;nbsp;for $35.00 per share in cash, in a transaction valued at approximately $1.3 billion, net of cash.&lt;br>&#xa; &lt;br>&#xa; “Answers to some of society’s most pressing challenges are buried in massive amounts of data,” said Antonio Neri, President and CEO, HPE. “Only by processing and analyzing this data will we be able to unlock the answers to critical challenges across medicine, climate change, space and more. Cray is a global technology leader in supercomputing and shares our deep commitment to innovation. By combining our world-class teams and technology, we will have the opportunity to drive the next generation of high performance computing and play an important part in advancing the way people live and work.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b_copy
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T01:09:56.237Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Answers to some of society’s most pressing challenges are buried in massive amounts of data&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-05-17T01:09:56.237Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b_copy>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T11:51:37.721Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>The Explosion of Data is Driving Strong HPC Growth&lt;br>&#xa; &lt;br>&#xa; &lt;/b>The explosion of data from artificial intelligence, machine learning, and big data analytics and evolving customer needs for data-intensive workloads are driving a significant expansion in HPC.&lt;br>&#xa; &lt;br>&#xa; Over the next three years the HPC segment of the market and associated storage and services is expected to grow from approximately $28 billion in 2018 to approximately $35 billion in 2021, a compound annual growth rate&lt;sup>[1]&lt;/sup> of approximately 9 percent. Exascale is a growing segment of overall HPC opportunities and more than $4 billion of Exascale opportunities are expected to be awarded over the next five years.&lt;br>&#xa; &lt;br>&#xa; Addressing complex challenges and advancing critical academic research, including predicting future weather patterns, delivering breakthrough medical discoveries, and preventing cyber-attacks, requires significant computational capabilities, up to and through Exascale level architecture. Exascale capable systems enable solutions to these problems with much greater precision and insight.&lt;br>&#xa; &lt;br>&#xa; “This is an amazing opportunity to bring together Cray’s leading-edge technology and HPE’s wide reach and deep product portfolio, providing customers of all sizes with integrated solutions and unique supercomputing technology to address the full spectrum of their data-intensive needs,” said Peter Ungaro, President and CEO of Cray. “HPE and Cray share a commitment to customer-centric innovation and a vision to create the global leader for the future of high performance computing and AI. On behalf of the Cray Board of Directors, we are pleased to have reached an agreement that we believe maximizes value and are excited for the opportunities that this unique combination will create for both our employees and our customers.”&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T01:21:02.015Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE and Cray share a commitment to customer-centric innovation&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-05-17T01:21:02.015Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-21T02:58:19.762Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cray is a Leading Innovator in Supercomputer Solutions&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Cray is the premier provider of high-end supercomputing solutions that address customers’ most challenging, data-intensive workloads for making critical decisions. Cray has a leadership position in the top 100 supercomputer installations around the globe. With a history tying back to Cray Research, which was founded in 1972, Cray is headquartered in Seattle, Washington, with US-based manufacturing, and approximately 1,300 employees worldwide. The company delivered revenue of $456 million in its most recent fiscal year, up 16 percent year over year.&lt;br>&#xa; &lt;br>&#xa; Cray’s supercomputing systems, delivered through their current generation XC and CS platforms, and next-generation Shasta series platform, have the ability to handle massive data sets, converged modeling, simulation, AI, and analytics workloads. In addition to supercomputers, they offer high-performance storage, low-latency high performance HPC interconnects, a full HPC system software stack and programming environment, &lt;a href=&quot;https://www.hpe.com/us/en/solutions/data-analytics.html&quot; target=&quot;_blank&quot;>data analytics&lt;/a>, and AI solutions – all currently delivered through integrated systems.&lt;br>&#xa; &lt;br>&#xa; Cray recently announced an Exascale supercomputer contract for over $600 million for the U.S. Department of Energy’s Oak Ridge National Laboratory. The system, which is targeted to be the world’s fastest system, will enable groundbreaking research and AI at unprecedented scale, using Cray’s new Shasta system architecture and Slingshot interconnect. The company was also part of an award with Intel for the first U.S. Exascale contract from the U.S. Department of Energy’s Argonne National Laboratory, with Cray’s portion of the contract valued at over $100 million.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe_1078462763
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T02:59:54.486Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cray Strengthens and Expands HPE’s High Performance Computing Portfolio&lt;br>&#xa; &lt;br>&#xa; &lt;/b>High performance computing is a key component of HPE’s vision and growth strategy and the company currently offers world-class HPC solutions, including HPE Apollo and SGI, to customers worldwide. This portfolio will be further strengthened by leveraging Cray’s foundational technologies and adding complementary solutions.&amp;nbsp; The combined company will also reach a broader set of end markets, offering enterprise, academic and government customers a broad range of solutions and deep expertise to solve their most complex problems. Together, HPE and Cray will have enhanced opportunities for growth and the integrated platform, scale and resources to lead the Exascale era of high performance computing.&lt;br>&#xa; &lt;br>&#xa; The combination of HPE and Cray is expected to deliver significant customer benefits including:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Future HPC-as-a-Service and AI / ML analytics through HPE GreenLake&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>A comprehensive end-to-end portfolio of HPC infrastructure – compute, high-performance storage, system interconnects, software and services supplementing existing HPE capabilities to address the full spectrum of customers’ data-intensive needs&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Differentiated next-generation technology addressing data intensive workloads&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Increased innovation and technological leadership from leveraging greater scale, combined talent and expanded technology capabilities&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhanced supply chain capabilities leveraging US-based manufacturing&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Significant Economic Upside Expected to be Realized from the Combination&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Bringing together HPE and Cray enables an enhanced financial profile for the combined company that includes several revenue growth opportunities and cost synergies.&lt;br>&#xa; &lt;br>&#xa; The companies expect the combination to drive significant revenue growth opportunities by:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Capitalizing on the growing HPC segment of the market and Exascale opportunities&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhancing HPE’s customer base with a complementary footprint in federal business and academia and the company’s ability to accelerate commercial supercomputing adoption&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Introducing new offerings in AI / ML and HPC-as-a-service with HPE GreenLake&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;We also expect to deliver significant cost synergies through efficiencies and by leveraging proprietary Cray technology, like the Slingshot interconnect, to lower costs and improve product performance.&lt;br>&#xa; &lt;b>&lt;br>&#xa;Transaction Details&lt;br>&#xa; &lt;br>&#xa; &lt;/b>As a result of the enhanced financial profiles of the combined companies, the deal is expected to be accretive to HPE non-GAAP operating profit and earnings in the first full year following the close.&lt;br>&#xa; &lt;br>&#xa; As part of the transaction, HPE expects to incur one-time integration costs that will be absorbed within HPE’s FY20 free cash flow outlook of $1.9B to $2.1B that remains unchanged.&lt;br>&#xa; &lt;br>&#xa; The transaction is expected to close by the first quarter of HPE’s fiscal year 2020, subject to regulatory approvals and other customary closing conditions.&lt;br>&#xa; &lt;b>&lt;br>&#xa;Investment Community Conference Call&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE will conduct a live audio webcast of its conference call to discuss HPE’s acquisition of Cray. The call is scheduled for Friday, May 17&lt;sup>th&lt;/sup>, at 8:30 a.m. ET / 5:30 a.m. PT, and the webcast will be available at&amp;nbsp;&lt;a href=&quot;http://www.hpe.com/investor/2019Q2HPETOACQUIRECRAY&quot; target=&quot;_blank&quot;>www.hpe.com/investor/2019Q2HPETOACQUIRECRAY&lt;/a>&lt;br>&#xa; &lt;b>&lt;br>&#xa;HPE Q2 FY19 Earnings Announcement&lt;br>&#xa; &lt;br>&#xa; &lt;/b>As a reminder, Hewlett Packard Enterprise (NYSE: HPE) will conduct a live audio webcast of its conference call to review its financial results for the second quarter of fiscal 2019, which ended April 30, 2019.&lt;br>&#xa; &lt;br>&#xa; The call is scheduled for Thursday, May 23, at 4:30 p.m. ET / 1:30 p.m. PT, and the webcast will be available at &lt;a href=&quot;http://www.hpe.com/investor/2019Q2Webcast&quot; target=&quot;_blank&quot;>www.hpe.com/investor/2019Q2Webcast&lt;/a>.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe_1540846709
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T11:52:25.305Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa; &lt;b>&lt;br>&#xa;About Cray&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Cray Inc. (Nasdaq:CRAY) combines computation and creativity so visionaries can keep asking questions that challenge the limits of possibility. Drawing on more than 45 years of experience, Cray develops the world’s most advanced supercomputers, pushing the boundaries of performance, efficiency and scalability. Cray continues to innovate today at the convergence of data and discovery, offering a comprehensive portfolio of supercomputers, high-performance storage, data analytics and artificial intelligence solutions. Go to www.Cray.com for more information.&lt;/span>&lt;br>&#xa;&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa; Additional Information and Where to Find It&lt;br>&#xa; &lt;br>&#xa; &lt;/b>In connection with the proposed transaction, Cray will file relevant materials with the SEC, including a preliminary and definitive proxy statement. Promptly after filing the definitive proxy statement, Cray will mail the definitive proxy statement and a proxy card to the shareholders of Cray. CRAY SHAREHOLDERS ARE URGED TO READ THE DEFINITIVE PROXY STATEMENT (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO) CAREFULLY WHEN IT BECOMES AVAILABLE BEFORE MAKING ANY VOTING OR INVESTMENT DECISION WITH RESPECT TO THE PROPOSED TRANSACTION BECAUSE IT WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION AND THE PARTIES TO THE PROPOSED TRANSACTION. Shareholders of Cray will be able to obtain a free copy of these documents, when they become available, at the website maintained by the SEC at &lt;a href=&quot;https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sec.gov&amp;amp;d=DwMFAg&amp;amp;c=9wxE0DgWbPxd1HCzjwN8Eaww1--ViDajIU4RXCxgSXE&amp;amp;r=gJ8eZjaoLWkuLIov-TMtMnnL7SFgxXVjm2cIvFEqw-cONUQOGzSUSW6ax4djQkEE&amp;amp;m=wzHim28vs_yogQbzUYFEBYkmVsssY7vFEOsa6lWIs5c&amp;amp;s=sZtQcvyMDwsF1Z7644F_1keCnQF7c61-qP9Mztlw4-M&amp;amp;e=&quot; target=&quot;_blank&quot;>www.sec.gov&lt;/a> or free of charge at &lt;a href=&quot;https://urldefense.proofpoint.com/v2/url?u=http-3A__www.cray.com&amp;amp;d=DwMFAg&amp;amp;c=9wxE0DgWbPxd1HCzjwN8Eaww1--ViDajIU4RXCxgSXE&amp;amp;r=gJ8eZjaoLWkuLIov-TMtMnnL7SFgxXVjm2cIvFEqw-cONUQOGzSUSW6ax4djQkEE&amp;amp;m=wzHim28vs_yogQbzUYFEBYkmVsssY7vFEOsa6lWIs5c&amp;amp;s=DQ7_N7mYxV-fw-bYnKG6lvwcY3WPaM4wg9zOa24sN2E&amp;amp;e=&quot; target=&quot;_blank&quot;>www.cray.com&lt;/a>.&lt;br>&#xa; &lt;br>&#xa; Additionally, Cray will file other relevant materials in connection with the proposed acquisition of Cray by HPE pursuant to the terms of an Agreement and Plan of Merger by and among, HPE, Cray Merger Sub, Inc., a wholly owned subsidiary of HPE, and Cray. Cray and its directors, executive officers and other members of its management and employees, under SEC rules, may be deemed to be participants in the solicitation of proxies of Cray shareholders in connection with the proposed transaction. Information concerning the interests of Cray’s participants in the solicitation, which may, in some cases, be different than those of Cray’s shareholders generally, are available in Cray’s proxy statement for its 2019 annual meeting of shareholders, which was filed with the SEC on April 18, 2019. To the extent holdings of securities by Cray’s directors or executive officers have changed since the amounts disclosed Cray’s respective proxy statement, such changes have been or will be reflected on Statements of Change in Ownership on Form 4 filed with the SEC. Additional information regarding these persons and their interests in the proposed transaction will be set forth in the definitive proxy statement relating to the proposed transaction when it becomes available. These documents are available free of charge at the SEC’s web site at &lt;a href=&quot;https://urldefense.proofpoint.com/v2/url?u=http-3A__www.sec.gov&amp;amp;d=DwMFAg&amp;amp;c=9wxE0DgWbPxd1HCzjwN8Eaww1--ViDajIU4RXCxgSXE&amp;amp;r=gJ8eZjaoLWkuLIov-TMtMnnL7SFgxXVjm2cIvFEqw-cONUQOGzSUSW6ax4djQkEE&amp;amp;m=wzHim28vs_yogQbzUYFEBYkmVsssY7vFEOsa6lWIs5c&amp;amp;s=sZtQcvyMDwsF1Z7644F_1keCnQF7c61-qP9Mztlw4-M&amp;amp;e=&quot; target=&quot;_blank&quot;>www.sec.gov&lt;/a> or by going to Cray’s website at &lt;a href=&quot;https://urldefense.proofpoint.com/v2/url?u=http-3A__www.cray.com&amp;amp;d=DwMFAg&amp;amp;c=9wxE0DgWbPxd1HCzjwN8Eaww1--ViDajIU4RXCxgSXE&amp;amp;r=gJ8eZjaoLWkuLIov-TMtMnnL7SFgxXVjm2cIvFEqw-cONUQOGzSUSW6ax4djQkEE&amp;amp;m=wzHim28vs_yogQbzUYFEBYkmVsssY7vFEOsa6lWIs5c&amp;amp;s=DQ7_N7mYxV-fw-bYnKG6lvwcY3WPaM4wg9zOa24sN2E&amp;amp;e=&quot; target=&quot;_blank&quot;>www.cray.com&lt;/a>.&lt;br>&#xa; &lt;br>&#xa; &lt;b>Forward-looking Statements&lt;br>&#xa; &lt;br>&#xa; &lt;/b>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HPE and its consolidated subsidiaries or of Cray could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including, but not limited to, any statements regarding the expected benefits and costs of the transaction contemplated by this document; the expected timing of the completion of the transaction; the ability of HPE, its subsidiaries and Cray to complete the transaction considering the various conditions to the transaction, some of which are outside the parties’ control, including those conditions related to regulatory approvals; projections of revenue, expenses, net earnings, operating profit, cash flows, or other financial items; the expectation of the combined company having the opportunity to drive the next generation of high performance computing and play an important part in advancing the way people live and work; the expected size of the HPC segment of the market and associated storage and services in 2021; the opportunity to bring together Cray and HPE to provide customers unique supercomputing technology; the belief that the agreement maximizes Cray’s value for its shareholders and the unique combination’s opportunities for both employees and customers; the expected strengthening of HPE’s portfolio by leveraging Cray’s solutions; the expectations relating to the combined company’s reach to a broader set of end markets; the expectations relating to the combined company’s enhanced opportunities for growth and the integrated platform to lead the Exascale era of high performance computing; the expectation that the combined company will deliver significant customer benefits; the expectation that significant economic upside will be realized from the combination; the expectation that the combined company’s enhanced financial profile; the expectation that the combined company will drive significant revenue growth opportunities; statements regarding the delivery of significant cost synergies to lower costs and improve product performance; the expectation that the transaction will be accretive to HPE non-GAAP operating profit and earnings in the first full fiscal year following close; HPE’s expectation to incur one-time integration costs that will be absorbed into HPE’s FY20 free cash flow outlook of $1.9B to $2.1B that remains unchanged; the expected closing timing; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on HPE or Cray and such companies’ financial performance; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected; that the integration of the acquisition post-closing may not occur as anticipated, and the combined companies’ ability to achieve the growth prospects and synergies expected from the transaction, as well as delays, challenges and expenses associated with integrating the combined companies’ existing businesses may incur; that the transaction may not be timely completed, if at all; that, prior to the completion of the transaction, Cray’s business may not perform as expected due to transaction-related uncertainty or other factors; the effect of the announcement or pendency of the transaction on Cray’s business relationships, operating results, and business generally; that the parties are unable to successfully implement integration strategies; the need to address the many challenges facing Cray’s and HPE's businesses; the competitive pressures faced by the businesses; risks associated with executing strategy; the impact of macroeconomic and geopolitical trends and events; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends and other risks that are described in the SEC reports of HPE and Cray, including but not limited to the risks described in HPE’s Annual Report on Form&amp;nbsp;10-K for its fiscal year ended October&amp;nbsp;31, 2018, and subsequent quarterly reports on Form 10-Q, Cray’s Annual Report on Form 10-K for its fiscal year ended December 31, 2018 and subsequent quarterly reports on Form 10-Q, and that are otherwise described or updated from time to time in other filings with the SEC. HPE and Cray assume no obligation and do not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>[1]&lt;/sup> Source: Market data as of October 5, 2018&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-17T01:55:19.173Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Press&amp;nbsp;Contacts&lt;br>&#xa; &lt;br>&#xa; &lt;/b>&lt;/span>&lt;b>&lt;span class=&quot;body-copy-large&quot;>HPE&lt;br>&#xa; &lt;/span>&lt;/b>&lt;br>&#xa;&lt;span class=&quot;body-copy-large&quot;>Editorial contact&lt;br>&#xa; Kate Holderness, HPE&lt;br>&#xa; &lt;a href=&quot;mailto:Kate.holderness@hpe.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;/span>&lt;br>&#xa;&lt;br>&#xa;&lt;span class=&quot;body-copy-large&quot;>Investor Relations contact&lt;br>&#xa; Andrew Simanek, HPE&lt;br>&#xa; &lt;a href=&quot;mailto:Investor.relations@hpe.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;/span>&lt;br>&#xa;&lt;b>&lt;br>&#xa; &lt;span class=&quot;body-copy-large&quot;>Cray&lt;br>&#xa; &lt;/span>&lt;br>&#xa; &lt;/b>&lt;span class=&quot;body-copy-large&quot;>Editorial contact&lt;br>&#xa; Diana Brodskiy, Bhava Communications for Cray&lt;br>&#xa; &lt;a href=&quot;mailto:Cray@bhava.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;br>&#xa; 415-306-6199&lt;br>&#xa; &lt;br>&#xa; Investor Relations contact&lt;br>&#xa; Paul Hiemstra, Cray&lt;br>&#xa; &lt;a href=&quot;mailto:ir@CRAY.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;br>&#xa; 206-701-2044&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-05-17T01:27:04.916Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/01/powerful-supercomputing-to-propel-frances-high-performance-computing-hpc-artificial-intelligence-ai-research-and-development"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Powerful Supercomputing to Propel France’s High-Performance Computing (HPC) &amp; Artificial Intelligence (AI) Research and Development"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Powerful Supercomputing to Propel France’s High-Performance Computing (HPC) &amp; Artificial Intelligence (AI) Research and Development"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-17T01:27:04.916Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/01/image-norend/Powerful Supercomputing to Propel Frances HPC and AI Research and Development.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-17T01:27:04.916Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25_co
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-05-17T01:30:35.138Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/11/high-performance-computing-center-stuttgart-and-hewlett-packard-enterprise-collaborate-to-build-worlds-fastest-supercomputer-for-industrial-production"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="High-Performance Computing Center Stuttgart and Hewlett Packard Enterprise collaborate to build world's fastest supercomputer for industrial production"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="High-Performance Computing Center Stuttgart and Hewlett Packard Enterprise collaborate to build world's fastest supercomputer for industrial production"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-17T01:30:35.138Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/High-Performance-Computing-Center-Stuttgart.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-17T01:30:35.138Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25_co>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25_co
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-05-17T01:33:57.725Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/02/hpe-helps-u-s-department-of-defense-to-advance-national-defense-capabilities"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-17T01:33:57.725Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/HPE-Helps-U.S.-Department-of-Defense-to-Advance-National-Defense-Capabilities.png"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-17T01:33:57.725Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25_co>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-09-05T17:38:02.066Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

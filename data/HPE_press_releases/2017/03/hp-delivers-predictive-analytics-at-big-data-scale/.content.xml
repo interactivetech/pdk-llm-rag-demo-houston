@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-23T20:56:55.049Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-delivers-predictive-analytics-at-big-data-scale"
+        jcr:uuid="fc8b99c9-93b0-482f-95e6-3b3de467cfe9"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:38.000-07:00"
+        metaDescription="HP Delivers Predictive Analytics at Big Data Scale"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-delivers-predictive-analytics-at-big-data-scale/jcr:content/main-par/body-par/textonlycomponent_5foq"
+        navTitle="HP Delivers Predictive Analytics at Big Data Scale"
+        pageTitle="HP Delivers Predictive Analytics at Big Data Scale"
+        priority="(None)"
+        subtitle="New HP Haven Offering, Powered by HP Vertica and Innovative Open Source Distributed R, Greatly Accelerates Processing Performance and Extends Power of Predictive Analytics to Much Larger Community"
+        theme="dark"
+        UAID="4a33ef99-5519-4930-a7a4-103c4e52b4e3"
+        UCID="7da8b54c-4eda-4381-9a6e-73428b672d72"
+        WPID="1543">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T15:57:00.873Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="February 17, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HP Haven Offering, Powered by HP Vertica and Innovative Open Source Distributed R, Greatly Accelerates Processing Performance and Extends Power of Predictive Analytics to Much Larger Community&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_5foq
+                    jcr:lastModified="{Date}2023-03-23T20:56:55.041Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN JOSE, CA--(Marketwired - Feb 17, 2015) - &amp;nbsp;(Strata + Hadoop World) -- HP (NYSE: HPQ) today unveiled HP&amp;nbsp;Haven Predictive Analytics, a new offering that accelerates and operationalizes large-scale machine learning and statistical analysis, and ultimately provides organizations with much deeper insights and understanding into today's rapidly evolving&amp;nbsp;data&amp;nbsp;volumes.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Powered by HP's innovative&amp;nbsp;Distributed R&amp;nbsp;offering, the new release dramatically improves performance and enables users to analyze much larger data sets than was previously possible with the popular R statistical programing language. The new offering includes the following key components and capabilities:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Distributed R&lt;/b>&amp;nbsp;- a new high performance analytical engine based on the open source R language developed with&amp;nbsp;HP Labs&amp;nbsp;to address the most demanding,&amp;nbsp;Big Data&amp;nbsp;predictive analytics tasks.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Data acceleration and native SQL support with HP Vertica&lt;/b>&amp;nbsp;- native integration with the market leading columnar MPP database increases overall data access performance by up to 5X and enables a broader community of developers and DBAs to put predictive analytics into action.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Out-of-the-box-algorithms&lt;/b>&amp;nbsp;- a comprehensive set of proven, out-of-the-box parallel algorithms that produce accurate and consistent results with mature standard R algorithms.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Open Source&lt;/b>&amp;nbsp;- the new offering is free and fully compatible with the open source R language and tools and backed by enterprise support from HP and priced per node.&amp;nbsp;&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;HP Haven Predictive Analytics provides the scale and performance to Cerner to achieve predictive analytics health care solutions that were not possible before,&amp;quot; said Dr. Doug McNair, M.D., PhD, senior vice president at Cerner Corporation (&lt;a href=&quot;https://twitter.com/cerner&quot;>@Cerner&lt;/a>). &amp;quot;The Distributed R technology is vital for Cerner's discovery activities, which we conduct for Cerner's health care clients around the world. In health care use cases, the most valuable item sets are rare. Therefore, coverage of the entire corpus of records is often essential to avoid false-negative results and to ensure model stability. HP Haven Predictive Analytics is a strategic enabler for Cerner.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Predictive Analytics, Built for Big Data&lt;br>&#xd;&#xa; &lt;/b>The open source R language is used by millions of data scientists around the globe to interpret, interact with, and visualize data, and has been a powerful tool in tackling predictive modeling tasks such as drug discovery and financial modeling. Unfortunately, due to its inherent design, it has been challenged to process large data sets.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To overcome this limitation, HP Labs (&lt;a href=&quot;https://twitter.com/hplabs&quot;>@hplabs&lt;/a>) developed&amp;nbsp;Distributed R, a revolutionary extension of R, which boosts performance by splitting tasks between multiple processing nodes. The result of this strategic initiative is the industry's first open source version of a distributed platform for R that is explicitly designed to address today's demanding&amp;nbsp;Big Data&amp;nbsp;predictive analytic tasks.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Now the global developer community can employ R to scale for billions of records of data -- an order of magnitude improvement over traditional R-based performance. HP Haven Predictive Analytics also retains the flexibility and consistency with R and enables data scientists to use their familiar R console and RStudio to work with&amp;nbsp;Distributed R.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;HP Haven Predictive Analytics delivers the industry's first open, high-performance platform based on R, seamlessly integrated with the HP Haven Big Data Platform,&amp;quot; says Shilpa Lawande (&lt;a href=&quot;https://twitter.com/slawande&quot;>@slawande&lt;/a>), GM Platform, HP Software Big Data Business Unit. &amp;quot;Now, organizations can unlock the untapped value of Big Data with scalable predictive analytics to address every use case -- from customer acquisition and retention to fraud detection to predictive maintenance and many more.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Pricing and Availability&amp;nbsp;&lt;br>&#xd;&#xa; &lt;/b>HP&amp;nbsp;Haven Predictive Analytics&amp;nbsp;is free open-source software and is backed by award winning HP global enterprise support, which helps organizations realize the full value of their investment in&amp;nbsp;Big Data analytics. This optional support offering is priced per node up to 5 nodes with attractive discount pricing available for larger deployments.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br _rte_temp_br=&quot;brEOB&quot;>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This media advisory contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_81af
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/security-operations-gets-more-intuitive"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Security Operations gets more intuitive"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Security Operations gets more intuitive"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Machinehero.jpg"/>
+                        </contentblock_81af>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_u8fl
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpe-debuts-arcsight-investigate-industrys-fastest-threat-investigation-solution-at-rsa-conference-2017"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Debuts ArcSight Investigate, Industry's Fastest Threat Investigation Solution, at RSA Conference 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Debuts ArcSight Investigate, Industry's Fastest Threat Investigation Solution, at RSA Conference 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/4_NewsroomImage.jpg"/>
+                        </contentblock_u8fl>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_z29o
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/together-hpe-and-nimble-storage-will-deliver-the-industrys-leading-flash-storage-and-predictive-analytics-portfolio"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NewsroomImage1.jpg"/>
+                        </contentblock_z29o>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T06:51:10.198Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---customers,hpe-newsroom:categories/networking,hpe-newsroom:categories/industry--manufacturing,hpe-newsroom:categories/industry---energy-&amp;-climate]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="basf-selects-hpe-to-build-supercomputer-for-global-chemical-research"
+        jcr:uuid="5f321cd3-6306-48c9-9d9a-d18d1ae31a50"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:50:30.000-07:00"
+        metaDescription="BASF Selects HPE to Build Supercomputer for Global Chemical Research"
+        navTitle="BASF Selects HPE to Build Supercomputer for Global Chemical Research"
+        pageTitle="BASF Selects HPE to Build Supercomputer for Global Chemical Research"
+        priority="(None)"
+        subtitle="New HPE Apollo System supercomputer will help BASF reduce computer simulation and modeling times from months to days"
+        theme="dark"
+        UAID="4c59ac8e-e589-4072-bbf6-d6aa6fbc4b46"
+        UCID="2156c69e-820e-43c5-9009-981e5bb7f19e"
+        WPID="1053">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T13:29:03.110Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MARCH 17, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-23T13:27:58.351Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SuperComputer-1400x788.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HPE Apollo System supercomputer will help BASF reduce computer simulation and modeling times from months to days&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_rk5c
+                    jcr:lastModified="{Date}2018-10-23T13:33:44.025Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LUDWIGSHAFEN, GERMANY and PALO ALTO, CA--(Marketwired - Mar 17, 2017) - BASF SE and Hewlett Packard Enterprise (NYSE: HPE) today announced that the companies will collaborate to develop one of the world's largest supercomputers for industrial chemical research at BASF's Ludwigshafen headquarters this year. Based on the latest generation of HPE Apollo 6000 systems, the new supercomputer will drive the digitalization of BASF's worldwide research.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The new supercomputer will promote the application and development of complex modeling and simulation approaches, opening up completely new avenues for our research at BASF,&amp;quot; said Dr. Martin Brudermueller, Vice Chairman of the Board of Executive Directors and Chief Technology Officer at BASF. &amp;quot;The supercomputer was designed and developed jointly by experts from HPE and BASF to precisely meet our needs.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new system will make it possible to answer complex questions and greatly reduce the time required to obtain results from several months to days across all research areas. As part of BASF's digitalization strategy, the company plans to significantly expand its capabilities to run virtual experiments with the supercomputer. In addition, it will help BASF reduce time to market and costs by, for example, simulating processes on catalyst surfaces more precisely or accelerating the design of new polymers with pre-defined properties.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;In today's data-driven economy, high performance computing plays a pivotal role in driving advances in space exploration, biology and artificial intelligence,&amp;quot; said Meg Whitman, President and Chief Executive Officer, Hewlett Packard Enterprise. &amp;quot;We expect this supercomputer to help BASF perform prodigious calculations at lightning fast speeds, resulting in a broad range of innovations to solve new problems and advance our world.&amp;quot; &lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the help of Intel&lt;sup>®&lt;/sup> Xeon&lt;sup>®&lt;/sup> processors, high-bandwidth, low-latency Intel&lt;sup>®&lt;/sup> Omni-Path Fabric and HPE management software, the supercomputer acts as a single system with an effective performance of more than 1 Petaflop (1 Petaflop equals one quadrillion floating point operations per second). With this system architecture, a multitude of nodes can work simultaneously on highly complex tasks, dramatically reducing the processing time.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Customers are always looking for systems that deliver the best performance at the best total cost of ownership,&amp;quot; said Barry Davis, General Manager, Accelerated Workload Group, Intel. &amp;quot;Intel&lt;sup>®&amp;nbsp;&lt;/sup>Omni-Path Architecture is specifically designed to deliver outstanding performance while scaling cost-effectively from entry-level high performance computing clusters to larger clusters with 10,000 nodes or more -- offering a significant advantage on both fronts.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Developed and built by HPE, the new supercomputer will consist of several hundred computer nodes. The supercomputer will also leverage HPE Apollo Systems to give customers simplified administration efficiencies and flexibility to match their solutions to the workload and lower their total cost of ownership.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise &lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About BASF&lt;br>&#xa; &lt;/b>At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility. The approximately 114,000 employees in the BASF Group work on contributing to the success of our customers in nearly all sectors and almost every country in the world. Our portfolio is organized into five segments: Chemicals, Performance Products, Functional Materials &amp;amp; Solutions, Agricultural Solutions and Oil &amp;amp; Gas. BASF generated sales of about EUR 58 billion in 2016. BASF shares are traded on the stock exchanges in Frankfurt (BAS), London (BFA) and Zurich (BAS). Further information at &lt;a href=&quot;https://www.basf.com/us/en.html&quot; rel=&quot;nofollow&quot;>www.basf.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Intel and Xeon are registered trademarks of Intel Corporation in the United States and other countries.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement&lt;br>&#xa; &lt;/b>The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ubbj
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-delivers-faster-business-insights-and-industry-leading-security-with-new-high-performance-computing-solutions"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_ubbj>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_fbc4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/top-5-things-you-shouldnt-miss-from-hpe"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Top Five Things from the Quarter"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Top Five Things from the Quarter"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Together_HPE_Nimble.jpg"/>
+                        </contentblock_fbc4>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_uaq5
+                            jcr:lastModified="{Date}2018-10-23T13:35:41.449Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-delivers-worlds-largest-arm-supercomputer-for-u-s-department-of-energy-doe"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Worlds Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Worlds Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T13:35:41.449Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Delivers-World’s-Largest-Arm-Supercomputer-for-U.S.-Department-of-Energy-DOE-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T13:35:41.449Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_uaq5>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:41:40.011Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-launches-industrys-first-sdn-app-store-unleashing-new-wave-of-networking-innovations"
+        jcr:uuid="55e4258b-16d7-4944-abcd-6b7e465a10b2"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:00.000-07:00"
+        metaDescription="HP Launches Industry"
+        navTitle="HP Launches Industry's First SDN App Store, Unleashing New Wave of Networking Innovations"
+        pageTitle="HP Launches Industry's First SDN App Store, Unleashing New Wave of Networking Innovations"
+        priority="(None)"
+        subtitle="Enterprise-Ready HP SDN App Store Accelerates ROI With Integrated and Validated Applications While Enhancing Network Agility"
+        theme="dark"
+        UAID="8c196f2e-f36b-4c57-a9de-aa12e0e1af00"
+        UCID="e26b79ac-5750-4c4d-8c16-fba8c1e40520"
+        WPID="1573">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T21:12:08.374Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 25, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Enterprise-Ready HP SDN App Store Accelerates ROI With Integrated and Validated Applications While Enhancing Network Agility&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_9lmy
+                    jcr:lastModified="{Date}2018-10-18T21:16:39.345Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Sep 25, 2014) - HP (NYSE: HPQ) today announced the general availability of the&amp;nbsp;HP SDN App Store, launching a new wave of open, software-defined networking (SDN) innovation for customers and partners.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP SDN App Store provides HP's ecosystem partners a go-to-market platform together with consulting and support services that will enable customers to uncover the business value of SDN.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>IDC predicts that the market for SDN network applications will reach $1.1 billion by 2017,&lt;sup>(1)&lt;/sup>&amp;nbsp;increasing network application vendors' need for a scalable open marketplace to monetize their innovations. As the first enterprise-grade SDN application ecosystem in the market, the HP SDN App Store redefines the networking business model, offering the developer community a centralized platform connecting to customers around the world. Customers can now easily discover, learn and purchase specific network applications and download them to their environment for testing and live deployment.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Our customers are eager to transform their network architecture into a competitive advantage, and SDN applications make that possible,&amp;quot; said Antonio Neri, senior vice president and general manager, Servers and Networking, HP. &amp;quot;With the HP SDN App Store, we have completed the final piece of the SDN ecosystem by offering a vibrant, robust marketplace of innovations that supports more than 5 million users and provides support to customers as they migrate to SDN.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Redefining an open, SDN-enabled application ecosystem&lt;br>&#xa;&lt;/b>With major industry technology transitions for enterprises to address, such as security, cloud, mobility and big data, SDN is essential for paving the way to customer success in networking. HP remains focused on building an ecosystem of partners to create solution-driven applications that bring value and simplicity to customers. Examples of these offerings include the&amp;nbsp;HP Virtual Application Networks (VAN) SDN Controller, which has been downloaded more than 3,000 times, and HP SDN Software Development Kit, which has been downloaded more than 5,000 times.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP SDN Application Store offers independent software vendors an easy way to bring creative solutions to market, enabling IT managers who embrace SDN architecture to solve their unique network challenges through these applications.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help customers easily navigate the HP SDN App Store, HP will offer four different categories of applications defined by their support and test process:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The&amp;nbsp;HP Circle, with applications built and tested exclusively by HP.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The&amp;nbsp;Premium Circle, containing applications that are top sellers and jointly tested by HP and its partners.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The&amp;nbsp;Partner Circle, encompassing applications that have been self-tested by HP partners and reviewed by HP.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The&amp;nbsp;Community Circle, offering open-access and community-supported applications to demonstrate open source and concept SDN applications.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Introducing the first wave of applications&lt;br>&#xa;&lt;/b>As part of the HP SDN App Store launch, HP is introducing six partner applications, in addition to two applications developed by HP:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>BlueCat DNS Director&amp;nbsp;delivers network-driven enforcement of DNS policies that allow security infrastructures to gain complete visibility and control through IP address management data across all devices and applications.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Ecode evolve™&amp;nbsp;is an SDN orchestrator that facilitates dynamic service provisioning with built-in quality of service and denial-of-service mitigation. Streamlining network design, change simulation and automated policy provisioning, it accelerates operations.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>F5 BIG DDoS Umbrella&amp;nbsp;allows customers to implement network, application, DNS and SSL DDoS protection near the network edge, closer to the attacker.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>GuardiCore Defense Suite&amp;nbsp;provides highly scalable, SDN-based network security for software-defined data centers, detecting and mitigating advanced persistent threats, malware propagation and insider attacks, at an early stage.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>KEMP Adaptive Load Balancer Application, integrated with the HP VAN SDN Controller solution, provides end-to-end visibility of network paths for optimal routing of applications across the server and switching infrastructure.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Real Status Hyperglance&amp;nbsp;is a hybrid cloud and SDN simplified-management platform that provides a unified, full-scale, interactive topology view with 360-degree navigation, intuitive monitoring and context-aware controls for confident insight and action.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Network Protector&amp;nbsp;enables automated network posture assessment and provides real-time security across OpenFlow-enabled network devices.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Network Optimizer&amp;nbsp;for Microsoft Lync enables automated provisioning of network policy and quality of service to provide an enhanced end-user experience.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The HP SDN App Store offers a platform for customers to see real, high-value use cases of SDN that can benefit their organization,&amp;quot; said Thomas Borrel, vice president, Strategic Alliances, BlueCat. &amp;quot;Customers can easily access and deploy innovative solutions like BlueCat DNS Director to solve real business problems that legacy infrastructures cannot, and gain the complete visibility and control only IP Address Management can provide.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Integrating multiple SDN apps&lt;br>&#xa;&lt;/b>Available now from HP Technology Services, HP Trusted SDN Security Deployment helps customers successfully integrate, deploy and support multiple SDN security apps on their production network, getting simplified, coordinated security with surgically precise control. This deployment is part of HP's end-to-end Trusted Network Transformation approach for a safe journey to an SDN-enabled network without impacting business continuity. Information on additional SDN consulting and support services -- such as SDN Application and Controller Services and HP Foundation Care and Proactive Care -- is available on the HP SDN App Store.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Supporting channel partners through the HP SDN App Store&amp;nbsp;&lt;br>&#xa;&lt;/b>HP's channel partners play an end-to-end role in supporting customers on their transition to SDN. Upon purchasing SDN-enabled architecture, customers will work with channel partners to determine the right SDN applications for their environment, and will receive a discount code to be used in the HP SDN App Store.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;HP at Interop New York 2014&lt;br>&#xa;&lt;/b>HP will demonstrate the HP SDN App Store and available applications Sept. 29-Oct 3 in booth No. 121 at Interop New York. HP's networking products and SDN Apps are also powering the&amp;nbsp;InteropNet&amp;nbsp;Data Centers, a multivendor, high-speed network that serves the SDN lab, exhibitors and attendees at the event.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Availability&lt;br>&#xa;&lt;/b>The HP SDN App Store will be generally available on Oct. 1.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's premier EMEA client event,&amp;nbsp;HP Discover, takes place December 2-4 in Barcelona.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About HP&lt;br>&#xa;&lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1)&amp;nbsp;IDC, &amp;quot;SDN Momentum Builds in Datacenter and Enterprise Networks,&amp;quot; Doc No. 250288, August 2014.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5vlx
+                            jcr:lastModified="{Date}2018-10-18T21:17:54.877Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/att-selects-hewlett-packard-enterprise-for-cloud-based-subscriber-data-management"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="AT&amp;T Selects Hewlett Packard Enterprise for Cloud-based Subscriber Data Management"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="AT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T21:17:54.877Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/DataManagementweb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T21:17:54.877Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_5vlx>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nxwq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/gartner-names-hpe-a-leader-in-magic-quadrant-for-operations-support-systems"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Gartner-Names-HPE-a-Leader-in-Magic-Quadrant-for-Operations-Support-Systems.jpg"/>
+                        </contentblock_nxwq>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b018
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/maximize-enterprise-iot-value-with-the-intelligent-edge"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Maximize Enterprise IoT Value with the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Maximize Enterprise IoT Value with the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Maximize_Entperise.jpg"/>
+                        </contentblock_b018>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-18T21:07:20.252Z"
+            jcr:lastModifiedBy="esparza@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

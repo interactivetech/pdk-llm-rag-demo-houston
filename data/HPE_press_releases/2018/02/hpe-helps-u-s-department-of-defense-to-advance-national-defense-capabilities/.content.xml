@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:53:53.577Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/csr,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-helps-u-s-department-of-defense-to-advance-national-defense-capabilities"
+        jcr:uuid="a3645c69-dcfa-48d7-8580-2eb090c64456"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-02-20T10:24:39.000-08:00"
+        metaDescription="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+        navTitle="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+        pageTitle="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+        priority="(None)"
+        subtitle="HPE to deliver supercomputers and services for the DoD High Performance Computing Modernization Program at a total contract value of $57 million"
+        theme="dark"
+        UAID="24881509-0d19-4937-ae33-0ffe2a98c8ee"
+        UCID="2efd0f7a-b05b-4abd-a85c-e2a43a0200e1"
+        webSectionId="R11989"
+        WPID="199890">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="February 20, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/HPE-Helps-U.S.-Department-of-Defense-to-Advance-National-Defense-Capabilities.png"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T17:18:53.520Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE will deliver HPE SGI 8600 systems and services to the Air Force Research Laboratory (AFRL) DoD Supercomputing Resource Center (DSRC) and the Navy DSRC&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New supercomputers will accelerate the development and acquisition of advanced national security capabilities.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE to deliver supercomputers and services for the DoD High Performance Computing Modernization Program at a total contract value of $57 million&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_trfw
+                    jcr:lastModified="{Date}2018-10-15T20:13:32.346Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced it has been selected by the U.S. Department of Defense (DoD) to provide new supercomputers for the DoD High Performance Computing Modernization Program (HPCMP) to accelerate the development and acquisition of advanced national security capabilities. The U.S. Army Corps of Engineers, Engineering and Support Center, Huntsville, Alabama, awarded the contract.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;As part of the agreement, HPE will deliver HPE SGI 8600 systems and services to the Air Force Research Laboratory (AFRL) DoD Supercomputing Resource Center (DSRC) and the Navy DSRC at a combined total contract value of $57 million.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The four HPE SGI 8600 systems, to be located at the AFRL DSRC at Wright-Patterson Air Force Base, will support research including hypersonics and computational modeling of current and advanced air, naval, and ground weapon systems and platforms. The three systems to be installed at the Navy DSRC will support advanced weapons capabilities and provide high reliability for the Navy's global weather modeling requirements.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_egdf
+                    jcr:lastModified="{Date}2018-10-16T17:02:32.254Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Supercomputing is increasingly becoming a key to stay ahead of competition this applies to national defense just as to commercial enterprises&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T17:02:32.254Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_egdf>
+                <textonlycomponent_uxm1
+                    jcr:lastModified="{Date}2018-10-16T17:04:40.176Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;In our data-driven world, supercomputing is increasingly becoming a key to stay ahead of competition&amp;nbsp;–&amp;nbsp;this applies to national defense just as to commercial enterprises&amp;quot; said Bill Mannel, vice president and general manager, HPC and AI, Hewlett Packard Enterprise. &amp;quot;The DoD's continuous investment in supercomputing innovation is a clear testament to this development and an important contribution to U.S. national security. HPE has been a strategic partner with the HPCMP for two decades, and we are proud that the DoD now significantly extends this partnership, acknowledging HPE's sustained leadership in high performance computing.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Introduced in 2017, the HPE SGI 8600 is a sixth-generation system designed to solve the world's most complex problems in areas ranging from life, earth, and space sciences, to engineering, manufacturing and national security. Powering some of the fastest supercomputers in the world, it offers petaflops speed and scalability to thousands of nodes in an efficient and easy to manage architecture. The system features an extremely efficient liquid cooling solution which does not exhaust heated air into the data center.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_ohbe
+                    jcr:lastModified="{Date}2018-10-16T17:07:47.960Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE SGI 8600 is designed to solve the world's most complex problems in areas ranging from life, earth, and space sciences, to engineering, manufacturing and national security&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T17:07:47.960Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ohbe>
+                <textonlycomponent_mmno
+                    jcr:lastModified="{Date}2018-10-15T22:01:02.301Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The four HPE SGI 8600 systems delivered to the AFRL DSRC are running with 24-core Intel&lt;sup>®&lt;/sup> Xeon&lt;sup>®&lt;/sup> Scalable Processors on an Intel&lt;sup>®&lt;/sup> Omni-Path Architecture fabric. These systems will provide more than 7.3 Petaflops of compute capability and more than 12 Petabytes of usable storage, leveraging DDN&lt;sup>®&lt;/sup> EXAScaler&lt;sup>®&lt;/sup> technology, a high-performance parallel distributed file system based on Lustre.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The three HPE SGI 8600 Systems delivered to the Navy DSRC are also running with 24-core Intel&lt;sup>®&lt;/sup> Xeon&lt;sup>®&lt;/sup> Scalable Processors on an Intel&lt;sup>®&lt;/sup> Omni-Path Architecture fat-tree fabric. These systems will provide 6.8 Petaflops of compute capability and more than 12 petabytes of usable storage, based on DDN&lt;sup>®&lt;/sup> EXAscaler&lt;sup>®&lt;/sup>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;As part of the contract awards, HPE will also provide five years of 24/7 system support, including on-site system administration and applications support personnel from HPE.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_pqef
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/11/hpe-helps-businesses-capitalize-on-hpc-and-ai-applications-with-new-high-density-compute-and-storage"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Helps-Businesses-Capitalize-on-HPC-and-AI-Applications-with-New-High-Density-Compute-and-Storage.jpg"/>
+                        </contentblock_pqef>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5yj4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/hpe-and-tokyo-institute-of-technology-build-the-worlds-most-powerful-green-supercomputer"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Tokyo Institute of Technology Build the World's Most Powerful Green Supercomputer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Tokyo Institute of Technology Build the World's Most Powerful Green Supercomputer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/5_NewsroomImage.jpg"/>
+                        </contentblock_5yj4>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_c4d5
+                            jcr:created="{Date}2018-10-18T18:27:31.813Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T18:31:36.710Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hpe-accelerates-real-time-insights-for-deep-learning"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Accelerates Real-Time Insights for Deep Learning"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Accelerates Real-Time Insights for Deep Learning"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T18:31:36.710Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate02.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T18:31:36.710Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_c4d5>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

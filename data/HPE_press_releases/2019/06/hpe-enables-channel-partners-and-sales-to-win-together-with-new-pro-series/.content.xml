@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:46:10.575Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE Enables Channel Partners and Sales to win together with new ‘Pro’ series"
+        jcr:uuid="2a9b302c-b7a1-414e-93b3-c68aec941c07"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE Enables Channel Partners and Sales to win together with new ‘Pro’ series"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-06-17T13:00:00.000-07:00"
+        metaDescription="HPE provides sales, technical and marketing professionals with skills, assets, access and innovation to deliver mutual growth"
+        metaKeywords="HPE Pro Series,HPE Marketing Pro Academy,HPE Tech Pro Community,HPE Sales Pro Community,HPE Channel Partners"
+        metaOgImage="/content/dam/hpe/newsroom/2019/06/image-norend/HPE-Enables-Channel-Partners-and-Sales-to-Win-Together-with-New-Pro-Seri....jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE Enables Channel Partners and Sales to win together with new ‘Pro’ series"
+        pageTitle="HPE Enables Channel Partners and Sales to win together with new ‘Pro’ series"
+        priority="(None)"
+        socialDescription="HPE provides sales, technical and marketing professionals with skills, assets, access and innovation to deliver mutual growth"
+        subtitle="HPE provides sales, technical and marketing professionals with skills, assets, access and innovation to deliver mutual growth"
+        theme="dark"
+        UAID="cddfbe77-4421-4eab-b648-1be265666b4f"
+        UCID="7d091b77-7a4a-4680-9244-076488fae52c">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-06-11T16:51:06.453Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 17, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-11T17:15:36.000Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/imageOnly/HPE-Enables-Channel-Partners-and-Sales-to-Win-Together-with-New-Pro-Seri....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-11T19:06:11.736Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE launched new ‘Pro’ Series to deliver mutual growth with channel partners&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Sales Pro is announced as third pillar of new ‘Pro’ series&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE makes updates and enhancements to HPE Marketing Pro Academy and HPE Tech Pro Community&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_b9
+                    jcr:created="{Date}2019-06-11T17:19:58.217Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-11T17:20:16.829Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE provides sales, technical and marketing professionals with skills, assets, access and innovation to deliver mutual growth&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:17:40.111Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, Nevada - June 17, 2019 - At HPE Global Partner Summit 2019 today, Hewlett Packard Enterprise (HPE) announced further investment in the channel, and a new strategic milestone as the company expands and evolves collaboration opportunities for their partners. With a uniquely partner-driven and holistic approach, HPE is introducing the ‘Pro’ series to deliver channel partners the solutions, skills and programs to further develop their teams, transform customer experiences and drive business growth together.&lt;br>&#xa;&lt;br>&#xa;The new HPE Sales Pro Community and the enhanced and extended HPE Tech Pro Community and HPE Marketing Pro Academy offer uniform partner tools, training, resources and support mechanisms – as well as the opportunity to access the same learning and collaboration opportunities as HPE employees, and work as one team.&lt;br>&#xa;&lt;br>&#xa;HPE continues to lead with the ‘Partner First’ philosophy through a clear strategy of collaboration, specialist development and industry leading innovation. Today’s announcements demonstrate the close global connection between the partner community and HPE as alignment and consistency is enhanced across technical, marketing and sales teams at HPE and in the channel. The updates include:&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:20:02.490Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Sales Pro Community &lt;/b>is a new global approach to driving sales excellence for HPE and partner sellers through effective sales communications and sales enablement initiatives.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Tech Pro Community&lt;/b>, the &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/03/hpe-tech-pro-community-expands-globally-to-connect-solutions-architects-across-channel-partners-and-hpe.html&quot; target=&quot;_blank&quot;>recently announced&lt;/a> initiative for solution architects, is introducing a new reward and recognition program as well as two new industry leading certifications and a full suite of continuous learning paths for technical expertise.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Marketing Pro Academy&lt;/b> is expanding its offerings through a new online Digital Marketing Partner Learning center, and new Accreditation Program.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <pullquote_8f56
+                    jcr:created="{Date}2019-06-11T17:24:41.386Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-11T17:25:15.929Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE ‘Pro’ Series offers uniform partner tools, training, resources and support mechanisms&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-06-11T17:25:15.929Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_8f56>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:20:44.081Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>By focusing on global consistency in three areas (Connect, Learn, and Grow), the ‘Pro’ series expand opportunities for partners to work with HPE teams, gain visibility, enhance their skills, grow profitably and enjoy an increased ease of doing business – ultimately, differentiate and outperform the competition.&lt;br>&#xa;&lt;br>&#xa;“&lt;i>Every professional within our channel partner community plays an integral role in selling the right solution to a customer,&lt;/i>” said Paul Hunter Global Channel Chief for Hewlett Packard Enterprise. “&lt;i>HPE is demonstrating a new level of commitment and investment in our partners by extending access to the right tools and resources via the ‘Pro’ series which will improve the ease of doing business with us and drive their continued growth and success.”&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_b0
+                    jcr:created="{Date}2019-06-11T17:26:53.083Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:21:52.586Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>HPE Sales Pro Community Launches&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, HPE Sales Pro Community is announced as a new global approach to driving sales excellence for HPE and partner sellers through effective sales communications and sales enablement initiatives. HPE Sales Pro Community provides a way for us to collaborate with channel partners, a simplified and easy to understand view of training assets, and a single reward program bringing together previous regional programs.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e3
+                    jcr:created="{Date}2019-06-11T17:29:48.042Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:22:57.469Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Sales Pro Community will offer an interactive and collaborative space for HPE and partner sales to communicate, and successfully cascade prioritized news and product updates direct to sales professionals. Partners will also have seamless access to experts to support deals and secure business.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>In alignment with the continuous learning paths also established in HPE Tech Pro Community, HPE Sales Pro Community will now be utilizing modules from multiple existing and new sources including HPE Partner Ready sales certification, HPE’s internal sales accreditation program, License to Drive – Value, New Product Introductions, and other virtual sources to create a globally consistent, ongoing role-based learning experience for HPE and partner sales professionals.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and partner sales teams will have identical access to enablement materials, enhancing the ability to sell and grow together. HPE Sales Pro Community will deliver industry recognized certificates and digital badges in a single globally standard reward program. Simplified and harmonized global pricing and deal registration processes will ensure partners benefit from an improved user experience and usage of a new global pricing tool. Furthermore, alignment of HPE Partner Demo Program across all geographies will provide partners discounts that are more competitive.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_20
+                    jcr:created="{Date}2019-06-11T17:31:24.375Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:23:37.201Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>HPE Tech Pro Community Enhancements&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, HPE is enhancing &lt;a href=&quot;https://techpro.hpe.com/&quot; target=&quot;_blank&quot;>HPE Tech Pro Community&lt;/a> to help partners and HPE technical professionals to develop and deepen their solution architecture and design skills to enable business outcomes for their customers based on the HPE portfolio. These enhancements include:&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_7f
+                    jcr:created="{Date}2019-06-11T17:32:52.801Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:24:44.509Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>The introduction of two new Hybrid IT Architect certifications with training that enable solution architects to deliver industry leading business outcome driven solutions&lt;/b>. HPE Tech Pro Community is launching a new ASE Hybrid IT Architect certification and Master certification. These unique, industry leading certifications enable IT Architects to develop and validate their skills to architect and deploy an optimized hybrid IT infrastructure for key industry solution workloads aligned to the HPE Partner Ready Competencies. The new Master ASE certification, will be available on November 1, 2019.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A suite of concise continuous learning paths that help keep technical professionals on the cutting edge of HPE and industry innovation.&lt;/b> Effective immediately HPE is offering a full suite of continuous learning paths which provide job role-based learning on the latest HPE and industry technologies. Solution architects will have access to concise and powerful collections of learning activities with prioritized and curated technical content – everything they need to stay up to date with HPE’s entire portfolio to quickly configure and quote HPE solutions. On November 1 HPE will launch continuous learning digital badges to recognize completion of each learning path.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A reward and recognition program that incentivizes solution architects to engage and grow with HPE.&lt;/b> The new reward and recognition program for HPE Tech Pro Community members will provide additional benefits, higher recognition, and deeper levels of access to content and resources based on their investment in enablement with HPE. The program will launch on November 1, 2019.&lt;/span> &lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_28
+                    jcr:created="{Date}2019-06-11T17:33:54.497Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:26:51.471Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>HPE Marketing Pro Academy Expanded Offerings&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As part of HPE Marketing Pro Academy, HPE channel partners will have access to the new HPE Digital Marketing Partner Learning Center and Accreditation Program beginning in November 2019. Today, HPE is announcing a pilot, with selected partners, of the new online Learning Center that provides partners with access to educational videos and resources on digital marketing topics.&amp;nbsp;To support the success of HPE partners, the center will help enhance their skills and capabilities in digital marketing and developing more impactful, cost-effective digital marketing campaigns to win more business.&lt;br>&#xa; &lt;br>&#xa; HPE is also announcing the launch of the HPE Digital Marketing Partner Accreditation Program. The program, set to be available to partners beginning November 1, recognizes and acknowledges the successful completion of a structured digital marketing curriculum. The HPE Digital Marketing Accreditation will be awarded following the completion of a curriculum of online learning courses published within the HPE Digital Marketing Partner Learning Center, plus the completion of the HPE Digital Marketing Maturity Assessment. Partner marketers will earn an accreditation badge that validates their proficiency in digital marketing.&lt;br>&#xa; &lt;br>&#xa; Following the launch in &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/06/hpe-empowers-partners-to-drive-profitable-growth-with-new-best-in-class-consumption-program.html&quot; target=&quot;_blank&quot;>June 2018&lt;/a>, more than 750 HPE channel partners have completed the HPE Digital Marketing Maturity Assessment and had the opportunity to assess - at zero cost and in a quantitative way - their digital marketing capabilities. Today, HPE is announcing further enhancements including more personalization of the recommendations provided in the assessment reports.&lt;br>&#xa; &lt;br>&#xa; HPE Social Media Center is being enhanced to make it even easier for partners to access and share impactful content across their social channels. HPE is aggregating influencers and curating their most relevant content for partners to quickly and easily share to their Twitter and LinkedIn channels. HPE is developing a pilot program with a group of key partners to give them access to a new and unique opportunity to license and share Enterprise.nxt&lt;sup>1&lt;/sup> thought leadership content, without charge.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-11T17:39:09.461Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is focused on delivering partners the solutions and skills to transform customer experiences&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-06-11T17:39:09.461Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:27:17.092Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The announcements at HPE Global Partner Summit and Discover 2019 demonstrate that HPE is fully focused on delivering channel partners the solutions, skills and programs to transform customer experiences and deliver business outcomes together.&lt;/span> &lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-14T14:29:31.743Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future. &lt;br>&#xa; &lt;br>&#xa; &lt;sup>1&lt;/sup>Enterprise.nxt is a journalistically-driven, thought leadership platform that regularly publishes articles, reports, and audio content that helps IT leaders and tech execs navigate the ever-changing IT landscape.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Ella Hulbert, HPE&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:ella.hulbert@hpe.com&quot; target=&quot;_blank&quot;>ella.hulbert@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-14T19:58:34.866Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/celebrating-hpe-partners-for-outstanding-performance-and-commitment-to-customers"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Celebrating HPE Partners for outstanding performance and commitment to customers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Celebrating HPE Partners for outstanding performance and commitment to customers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-14T19:58:34.866Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/Celebrating-HPE-Partners-for-outstanding-performance-and-commitment-to-customers.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-14T19:58:34.866Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-14T19:57:56.991Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/03/hpe-tech-pro-community-expands-globally-to-connect-solutions-architects-across-channel-partners-and-hpe"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Tech Pro Community Expands Globally to Connect Solutions Architects Across Channel Partners and HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Tech Pro Community Expands Globally to Connect Solutions Architects Across Channel Partners and HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-14T19:57:56.991Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/03/image-norend/HPE-Tech-Pro-Community-Expands-Globally.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-14T19:57:56.991Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-06-14T19:56:01.248Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/our-partners-our-heroes"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Our partners, our heroes"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Our partners, our heroes"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-14T19:56:01.248Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/Paul-Hunter-our-partners-our-heroes.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-14T19:56:01.248Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-06-11T17:17:43.583Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

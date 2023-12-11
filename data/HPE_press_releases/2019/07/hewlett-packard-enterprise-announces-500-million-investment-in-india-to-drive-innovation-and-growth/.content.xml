@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:45:32.125Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise announces $500 million investment  in India to drive innovation and growth"
+        jcr:uuid="eb950aa5-4b74-42ef-915b-3120fff4c172"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise announces $500 million investment  in India to drive innovation and growth"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-07-24T04:00:00.000-07:00"
+        metaDescription="Investments will benefit customers, employees and citizens of India"
+        metaKeywords="hpe, hpe news, hpe newsroom,Investment, growth, research and development, manufacturing"
+        metaOgImage="/content/dam/hpe/newsroom/2019/07/image-norend/hewlett-packard-enterprise-announces-500-million-investment-in-india-to-drive-innovation-and-growth.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise announces $500 million investment  in India to drive innovation and growth"
+        pageTitle="Hewlett Packard Enterprise announces $500 million investment  in India to drive innovation and growth"
+        priority="(None)"
+        socialDescription="Investments will benefit customers, employees and citizens of India"
+        subtitle="Investments will benefit customers, employees and citizens of India"
+        theme="dark"
+        UAID="34cce8b4-dece-43f7-b8f8-95b1f0ab1fc3"
+        UCID="e752314b-100c-4408-bd08-4c949a88414f">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-07-22T19:28:57.637Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JULY 24, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-22T20:04:28.448Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/imageOnly/hewlett-packard-enterprise-announces-500-million-investment-in-india-to-drive-innovation-and-growth.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-22T19:32:59.607Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE will invest $500 million in India over the next 5 years to grow its operations, research and development, manufacturing and employee base in the country.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE’s investment is supporting the Indian Government’s initiatives in eEducation, eHealth and Digital Villages.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE will help enterprises in India redefine experiences, drive intelligent operations and extract value from their data.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_36
+                    jcr:created="{Date}2019-07-22T19:33:31.441Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-07-22T19:33:49.244Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Investments will benefit customers, employees and citizens of India&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T12:48:25.486Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New Delhi, July 24, 2019&lt;/b> – Hewlett Packard Enterprise (NYSE: HPE) today announced its plan to invest $500 million in India over the next five years. This strategic investment underscores HPE’s long-term commitment to India and will enable the company to grow its operations, manufacturing and employee base in the country, increase its R&amp;amp;D and services exports, as well as invest in technology initiatives to drive positive change for local Indian communities.&lt;br>&#xa;&lt;i>&lt;br>&#xa;“The Modi 2.0 administration’s vision of a $5 trillion economy is impressive and fitting for a country with this level of energy and opportunity,”&lt;/i> said Antonio Neri, President and CEO of HPE and a member of the US-India CEO Forum.&lt;i> &lt;/i>&amp;nbsp;&lt;i>“India is one of the largest and fastest-growing economies in the world, and our investments will further develop the country as a critical market for HPE’s global business, as well as benefit our customers, partners, employees and the citizens of India.”&lt;br>&#xa;&lt;br>&#xa;&amp;quot;It is a matter of great assurance that a global giant like Hewlett Packard Enterprise is making big investments in India both in manufacturing as well as research and development,” &lt;/i>said Mr. Ravi Shankar Prasad, Union Minister for Law &amp;amp; Justice, Communication and Electronics &amp;amp; Information Technology.&lt;i> “This shows the rising confidence of global investors in India's rapidly growing electronics manufacturing sector and the success of Digital India.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_b1fe
+                    jcr:created="{Date}2019-07-22T19:35:48.563Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T12:49:06.807Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Our investment will benefit our customers, partners, employees and the citizens of India&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-07-24T12:49:06.807Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_b1fe>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T13:02:54.395Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Development of India as a Key Growth Market through Hiring and Manufacturing&lt;br>&#xa; &lt;br>&#xa; &lt;/b>To support India’s continued growth as a strategic market for HPE’s global business, HPE plans to increase its workforce in India by 20% over the next three to five years.&amp;nbsp; In particular, HPE will hire new engineering talent with expertise in areas of critical importance to customers such as AI and networking.&lt;br>&#xa; &lt;br>&#xa; HPE will also begin construction of a high-tech extension to its Mahadevapura Campus in Bengaluru that will be able to house more than 10,000 employees, as well as state-of-the-art R&amp;amp;D facilities. When complete, the 1.3-million-square-foot campus will feature a state-of-the-art workplace, powered by HPE technologies, designed to enhance the employee, customer, and partner experience and foster a culture of innovation. The campus will support a broad range of functions including R&amp;amp;D, engineering services, finance, and sales.&lt;br>&#xa; &lt;br>&#xa; “&lt;i>Through our strategic investments in India we will continue to enhance our ability to help customers use technology to redefine experiences, improve operations and achieve their business goals,”&lt;/i> said Som Satsangi, MD, HPE India&lt;i>. “To deliver on that commitment, we are creating a culture for growth and innovation at HPE. Our new campus will help us to retain and attract quality talent to deliver for our customers and for the citizens of India.”&lt;br>&#xa; &lt;br>&#xa; &lt;/i>HPE also plans to commence manufacturing in India.&amp;nbsp; The company is scheduled to start manufacturing Aruba’s portfolio of mobility and IoT solutions in India before the end of 2019. Data and connectivity are catalysts for growth in India, and Aruba’s strong intellectual property and mobile-first philosophy make it ideally poised to facilitate this growth. The manufacturing capability in India will allow Aruba to rapidly innovate networking solutions that will deliver benefits in support of the Digital India agenda and to customers across the country.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_7c2a
+                    jcr:created="{Date}2019-07-24T12:50:21.431Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T12:50:46.252Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We are creating a culture for growth and innovation at HPE&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-07-24T12:50:46.252Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_7c2a>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T13:00:28.871Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Investments in Innovation to Drive Positive Societal Change&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE investment also includes innovations in support of the Indian government’s initiatives to apply technology to drive positive societal change in critical areas.&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>eEducation –&lt;/b> To address the gap of digital literacy among youth in rural areas, HPE has collaborated with NASSCOM Foundation to establish fully equipped digital classrooms under National Digital Literacy Mission (NDLM). These digital classrooms are an innovative, practical and cost-effective solution to deliver skills training to citizens seeking digital literacy education. There are over 50 digital classrooms across the country with four more set to be launched shortly in Maharashtra.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additionally, HPE along with Agastya International Foundation will set-up a Center of Excellence in Kuppam, Andhra Pradesh, focused on skilling students in IoT-based agriculture. The facility features advanced IT solutions that are at the leading edge of the agricultural sector’s innovation toward higher food production from finite land resources.&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>eHealth - &lt;/b>Addressing the need for affordable healthcare in emerging cities, the HPE eHealth Center (eHC) initiative helps improve access and effectiveness of primary healthcare in underserved areas. These eHCs are a cloud-enabled healthcare infrastructure solution that also offer health data analytics. Across India, more than 130 eHCs and 150 mobile eHCs are operational, and 15 new centers will be established across six states. The eHCs have already facilitated over 800,000 patient visits.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In support of the government’s target of making India TB-free by 2025, HPE announced it has signed the USAID TB pledge to provide free diagnostic services to more than 50,000 people through its eHC network.&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Digital Village – &lt;/b>Aligning with the government’s initiative to launch 100,000 digital villages in the next five years, HPE is today announcing a further five villages to benefit from a range of services including the HPE Digital Classroom, HPE’s eHealth Center, free public Wi-Fi provided by HPE Aruba and a range of online citizen services. This builds on the successful pilot launched last year in Manasampally, Telangana.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <imageonlycomponent_9
+                    jcr:created="{Date}2019-07-24T17:21:08.108Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T19:43:39.894Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/imageOnly/TB-pledge-with-USAID.jpeg"
+                    imageAlignment="hpe-image-left"
+                    topPadding="30"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_6f
+                    jcr:created="{Date}2019-07-24T19:42:55.648Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T19:43:16.505Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Signing pledge to make India TB free&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T13:01:06.906Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Helping Indian Enterprises Drive Digital Transformation&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Finally, the HPE investment will help enterprises in India redefine experiences, drive intelligent operations and extract value from their data.&amp;nbsp; For example, &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/news-advisory/2019/05/vodafone-idea-selects-hpe-solutions-to-manage-next-generation-networks-and-services.html&quot; target=&quot;_blank&quot;>Vodafone Idea&lt;/a>, the largest mobile operator in India, is working with HPE to transform the network's Service &amp;amp; Network Operations Center which controls its vast network and service offerings to over 334 million subscribers using HPE next generation operations support systems (OSS) and HPE Intelligent Assurance to turn vast amounts of telecommunications network data into actionable insight.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-24T12:58:42.967Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa; &lt;br>&#xa; &lt;b>Forward Looking Statements&lt;br>&#xa; &lt;br>&#xa; &lt;/b>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any financial projections; any statements of the plans, strategies and objectives of management for future operations; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events; and any statements or assumptions underlying any of the foregoing.&lt;br>&#xa; &lt;br>&#xa; Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the impact of macroeconomic and geopolitical trends and events; and other risks that are described in Hewlett Packard Enterprise's Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Stefanie Notaney, HPE&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>+1-650-258-0188&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:stefanie.notaney@hpe.com&quot; target=&quot;_blank&quot;>stefanie.notaney@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Corporate Media Relations&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:corpmediarelations@hpe.com&quot; target=&quot;_blank&quot;>corpmediarelations@hpe.com&lt;/a>&lt;/span> &lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-07-22T19:48:51.254Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/02/hpe-enhances-safety-and-security-of-citizens-through-implementation-of-indias-first-cloud-based-integrated-command-and-control-center"
+                            description="&lt;p>News Advisory&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE Enhances Safety and Security of Citizens Through Implementation of India's First Cloud-Based Integrated Command and Control Center"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Enhances Safety and Security of Citizens Through Implementation of India's First Cloud-Based Integrated Command and Control Center"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-07-22T19:48:51.254Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/Blog-Image-City-Lights.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-07-22T19:48:51.254Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-07-22T19:52:32.705Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2019/05/vodafone-idea-selects-hpe-solutions-to-manage-next-generation-networks-and-services"
+                            description="&lt;p>News Advisory&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Vodafone Idea selects HPE solutions to manage next generation networks and services"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Vodafone Idea selects HPE solutions to manage next generation networks and services"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-07-22T19:52:32.705Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/05/image-norend/vodafone-idea-selects-hpe-solutions-to-manage-next-generation-networks-and-services.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-07-22T19:52:32.705Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-07-22T19:56:08.132Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/01/creating-indias-cashless-economy"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Creating India's Cashless Economy"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Creating India's Cashless Economy"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-07-22T19:56:08.132Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Creating-India’s-Cashless-Economy-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-07-22T19:56:08.132Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-07-22T20:05:20.984Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

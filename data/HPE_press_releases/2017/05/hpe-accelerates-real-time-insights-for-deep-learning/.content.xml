@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:22:00.391Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-accelerates-real-time-insights-for-deep-learning"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        author="By Staff Writer"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-05-10T11:58:16.000-07:00"
+        metaDescription="HPE Accelerates Real-Time Insights for Deep Learning"
+        navTitle="HPE Accelerates Real-Time Insights for Deep Learning"
+        pageTitle="HPE Accelerates Real-Time Insights for Deep Learning"
+        priority="(None)"
+        UAID="03d835d2-f67f-4c90-b2fb-d88e3f1632c6"
+        UCID="d4247723-81ed-472a-8be8-326a57bba745">
+        <image
+            jcr:lastModified="{Date}2018-10-18T19:00:06.367Z"
+            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+        <main-par
+            jcr:lastModified="{Date}2018-10-18T19:01:03.827Z"
+            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T19:01:38.969Z"
+                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 10, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-10-18T19:02:21.670Z"
+                    jcr:createdBy="jodi.haugen@hpe.com"
+                    jcr:lastModified="{Date}2020-04-13T17:56:58.648Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., May 10, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (NYSE:HPE) today announced a comprehensive set of computing innovations to accelerate Deep Learning analytics and insights across all organizations with innovations spanning systems design, partner ecosystem collaboration, and expertise including flexible consumption models from HPE Pointnext Services.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Advanced artificial intelligence (AI) techniques, such as Deep Learning, are growing in popularity across various sectors including financial services, life sciences, manufacturing, energy, government and retail. HPE has a strong track record of delivering comprehensive, workload optimized compute solutions for all AI and Deep Learning with its purpose-built HPE Apollo portfolio that maximizes performance, scale and efficiency. With the latest innovations specifically targeted to Deep Learning, leveraging capabilities from the recent SGI acquisition, HPE now offers greater choice for larger scale, dense GPU environments and addresses key gaps in technology integration and expertise with integrated solutions and services offerings.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;“Customers pursuing Deep Learning projects face a variety of challenges including a lack of mature IT infrastructure and technology capabilities leading to poor performance, efficiency and time to value,” said Bill Mannel, Vice President and General Manager, High Performance Computing and Artificial Intelligence at Hewlett Packard Enterprise. “To address these challenges, HPE is introducing new optimized GPU compute platforms, an enhanced collaboration with NVIDIA and HPE Pointnext Services from the Core Datacenter to the Intelligent Edge.” &amp;nbsp;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The new portfolio of capabilities includes:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New HPE SGI 8600&lt;/b>: Based on the SGI ICE XA architecture, High Performance Computing platform with support for optimal combination of liquid-cooled GPU performance with NVIDIA&lt;sup>®&lt;/sup> Tesla&lt;sup>®&lt;/sup> GPU accelerators with NVLink&lt;sup>TM&lt;/sup>&amp;nbsp;interconnect technology to provide scale and efficiency for the most complex, largest environments - up to thousands of nodes with leading power efficiency.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Interactive Rendering from the&lt;/b>&amp;nbsp;Datacenter with the HPE Apollo 6500 and NVIDIA Tesla GPUs certified with NVIDIA VCA software&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Support for NVIDIA’s next generation Tesla GPUs based on its Volta® architecture&lt;/b>&amp;nbsp;when available in production quantities in the Apollo 2000, Apollo 6500 and Proliant DL380 servers&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&lt;b>HPE and NVIDIA Enhanced Collaboration for Deep Learning&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Through their collaboration HPE and NVIDIA will jointly address GPU technology integration and Deep Learning expertise challenges to accelerate the adoption of technologies that provide real-time insights from massive data volumes.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;“As the artificial intelligence era takes hold, enterprises are increasingly adopting NVIDIA's GPU computing platform to generate insights from decades of untapped data,” said Ian Buck, General Manager of Accelerated Computing at NVIDIA. “Expanding our collaboration with HPE around deep learning will help enterprises deploy, manage and optimize their GPU computing infrastructure and realize the benefits of AI and deep learning in their business.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Building on the recent HPE Supercomputer win at Tokyo Institute of Technology, which is one of the largest NVIDIA Tesla P100 GPU based clusters, this collaboration will deliver:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhanced Centers of Excellence for benchmarking, code modernization and proof of concept initiatives. The locations include Korea, Sydney, Grenoble, Bangalore and Houston&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Early access program for Volta-based NVIDIA Tesla SXM2 GPU systems powered with eight GPUs for selected customers in 4Q 2017&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;“Through our partnership with SGI, and now HPE, the Tokyo Institute of Technology has worked successfully to deliver a converged world-leading HPC and Deep Learning platform that can address our requirements and those of our nation,” said Satoshi Matsuoka, Professor and TSUBAME Leader, Tokyo Institute of Technology. “The NVIDIA Tesla P100 SXM2 node solution enables GPU based Deep Learning capability to be scalable to the entire size of our TSUBAME 3.0 system. We look forward to continuing our partnership with HPE to work together on future projects in HPC and Deep Learning.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&lt;b>Partner Ecosystem Collaboration for Deep Learning based Fraud Detection&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;As part of HPE’s partner ecosystem collaboration, HPE is working with Kinetica, a leading software application provider leveraging Deep Learning frameworks to develop a solution to automate, real-time fraud detection with GPU acceleration. Designed specifically for consumer credit card transaction processing, the new performance optimized, cost effective solution, will be demoed at the HPE booth during GTC.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;“We look forward to advancing the Kinetica GPU database with&amp;nbsp;HPE&amp;nbsp;and jointly offering a best-of-breed GPU-accelerated analytics solution that converges Artificial Intelligence and Business Intelligence workloads for financial services as well as for retail, healthcare and other industries,” said Chris Prendergast, Vice President of Business Development and Alliances from Kinetica.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&lt;b>Services to Enable and Support AI and Deep Learning Environments&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;As customers begin the journey to adopt these powerful and scalable IT solutions, HPE Pointnext provides the knowledge and expertise through its Advisory, Professional and Operational Services to help achieve desired business outcomes, including faster time to value. With AI and Deep Learning requiring scalable infrastructure, Pointnext offers HPE Flexible Capacity, a service that provides on-demand capacity, combining the agility and economics of public cloud with the security and performance of on-premises IT.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;“With the need to embed more intelligence and automation into data analytics to address scientific and business challenges, artificial intelligence-based techniques are growing in importance. HPE’s systems and solutions innovations announced today are designed to address key performance and expertise constraints affecting deep learning,” said Steve Conway, Senior Vice President for Research at Hyperion Research. “HPE's enhanced collaboration with NVIDIA for Deep Learning and comprehensive infrastructure capabilities, from the Core Datacenter to the Intelligent Edge, aims to use automated intelligence to enable real-time insights for customers.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE will showcase the new Deep Learning portfolio along with our fraud detection demo at GTC in San Jose at booth # 811. Additionally, Dr. Goh, and Professor Matsuoka will discuss Tokyo Institute of Technology’s large scale system, the latest TSUBAME3.0 supercomputer during a breakout session on the Scalable Learning Platform. &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry’s most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_2a
+                    jcr:created="{Date}2018-10-18T19:10:07.038Z"
+                    jcr:createdBy="jodi.haugen@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T19:11:41.507Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-18T19:10:26.814Z"
+                    jcr:createdBy="jodi.haugen@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T19:12:04.405Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-10-18T19:10:41.795Z"
+                    jcr:createdBy="jodi.haugen@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T19:12:24.751Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b4c0
+                            jcr:created="{Date}2018-10-18T19:12:40.972Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T19:24:09.050Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/04/ku-leuven-and-hewlett-packard-enterprise-advance-ai-capabilities-through-new-supercomputer"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T19:24:09.050Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/KUL-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T19:24:09.050Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_b4c0>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b938
+                            jcr:created="{Date}2018-10-18T19:13:02.786Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T19:29:32.270Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-delivers-faster-business-insights-and-industry-leading-security-with-new-high-performance-computing-solutions"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T19:29:32.270Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Extends-Industry-Leading-ProLiant-Gen10-Portfolio.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T19:29:32.270Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_b938>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ff7d
+                            jcr:created="{Date}2018-10-18T19:13:23.669Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T19:27:14.541Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/11/hpe-helps-businesses-capitalize-on-hpc-and-ai-applications-with-new-high-density-compute-and-storage"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T19:27:14.541Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Helps-Businesses-Capitalize-on-HPC-and-AI-Applications-with-New-High-Density-Compute-and-Storage.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T19:27:14.541Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_ff7d>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+        </main-par>
+    </jcr:content>
+</jcr:root>

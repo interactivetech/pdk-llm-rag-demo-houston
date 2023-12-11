@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T06:55:18.893Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/csr,hpe-newsroom:categories/networking,hpe-newsroom:categories/company---customers,hpe-newsroom:categories/industry---energy-&amp;-climate]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE builds NASA new supercomputer to support future human mission to moon"
+        jcr:uuid="172915aa-d9d2-453b-8969-77335526f090"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE builds NASA new supercomputer to support future human mission to moon"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-08-22T04:22:00.000-07:00"
+        metaDescription="New supercomputer at NASA’s Ames Research Center will run modeling and simulation workloads for lunar landings"
+        metaKeywords="HPE, high performance computing, HPC, supercomputing, NASA, NASA Ames, energy efficiency, Intel, Xeon, Mellanox, Schneider, data center, moon landing, space, space exploration"
+        metaOgImage="/content/dam/hpe/newsroom/2019/08/image-norend/hpe-builds-nasa-new-supercomputer-to-support-future-human-mission-to-moon.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE builds NASA new supercomputer to support future human mission to moon"
+        pageTitle="HPE builds NASA new supercomputer to support future human mission to moon"
+        priority="(None)"
+        socialDescription="New supercomputer at NASA’s Ames Research Center will run modeling and simulation workloads for lunar landings"
+        subtitle="New supercomputer at NASA’s Ames Research Center will run modeling and simulation workloads for lunar landings"
+        theme="dark"
+        UAID="d66008ce-0612-420b-9761-ccf147e3ce7e"
+        UCID="d695ed4e-41ff-442f-a048-59711b25225e">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-08-22T10:29:13.176Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="AUGUST 22, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:29:28.867Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/imageOnly/hpe-builds-nasa-new-supercomputer-to-support-future-human-mission-to-moon.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-11T14:56:18.482Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New supercomputer, called Aitken, will run complex simulations for future entry, descent, and landing (EDL) on the moon&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aitken is highly energy efficient, residing in NASA Ames’ new modular supercomputing facility, that will replace the need for a cooling tower and millions of gallons of water&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_54
+                    jcr:created="{Date}2019-08-22T10:29:50.164Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:30:18.121Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New supercomputer at NASA’s Ames Research Center will run modeling and simulation workloads for lunar landings&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:32:57.902Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise (HPE) announced today it custom-designed a new supercomputer for NASA’s Ames Research Center to support modeling and simulations of entry, descent, and landing (EDL) for the agency’s missions and Artemis program, a mission to land the next humans on the lunar South Pole region by 2024. The new supercomputer, which NASA Ames has named “Aitken,” is an initial development of a four-year, multi-phase collaboration between HPE and NASA Ames.&lt;/span> &lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_2117
+                    jcr:created="{Date}2019-08-22T10:33:21.572Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:33:44.712Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE powers future lunar landings with new supercomputer for NASA Ames&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-08-22T10:33:44.712Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_2117>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:38:55.437Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aitken, named after Robert Grant Aitken, an American astronomer specializing in binary star systems, will run thousands of complex simulations more quickly at 3.69 petaFLOPs of theoretical performance to enable accurate and safe landings on the moon.&lt;br>&#xa; &lt;br>&#xa; Aitken is based on the HPE SGI 8600 system, an end-to-end, purpose-built high-performance computing (HPC) platform, which includes special liquid cooling capabilities for optimal energy efficiency. Aitken is located in NASA Ames’ new modular supercomputing facility, based on a Modular Data Center (MDC) approach jointly developed with HPE, to deliver advanced HPC solutions that drive greater efficiency and significantly reduce electricity and water use.&lt;br>&#xa; &lt;br>&#xa; The new facility, based in Mountain View, California, will combine native Bay Area temperature and evaporative methods to cool the supercomputer, replacing the need for a cooling tower and millions of gallons of water.&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:34:54.840Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE and NASA continue to innovate HPC technologies, increasing efficiency and cost-savings &lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-08-22T10:34:54.840Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:35:52.943Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“HPE has a longstanding collaboration with NASA Ames, and together, we continue to build innovative HPC technologies to fuel space and science discovery that increase overall efficiency and reduce costs,” said Bill Mannel, vice president and general manager, HPC and AI, at HPE. “We are honored to have designed the new Aitken supercomputer and power capabilities for humanity’s next mission to the moon.”&lt;br>&#xa;&lt;b>&lt;br>&#xa;About Aitken&lt;br>&#xa;&lt;br>&#xa;&lt;/b>HPE designed the NASA Ames’ new supercomputer using the end-to-end, purpose-built HPE SGI 8600 system that integrates compute, software, networking and other IT infrastructure solutions from its robust ecosystem of partners, including:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>2&lt;sup>nd&lt;/sup> Generation Intel® Xeon® Scalable processors&lt;/b> for advanced compute performance&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Mellanox InfiniBand&lt;/b> to enable scalable bandwidth for high-performance networking&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Schneider Electric SmartShelter Containers&lt;/b> that enable easy-to-deploy, prefabricated IT infrastructure packaged within a secure, weather proof, fire-rated, data module for remote or special applications&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_3e
+                    jcr:created="{Date}2019-08-22T10:36:11.279Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T11:42:09.189Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Other features include:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>1,150 nodes, 46,080 cores, and 221 TB of memory&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>3.69 petaflops of theoretical peak performance&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Power Usage Effectiveness (PUE) of 1.03&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more about HPE’s HPC solutions and key industry collaborations across government, academic and commercial sectors, please visit &lt;a href=&quot;https://www.hpe.com/us/en/solutions/hpc-high-performance-computing.html&quot; target=&quot;_blank&quot;>https://www.hpe.com/us/en/solutions/hpc-high-performance-computing.html&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-22T10:37:52.728Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-08-22T11:17:02.102Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/blog-post/2019/01/powerful-supercomputing-to-propel-frances-high-performance-computing-hpc-artificial-intelligence-ai-research-and-development.html"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Powerful Supercomputing to Propel France’s High-Performance Computing (HPC) &amp; Artificial Intelligence (AI) Research and Development"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Powerful Supercomputing to Propel France’s High-Performance Computing (HPC) &amp; Artificial Intelligence (AI) Research and Development"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-22T11:17:02.102Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/01/image-norend/Powerful Supercomputing to Propel Frances HPC and AI Research and Development.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-22T11:17:02.102Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-08-22T11:18:14.278Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/press-release/2018/08/hpe-triples-performance-and-enhances-energy-efficiency-in-new-supercomputer-for-national-renewable-energy-laboratory-nrel.html"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-22T11:18:14.278Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/shared-publishing/homepage-v3/contentBlock-norend/HPE-Triples-Performance-and-Enhances-Energy-Efficiency-in-New-Supercomputer-for-National-Renewable-Energy-Laboratory-NREL.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-22T11:18:14.278Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-08-22T11:20:18.248Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/press-release/2018/11/hpe-delivers-first-above-the-cloud-supercomputing-services-for-astronauts-to-advance-space-exploration.html"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE delivers first above-the-cloud supercomputing services for astronauts to advance space exploration"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE delivers first above-the-cloud supercomputing services for astronauts to advance space exploration"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-22T11:20:18.248Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/Timeline/image-norend/Spaceborne-Computer-Now-Open-for-Supercomputing-Use-on-the-ISS.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-22T11:20:18.248Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-08-22T11:23:33.050Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

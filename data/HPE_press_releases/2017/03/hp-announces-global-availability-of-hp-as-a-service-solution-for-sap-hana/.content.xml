@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:17:10.232Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-announces-global-availability-of-hp-as-a-service-solution-for-sap-hana"
+        jcr:uuid="8164dfb8-7a90-482c-9e5b-01ac95f04de7"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:09.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Announces Global Availability of HP As-a-service Solution for SAP HANA"
+        navTitle="HP Announces Global Availability of HP As-a-service Solution for SAP HANA"
+        pageTitle="HP Announces Global Availability of HP As-a-service Solution for SAP HANA"
+        priority="(None)"
+        subtitle="Game-Changing Solution Helps Clients Quickly Analyze Big Data, Unlock Real-Time Insight While Lowering Costs"
+        theme="dark"
+        UAID="6a668a06-1fa7-4aa0-af73-925a339d05c7"
+        UCID="1dca49e6-0f85-407f-a10b-a7e04c0af99f"
+        WPID="1601">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-17T14:16:35.562Z"
+                jcr:lastModifiedBy="hpe.publishers"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 10, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Game-Changing Solution Helps Clients Quickly Analyze Big Data, Unlock Real-Time Insight While Lowering Costs&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_cz8d
+                    jcr:lastModified="{Date}2018-10-22T13:00:28.291Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jun 10, 2014) - HP (NYSE: HPQ) today announced that the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/saphana&quot;>HP As-a-Service Solution for the SAP HANA&lt;/a> platform is now available worldwide.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Announced 12 months ago, the game-changing HP As-a-Service solution for SAP HANA can include the software license for SAP HANA, along with hardware and ongoing management services, bundled into a complete solution provided in a cost-effective, as-a-service model.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Clients such as Origin Energy, Avon Cycles and Dr. Reddy's Laboratories have utilized the HP As-a-Service Solution for SAP HANA to harness the benefits of in-memory computing and analytics with greater speed and agility while reducing risk and significantly lowering upfront costs -- all via a simple-to-understand, monthly subscription fee.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Our clients have shown significant adoption and interest in the HP As-a-Service Solution for SAP HANA,&amp;quot; said &lt;/i>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/hp-information/executive-team/team.html#mike-nefkens&quot;>&lt;i>Mike Nefkens&lt;/i>&lt;/a>&lt;i>, executive vice president and general manager, HP Enterprise Services. &amp;quot;Whether a client wants help in defining the business case for SAP HANA or a full-blown as-a-service solution, HP and SAP have the skills and capabilities to make this a reality.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With its comprehensive capabilities, HP is especially well positioned to provide clients with an end-to-end service by integrating the HP Appliance Portfolio for SAP HANA, HP Infrastructure and Application Management Services for SAP HANA, HP Industry and Strategic Services for SAP HANA, and HP Helion Cloud and Security Services for SAP HANA into a single architecture and value proposition that can be offered under one commercial agreement. The solution allows SAP HANA to be consumed on a subscription basis, as milestone payments, or as &amp;quot;bring your own license,&amp;quot; helping clients unlock the value from already-purchased SAP HANA licenses.&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The ongoing investment HP is making in market-leading value propositions such as the HP As-a-Service Solution for SAP HANA, demonstrates that we have a complementary agenda -- to deliver extraordinary value to clients,&amp;quot; said Justin Battles, global vice president, Corporate Business Development, SAP.&amp;quot;HP's capabilities and collaborative approach means it is well positioned to deliver on the promise of SAP HANA to clients.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP and SAP are collaborating on various initiatives for SAP HANA to continue to deliver a step-change in value to the market. Examples of this include the next generation of HP ConvergedSystems and HP AppSystems for SAP HANA, enhancing HP's Helion Virtual Private Cloud capabilities for SAP HANA, developing Industry-specific solutions for SAP HANA, and identifying joint channels to market in efforts to further accelerate business uptake.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;br>&#xa; &lt;/b>The HP As-a-Service Solution for SAP HANA is available worldwide.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information about the HP As-a-Service Solution for SAP HANA is available at HP Discover in Las Vegas, booth No. 311.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAP, SAP HANA and all SAP logos are trademarks or registered trademarks of SAP AG in Germany and in several other countries.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Any statements contained in this document that are not historical facts are forward-looking statements as defined in the U.S. Private Securities Litigation Reform Act of 1995. Words such as &amp;quot;anticipate,&amp;quot; &amp;quot;believe,&amp;quot; &amp;quot;estimate,&amp;quot; &amp;quot;expect,&amp;quot; &amp;quot;forecast,&amp;quot; &amp;quot;intend,&amp;quot; &amp;quot;may,&amp;quot; &amp;quot;plan,&amp;quot; &amp;quot;project,&amp;quot; &amp;quot;predict,&amp;quot; &amp;quot;should&amp;quot; and &amp;quot;will&amp;quot; and similar expressions as they relate to SAP are intended to identify such forward-looking statements. SAP undertakes no obligation to publicly update or revise any forward-looking statements. All forward-looking statements are subject to various risks and uncertainties that could cause actual results to differ materially from expectations The factors that could affect SAP's future financial results are discussed more fully in SAP's filings with the U.S. Securities and Exchange Commission (&amp;quot;SEC&amp;quot;), including SAP's most recent Annual Report on Form 20-F filed with the SEC. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yaj4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/hpe-synergy-gains-momentum-in-the-market-driving-efficiencies-and-creating-new-opportunities-for-customers"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_Meeting.jpg"/>
+                        </contentblock_yaj4>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_h41p
+                            jcr:lastModified="{Date}2018-10-17T14:19:59.642Z"
+                            jcr:lastModifiedBy="hpe.publishers"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-expands-pay-per-use-it-to-key-business-workloads"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T14:19:59.642Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Expands-“Pay-Per-Use-IT”-to-Key-Business-Workloads.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T14:19:59.642Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_h41p>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ptyc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-extends-solutions-for-sap-applications-from-the-digital-core-to-the-intelligent-edge"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate08.jpg"/>
+                        </contentblock_ptyc>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

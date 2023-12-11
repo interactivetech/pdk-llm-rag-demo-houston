@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2018-11-19T14:37:54.196Z"
+        cq:lastModifiedBy="cheryl.nagle"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="08"
+        jcr:uuid="43ad2345-53a2-4fcf-8934-0e6ac0383419"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"
+        webSectionId="R11989"/>
+    <hewlett-packard-enterprise-appoints-tarek-robbiati-as-chief-financial-officer/>
+    <hpe-reports-fiscal-2018-third-quarter-results/>
+    <hpe-enhances-partner-program-to-deliver-higher-payouts-and-more-growth-opportunities/>
+    <hpe-triples-performance-and-enhances-energy-efficiency-in-new-supercomputer-for-national-renewable-energy-laboratory-nrel/>
+    <hewlett-packard-enterprise-to-present-live-audio-webcast-of-third-quarter-earnings-conference-call-3/>
+</jcr:root>

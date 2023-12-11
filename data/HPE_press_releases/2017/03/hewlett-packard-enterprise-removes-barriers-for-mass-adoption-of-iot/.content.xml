@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:35:29.526Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-removes-barriers-for-mass-adoption-of-iot"
+        jcr:uuid="0e3ce3bd-fd27-45c2-86c9-c50c71ee9fea"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:52:58.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+        navTitle="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+        pageTitle="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+        priority="(None)"
+        subtitle="New Solutions Enable Large Scale Wide Area, Enterprise and Industrial IoT Deployments"
+        theme="dark"
+        UAID="3d1721a9-3ecc-4af0-8ceb-ad143b0be8e9"
+        UCID="9a72434c-d55f-4d9a-af3d-3caf75a4cabf"
+        WPID="1155">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-22T13:04:06.707Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 30, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/RemovesBarriers-vb.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Solutions Enable Large Scale Wide Area, Enterprise and Industrial IoT Deployments&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_5eqw
+                    jcr:lastModified="{Date}2020-10-05T16:02:18.151Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LONDON, UNITED KINGDOM--(Marketwired - Nov 30, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today announced new innovations that help organizations rapidly, securely and cost-effectively deploy Internet of Things (IoT) devices in wide area, enterprise and industrial deployments. These solutions include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Mobile Virtual Network Enabler&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Universal IoT Platform&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aruba ClearPass Universal Profiler&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aruba 2540 Series Switches&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Edgeline Systems expand partnerships in edge computing and integrated control&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Cost-prohibitive economics and the lack of a holistic solution are key barriers for mass adoption of IoT,&amp;quot; said Keerti Melkote, senior vice president and general manager, Hewlett Packard Enterprise. &amp;quot;By approaching IoT with innovations to expand our comprehensive framework built on edge infrastructure solutions, software platforms and technology ecosystem partners, HPE is addressing the cost, complexity and security concerns of organizations looking to enable a new class of services that will transform workplace and operational experiences.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As organizations integrate IoT into mainstream operations, the onboarding and management of IoT devices remains costly and inefficient particularly at large scale. Concurrently, the diverse variations of IoT connectivity, protocols and security, prevent organizations from easily aggregating data across a heterogeneous fabric of connected things.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To deliver on IoT's promise of deriving valuable insights from billions of connected things, HPE is helping organizations optimize the lifecycle of IoT devices. By reducing IoT connectivity costs and translating device communications to a common language, HPE is arming organizations with tools to dramatically change the economics and viability of large scale IoT deployments.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Improved IoT Economics in Wide Area IoT Deployments&lt;br>&#xd;&#xa;&lt;/b> To improve the economies of scale for massive IoT deployments over wide area networks, HPE is announcing the new HPE Mobile Virtual Network Enabler (MVNE) and enhancements to the HPE Universal IoT (UIoT) Platform.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Mobile Virtual Network&lt;/b> &lt;b>Enabler&lt;/b> -- The new HPE Mobile Virtual Network Enabler gives customers greater control over IoT devices that need cellular connectivity and services. It will foster the emergence of new, specialized IoT Mobile Virtual Network Operators (MVNOs) that resell IoT connectivity directly to customers at price points optimized for large scale machine-to-machine (M2M) and IoT deployments. HPE MVNE provisioning, configuration, administration and billing services -- paired with wide area mobile network operator coverage -- change the economics of large-scale deployments by reducing IoT provisioning costs by up to 80 percent.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Universal IoT Platform&lt;/b> Designed for massive scale, multi-vendor and multi-network support using the oneM2M interoperability standard, the HPE Universal IoT Platform manages the HPE MVNE devices and provides multivendor IoT monitoring, reporting, and analytics services with carrier-grade reliability and scale. The platform supports long-range, low-power connectivity deployments such as LoRa and SIGFOX, as well as devices that use cellular, radio, Wi-Fi and Bluetooth.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>New enhancements include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>LightweightM2M standards support&lt;/i> -- Delivers plug-and-play interoperability between IoTdevices and UIoT services.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Expandeddevice management&lt;/i> -- Allows management of both SIM and non-SIM baseddevices across different systems, devices, and applications.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>IncreasedLoRa gateway support&lt;/i> -- Enables the use of multiple LoRa gateways with acommon set of applications to simplify device provisioning and control inheterogeneous LoRa environments&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &amp;quot;For the full benefit of IoT to be realized by commercial interests and consumers alike, IoT sensor networks need to be deployable anywhere, reaching the most remote places on Earth,&amp;quot; said Paul Gudonis, President of Inmarsat's Enterprise business. &amp;quot;The combination of Inmarsat's industry-leading, global satellite network and HPE's cloud-based Universal IoT Platform, allows enterprises to do exactly that. Our first project together in Precision Farming promises not only to create a new model for best practices in agriculture but is also an ideal go-to-market model of what our companies will be able to do across many other industries. We are extremely excited about this prospect.&amp;quot;&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>IoT Device Security in Local Area Networks&lt;br>&#xd;&#xa;&lt;/b> To deliver visibility and secure connectivity for large scale IoT deployments at the enterprise network edge, Aruba, a Hewlett Packard Enterprise company, announced the Aruba ClearPass Universal Profiler and the Aruba 2540 Series Switches. These new solutions identify and inventory all IoT devices as they connect to the network, and drive down the per-port cost of wired IoT connectivity.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new ClearPass Universal Profiler automatically identifies the attributes of IoT devices as they attempt to connect to the network. This enables IT managers to catalog what IoT devices are on wired and wireless networks and assign the appropriate policies to each one. The Universal Profiler provides visibility and context regarding risk and performance issues derived via IoT devices.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Aruba 2540 Series Switches further protect IoT devices with unified role-based access. This feature identifies and assigns roles to IoT devices as they connect, prioritizing business-critical applications and controlling which network resources the devices can access. The 2540 Series Switches are optimized for small-to-medium density IoT enterprise edge deployments.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>Delivering Edge Focused Innovation for Industrial IoT Deployments&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;b data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;/span>&lt;/b>&lt;span class=&quot;body-copy-large&quot;>Technology ecosystem partners are critical ingredients driving innovation for IoT. New application technology partners fuel the HPE Edgeline Converged Edge Systems to solve a variety of customer pain points and deliver new capabilities. Today, HPE is announcing multiple solutions and uses cases with an ecosystem of partners that will enable new IoT opportunities, including:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Factory Asset Anomaly Detection and Remediation -- &lt;/i>In collaboration with PTC and National Instruments, this Edgeline Systems offering enables early warning of potential failures, allowing maintenance techs to correct an issue before it becomes a major problem.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Data Management at the Edge -- &lt;/i>Developed with OSIsoft, this Edgeline Systems solution is designed for storing, managing and accessing time series data that is readily present in the operational technology and IoT world.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Featured Article: &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/blog-post/2017/03/living-on-the-edge-with-edgeline-converged-edge-systems.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>/living-on-the-edge-with-edgeline-converged-edge-systems&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Supporting Quotes&lt;br>&#xd;&#xa;&lt;/b> &amp;quot;We have selected HPE as a key partner in realizing the Government of India's Smart Cities' mission,&amp;quot; said Dr. Anand Agarwal, CEO, Sterlite Technologies. &amp;quot;As a strategic partner for IoT, HPE will co-develop smart city use cases on smart metering, water and waste management, and smart parking and lighting, among other technologies. These will be our showcase for Indian urban and rural bodies. Our partnership with HPE demonstrates that collaboration and joint innovation can drive increasing value for all stakeholders of Smart Cities, enabling a transformative change in the everyday living experiences of its citizens. By combining our technology and services' strength, we will offer a world-leading solution to the Smart Cities of India.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The oneM2M standards are focused on bringing the vision of a truly connected society to life through the development of technical specifications that address the need for a common M2M service layer that drives interoperability,&amp;quot; said Fran O'Brien, Steering Committee Chair, oneM2M.&amp;quot;oneM2M recognizes the work of companies like Hewlett Packard Enterprise (HPE) for its achievement in launching a oneM2M compliant IoT platform that solves a myriad of industry use cases such as Smart City, Smart Transportation and Connected Car.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;It is challenging to cobble together solutions from multiple vendors to interconnect and manage different IoT devices and systems,&amp;quot; said Zeus Kerravala, Principal Analyst, ZK Research. &amp;quot;This force fitting of solutions results in huge infrastructure and operations expenses and dramatically delays organizations' introduction of IoT solutions. The new solutions HPE is delivering to address the barriers to IoT adoption can significantly shorten deployment times and simplify the network architecture which will also improve security.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and Nokia collaborate to expand IoT initiatives:&lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-and-nokia-expand-collaboration-on-internet-of-things.html&quot; target=&quot;_blank&quot;>/hewlett-packard-enterprise-and-nokia-expand-collaboration-on-internet-of-things&lt;/a>&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xd;&#xa;&lt;/b> Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_24yt
+                            jcr:lastModified="{Date}2020-08-26T19:00:49.552Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-kit/2017/03/discover-london-2016"
+                            description="Press Kit"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Discover London 2016"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Discover London 2016"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-08-26T19:00:49.552Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/DiscoverMarquee.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-08-26T19:00:49.552Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_24yt>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nax7
+                            jcr:lastModified="{Date}2020-08-26T19:01:16.321Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/aruba-fundamentally-redefines-enterprise-core-switching-for-mobile-cloud-and-iot-demands"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Aruba Fundamentally Redefines Enterprise Core Switching for Mobile, Cloud and IoT Demands"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Fundamentally Redefines Enterprise Core Switching for Mobile, Cloud and IoT Demands"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-08-26T19:01:16.321Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NewsroomImage1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-08-26T19:01:16.321Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_nax7>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_6h2a
+                            jcr:lastModified="{Date}2020-08-26T19:01:24.401Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-acquires-niara-to-enhance-security-at-the-intelligent-edge"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-08-26T19:01:24.401Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Acquires-Niara.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-08-26T19:01:24.401Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_6h2a>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

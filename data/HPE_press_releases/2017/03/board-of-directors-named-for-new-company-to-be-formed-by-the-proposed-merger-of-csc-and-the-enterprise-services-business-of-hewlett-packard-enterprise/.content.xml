@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:41:23.504Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/storage,hpe-newsroom:categories/services]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="board-of-directors-named-for-new-company-to-be-formed-by-the-proposed-merger-of-csc-and-the-enterprise-services-business-of-hewlett-packard-enterprise"
+        jcr:uuid="61241308-c826-437f-af32-398728d36f4d"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:52:03.000-07:00"
+        metaDescription="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+        navTitle="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+        pageTitle="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+        priority="(None)"
+        subtitle="CSCs Mike Lawrie and HPEs Meg Whitman named to the newly created board of directors following the merger "
+        theme="dark"
+        UAID="e2541631-954a-4e64-b454-d6bbe7e65d0f"
+        UCID="17c9b989-e7e2-434c-9e17-a55765b14217"
+        WPID="1109">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-07-27T17:23:51.967Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="FEBRUARY 3, 2017 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/BoardOfDirectors_web.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-22T14:34:04.964Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>CSCs Mike Lawrie and HPE's Meg Whitman named to the newly created board of directors following the merger&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_gihm
+                    jcr:lastModified="{Date}2021-01-22T16:08:51.811Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PALO ALTO, Ca.&lt;/b> and &lt;b>TYSONS, Va.&lt;/b> , Feb. 3, 2017&amp;nbsp;&lt;b>–&lt;/b>&amp;nbsp;&lt;b>&lt;/b> CSC (NYSE: CSC) and Hewlett Packard Enterprise Company (NYSE: HPE) today named the Board of Directors of the company that will be formed by the proposed merger of CSC and the Enterprise Services Business of HPE. The merger proposal was announced on May 24 of last year, with the new company expected to debut on April 3, 2017.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>When the proposed merger was announced, the companies indicated that CSCs Mike Lawrie would become chairman, president and CEO of the combined company and that HPE's president and CEO Meg Whitman would join the new company's board. The remaining board appointments were to be split equally between nominees of HPE and existing members of CSC's board.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new company's board will consist of:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.dxc.technology/governance/ds/135976/135978-mukesh_aghi_biography?merger=true&quot; target=&quot;_blank&quot;>Mukesh Aghi&lt;/a> President of the U.S.-India Business Council;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Amy Alving Former Chief Technology Officer of SAIC;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.metlife.com/about-us/corporate-governance/board-of-directors/?WT.ac&quot; target=&quot;_blank&quot;>David Herzog&lt;/a> Former CFO of AIG and current member of boards of MetLife and AMBAC Financial Group;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Sachin Lawande CEO of Visteon Corporation;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Mike Lawrie Chairman, President and CEO of CSC;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.mercer.com/about-mercer/julio-portalatin.html&quot; target=&quot;_blank&quot;>Julio Portalatin&lt;/a> President and CEO of Mercer LLC;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Peter Rutland Partner and Global Co-head of Financial Services at CVC Capital Partners Limited (CVC);&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Manoj Singh Former Chief Operating Officer for Deloitte Touche Tohmatsu Ltd (DTTL);&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://investors.hpe.com/governance&quot; target=&quot;_blank&quot;>Meg Whitman&lt;/a> President and CEO of HPE; and&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.dxc.technology/governance/ds/135976/135988-robert_woods?merger=true&quot; target=&quot;_blank&quot;>Robert F. Woods&lt;/a> former SVP and CFO at Sungard Data Systems Inc.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The individuals who will serve on the new company board have been approved by both HPE and CSC and will join the new company board upon closing of the merger.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The proposed merger of CSC and HPE ES, which remains subject to CSC stockholder approval, will create the world's leading independent, end-to-end IT services company, focused on guiding clients on their digital transformation journeys. The new company is expected to have annual revenues of $26 billion and more than 5,900 clients in 70 countries.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About CSC&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>CSC (NYSE: CSC) leads clients on their digital transformation journeys. The company provides innovative next-generation technology services and solutions that leverage deep industry expertise, global scale, technology independence and an extensive partner community. CSC serves leading commercial and international public sector organizations throughout the world. CSC is a Fortune 500 company and ranked among the best corporate citizens. For more information, visit the company's website at &lt;a href=&quot;http://www.csc.com/&quot; target=&quot;_blank&quot;>www.csc.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a>&lt;u> (HPE)&lt;/u> is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>CSC Contacts:&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Richard Adamonis, Corporate Media Relations, 1.862.228.3481, &lt;a href=&quot;mailto:radamonis@csc.com&quot; target=&quot;_blank&quot;>radamonis@csc.com&lt;/a>&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Neil DeSilva, Global M&amp;amp;A and Investor Relations, 1.703.245.9700, &lt;a href=&quot;mailto:neildesilva@csc.com&quot; target=&quot;_blank&quot;>neildesilva@csc.com&lt;/a>&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Contact:&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Corporate Communications,&amp;nbsp;&lt;a href=&quot;mailto:corpmediarelations@hpe.com&quot;>corpmediarelations@hpe.com&lt;/a>&lt;b>&lt;/b>&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information and Where to Find It&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In connection with the proposed transaction, Everett SpinCo, Inc., a wholly-owned subsidiary of Hewlett Packard Enterprise Company (&amp;quot;HPE&amp;quot;) created for the transaction (&amp;quot;Spinco&amp;quot;), filed with the SEC a registration statement on Form S-4 and a registration statement on Form 10 containing a prospectus-information statement and CSC will file with the SEC a proxy statement on Schedule 14A. INVESTORS AND SECURITY HOLDERS ARE ADVISED TO READ THE REGISTRATION STATEMENTS AND PROSPECTUS-INFORMATION STATEMENT, BECAUSE THEY CONTAIN IMPORTANT INFORMATION ABOUT THE PARTIES AND THE PROPOSED TRANSACTION AND TO READ OTHER DOCUMENTS FILED BY CSC, HPE, AND SPINCO (INCLUDING AMENDMENTS TO EXISTING FILINGS) AS AND WHEN THOSE DOCUMENTS ARE FILED BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PARTIES AND THE PROPOSED TRANSACTION. Investors and security holders may obtain a free copy of these and other documents filed with the SEC by CSC, HPE andSpincoat the SEC's web site at &lt;a href=&quot;https://www.sec.gov/&quot; target=&quot;_blank&quot;>http://www.sec.gov&lt;/a>. Free copies of these documents as well as other documents that will be filed in the future (including amendments to the documents) and each of the companies other filings with the SEC, may also be obtained from CSCs web site at &lt;a href=&quot;http://www.csc.com/&quot; target=&quot;_blank&quot;>www.csc.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This communication is not a solicitation of a proxy from any investor or security holder. However, CSC, HPE, and certain of their respective directors, executive officers and other members of management and employees, may be deemed to be participants in the solicitation of proxies from stockholders of CSC in respect of the proposed transaction under the rules of the SEC. Information regarding CSC's directors and executive officers is available in CSC's 2016 Annual Report on Form 10-K filed with the SEC on June 14, 2016, and in its definitive proxy statement for its annual meeting of stockholders filed on June 24, 2016. Information regarding HPE's directors and executive officers is available in HPE's 2016 Annual Report on Form 10-K filed with the SEC on December 15, 2016, and in its definitive proxy statement for its annual meeting of stockholders filed on February 12, 2016. These documents as well as other documents filed by CSC, HPE or Spinco with the SEC can be obtained free of charge from the sources indicated above. Other information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the registration statements, prospectuses and proxy statement and other relevant materials to be filed with the SEC when they become available.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This communication shall not constitute an offer to sell or the solicitation of an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>All statements in this press release and in all future press releases that do not directly and exclusively relate to historical facts constitute &amp;quot;forward-looking statements.&amp;quot; Many factors could cause actual results to differ materially from such forward-looking statements with respect to the transaction referred to above including risks relating to the completion of the transaction on anticipated timing, including obtaining shareholder and regulatory approvals, anticipated tax treatment, unforeseen liabilities, future capital expenditures, inability to achieve expected synergies, loss of revenues, delay or business disruption caused by difficulties in integrating the businesses of CSC and Everett as well as the matters described in the &amp;quot;Risk Factors&amp;quot; section of Spinco's Form S-4 and Form 10, CSC's most recent Form 10-K and any updating information in subsequent SEC filings. CSC, Spinco and HPE disclaim any intention or obligation to update these forward-looking statements whether as a result of subsequent event or otherwise, except as required by law.&lt;/i>&lt;/span>&lt;b>&lt;/b>&lt;/p>&#xd;&#xa;&lt;p>&lt;b>&amp;nbsp;&lt;/b>&lt;/p>&#xd;&#xa;&lt;p>&lt;b>&amp;nbsp;&lt;/b>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_czst
+                            jcr:lastModified="{Date}2020-07-27T17:29:32.618Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/hpe-announces-closing-of-senior-notes-offering-by-enterprise-services-subsidiary"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Announces Closing of Senior Notes Offering by Enterprise Services Subsidiary"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Closing of Senior Notes Offering by Enterprise Services Subsidiary"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-27T17:29:32.618Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/SeniorNotes_web.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-27T17:29:32.618Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_czst>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_mh67
+                            jcr:lastModified="{Date}2020-07-27T17:29:45.195Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-announces-details-for-completion-of-spin-off-and-merger-of-its-enterprise-services-business"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-27T17:29:45.195Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Completion-of-Spin-Off-and-Merger.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-27T17:29:45.195Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_mh67>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_kpat
+                            jcr:lastModified="{Date}2020-07-27T17:29:53.033Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/08/hpe-announces-details-for-expected-completion-of-spin-off-and-merger-of-its-software-business"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Announces Details for Expected Completion of Spin-Off and Merger of its Software Business"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Details for Expected Completion of Spin-Off and Merger of its Software Business"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-27T17:29:53.033Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-27T17:29:53.033Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_kpat>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:59:11.585Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/software]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-completes-exchange-offer"
+        jcr:uuid="92c05da2-8801-4536-a42c-e16fa5eaaeda"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:52:58.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Completes Exchange Offer"
+        navTitle="Hewlett Packard Enterprise Completes Exchange Offer"
+        pageTitle="Hewlett Packard Enterprise Completes Exchange Offer"
+        priority="(None)"
+        theme="dark"
+        UAID="1d6a590c-7d71-46ce-a6e9-e58e1eaba9f1"
+        UCID="2ccc41fe-a4a5-4bb0-83c9-8e1e78f81c6b"
+        WPID="1142">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-22T09:55:17.630Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JANUARY 3, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/ExchangeOffer.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Completes Exchange Offer"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_vw9c
+                    jcr:lastModified="{Date}2018-10-22T10:23:29.463Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jan 3, 2017) - Hewlett Packard Enterprise Company (&amp;quot;HPE&amp;quot;) (NYSE: HPE) announced today the final results of its previously announced offer to exchange (the &amp;quot;Exchange Offer&amp;quot;) up to $14,600,000,000 aggregate principal amount of its outstanding unregistered (i) $2,250,000,000 2.450% Notes due 2017 (the &amp;quot;2017 Outstanding Notes&amp;quot;), (ii) $2,650,000,000 2.850% Notes due 2018 (the &amp;quot;2018 Outstanding Notes&amp;quot;), (iii) $3,000,000,000 3.600% Notes due 2020 (the &amp;quot;2020 Outstanding Notes&amp;quot;), (iv) $1,350,000,000 4.400% Notes due 2022 (the &amp;quot;2022 Outstanding Notes&amp;quot;), (v) $2,500,000,000 4.900% Notes due 2025 (the &amp;quot;2025 Outstanding Notes&amp;quot;), (vi) $750,000,000 6.200% Notes due 2035 (the &amp;quot;2035 Outstanding Notes&amp;quot;), (vii) $1,500,000,000 6.350% Notes due 2045 (the &amp;quot;2045 Outstanding Notes&amp;quot;), (viii) $350,000,000 Floating Rate Notes due 2017 (the &amp;quot;2017 Outstanding Floating Rate Notes&amp;quot;) and (ix) $250,000,000 Floating Rate Notes due 2018 (the &amp;quot;2018 Outstanding Floating Rate Notes&amp;quot;) (collectively, the &amp;quot;Outstanding Notes&amp;quot;), for a like principal amount of its new registered (i) 2.450% Notes due 2017 (the &amp;quot;2017 Exchange Notes&amp;quot;), (ii) 2.850% Notes due 2018 (the &amp;quot;2018 Exchange Notes&amp;quot;), (iii) 3.600% Notes due 2020 (the &amp;quot;2020 Exchange Notes&amp;quot;), (iv) 4.400% Notes due 2022 (the &amp;quot;2022 Exchange Notes&amp;quot;), (v) 4.900% Notes due 2025 (the &amp;quot;2025 Exchange Notes&amp;quot;), (vi) 6.200% Notes due 2035 (the &amp;quot;2035 Exchange Notes&amp;quot;), (vii) 6.350% Notes due 2045 (the &amp;quot;2045 Exchange Notes&amp;quot;), (viii) Floating Rate Notes due 2017 (the &amp;quot;2017 Exchange Floating Rate Notes&amp;quot;) and (ix) Floating Rate Notes due 2018 (the &amp;quot;2018 Exchange Floating Rate Notes&amp;quot;) (collectively, the &amp;quot;Exchange Notes&amp;quot;).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Exchange Offer expired at 5:00 pm, EST, on December 23, 2016. As of the expiration date, tenders of $2,242,453,000 of 2017 Outstanding Notes, $2,526,889,000 of 2018 Outstanding Notes, $2,997,450,000 of 2020 Outstanding Notes, $1,345,047,000 of 2022 Outstanding Notes, $2,489,511,000 of 2025 Outstanding Notes, $748,085,000 of 2035 Outstanding Notes, $1,492,420,000 of 2045 Outstanding Notes, $349,000,000 of 2017 Outstanding Floating Rate Notes, and $250,000,000 of 2018 Outstanding Floating Rate Notes had been received. HPE accepted all of the Outstanding Notes tendered in exchange for the Exchange Notes and settlement occurred on December 30, 2016.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release shall not constitute an offer to sell or a solicitation of an offer to purchase the Exchange Notes or any other securities, and shall not constitute an offer, solicitation or sale in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking statements&lt;br>&#xa; &lt;/b>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the SEC, including but not limited to the risks described in Hewlett Packard Enterprise's Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_lu12
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-initiates-exchange-offer"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Initiates Exchange Offer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Initiates Exchange Offer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_lu12>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_qvhk
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/09/hewlett-packard-enterprise-company-announces-pricing-of-senior-notes"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Company Announces Pricing of Senior Notes"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Company Announces Pricing of Senior Notes"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_qvhk>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_f438
+                            jcr:created="{Date}2018-10-22T10:03:51.055Z"
+                            jcr:createdBy="silviu.gavriluta@hpe.com"
+                            jcr:lastModified="{Date}2018-10-22T10:25:17.795Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/09/hewlett-packard-enterprise-company-announces-pricing-of-senior-notes-2"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Company Announces Pricing of Senior Notes"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Company Announces Pricing of Senior Notes"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-22T10:25:17.795Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/shared-publishing/services/imageOnly/PubReady_Pub_21258_ProactiveCareServices_Promo_2x.md1.1.png"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-22T10:25:17.795Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_f438>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

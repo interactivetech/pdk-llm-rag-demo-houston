@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-21T00:42:38.894Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-leads-industry-to-new-school-of-cyber-defense"
+        jcr:uuid="2bb243cb-5aa6-491f-b902-3a6873dbb9d1"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:23.000-07:00"
+        metaDescription="HP Leads Industry to New School of Cyber Defense"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-leads-industry-to-new-school-of-cyber-defense/jcr:content/main-par/body-par/textonlycomponent_p0lc"
+        navTitle="HP Leads Industry to New School of Cyber Defense"
+        pageTitle="HP Leads Industry to New School of Cyber Defense"
+        priority="(None)"
+        subtitle="New HP Security Offerings Focus on Securing Interactions Between Users, Applications and Data"
+        theme="dark"
+        UAID="64804b83-75a7-4902-81ae-3bc7646ed065"
+        UCID="e5fdbc87-ea5d-4757-9d0d-d2fc5e0572d0"
+        WPID="1527">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-24T13:02:12.209Z"
+                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 21, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HP Security Offerings Focus on Securing Interactions Between Users, Applications and Data&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_p0lc
+                    jcr:lastModified="{Date}2023-04-21T00:42:38.874Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN FRANCISCO, CA--(Marketwired - Apr 21, 2015) - HP (NYSE: HPQ) today unveiled new security offerings to help organizations embrace a &amp;quot;New School of Cyber Defense&amp;quot; by protecting the interactions between users, applications, and the boundless data exchanged to safely fuel growth and innovation. As information flows through data centers to the cloud and out to personal devices, the data must be secured at every step. The new HP Security products and services announced today address this approach to security incorporating user behavior analytics, data-centric cloud access protection, mobile application reputation analysis, contextual threat intelligence sharing, and incident response.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations worldwide spent approximately $77 billion on cyber security in 2014,&lt;sup>1&lt;/sup> while successful breaches increased 25 percent.&lt;sup>2&lt;/sup> Adversaries continue to evolve while organizations increasingly adopt new ways of doing business -- and the current approach to securing interactions between users, applications and data isn't keeping up.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This calls for a new approach to cyber defense. Building on security fundamentals such as monitoring events and securing the perimeter, organizations must shift their focus to protecting what matters most -- the interaction between the users, the applications and the data that carry the sensitive information adversaries target.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The old school approach to cyber security focused on securing the perimeter, but the data powering business today goes beyond our four walls and must be protected from cyber threats regardless of where it resides,&amp;quot; said Art Gilliland (&lt;a href=&quot;https://twitter.com/ArtGilliland&quot; target=&quot;_blank&quot;>@ArtGilliland&lt;/a>), senior vice president and general manager, HP Security. &amp;quot;In today's environment, we must challenge ourselves to embrace the new school of thinking that goes beyond the infrastructure to protect what matters most -- the interactions between users, applications and data that when protected, can fuel our businesses and accelerate growth.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Tackling Insider Threats through Behavioral Analytics&lt;br>&#xd;&#xa;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP today announced a new offering that gives companies visibility into user behavior, delivering a simple, efficient way to detect malicious users within the enterprise. Partnering with security analytics company &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.securonix.com/&quot;>Securonix&lt;/a> to deliver an interoperable security intelligence offering designed to help track and identify the &amp;quot;enemy within,&amp;quot; HP ArcSight User Behavior Analytics (UBA) leverages the behavioral data generated by enterprise users along with broader network event intelligence to detect even the most complex threats.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Extending Cloud Data-Centric Security &lt;br>&#xd;&#xa;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP today announced a new cloud access security platform designed to complement the existing HP Atalla cloud security portfolio, and expand its leadership in data-centric security. The new HP Cloud Access Security Protection platform provides 'borderless' protection of the data itself -- at rest, in use or in motion -- through a partnership with cloud access security broker Adallom to bring enhanced cloud security monitoring, governance and control capabilities to HP customers. The platform integrates HP's existing suite of data security offerings including HP Atalla Information Protection and Control (IPC), an added-value security solution that automatically encrypts files when moving information in and out of the cloud or across platforms.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Empowering BYOD through Mobile Application Protection&lt;br>&#xd;&#xa;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP today announced a new offering to help its customers manage their Bring-Your-Own-Device (BYOD) policies more intelligently by providing a fully-integrated mobile application reputation database within the HP Fortify on Demand cloud-based portal. To further protect the interactions between users, data and the applications, all HP Fortify on Demand customers can now request free reputation and behavioral analysis of company-owned applications or those found in major app stores worldwide.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Going Beyond Threat Intelligence Sharing&lt;br>&#xd;&#xa;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Perhaps one of the best weapons in a company's security defense arsenal is collaboration. Because information sharing is intrinsic to a comprehensive security strategy, HP Security has developed HP Threat Central, which is now generally available for all customers. Delivering automated and open sharing of information, HP Threat Central offers contextual analysis of information, prioritization of security data and identification of results that will allow organizations to take action.In addition to value-added intelligence, analysis of underground forums and threat actor profiling from HP Security Research, HP Security is also working to augment the HP Threat Central service with intelligence feeds from a network of companies, including &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.alienvault.com/?utm_medium=PR&quot;>AlienVault&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.crowdstrike.com/&quot;>Crowdstrike&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Addressing Incident Response and Advanced Threat Detection &lt;br>&#xd;&#xa;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Security is focused on building a comprehensive set of best-in-class security offerings to deliver unparalleled global access to a comprehensive suite of security remediation services. In line with this mission, HP Security and &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.fireeye.com/&quot;>FireEye&lt;/a> today announced a partnership that will deliver incident response offerings and develop an industry standard reference architecture providing customers with a blueprint for advanced threat protection services and incident response capabilities.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This partnership offers customers choice, and supports HP's overall strategy to deliver world class security capabilities. These capabilities draw on investments in industry-leading solutions from HP ArcSight, HP Atalla, HP Fortify, HP TippingPoint and HP Security Voltage along with partnerships with industry-leaders such as Adallom, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.securonix.com/&quot;>Securonix&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.trendmicro.com/us/indexnight.html&quot;>Trend Micro&lt;/a>. Together, these solutions help customers address security strategies in line with the &amp;quot;New School of Cyber Defense&amp;quot;.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To hear more about the &amp;quot;New School of Cyber Defense&amp;quot;, attend Gilliland's keynote presentation on the main stage at the RSA Conference 2015 Conference on Wednesday, April 22, 3:05 p.m. PT. Additional information about HP Security solutions is available at HP booth No. 3403 at the conference.Keep up with RSA Conference happenings by following the hashtag #RSAC and follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsecurity&quot;>@HPsecurity&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP Security&lt;br>&#xd;&#xa;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP enables organizations to take a proactive approach to security, disrupting the life cycle of an attack through prevention and real-time threat detection. With market-leading products, services and innovative research, HP Security brings a global network of security operations centers and more than 5,000 IT security experts to help customers strengthen their security posture to minimize risk and incident impact.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's annual enterprise security user conference, HP Protect, takes place September 1-4 in Washington, D.C.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xd;&#xa;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HPis available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Gartner Press Release, August 2014, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.gartner.com/newsroom&quot;>www.gartner.com/newsroom&lt;/a>&lt;br>&#xd;&#xa; &lt;sup>2&lt;/sup> Ponemon Institute Cost of Cyber Crime Study 2014&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>©2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ttue
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-first-to-market-data-centric-iot-security"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE_Discover16_LV_14978.jpg"/>
+                        </contentblock_ttue>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_m7g5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-security-arcsight-wins-trust-award-for-best-siem-security-solution-at-sc-awards-2017"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Glow.jpg"/>
+                        </contentblock_m7g5>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7uqt
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-report-reveals-trials-and-errors-of-security-operations"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SecurityOperations.jpg"/>
+                        </contentblock_7uqt>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

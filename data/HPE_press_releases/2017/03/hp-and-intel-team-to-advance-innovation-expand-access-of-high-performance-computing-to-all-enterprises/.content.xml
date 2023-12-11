@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:26:24.590Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-and-intel-team-to-advance-innovation-expand-access-of-high-performance-computing-to-all-enterprises"
+        jcr:uuid="1c91edd2-e0c4-4318-8395-1b86c3a2773c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        metaDescription="HP and Intel Team to Advance Innovation, Expand Access of High Performance Computing to All Enterprises"
+        navTitle="HP and Intel Team to Advance Innovation, Expand Access of High Performance Computing to All Enterprises"
+        pageTitle="HP and Intel Team to Advance Innovation, Expand Access of High Performance Computing to All Enterprises"
+        priority="(None)"
+        subtitle="Purpose-Built Solutions and HPC Centers of Excellence Help Enterprises Gain Faster Insights and Maximize Value From Increasing Amounts of Data and Technical Advancements"
+        theme="dark"
+        UAID="45a3f98c-8f8b-4a0c-9e20-e62ebd8b6049"
+        UCID="233876bb-1cc4-4286-bee6-16138f0f12b1"
+        WPID="1510">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-26T07:50:00.641Z"
+                jcr:lastModifiedBy="irina.rac@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="July 13, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Purpose-Built Solutions and HPC Centers of Excellence Help Enterprises Gain Faster Insights and Maximize Value From Increasing Amounts of Data and Technical Advancements&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_hpdp
+                    jcr:lastModified="{Date}2018-10-26T07:57:26.867Z"
+                    jcr:lastModifiedBy="irina.rac@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>FRANKFURT, GERMANY--(Marketwired - Jul 13, 2015) - At the International Supercomputing Conference, HP (NYSE: HPQ) today announced a High Performance Computing (HPC) alliance with Intel Corporation created to advance customer innovation and help expand accessibility of HPC to enterprises of all sizes. To increase accessibility of HPC, the companies will launch a new Center of Excellence (CoE), which is designed to bring a community of experts from both companies to support customers in planning, developing, deploying and managing HPC solutions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The promise of HPC is rapidly expanding beyond governments and academia to enterprises of all sizes that want to accelerate the pace of big data analytics and business insight. In fact, the International Data Corporation forecasts that the base HPC compute server market will reach $15.2 billion in 2019&lt;sup>1&lt;/sup>, as organizations seek to adopt HPC technologies to run advanced analytics and big data workloads.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>There is a perfect storm of market dynamics driving the accelerated demand for HPC across commercial enterprises including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>A wealth of new big data sources from the adoption of mobility, cloud computing, multimedia, social collaboration and the Internet of Things (IoT)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The rapid transformation of business processes across key industries, such as oil exploration, human genomics and real-time financial trading&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Recent advancements in processing technology that enable new levels of compute efficiency, scalability and ultra-high-speed processing performance, at a price-point that aligns with traditional general purpose IT&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As a result, commercial enterprises are finally in a position to leverage HPC to accelerate business innovation. With this alliance, companies now have the much needed accessibility to best-of-breed Intel and HP technology, industry-optimized HPC solutions from HP and the HPC CoEs with experts who can help achieve business goals.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As data explodes in volume, velocity and variety, and the processing requirements to address business challenges become more sophisticated, the line between traditional and high performance computing is blurring,&amp;quot; said Bill Mannel, vice president and general manager, HPC and Big Data, HP Servers. &amp;quot;With this alliance, we are giving customers access to the technologies and solutions as well as the intellectual property, portfolio services and engineering support needed to evolve their compute infrastructure to capitalize on a data driven environment.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Purpose-built Compute Platforms Customized for HPC customers &lt;br>&#xa; &lt;/b>As a result of the new alliance, HP is offering its HPC Solutions Framework based on HP Apollo servers, which are specialized for HPC and now optimized to support industry-specific software applications from an ecosystem of leading independent software vendors (ISV). These solutions will dramatically simplify the deployment of HPC for customers in industries such as oil and gas, life sciences and financial services. The HP Apollo product line integrates Intel's technology innovation from its HPC scalable system framework, which helps to extend the resilience, reliability, power efficiency and price/performance of the HP Apollo solutions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To provide finely tuned and well-balanced systems that focus on unique customer workloads and application performance, the systems will leverage next-generation Intel® Xeon® processors, the Intel® Xeon Phi™ product family, Intel® Omni-Path interconnect technology and the Intel® Enterprise Edition of Lustre*.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Enterprises large and small are grappling with the growing challenges of increased model complexity and data sizes,&amp;quot; said Charles Wuischpard, vice president Data Center Group, general manager Workstations and High Performance Computing at Intel. &amp;quot;Intel's HPC scalable system framework is a flexible blueprint for both computationally and data-intensive computing that provides optimized system performance at any scale -- while maintaining reliability and ease of programming through open standards. HP Apollo systems implementing the framework will be tailored to meet the stringent compute, I/O, memory and storage needs for HPC customers' workloads.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>These purpose-built HP Apollo Compute platforms will be tailored for a wide range of workload-optimized solutions while enhancing data center efficiency and enabling the foundational infrastructure to process, analyze and manage data. They can be customized to address unique customer requirements and address HPC and big data challenges.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Expands Center of Excellence for HPC&lt;br>&#xa; &lt;/b>The HPC CoE is designed to make it easier for customers to use and deploy HPC solutions and enhance their overall experience with a very unique blend of vertical industry skills and ISV partner relationships. It augments the innovative capabilities to deliver a rich customer experience, engineering, code modernization skills and a pool of domain experts to deliver differentiated business outcomes. HP and Intel are enhancing capabilities at the HPC CoE in Grenoble, France, including providing customers with the opportunity to work with ISVs, and HP/Intel engineers to modernize code. The HP/Intel CoE in Grenoble enables customers, developers and ISVs to carry out proof of concept, benchmarks and characterizations to optimize the infrastructure for HPC-related workloads. HP and Intel will also open a new CoE in Houston, Texas to better support the North American market.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The dedicated infrastructure and expertise available at the CoEs, as well as a broad portfolio of services, can be used on-site or accessed remotely.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>More information is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/hpc&quot;>www.hp.com/go/hpc&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>©2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> IDC update: &amp;quot;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.idc.com/getdoc.jsp?containerId=255224&quot;>The Broader HPC Market: Servers, Storage, Software, Middleware, and Services&lt;/a>&amp;quot;, May 2015.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_476e
+                            jcr:created="{Date}2018-10-26T07:58:15.335Z"
+                            jcr:createdBy="irina.rac@hpe.com"
+                            jcr:lastModified="{Date}2018-10-26T07:58:15.335Z"
+                            jcr:lastModifiedBy="irina.rac@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-delivers-faster-business-insights-and-industry-leading-security-with-new-high-performance-computing-solutions"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_476e>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_db18
+                            jcr:created="{Date}2018-10-26T07:59:39.265Z"
+                            jcr:createdBy="irina.rac@hpe.com"
+                            jcr:lastModified="{Date}2018-10-26T07:59:39.265Z"
+                            jcr:lastModifiedBy="irina.rac@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/04/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4623.jpg"/>
+                        </contentblock_db18>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5xrm
+                            jcr:lastModified="{Date}2018-10-26T08:08:33.599Z"
+                            jcr:lastModifiedBy="irina.rac@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/join-us-in-congratulating-the-winners-of-the-2017-hpe-partner-of-the-year-awards"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Join Us in Congratulating the Winners of the 2017 HPE Partner of the Year Awards"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Join Us in Congratulating the Winners of the 2017 HPE Partner of the Year Awards"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-26T08:08:33.599Z"
+                                jcr:lastModifiedBy="irina.rac@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NimbleWeb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-26T08:08:33.599Z"
+                                jcr:lastModifiedBy="irina.rac@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_5xrm>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

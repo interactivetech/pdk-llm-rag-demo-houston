@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:17:15.022Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE Unveils the World’s Most Secure Industry Standard Servers"
+        jcr:uuid="4a2e0850-6caf-4479-878b-b8f3fa6bfe74"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE unveils the world’s most secure industry standard servers"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-06-05T05:00:00.000-07:00"
+        metaDescription="New innovations, including the only custom-designed secure silicon chip, enhanced agility solutions and flexible payment models"
+        metaKeywords="hpe, hpe news, hpe newsroom"
+        metaOgImage="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE unveils the world’s most secure industry standard servers"
+        pageTitle="HPE unveils the world’s most secure industry standard servers"
+        priority="(None)"
+        socialDescription="New innovations, including the only custom-designed secure silicon chip, enhanced agility solutions and flexible payment models"
+        subtitle="New innovations, including the only custom-designed secure silicon chip, enhanced agility solutions and flexible payment models"
+        theme="dark"
+        UAID="c3dd1c36-a88c-4c20-8b50-f0e61faee5d5"
+        UCID="495032e7-6f77-4923-838f-0dc96e0e03fd">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-04-16T18:12:17.681Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 5, 2017 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-16T18:17:28.867Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-16T18:23:12.918Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New innovations, including the only custom-designed secure silicon chip, enhanced agility solutions and flexible payment models&lt;/h2>&#xa;"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-17T21:07:37.572Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO and LAS VEGAS – June 5, 2017 – Today, Hewlett Packard Enterprise (HPE) revealed the world’s most secure industry standard servers&lt;sup>[1]&lt;/sup>&amp;nbsp;with the introduction of its next-generation ProLiant portfolio. HPE is the first vendor to put silicon-based security into its industry standard servers, addressing firmware attacks, which are one of the biggest threats facing enterprises and governments today. Building on this&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/solutions/data-center-infrastructure.html&quot; target=&quot;_blank&quot;>new secure foundation,&lt;/a>&amp;nbsp;HPE also announced advancements in software- defined infrastructure that deliver new levels of agility and economic flexibility.&lt;br>&#xa; &lt;br>&#xa; Cyber-attacks have increased significantly as hackers become more sophisticated. Security breaches and vulnerability discoveries have been repeatedly attributed to firmware attacks. &amp;nbsp;Information Systems Audit and Control Association (ISACA) research reveals&lt;sup>[2]&lt;/sup>&amp;nbsp;more than 50 percent of cyber security professionals reported at least one incident of malware-infected firmware in 2016. HPE is the first company to respond by developing the “silicon root of trust” – a unique link between the custom HPE silicon and the HPE Integrated Lights Out (iLO) firmware to ensure servers do not execute compromised firmware code. Building this firmware security directly into the HPE silicon provides the ultimate protection against firmware attacks, as well as the ability to recover the essential server firmware automatically.&lt;br>&#xa; &lt;br>&#xa; HPE’s silicon root of trust designs security directly into the iLO chip, creating an immutable fingerprint in the silicon, preventing servers from booting up unless the firmware matches the fingerprint. Because HPE has total control of its own custom-made silicon chip and the server-essential firmware, it is the only vendor in the industry that can offer this advantage. The new silicon root of trust protection includes state-of-the-art encryption and breach detection technologies and is complemented by HPE supply chain security and HPE Pointnext security assessment and protection services.&lt;br>&#xa; &lt;br>&#xa; “A security breach in firmware is one of the most difficult to detect but can be one of the most damaging. Unfortunately, firmware is often overlooked in c-suite conversations about data center security, and cyber criminals are targeting this as a new attack surface,” said Patrick Moorhead, president and principal analyst of technology analyst and advisory firm Moor Insights &amp;amp; Strategy. “While many servers have some level of hardware security already built-in, HPE is creating firmware security inextricably tied with its custom made silicon, to help customers protect against these malicious attacks.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-16T18:42:17.375Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>&lt;b>Creating a New Compute Experience&lt;/b>&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The world’s most secure industry standard servers is just one part of&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/solutions/data-center-infrastructure.html&quot; target=&quot;_blank&quot;>HPE’s new compute experience&lt;/a>, which also includes enhancements to its software-defined infrastructure and flexible payment models. Through this new generation of capabilities powered by HPE ProLiant Gen10, customers can accelerate business insights across a hybrid world of traditional IT, public and private cloud. With HPE’s pay-as-you-go options, customers can scale up or down based on their businesses’ need and only pay for what they actually use.&lt;br>&#xa; &lt;br>&#xa; “Customers shouldn’t have to compromise when it comes to security, the agility of software-defined infrastructure and the flexibility of cloud economics,” said Alain Andreoli, senior vice president and general manager, Data Center Infrastructure Group, Hewlett Packard Enterprise. “With our ProLiant Gen10 portfolio, HPE is offering customers the best compute experience in the industry with unmatched security, new ways to accelerate insights and payment models that allow customers to choose options that work best for them”.&lt;br>&#xa; &lt;br>&#xa; &lt;u>&lt;b>Agility: Software-Defined Infrastructure&lt;/b>&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new compute experience offers customers the ability to accelerate applications and business insights through software-defined infrastructure. Today, HPE announced the following new updates, including:&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-16T18:29:08.900Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A new experience in software-defined infrastructure advancements:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE OneView 3.1&lt;/b>&amp;nbsp;supports the end-to-end Gen10 server platform and will transform compute, storage and network into software-defined infrastructure. The next generation, version 3.1, delivers composable storage capabilities, improved firmware management, extended support for a broad range of HPE compute platforms and support for new composable ecosystem partners including Mesosphere DC/OS. HPE and Mesosphere are announcing a strategic alliance that will help customers benefit from joint engineering, reference architecture and improved time to value.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Intelligent System Tuning&lt;/b>&amp;nbsp;offers a dynamic experience around applications in partnership with Intel on the Intel® Xeon® Processor Scalable family. These unique functions include modulate frequency (jitter smoothing), increased performance (core boosting), and tuning of the server to match workload profiles.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-16T18:31:14.720Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A new experience in “time to insight” to enhance development and productivity:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Synergy for Gen10&lt;/b>&amp;nbsp;including HPE Synergy 480 and HPE Synergy 660. These compute modules deliver increased performance across compute-and data-intensive workloads, such as financial modeling. In addition, they deliver breakthrough Ethernet 25/50 GB connectivity and a 2.8x increase in direct-attached storage (DAS) capacity.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_6a
+                    jcr:created="{Date}2019-04-16T18:32:32.807Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-17T21:08:18.395Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A new experience in workload optimization accelerating data-driven applications.&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Scalable Persistent Memory,&amp;nbsp;an integrated storage solution that runs at memory speeds with terabyte-scale capacity, unlocking new levels of compute performance with built-in persistence. With up to 27 times faster&lt;sup>[3]&lt;/sup>application checkpoint operations and 20 times faster&lt;sup>[4]&lt;/sup>&amp;nbsp;database restores, HPE Scalable Persistent Memory delivers the fastest persistent memory in the market at scale&lt;sup>[5]&lt;/sup>.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;u>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Economic Control: Pay-as-you-go Options Come to the Data Center&lt;/b>&lt;/span>&lt;/u>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Customers want the flexibility to choose whether they pay for their IT solution as a monthly operating expense or a capital expense. HPE offers consumption-based IT payment models that deliver the tangible business outcomes customers need – whether it’s cash flow improvement, accelerated deployment or cost effective capacity management. HPE Flexible Capacity changes the way customers consume IT to align with actual business needs. By paying only for what they use and leveraging an on-site buffer to scale up or down on demand, customers can save money by eliminating overprovisioning.&lt;br>&#xa; &lt;br>&#xa; To help customers align IT to business needs, HPE is introducing two new offerings:&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Capacity Care Service&lt;/b>&amp;nbsp;that enables mid-sized companies to control utilization and capacity management in order to reduce overprovisioning and raise utilization levels.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>IT Investment Strategy Workshops&lt;/b>&amp;nbsp;which are designed to help companies develop an IT investment strategy with funding models aligned to an IT investment roadmap.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;&lt;/b>As part of the new compute experience, storage offerings were&amp;nbsp;&lt;a href=&quot;https://news.hpe.com/hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it/&quot; target=&quot;_blank&quot;>announced&lt;/a>&amp;nbsp;on May 24, 2017.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;b data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Availability&lt;br>&#xa; &lt;br>&#xa; &lt;/b>&lt;/span>&lt;/b>&lt;span class=&quot;body-copy-large&quot;>The new generation of HPE ProLiant Servers, HPE Synergy Compute Modules and HPE Converged System will be available in the summer of 2017.&lt;/span>&lt;b data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa; &lt;br>&#xa; &lt;b>Additional Information&lt;/b>&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/resources/solutions/security-threat-levels.html?jumpid=af_zyh2qncgv7_aid-510292554&quot; target=&quot;_blank&quot;>HPE Locks Down Server Security&lt;/a>&amp;nbsp;(Moor Insights Whitepaper)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/resources/solutions/hybrid-it-compute.html?jumpid=af_8wiz3tprj1_aid-510292554&quot; target=&quot;_blank&quot;>Hybrid IT Helps Businesses Navigate Through Digital Transformation&lt;/a>&amp;nbsp;(Moor Insights Whitepaper)&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="10"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-17T21:09:26.387Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry’s most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;br>&#xa; &lt;br>&#xa; &lt;sup>[1]&amp;nbsp;&lt;/sup>Based on new silicon root of trust technology and other comprehensive security features, verified by InfusionPoints.&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>[2]&amp;nbsp;&lt;/sup>ISACA Study on Firmware Security Risks and Mitigation: Enterprise Practices and Challenges, 2016.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>[3]&lt;/sup>&amp;nbsp;27 times faster checkpoint operations comparing doing application checkpoint with MySQL on HDDs compared to HPE Scalable Persistent Memory.&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>[4]&lt;/sup>&amp;nbsp;20 times faster restores comparing restoring a Microsoft SQL Hekaton in-memory database with SSDs vs. restoring with HPE Scalable Persistent Memory.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>[5]&amp;nbsp;&lt;/sup>Fastest Persistent Memory in the market substantiation based on HPE’s solution using all DRAM – the fastest media on the memory bus.&amp;nbsp;&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-04-16T18:53:59.078Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-delivers-faster-business-insights-and-industry-leading-security-with-new-high-performance-computing-solutions"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-16T18:53:59.078Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/Hewlett Packard Enterprise Declares a Regular Dividend.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-16T18:53:59.078Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-04-16T18:56:39.552Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-extends-industry-leading-proliant-gen10-portfolio-to-deliver-breakthrough-economics-in-server-virtualization"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-16T18:56:39.552Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Extends-Industry-Leading-ProLiant-Gen10-Portfolio.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-16T18:56:39.552Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-04-16T18:59:17.839Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/06/hpe-delivers-dual-processor-performance-with-single-processor-economics-in-new-hpe-proliant-dl325-gen10-server"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-16T18:59:17.839Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-Dual-Processor-Performance-with-Single-Processor-Economics-in-New-HPE-ProLiant-DL325-Gen10-Server.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-16T18:59:17.839Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-04-16T19:00:21.300Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

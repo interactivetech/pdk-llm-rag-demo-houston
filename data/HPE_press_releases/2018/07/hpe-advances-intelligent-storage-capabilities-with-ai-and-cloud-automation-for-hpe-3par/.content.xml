@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:33:58.082Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-advances-intelligent-storage-capabilities-with-ai-and-cloud-automation-for-hpe-3par"
+        jcr:uuid="5733c92c-b16d-477d-9983-74be16a3f97f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-07-24T04:45:03.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        metaDescription="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+        metaKeywords="HPE 3PAR, predictive analytics, container platforms "
+        navTitle="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+        pageTitle="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+        priority="(None)"
+        subtitle="Self-improving infrastructure and integrated automation speeds time to revenue for enterprises"
+        theme="dark"
+        UAID="601dc76c-70d9-4c4e-b5a3-abf855e13dc8"
+        UCID="b609b3ee-b761-4c2f-8949-c483b487db9d"
+        webSectionId="R11989"
+        WPID="201205">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="July 24, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Press-release_1.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T11:35:06.374Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New capabilities of HPE 3PAR announced today help businesses accelerate digital transformation by delivering a self-improving infrastructure and self-service storage&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Predictive support automation with HPE InfoSight, the industrys most experienced AI for the data center, drives even higher levels of application availability for HPE 3PAR environments&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhanced application automation for on-premise infrastructure with HPE 3PAR accelerate DevOps for increased productivity and efficiency&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Self-improving infrastructure and integrated automation speeds time to revenue for enterprises&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_4tkz
+                    jcr:lastModified="{Date}2020-07-02T19:10:24.442Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PALO ALTO, California July 24, 2018&lt;/b> Hewlett Packard Enterprise (HPE) today announced new features to &lt;a href=&quot;https://www.hpe.com/us/en/storage/3par.html&quot; target=&quot;_blank&quot;>HPE 3PAR&lt;/a>, so users can focus on unlocking the economic value of their data. Updates to HPE 3PAR include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New predictive support automation with HPE InfoSight, the industrys most experienced AI for the data center, to drive even higher levels of application availability for HPE 3PAR environments&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhanced application automation for on-premise infrastructure with HPE 3PAR to accelerate DevOps for increased productivity and efficiency&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As businesses look to innovate faster, IT agility is critical. A more intelligent storage approach, coupled with flexible, consumption-based IT, eases the burden of administration and enables IT teams to focus on revenue generating priorities. The new capabilities of &lt;a href=&quot;https://www.hpe.com/us/en/storage/3par.html&quot; target=&quot;_blank&quot;>HPE 3PAR&lt;/a> announced today help businesses accelerate digital transformation by delivering a self-improving infrastructure and self-service storage.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;HPE 3PAR offers customers a flexible storage platform that easily adapts to any environment, which is critical as companies embrace new technologies and cloud native applications, said Ivan Iannaccone, VP and GM, HPE 3PAR. The new functionalities announced today build on 3PARs tier-1 all-flash foundation, and provide the agility needed to keep pace with growing business demands.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE InfoSight Predictive Analytics&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight is a cloud-based AI platform built on a unique approach to data collection and analysis, predicting and automating resolution to problems and continuously improving to make HPE storage smarter and more reliable. HPE InfoSight delivers HPE 3PAR customers a &lt;a href=&quot;https://www.hpe.com/us/en/storage/infosight.html&quot; target=&quot;_blank&quot;>predictive analytics&lt;/a> framework to anticipate and prevent issues across the infrastructure stack. HPE 3PAR users will now benefit from the HPE InfoSight capabilities to predict problems and automate resolution. This is in addition to the cross-stack analytics made available to HPE 3PAR customers, which provides IT the ability to resolve performance problems and pinpoint the root cause of issues between the storage and host virtual machines. Since releasing these capabilities, HPE InfoSight has already predicted and auto-resolved 85% of more than 1,500 complex, priority cases across the HPE 3PAR installed base.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As a financial institution focused on delivering exceptional client service, the availability of our applications is crucial, and weve achieved 100% uptime for more than five years with HPE 3PAR storage, said Ryan Burgess, Manager, Technology Infrastructure, BlueShore Financial. HPE InfoSight makes this experience even better by pinpointing issues between our storage and virtualized environment. Now that InfoSight predicts and prevents complex problems, it reduces our time spent on infrastructure and allows us more time for innovation and delivering a better experience to our clients.&amp;quot;&lt;/i>&lt;/span>&lt;i>&lt;/i>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_gjg3
+                    jcr:lastModified="{Date}2018-10-15T12:13:09.900Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>BlueShore Financial has achieved 100% uptime for more than five years with HPE 3PAR storage&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T12:13:09.900Z"
+                        jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_gjg3>
+                <textonlycomponent_06hq
+                    jcr:lastModified="{Date}2018-10-30T15:54:01.410Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight enables a new and better product experience that applies data science and intelligent case automation to help minimize the possibility of a known issue ever being experienced in the installed base. HPE InfoSight observes, learns and predicts in real time, bringing the most experienced AI to the data center.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;InfoSight, the industrys first and most mature cloud-based predictive analytics platform for enterprise storage, was one of the crown jewels of the Nimble Storage acquisition in 2017, said Eric Burgener, research vice president at IDC. As they promised in the wake of the acquisition, HPE has now extended InfoSight coverage to the HPE 3PAR StoreServ product line. This is a big win for 3PAR customers, who can expect to benefit from InfoSights artificial intelligence- and machine learning-informed real-time optimizations to drive higher performance, better availability, lower cost, and improved system-level efficiencies just as Nimbles customers have. Cloud-based predictive analytics platforms like InfoSight are the future, and the InfoSight pedigree offers compelling value to HPE customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enhanced integration with any automation framework for HPE 3PAR provides operational efficiency with self-service storage&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enterprises need to develop both mainstream, mission-critical applications andnewer, cloud-nativeapplicationson the same infrastructure in order to scale and save costs due to multiple storage systems. HPE 3PAR isa DevOps and container-friendly platform, allowing users to run both mainstream and containerized applications on the same enterprise-grade infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, HPE is also announcing:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Powerful toolsets to automate and manage HPE 3PAR for the cloud, DevOps, virtualization and container environments. In addition to existing integration with Docker and Mesosphere DC/OS, HPE 3PAR now works with Kubernetes and Red Hat OpenShift to offer best-in-class automation and integration with the leading &lt;a href=&quot;https://developer.hpe.com/platform/hpe-3par/home&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>container platforms&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>A new plug-in for VMwarevRealizeOrchestrator, which empowers users with self-service storage automation through pre-built workflows to quickly deploy, and streamline storage management.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhanced native infrastructure management toolchains to empower DevOps teams to be more agile. New pre-built blueprints for configuration management tools available for HPE 3PAR users - Chef, Puppet and Ansible, as well as language software development kits in Ruby and Python - enable DevOps teams to automate storage functions in native programming languages for faster application deliveries.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;With more than 1 million guests shopping our stores each week, we need infrastructure that enables us to constantly create new, innovative solutions to enhance the shopping experience and speed time to market, said Jeff Bridges, Manager of IT Enterprise Architecture, Security, Compliance, and Licensing, United Supermarkets. With HPE 3PAR, we can be more advanced and modern in our approach, taking advantage of the speed and flexibility of containers orchestrated by Kubernetes running alongside our traditional applications. As a result, weve been able to better support our customers by creating and deploying new guest services fasterlike loyalty apps and online shopping options.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Customers expect the same experience on-premise as they do with the public cloud, including a high degree of automation, no upfront investment by onlypayingfor what is consumed, elasticity of infrastructure, and a secure multi-tenant platform for onboarding unpredictable and heterogeneous workloads. HPE 3PAR has an architectural advantage to deliver these same capabilities on-premise by enabling customers to serve multiple user groups and applications while paying only for what they use via HPEGreenLake Flex Capacity.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more about HPE 3PAR storage, please visit: &lt;a href=&quot;https://www.hpe.com/storage/3par&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>https://www.hpe.com/storage/3par&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information about HPE 3PAR application automation tools, please visit: &lt;a href=&quot;https://developer.hpe.com/platform/hpe-3par/home&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>https://developer.hpe.com/platform/hpe-3par/home&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight predictive support automation is now available to all HPE 3PAR customers with an active support contract at no additional charge.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Extended application automation features are now available to all HPE 3PAR customers at no additional charge.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to core to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0kyy
+                            jcr:lastModified="{Date}2020-07-02T19:10:37.839Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/07/how-the-worlds-best-artificial-intelligence-engine-is-redefining-hpe-3par"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="How the worlds best artificial intelligence engine is redefining HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How the worlds best artificial intelligence engine is redefining HPE 3PAR"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:10:37.839Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Blog-post_1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:10:37.839Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_0kyy>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_r4th
+                            jcr:lastModified="{Date}2020-07-02T19:10:45.202Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-brings-artificial-intelligence-to-the-data-center"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Brings Artificial Intelligence to the Data Center"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Brings Artificial Intelligence to the Data Center"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:10:45.202Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Brings-Artificial-Intelligence-to-the-Data-Center.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:10:45.202Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_r4th>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_f4ps
+                            jcr:lastModified="{Date}2020-07-02T19:10:52.603Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/together-hpe-and-nimble-storage-will-deliver-the-industrys-leading-flash-storage-and-predictive-analytics-portfolio"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:10:52.603Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NewsroomImage1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:10:52.603Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_f4ps>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

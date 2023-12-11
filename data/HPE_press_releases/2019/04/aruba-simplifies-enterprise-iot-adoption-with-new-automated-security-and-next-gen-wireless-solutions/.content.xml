@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-09-08T20:27:14.843Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Aruba Simplifies Enterprise IoT Adoption with New Automated Security and Next-Gen Wireless Solutions"
+        jcr:uuid="d261b615-dfa8-452a-a60a-d61d76bd2451"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Aruba Simplifies Enterprise IoT Adoption with New Automated Security and Next-Gen Wireless Solutions"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-04-02T02:00:00.000-07:00"
+        featured="true"
+        metaDescription="New AI-powered ClearPass Device Insight and Expanded Wi-Fi 6 Portfolio Extend Aruba’s Innovations in Security, Connectivity and Analytics"
+        metaKeywords="Aruba,Aruba Networks,Aruba IntroSpect,Aruba ClearPass,Cybersecurity,Aruba360 Secure Fabric,User and Entity Behavioral Analytics ,UEBA,NAC,Network Access Control,Machine Learning,Internet of Things,IoT,Artificial Intelligence,AI,Security Automation,Automated Security,Advanced Threat Protection"
+        metaOgImage="/content/dam/hpe/newsroom/2019/04/image-norend/Aruba-Simplifies-Enterprise-IoT-Adoption-with-New-Automated-Security-and-Next-Gen-Wireless-Solutions.jpg"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/04/aruba-simplifies-enterprise-iot-adoption-with-new-automated-security-and-next-gen-wireless-solutions/jcr:content/main-par/body-par/columncontainercompo/column_1/contentblock_4dff"
+        navTitle="Aruba Simplifies Enterprise IoT Adoption with New Automated Security and Next-Gen Wireless Solutions"
+        pageTitle="Aruba Simplifies Enterprise IoT Adoption with New Automated Security and Next-Gen Wireless Solutions"
+        priority="(None)"
+        socialDescription="New AI-powered ClearPass Device Insight and Expanded Wi-Fi 6 Portfolio Extend Aruba’s Innovations in Security, Connectivity and Analytics"
+        subtitle="New AI-powered ClearPass Device Insight and Expanded Wi-Fi 6 Portfolio Extend Aruba’s Innovations in Security, Connectivity and Analytics"
+        theme="dark"
+        UAID="45c10f8c-c0eb-4d22-b7b7-38f61e5da1a3"
+        UCID="7de4dbd2-a4d4-428b-b304-4879ff4d80d1">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-04-01T16:47:10.888Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="APRIL 2, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T17:05:01.241Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/Aruba-Simplifies-Enterprise-IoT-Adoption-with-New-Automated-Security-and-Next-Gen-Wireless-Solutions.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T17:02:17.283Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Two new Aruba solutions help global IT teams effectively deal with an overwhelming 14 million IoT devices that connect daily to enterprise networks&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aruba innovation simplifies the adoption of IoT devices, eliminates security and connectivity worries, decreases associated operational costs and complexities&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>ClearPass Device Insight delivers single-pane-of-glass device visibility via automated IoT device discovery and machine learning-based fingerprinting and profiling&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Aruba 530 and 550 Series access points&#xa;extend the industry’s most advanced family of IoT-ready access points&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_ef
+                    jcr:created="{Date}2019-04-01T17:07:00.164Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T17:08:36.941Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New AI-powered ClearPass Device Insight and Expanded Wi-Fi 6 Portfolio Extend Aruba’s Innovations in Security, Connectivity and Analytics&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-09-08T20:24:47.692Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS – April 2, 2019 –&lt;/b> Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), today announced two new offerings to help enterprise customers simplify the adoption of IoT. First, Aruba &lt;a href=&quot;https://www.arubanetworks.com/assets/so/SO_ClearPass-Device-Insight.pdf&quot; target=&quot;_self&quot;>ClearPass Device Insight&lt;/a> delivers a single pane of glass for device visibility employing automated device discovery, machine learning (ML) based fingerprinting and identification. Additionally, Aruba introduced the Aruba &lt;a href=&quot;https://www.arubanetworks.com/products/networking/access-points/530-series/&quot; target=&quot;_self&quot;>530&lt;/a> and &lt;a href=&quot;https://www.arubanetworks.com/products/networking/access-points/550-series/&quot; target=&quot;_self&quot;>550&lt;/a> Series access points, an extension to the industry’s most advanced family of 802.11ax (Wi-Fi 6) IoT-ready access points. Together, these solutions allow enterprises to remove IoT security and connectivity barriers, while decreasing associated operational costs and complexities.&lt;br>&#xd;&#xa; &lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <pullquote_a3b9
+                    jcr:created="{Date}2019-04-01T17:12:37.454Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T17:13:09.830Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Automated discovery of IoT devices is foundational to an effective security defense&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-04-01T17:13:09.830Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_a3b9>
+                <textonlycomponent_38
+                    jcr:created="{Date}2019-04-01T22:58:42.180Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T22:59:05.779Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>When addressing their IoT strategies, organizations globally are faced with new security and connectivity challenges. There are more than 14 million new connected devices being added to the network every day&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>[1]&lt;/a>. The explosion of these vastly different and unpredictable device types renders manual device profiling techniques inadequate and makes automation a key requirement for securing IoT. To add to the complexity, many IoT devices are often connected to disparate overlay networks that typically support only one type of connectivity, such as Wi-Fi, Bluetooth or Zigbee.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-09-08T20:25:20.084Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>IoT Security Starts with Visibility: AI-powered Device Discovery and Profiling&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba’s new ClearPass Device Insight uses &lt;a href=&quot;https://www.arubanetworks.com/assets/so/SO_AIAdvantage.pdf&quot; target=&quot;_self&quot;>machine learning&lt;/a> and crowdsourcing to automate the discovery and fingerprinting of all connected devices and IoT devices on any wired or Wi-Fi network – regardless of vendor. Advanced technology from Aruba’s Data Science Laboratory leverages custom-built deep packet inspection (DPI) to create behavioral profiles that enable precision fingerprinting. ClearPass Device Insight’s cloud delivery platform leverages shared community learnings to identify newly-introduced devices. Used with Aruba ClearPass Policy Manager and Aruba’s Dynamic Segmentation security capabilities, IT teams can automate authentication and policy enforcement down to the device and user level, applying different access policies or rules based on the role designated for the device. If any device exhibits abnormal behavior, ClearPass can automatically quarantine or remove it from the network.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; According to Gartner, “line of business, operational technology and building automation networks that were historically air-gapped are converging onto the enterprise infrastructure, adding more IoT devices and more attack opportunities[2].”&lt;sup> &lt;/sup>Aruba’s closed-loop approach eliminates blind spots and provides IT teams with an automated and intelligent security solution for visibility into this massive volume and variety of devices to the corporate network, often without IT oversight. Comprehensive details about each device, including manufacturer, device location, ports and protocols used, application destinations and traffic volume are all available on ClearPass’ single-pane-of-glass management platform for complete IoT visibility and control.&lt;br>&#xd;&#xa; &lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <imageonlycomponent_e
+                    jcr:created="{Date}2019-04-01T23:02:59.519Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-02T00:10:28.042Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/Aruba Hero - ClearPass Device Insight.png"
+                    imageAlignment="hpe-image-center"
+                    topPadding="10"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_6a
+                    jcr:created="{Date}2019-04-01T23:06:23.159Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T23:11:18.058Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Aruba DeviceInsight automatically provides detailed information about all connected IoT devices on a single screen,&amp;nbsp;which simplifies adoption and enhances security.&lt;/i>&lt;/b>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_eb
+                    jcr:created="{Date}2019-04-01T23:03:48.063Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-02T00:09:18.074Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="10"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Being able to easily identify the growing number of wired and wireless IoT device types on our network, without interfering with sensitive medical equipment, is critical to our security and compliance goals,” said Kevin Rothstein, Network Engineer, Sharp Healthcare. “We are evaluating Aruba’s ClearPass Device Insight to help us discover and fingerprint all connected devices on a large scale. When integrated with ClearPass Policy Manager, we will have a powerful closed-loop policy enforcement solution down to each device.”&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_7b
+                    jcr:created="{Date}2019-04-01T23:00:23.197Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T23:00:46.551Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>IoT Connectivity: Wi-Fi 6 APs as a Platform for IoT&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba has also expanded its portfolio of next-generation 802.11ax IoT-ready access points to address growing wireless performance requirements as well as accelerate the adoption of IoT solutions. When organizations consolidate multiple networks onto a single, converged infrastructure, IT teams can reduce complexity and improve return on investment when executing their IoT strategy. A converged network simplifies IoT onboarding through automated endpoint discovery and provides a common policy framework for mobile devices, users and things.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T17:15:55.696Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>New APs ease adoption of IoT devices and meet growing network performance requirements&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-04-01T17:15:55.696Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_bc
+                    jcr:created="{Date}2019-04-01T20:26:58.559Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T23:13:21.491Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Like the 510 Series announced in November 2018, the new 530 and 550 Series APs eliminate the need for IoT gateways and the resulting complicated network management requirements, allowing IT teams to easily connect a diverse set of IoT devices and sensors that utilize different protocols. The support of Wi-Fi, Bluetooth 5 and Zigbee protocols on the new APs allow organizations to connect with 74% of today’s IoT devices.&lt;br>&#xa;&lt;br>&#xa;“As a leading producer of baked goods for the quick service restaurant and C-store industry in the U.S. and 20 countries globally, we have a strong need to simplify connectivity for our growing set of wireless IoT devices, from inventory sensors to handheld scanners,” said Eric Spille, Manager of Technical Services for The Bama Companies. “Aruba’s new Wi-Fi 6 access points with integrated Bluetooth 5 and Zigbee will provide us with a converged platform for IoT which could greatly reduce the complexity and cost of managing multiple networks and infrastructure appliances.”&lt;br>&#xa;&lt;br>&#xa;An added benefit of the 530 and 550 Series AP is that Wi-Fi 6 offers improved battery life for battery powered IoT devices. The protocol allows IoT devices to remain inactive until data needs to be transmitted. As a result, battery powered IoT devices realize a significant power savings, reducing the maintenance windows for IT staff. The efficiency improvements in Wi-Fi 6 amount to a faster performing and more efficient infrastructure as well as an enhanced experience for all the clients on the network.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="10"/>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T20:28:52.045Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>ClearPass Device Insight will begin initial customer shipments in April 2019 with a one year subscription cost starting at $1,260 USD for 100 devices. The Aruba 530 and 550 Series AP will be available in April 2019. The base US list price is $1,495 for the 530 Series and $1,895 for the 550 Series.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Channel Partner and Industry Analyst Quotes&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Pervasive enterprise digital transformation efforts are dramatically expanding the attack surface, leading organizations to face even more cybersecurity challenges than ever before,” said Bill Buckalew, Vice President of Partner Sales for Optiv. “Technologies such as Aruba’s ClearPass Device Insight, which automates device discovery and fingerprinting across the entire infrastructure, are an important component of an inside-out approach, which starts with the core requirement of every enterprise – risk mitigation – and builds out from there with customized strategy, infrastructure rationalization and operations optimization, ongoing measurement and communication. With a risk-centric foundation in place, enterprises can close vulnerability gaps and respond to new threats in a proactive, systematic way. We look forward to further expanding our partnership and achieving continued significant growth with Aruba this year and beyond.”&lt;br>&#xa; &lt;br>&#xa; “Our customers are struggling to manage huge volumes of connected devices, with new devices being added to the network daily,” said Wally Alicea, Senior Solutions Architect at Integration Partners. “We see this in large educational institutions, where they have a large set of student and faculty devices being combined onto the same infrastructure with building sensors and connected educational tools. Aruba’s ClearPass Device Insight helps IT staff manage this device growth in a more secure and compliant way by automating discovery and profiling and then linking that to a security policy that takes into account every single connected device.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="10"/>
+                <textonlycomponent_3e
+                    jcr:created="{Date}2019-04-01T17:18:23.484Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2022-09-08T20:25:53.904Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Blog&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>ClearPass Device Insight: &lt;a href=&quot;https://blogs.arubanetworks.com/solutions/introducing-clearpass-device-insight-cloud-enabled-ai-powered-device-discovery-and-profiling/&quot; target=&quot;_self&quot;>https://blogs.arubanetworks.com/solutions/introducing-clearpass-device-insight-cloud-enabled-ai-powered-device-discovery-and-profiling/&lt;/a>&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-09-08T20:26:36.116Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Aruba, a Hewlett Packard Enterprise company&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba, a Hewlett Packard Enterprise company, is a leading provider of next-generation networking solutions for enterprises of all sizes worldwide. The company delivers IT solutions that empower organizations to serve the latest generation of mobile-savvy users who rely on cloud-based business apps for every aspect of their work and personal lives.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; To learn more, visit Aruba at&amp;nbsp;&lt;a href=&quot;http://www.arubanetworks.com/&quot; target=&quot;_self&quot;>http://www.arubanetworks.com&lt;/a>. For real-time news updates follow Aruba on&amp;nbsp;&lt;a href=&quot;https://twitter.com/arubanetworks&quot; target=&quot;_self&quot;>Twitter&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/arubanetworks&quot; target=&quot;_self&quot;>Facebook&lt;/a>, and for the latest technical discussions on mobility and Aruba products visit Airheads Social at&amp;nbsp;&lt;a href=&quot;http://community.arubanetworks.com/&quot; target=&quot;_self&quot;>http://community.arubanetworks.com&lt;/a>.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;sup>[1]&lt;/sup> Gartner - &lt;i>Forecast: Internet of Things Endpoints and Associated Services, Worldwide, 2017&lt;/i> – December 2017 (ID: G00347577)&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;sup>[2]&lt;/sup> Tim Zimmerman, Barika Pace, &lt;i>IoT Solutions Can't Be Trusted and Must Be Separated From the Enterprise Network to Reduce Risk&lt;/i> (Gartner, May 14, 2018, ID# G00352858)&lt;i>&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_dd
+                    jcr:created="{Date}2019-04-01T17:22:01.767Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-01T20:29:44.292Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>Kathleen Keith&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>Aruba, a Hewlett Packard Enterprise company&lt;/p>&#xa;&lt;p>&lt;a href=&quot;mailto:kathleen.keith@hpe.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;/p>&#xa;&lt;p>or&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>Pavel Radda&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>Aruba, a Hewlett Packard Enterprise company&lt;/p>&#xa;&lt;p>&lt;a href=&quot;mailto:pavel.radda@hpe.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;/p>&#xa;"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2022-09-08T20:27:05.909Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="false"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="https://blogs.arubanetworks.com/solutions/introducing-clearpass-device-insight-cloud-enabled-ai-powered-device-discovery-and-profiling/"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Introducing ClearPass DeviceInsight: Cloud-Enabled, AI-Powered Device Discovery and Profiling"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Introducing ClearPass DeviceInsight: Cloud-Enabled, AI-Powered Device Discovery and Profiling"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T20:27:05.909Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/0000_hpe-to-acquire-cloud-cruiser.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T20:27:05.909Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2022-09-08T20:27:14.825Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="false"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="https://blogs.arubanetworks.com/solutions/introducing-clearpass-device-insight-cloud-enabled-ai-powered-device-discovery-and-profiling/"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Introducing Wi-Fi 6 Access Points for the Most Demanding Mobile and IoT Environments"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Introducing Wi-Fi 6 Access Points for the Most Demanding Mobile and IoT Environments"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T20:27:14.825Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/External-HPE-Antonio-AI-POV.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T20:27:14.825Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys"/>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-04-02T14:50:10.301Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

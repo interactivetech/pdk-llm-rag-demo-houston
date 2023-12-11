@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-23T15:52:32.820Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-introduces-new-application-lifecycle-management-software-for-devops-and-agile-environments"
+        jcr:uuid="74be8333-ed1a-45ec-b575-c940d841664e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:55.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Introduces New Application Lifecycle Management Software for DevOps and Agile Environments"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-introduces-new-application-lifecycle-management-software-for-devops-and-agile-environments/jcr:content/main-par/body-par/textonlycomponent_3zw9"
+        navTitle="Hewlett Packard Enterprise Introduces New Application Lifecycle Management Software for DevOps and Agile Environments"
+        pageTitle="Hewlett Packard Enterprise Introduces New Application Lifecycle Management Software for DevOps and Agile Environments"
+        priority="(None)"
+        subtitle="Latest Offering Leverages Open Source and Integrated Analytics to Enable Rapid, High-Quality Software Delivery"
+        theme="dark"
+        UAID="796f97a7-6d42-4dbf-b768-fb05eb8a902e"
+        UCID="a9d5665b-6087-47d1-acea-5549bf223d02"
+        WPID="1336">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T11:20:05.131Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 1, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Latest Offering Leverages Open Source and Integrated Analytics to Enable Rapid, High-Quality Software Delivery&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_3zw9
+                    jcr:lastModified="{Date}2023-03-23T15:52:32.808Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jun 1, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today announced the availability of HPE ALM Octane, an Application Lifecycle Management (ALM) software offering, designed to help customers accelerate their DevOps processes. This streamlined ALM solution leverages widely-used developer toolsets like Jenkins and GIT to bring continuous quality to lean, Agile, and DevOps-focused teams. HPE ALM Octane provides insights to developers and testers, helping them deliver applications quickly, without sacrificing quality or end-user experience.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To keep pace with a rapidly changing market landscape and deliver compelling customer experiences, organizations are building and enhancing software and mobile applications at lightning speed. This accelerating rate of change drives businesses to rethink how they optimize their internal software development processes. Application delivery management solutions that ensure on-going quality and scale at increased speed have not yet evolved fast enough to support development methodologies like Agile, Lean, and DevOps.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;At the core of successful business today, you will find agile, high-quality, high-performing applications that continuously provide engaging and intuitive user experiences,&amp;quot; said Raffi Margaliot (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/raffima&quot;>@raffima&lt;/a>), Senior Vice President and General Manager, Application Delivery Management, Hewlett Packard Enterprise. &amp;quot;However, to rapidly deliver these remarkable applications, IT teams need to be equally agile and continuously deliver high-quality products. HPE ALM Octane is specifically designed for Agile and DevOps-ready teams, bringing a cloud-first approach that's accessible anytime and anywhere, bolstered by big data-style analytics to help deliver speed, quality, and scale across all modes of IT.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Guided by Analytics and an Open Architecture, HPE ALM Octane Drives Speed, Quality, and Scale&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To improve product direction and execution, software development teams need products capable of integrating data from a wide array of developer and testing tools, to seamlessly report on the state of quality across the application delivery pipeline, and to enable big data-style algorithms to leverage lifecycle data. HPE ALM Octane achieves this for software developers to streamline production. Along with HPE ALM and Quality Center, HPE ALM Octane can bridge the gap for software developers and organizations who continue to use legacy methods of software development in existing projects to modern software development practices such as DevOps, lean, Agile, and more.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE ALM Octane is optimized for integration with widely adopted developer testing tools -- leveraging Swagger-documented REST APIs -- and an open platform architecture built on a layer of open source. While inherently open, HPE ALM Octane is designed to address the challenges associated with the scale required by enterprise software delivery. To accelerate application delivery across multiple teams, the solution provides visually guided and easily configured business rules and workflow.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE ALM Octane configures and manages automated testing within the context of a continuous integration pipeline, making it simple for developers to automatically view results and defects in context. In addition, through HPE ALM Octane's open architecture, organizations can leverage a wide array of test frameworks from both HPE and third party due to the incorporation of continuous integration tools such as Jenkins and Team City.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Key features offered by HPE ALM Octane include&lt;/b>:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enhanced Open Source Dev/Test Toolchains &lt;/b>- HPE ALM Octane, is integrated with a core set of widely adopted tools focused on test automation, collaboration and application deployment, which increase volume and shift testing left. Leveraging the strength of these tools, HPE ALM Octane adds value for cross-toolchain visibility and insight. The solution will support the following tools and frameworks:&lt;/span>&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Jenkins and TeamCity&lt;/i> integration to trigger continuous integration and testing activities, discover tests, execute test runs, and maintain relationships and report results -- including defects associated with each pipeline build.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>GIT&lt;/i> to provide manual tests script version management and managing tests in source code.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Business-Driven Development &lt;/i>(BDD) &lt;i>via support of Gherkin&lt;/i> to develop tests earlier in the design and development phases of the lifecycle; this helps streamline the use of automated testing from manual processes as tests are easily converted to automated scripts.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>A wide array of test automation tools from HPE and Open Source&lt;/i> including, HPE Unified Functional Testing, HPE LeanFT, HPE StormRunner Load, and Selenium that are executed via CI integration; and test activities, types and results which are continuously reported and linked to HPE ALM Octane application modules, builds and defects.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Swagger-documented REST API&lt;/i>s for straightforward third-party tool integration.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Continuous Quality for DevOps Software Delivery &lt;/b>- Utilizes the continuous integration process and associated activities to capture, analyze, provide, and present intuitively actionable data for defect management and tracking.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enhanced Collaboration with ChatOps &lt;/b>- Proactively tracks rapidly evolving relationships between pipeline activity, application architecture and components, and state of quality. In addition, HPE ALM Octane tracks change between application components, backlog, builds, tests, and defects. Artifacts, status, and relationships are easily maintained through intelligent tagging and with ChatOps, collaboration becomes context rich and automatic.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Hitachi Consulting provides leading digital enablement platforms to achieve our customer's goals by focusing on exceptional operational capabilities and performance,&amp;quot; said Jonathon Wright, Director of Digital Engineering at Hitachi Consulting (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HIT_Consulting&quot;>@HIT_Consulting&lt;/a>). &amp;quot;With Hewlett Packard Enterprise, and especially leveraging HPE ALM Octane, we look forward to bolstering our capacity to deliver digital services in dynamic application delivery development environments for the critical areas they're looking to address -- especially around DevOps processes.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Accelerating development and deployment across form factors -- from cloud and native mobile to IoT including micro services -- demands agile coordination across the software lifecycle,&amp;quot; said Melinda Ballou, Program Director of IDC's &lt;/i>(&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/IDC&quot;>@IDC&lt;/a>), &lt;i>Application Lifecycle &amp;amp; Executive Strategies service. &amp;quot;Each of these areas brings new challenges for developers. The sheer velocity and complexity of deployment needs for business innovation is changing how teams work to address design, speed, scale, continuous quality and integration with continuous test and continuous release. Management across disparate processes and leverage of open source is key.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to the launch of HPE ALM Octane, HPE is also announcing several new features to HPE functional and performance testing that support Agile, DevOps, and quality at scale.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations can leverage HPE ALM Octane as a cloud-delivered service starting today. On-premise HPE ALM Octane installations will be available later in 2016.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additionally, current HPE ALM and HPE Quality Center enterprise customers on support are entitled to the new offering as part of their active support contract.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Mobile Center updates will be introduced to help developers further increase mobile application quality and user experience optimization throughout the application lifecycle.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;Join HPE Software &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpe?lang=en&quot;>@HPE&lt;/a> &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpe_software&quot;>@HPE_Software&lt;/a> on Twitter.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xd;&#xa; &lt;/b>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_gl4y
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-delivers-application-performance-testing-with-hpe-stormrunner-load-on-aws-marketplace"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/PerformanceTesting.jpg"/>
+                        </contentblock_gl4y>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_so5i
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/hewlett-packard-enterprise-software-modernizes-it-operations-management-with-new-container-based-deployment"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Software Modernizes IT Operations Management with New Container-Based Deployment"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Software Modernizes IT Operations Management with New Container-Based Deployment"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Software-innovation.jpg"/>
+                        </contentblock_so5i>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hwg8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-software-boosts-security-in-its-backup-suite-to-guard-against-growing-threats"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Digital-TransformationWeb.jpg"/>
+                        </contentblock_hwg8>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

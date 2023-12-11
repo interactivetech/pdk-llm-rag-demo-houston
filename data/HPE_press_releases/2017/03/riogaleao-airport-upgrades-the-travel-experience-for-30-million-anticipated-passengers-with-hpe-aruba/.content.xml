@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:08:40.508Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---customers,hpe-newsroom:categories/servers,hpe-newsroom:categories/industry---transportation]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="riogaleao-airport-upgrades-the-travel-experience-for-30-million-anticipated-passengers-with-hpe-aruba"
+        jcr:uuid="f0f3daf5-d22f-4c5d-8568-16422fd22c1a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:56:45.000-07:00"
+        metaDescription="RIOgaleao Airport Upgrades the Travel Experience for 30 Million Anticipated Passengers With HPE Aruba"
+        navTitle="RIOgaleao Airport Upgrades the Travel Experience for 30 Million Anticipated Passengers With HPE Aruba"
+        pageTitle="RIOgaleao Airport Upgrades the Travel Experience for 30 Million Anticipated Passengers With HPE Aruba"
+        priority="(None)"
+        subtitle="Official Airport of the 2016 Olympics Modernizes Wired and Wireless Network, Adds Indoor Navigation to Support Major Increase in Passengers for Summer Games and Beyond"
+        theme="dark"
+        UAID="0bc58d45-7f34-407b-ad5c-d628f8540f7f"
+        UCID="0b9d9b1b-bdc1-4422-aa64-c583de3ca46c"
+        WPID="1296">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T14:33:06.085Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 28, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Official Airport of the 2016 Olympics Modernizes Wired and Wireless Network, Adds Indoor Navigation to Support Major Increase in Passengers for Summer Games and Beyond&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_gxkr
+                    jcr:lastModified="{Date}2018-10-23T14:34:37.612Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>RIO DE JANEIRO, BRAZIL and SUNNYVALE, CA--(Marketwired - Jun 28, 2016) - Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), today announced that RIOgaleo-Tom Jobim International Airport, the official airport of the 2016 Olympics, has upgraded to HPE data center and Aruba campus networking solutions. The Airport is also taking a modern approach to air travel with a new mobile app powered by Aruba's Meridian platform that features wayfinding to accelerate airport operations and bring passengers an improved travel experience.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As yearly passenger traffic at RIOgaleo Airport recently reached approximately 17 million, and an anticipated 1.5 million are expected for the upcoming summer games in August 2016, the airport knew that upgrading its network infrastructure would be a key priority.With the games as an immediate need and future growth of the busy airport as a key driver, RIOgaleo's IT team undertook a major network upgrade, in concert with the Airport's 100,000 square meter construction and expansion project.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>RIOgaleo Airport leadership believed its previous disparate, legacy networking solutions were unable to keep up with the growing demands of passengers, visitors and airport vendors, as well as the airport's own operational needs. The top priorities for the infrastructure upgrade were improving the performance and reliability of the network as well as introducing a new mobile app to enable a richer traveler experience. With the summer games expected to deliver a peak of 90,000 visitors per day to the airport before the opening and after the close of the games -- double the usual number -- improving the network became critical. In addition, the Airport wanted to provide network services to airlines, concessionaires and service companies, as well as streamline internal airport functions for its anticipated 30 million passenger capacity.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>RIOgaleo Airport evaluated a number of vendors, but determined that the HPE/Aruba solutions provided the best TCO (Total Cost of Ownership), the broadest range of solutions and the simplified deployment and management they sought.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;HPE provided the best technical solution on the wired side, particularly with its ability to accommodate different operational protocols without having to switch out the hardware,&amp;quot; said Alexandre Villeroy, CIO for RIOgaleo Airport. &amp;quot;And we knew already that Aruba had one of the best Gigabit wireless solutions, so the fact that we could obtain the complete, end-to-end solution from HPE/Aruba was a big factor in our decision. Overall, the HPE/Aruba roadmap was more aligned with our vision.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Working with channel partner ZIVA on the installation, the airport's upgrade includes Aruba 200 Series 802.11ac access points and the 7200 Series Mobility Controller, HPE FlexNetwork 5130 HI Series switches, HPE FlexFabric 7910 switch chassis and HPE/Aruba network management software to replace the outdated and miscellaneous legacy infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The airport is also installing Aruba's Mobile Engagement Solution including more than 3,000 Aruba Beacons and the Meridian Mobile App Platform. Using the Meridian platform, and with assistance from mobile app development, design and integration partner &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1266220&amp;amp;id=8808052&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.accenture.com%2fus-en%2fdigital-index&quot;>Accenture Digital&lt;/a>, the airport will launch the RIOgaleo mobile app to provide flight status information and wayfinding for visitors, as well as enable push notifications. The airport can use the notifications to send alerts and information to passengers, including promotions and discounts from airport vendors. The airport is also examining ways to use the app and the new network to speed the check-in, security and boarding processes for passengers, so they spend less time in lines and more time enjoying airport amenities and offerings. Finally, RIOgaleo Airport is investigating how they might use the app to develop a better relationship with passengers, enabling channels for passenger suggestions, requests and complaints.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Traditionally, the airlines own the relationship with the passengers so it's difficult for the airport facility to develop that relationship and learn who these passengers are and what kinds of services appeal to them,&amp;quot; said Renata Pinheiro, Marketing and Communications Director for RIOgaleo Airport. &amp;quot;With the app in place, we're hoping to gather more knowledge about our passengers so we can cater to their needs and wants more effectively.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the new network in place, RIOgaleo Airport is also looking for ways to enhance internal operations as the facility grows. These include personnel access to airport operational and maintenance systems, control and management of Internet of Things (IoT) devices such as air conditioning, lighting and water systems, and allowing vendors that provide baggage and aircraft services to access their own operational systems via the Wi-Fi network. The airport is also exploring integration with aircraft to download information from telemetry and other onboard systems, as well as Wi-Fi onboard the aircraft.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Noted Villeroy, &amp;quot;Airports globally are becoming more dependent upon commercial initiatives and revenues rather than just the flights. That's why it's crucial for us to give passengers an environment that becomes part of their journey -- a place where they want to spend more time and money.&amp;quot; He added, &amp;quot;The new HPE/Aruba network helps lay the foundation for our future growth and ability to provide this enriched experience for airport visitors.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About RIOgaleo&lt;br>&#xa; &lt;/b>RIOgaleo comprises Odebrecht TransPort, Changi Airports International and Infraero. The concessionaire took over the administration and operation of the airport in August 2014, under a 25 year concession contract. Until the end of that period, RIOgaleo will invest R$5.2 billion in the airport -- out of these, approximately R$2 billion will be invested by the Olympic Games.Construction at the airport is spearheaded by a joint venture led by Odebrecht. Changi Airports International brings to RIOgaleo its expertise in airport operations. It is responsible for the operation and management of Singapore Changi Airport, the most awarded airport in the world. The two companies have joined forces to transform Tom Jobim International Airport into an iconic gateway to Latin America. For more information, please visit: &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1266220&amp;amp;id=8808055&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.riogaleao.com%2f&quot;>www.riogaleao.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Aruba, a Hewlett Packard Enterprise company&lt;br>&#xa; &lt;/b>Aruba, a Hewlett Packard Enterprise company, is a leading provider of next-generation networking solutions for enterprises of all sizes worldwide. The company delivers IT solutions that empower organizations to serve the latest generation of mobile-savvy users who rely on cloud-based business apps for every aspect of their work and personal lives.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more, visit Aruba at &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1266220&amp;amp;id=8808058&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.arubanetworks.com%2f&quot;>&lt;i>http://www.arubanetworks.com&lt;/i>&lt;/a>. For real-time news updates follow Aruba on &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1266220&amp;amp;id=8808061&amp;amp;type=1&amp;amp;url=https%3a%2f%2ftwitter.com%2farubanetworks&quot;>Twitter&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1266220&amp;amp;id=8808064&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.facebook.com%2farubanetworks&quot;>Facebook&lt;/a>, and for the latest technical discussions on mobility and Aruba products visit Airheads Social at &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1266220&amp;amp;id=8808067&amp;amp;type=1&amp;amp;url=http%3a%2f%2fcommunity.arubanetworks.com%2f&quot;>&lt;i>http://community.arubanetworks.com&lt;/i>&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>2016 Aruba, a Hewlett Packard Enterprise company, Aruba's trademarks include Aruba Networks&lt;sup>&lt;/sup>, Aruba The Mobile Edge Company&lt;sup>&lt;/sup> (stylized), Aruba Mobility-Defined Networks&lt;sup>&lt;/sup>, Aruba Mobility Management System&lt;sup>&lt;/sup>, People Move Networks Must Follow&lt;sup>&lt;/sup>, Mobile Edge Architecture&lt;sup>&lt;/sup>, RFProtect&lt;sup>&lt;/sup>, Green Island&lt;sup>&lt;/sup>, ETips&lt;sup>&lt;/sup>, ClientMatch&lt;sup>&lt;/sup>, Virtual Intranet Access&lt;sup>&lt;/sup>, ClearPass Access Management Systems&lt;sup>&lt;/sup>, Aruba Instant&lt;sup>&lt;/sup>, ArubaOS&lt;sup>&lt;/sup>, xSec&lt;sup>&lt;/sup>, ServiceEdge&lt;sup>&lt;/sup>, Aruba ClearPass Access Management System&lt;sup>&lt;/sup>, Airmesh&lt;sup>&lt;/sup>, AirWave&lt;sup>&lt;/sup>, Aruba Central&lt;sup>&lt;/sup>, and ARUBA@WORK&lt;sup>&lt;/sup>. All rights reserved. All other trademarks are the property of their respective owners.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_84sc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/gatwicks-digital-transformation-the-airport-of-the-future-today"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gatwicks Digital Transformation: The Airport of the Future, Today"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gatwicks Digital Transformation: The Airport of the Future, Today"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Hewlett-Packard-Enterprise-Introduces-Blockchain-as-a-Service-Solution-for-Enterprises.jpg"/>
+                        </contentblock_84sc>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_urdc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/gatwick-airport-installs-next-generation-it-network-with-hpe-2"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gatwick Airport installs next generation IT network with HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gatwick Airport installs next generation IT network with HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_urdc>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_zvgl
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/05/gatwick-airport-installs-next-generation-it-network-with-hpe"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gatwick Airport Installs Next Generation IT Network with HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gatwick Airport Installs Next Generation IT Network with HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Gatwick-Airport-Installs-Next-Generation-IT-Network-with-HPE.jpg"/>
+                        </contentblock_zvgl>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

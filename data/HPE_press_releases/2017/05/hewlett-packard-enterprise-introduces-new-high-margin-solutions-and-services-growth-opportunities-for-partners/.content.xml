@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:22:45.401Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-introduces-new-high-margin-solutions-and-services-growth-opportunities-for-partners"
+        jcr:uuid="0b1be740-78d3-46ee-acd5-20589b4da2af"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-05-31T13:34:06.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Introduces New High-Margin Solutions and Services Growth Opportunities for Partners"
+        navTitle="Hewlett Packard Enterprise Introduces New High-Margin Solutions and Services Growth Opportunities for Partners"
+        pageTitle="Hewlett Packard Enterprise Introduces New High-Margin Solutions and Services Growth Opportunities for Partners"
+        priority="(None)"
+        subtitle="HPE Partner Ready program enhancements and new suite of digital tools and content create new opportunities for partners to profit from high growth segments in Hybrid IT, Data and Analytics, and Edge Computing"
+        theme="dark"
+        UAID="3a852e38-3ee2-4908-b391-69fe627c6102"
+        UCID="db8b535b-f99d-44b3-ad6e-79d61b059a65"
+        WPID="198157">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 31, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_image3.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Introduces New High-Margin Solutions and Services Growth Opportunities for Partners"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:39.916Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3> &lt;ul>&lt;/ul>"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Partner Ready program enhancements and new suite of digital tools and content create new opportunities for partners to profit from high growth segments in Hybrid IT, Data and Analytics, and Edge Computing&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_21rr
+                    jcr:lastModified="{Date}2021-04-27T14:06:14.449Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Las Vegas, NV June 5, 2017 &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today introduced new channel competencies and partner resources to its industry-leading &lt;a href=&quot;https://www.hpe.com/us/en/solutions/partners.html#Programs&quot; target=&quot;_blank&quot;>Partner Ready program&lt;/a> making it easier for partners to position and sell the HPE portfolio spanning hybrid and edge solutions. HPE also unveiled new &lt;a href=&quot;http://www.hpe.com/pointnext&quot; target=&quot;_blank&quot;>HPE Pointnext&lt;/a> services that partners can leverage to grow incremental revenue streams, plus a suite of digital marketing resources to help partners drive demand and build pipeline in todays digital world.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Digital transformation is driving profound changes in todays marketplace and creating new opportunities for HPE and its partners. To help partners better engage with customers and streamline sales processes more efficiently, HPE is announcing the following updates to its Partner Ready program:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Expanded Partner Ready Competencies &lt;/b>to include a broader set of hybrid IT, data and analytics, and Intelligent Edge solutions built on HPE infrastructure. These pre-packaged solutions, based on proven HPE methodologies, help partners deliver new technologies faster and with reduced cost for customers. Introduced in September, Partner Ready Competencies a framework of refined expertise around clusters of select HPE solutions now include Rapid Provisioning, Enterprise Private and Hybrid Cloud and Private Cloud Express; Data Management and Analytics with SAP HANA; Mobile First Campus and more. These Competencies are designed to help partners of all sizes transform their business to a solutions led model at their own pace. To support partners in the sales and support of these competencies, HPE will offer an expanded set of partner enablement assets, including reference architectures, solution guides, customer presentations, and quick reference cards.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New Silver Data Center Specialization &lt;/b>reduces partner training time from nine days down to five days, while empowering sales teams to gain the skills they need to effectively sell across the HPE portfolios including Arista, SimpliVity and Nimble.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Knowledge Credit Simplification &lt;/b>will now be based on the same leading-edge curriculum used for HPE employee enablement to ensure partners are focused on content tied to business priorities, resulting in fewer administrative inefficiencies and more business outcomes.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help partners adapt to the realities of building pipeline in todays digital world, HPE introduced the HPE Partner Ready Digital Marketing Program. The program provides a suite of channel marketing offerings including resources, tools, content, campaigns, and education that enable partners to increase their digital marketing proficiency, better connect with customers, and increase their pipeline and revenue. The program unifies all HPE digital marketing assets for partners under one program to make it easier and faster for partners to consume, access and leverage those assets to drive growth.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Every day I meet with partners to hear their feedback and perspective on how we can continue to drive the value, resources and expertise they and our joint customers have come to trust and expect from our company, said Denzil Samuels, Senior Vice President, Worldwide Indirect Sales at HPE. The latest updates to our industry-leading Partner Ready program and the new digital marketing program reflect our continued commitment to deliver the solutions that speak to the needs of our partners and set them up for success.&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerate Digital Transformation with HPE Partner Ready for Services&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the &lt;a href=&quot;https://news.hpe.com/content-hub/hpe-pointnext/&quot; target=&quot;_blank&quot;>recent launch of HPE Pointnext&lt;/a>, partners have even more opportunity to ignite and accelerate digital transformations for their customers. HPE Pointnext is developing new services purpose-built for scale and delivery by the channel, as well as systems integrator and advisory partners, and sharing more intellectual property with partners on key solutions. HPE Partner Ready for Services allows partners and their customers to capture new revenue streams and increase sales velocity by selling end-to-end solutions with HPE Pointnext.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-unveils-the-worlds-most-secure-industry-standard-servers/&quot; target=&quot;_blank&quot;>HPE today also announced Capacity Care from HPE Pointnext&lt;/a>, a new midmarket solution for the channel that enables capacity monitoring and procurement support for HPE ProLiant Gen10 systems. This service combines usage tracking, capacity monitoring, and quarterly consultations to take the guesswork out of capacity management and get customers closer to cloud-like utilization levels lowering total cost of ownership.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Drive Additional Pipeline and Revenue with the HPE Partner Ready Digital Marketing Program&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/b>A significant global shift in B2B purchase behavior is impacting how partners engage customers along the buyers journey to drive pipeline. In todays digitally driven world, customers are in control of their own research and purchase processes. As a result, partners must actively engage customers with tools and content that align to where and how customers are consuming purchase-related information along their journey. To help partners capitalize on these behavioral changes, HPE announced the Partner Ready Digital Marketing Program. Through the use of program tools, content, and resources, partners can accelerate their digital marketing proficiency and execution to drive pipeline and sales&lt;b>. &lt;/b>The new program enables partners in three key ways:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Collaborate:&lt;/b> Leverage HPE resources or Marketing Services Agencies to facilitate marketing planning and execution. Partners benefit from access to Partner Marketing Managers, Marketing Services Agencies, Market Development Funds (MDF) and events.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Educate:&lt;/b> Improve digital marketing proficiency with educational resources and training such as workshops, on-demand content recordings and thought-leadership content and guides on the latest digital marketing trends.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Empower:&lt;/b> Accelerate digital marketing execution by leveraging HPE tools and co-marketing campaign content. Quickly and easily launch digital marketing with Product &amp;amp; Solutions Now, Content Syndication, the Partner Ready Social Media Center, and the Partner Marketing Concierge Service. New enhancements include one-click downloads of Partner Ready Social Media Center content as well as expanding the Social Media Center language support to include German, French, Italian, Spanish, and Japanese.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Expanded HPE portfolio for More Partner Opportunity&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE continues to ramp up its capabilities both organically and inorganically to help partners and customers transform and grow their business in the age of digital disruption. The recent acquisitions of &lt;a href=&quot;https://news.hpe.com/hpe-completes-acquisition-of-simplivity/&quot; target=&quot;_blank&quot;>SimpliVity&lt;/a>, &lt;a href=&quot;https://news.hpe.com/hpe-to-acquire-cloud-cruiser-to-bolster-consumption-based-it-for-customers/&quot; target=&quot;_blank&quot;>Cloud Cruiser&lt;/a> and &lt;a href=&quot;https://news.hpe.com/hpe-completes-acquisition-of-nimble-storage/&quot; target=&quot;_blank&quot;>Nimble Storage&lt;/a> build on HPEs strategy to make hybrid IT simple through software-defined infrastructure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE is leading the way in creating growth opportunities for partners by augmenting its software-defined infrastructure with pre-integrated, tested and supported software from leaders in fast-growth categories like containers, hybrid cloud and big data. The combination creates services opportunities for channel partners and integrators alike taking advantage of new or enhanced integrations and offerings recently announced with Docker, Mesosphere and other software partners.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is also deepening its industry alliances, forging unique joint solutions that meet demanding requirements in specific industries. Tomorrow HPE and Wipro Technologies will announce their expanded partnership with a new go-to-market agreement that combines Wipros infrastructure-as-a-service offerings with &lt;a href=&quot;https://www.hpe.com/us/en/services/flexible-capacity.html&quot;>HPEs Flexible Capacity&lt;/a> to help customers capture the benefits of consumption-based IT. Additional examples of recently announced alliances include GE Digital for the Industrial Internet, &lt;a href=&quot;https://news.hpe.com/hewlett-packard-enterprise-and-nokia-expand-collaboration-on-internet-of-things/&quot; target=&quot;_blank&quot;>Nokia for smart cities&lt;/a>, and &lt;a href=&quot;https://news.hpe.com/hpe-to-work-with-tata-communications-to-build-worlds-largest-iot-network-in-india-to-enhance-resource-utilization/&quot; target=&quot;_blank&quot;>Tata Communications to help build the worlds largest IoT network in India&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>HPEs expanded partnerships with ISVs and industry-specific alliances is creating new opportunities for channel partners and system integrators to drive customers digital transformation services around applications and data as well as edge-to-core network integration, said Olivier Suinat, Senior Vice President, Global Industries &amp;amp; Strategic Alliances. The Partner Ready program is the broadest and richest program providing joint marketing, enablement and joint business growth for this expanded ecosystem.&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprises businesses; the competitive pressures faced by Hewlett Packard Enterprises businesses; risks associated with executing Hewlett Packard Enterprises strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprises filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_miol
+                            jcr:lastModified="{Date}2021-04-27T14:06:26.242Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/08/hpe-enhances-partner-program-to-deliver-higher-payouts-and-more-growth-opportunities"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2021-04-27T14:06:26.242Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-04-27T14:06:26.242Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_miol>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_klh0
+                            jcr:lastModified="{Date}2021-04-27T14:06:35.592Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-empowers-partners-to-drive-profitable-growth-with-new-best-in-class-consumption-program"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2021-04-27T14:06:35.592Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/General-Partners-Session-Release.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-04-27T14:06:35.592Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_klh0>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_vwy0
+                            jcr:lastModified="{Date}2021-04-27T14:06:44.708Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/hpe-and-citrix-forge-new-partnership-to-drive-innovation-from-the-edge-to-the-core"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE and Citrix Forge New Partnership to Drive Innovation from the Edge to the Core"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Citrix Forge New Partnership to Drive Innovation from the Edge to the Core"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2021-04-27T14:06:44.708Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NimbleWeb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-04-27T14:06:44.708Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_vwy0>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:33:46.733Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/other]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-redefines-technology-services-organization-pointnext"
+        jcr:uuid="a11a8d13-a0a8-47b8-8ce8-e73c356f3697"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:50:30.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Redefines Technology Services Organization: Pointnext"
+        navTitle="Hewlett Packard Enterprise Redefines Technology Services Organization: Pointnext"
+        pageTitle="Hewlett Packard Enterprise Redefines Technology Services Organization: Pointnext"
+        priority="(None)"
+        subtitle="Built on a heritage of technology leadership with 25,000 specialists in 80 countries delivering 11,000 successful digital transformation engagements per year"
+        theme="dark"
+        UAID="9e5c9ac5-bca8-4e15-b888-f31e2b81d628"
+        UCID="ab6001ab-62b4-4287-9a08-35444ca7b998"
+        WPID="1069">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-22T21:22:56.419Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MARCH 2, 2017 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Redefining-Technology-Services.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Redefines Technology Services Organization: Pointnext"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Built on a heritage of technology leadership with 25,000 specialists in 80 countries delivering 11,000 successful digital transformation engagements per year&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_bx3q
+                    jcr:lastModified="{Date}2020-04-13T16:53:05.413Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Mar 2, 2017) - Today, &lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (NYSE: HPE) announced the launch of Pointnext, a newly redefined technology services organization dedicated to helping companies accelerate their digital transformations and make desired business outcomes a reality.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Pointnext draws on the expertise of more than 25,000 specialists in 80 countries covering 30 languages and spanning a range of disciplines -- from cloud consulting experts to operational services experts. These teams collaborate with businesses worldwide to speed their adoption of emerging technologies, including cloud computing and hybrid IT, big data and analytics, the Intelligent Edge and Internet of Things (IoT).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Digital transformation is driving an incredible pace of change for our industry and our customers' needs are evolving just as quickly,&amp;quot; said Antonio Neri, executive vice president and general manager, Enterprise Group, HPE. &amp;quot;Services are at the core of our ability to be that strategic partner to our clients and help them on their transformation journey. In fact, its role in our business has never been more critical.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Built on HPE's technology leadership, robust partner ecosystem, and end-to-end lifecycle experience, Pointnext helps customers optimize technology for today and tomorrow. The Pointnext team helps customers harness the power of hybrid IT, real-time data and analytics, and mobile solutions to enhance customer experiences, create and deliver new digital product and services, and improve core operations at unprecedented speed and efficiency. Customers benefit not only from the strength of Pointnext's consulting capabilities, but also from HPE's technology leadership; the Pointnext team works closely with HPE technologists to develop innovative solutions to customers' business challenges, answering the app and data demands of the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;HPE is a valuable partner in helping us understand how we can further expand our business and operate more efficiently,&amp;quot; said Steven John, CIO at AmeriPride. &amp;quot;Their expertise and experience helps us see things differently and understand new ways to improve our operations.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerating customer outcomes through strategic engagements&lt;br>&#xa; &lt;/b>HPE Pointnext will provide three types of services: Advisory and Transformation, Professional and Operational.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>At the forefront of Pointnext is Advisory and Transformation Services, where HPE collaborates with companies to design their technology transformation and build a roadmap tuned to their unique challenges. This team helps clients digitize their core operations, innovate offerings and realize better business outcomes by:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Optimizing hybrid IT through the right mix of public and private cloud platforms&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Gaining more insights from data and analytics&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Connecting the Intelligent Edge&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Modernizing, migrating and developing forward thinking applications&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>On-time, on-budget implementation &lt;br>&#xa; &lt;/b>HPE Pointnext Professional Services team taps into the intellectual property and experience of thousands of implementations and deployments to de-risk clients' digital transformation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Pointnext Professional Services experts collaborate closely with customers to get the most out of their IT investments. Pointnext works with clients' preferred technologies and IT organizations to move strategic plans and functional designs through production and a series of tactical transitions, from technical design to implementation, build to migration, distribution and finally to operational consulting and service.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Redefining the concept of operational efficiency&lt;br>&#xa; &lt;/b>The HPE Pointnext Operational Services team provides ways of delivering IT by managing and optimizing workloads, resources and capacity, on-premises and in the cloud, to help keep clients' businesses at peak performance. This includes innovative products and services, such as HPE Flexible Capacity and &lt;a href=&quot;https://www-prod-auth-west.ext.hpe.com/content/hpe/base/blueprint/services/remote-infrastructure-monitoring.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>HPE Datacenter Care&lt;/a>, which simplify the IT experience and offer customers choices in where to move workloads and what to self-manage or outsource and how to flexibly consume IT.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Differentiating through a best-in-class partner ecosystem&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE's long-standing commitment to its strategic alliance partners has created a powerful ecosystem with deep business and vertical expertise to build and deliver joint solutions for customers. Beyond HPE's expertise working with industry leaders like SAP, Microsoft and more, the company looks to a new generation of leading partners such as the Docker container platform, Mesosphere's orchestration and data automation solution, and Chef, Puppet, Ansible, and SaltStack for configuration management and IT automation. Pointnext will further leverage this partner ecosystem, as well as combine HPE infrastructure and workload expertise with a broader range of strategic system integrators to create partner opportunities aligned to customers' needs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Each customer journey is unique and requires a trusted advisor with deep capabilities, a strong partner ecosystem, and a proven record for demonstrating innovative approaches to solving challenges,&amp;quot; said Ana Pinczuk, senior vice president and general manager, Pointnext, HPE. &amp;quot;Pointnext services will be the front lines of our engagement with customers -- to quickly and nimbly design, integrate and optimize digital solutions critical to the success of enterprises of all sizes.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information on HPE Pointnext, please visit: &lt;a href=&quot;/content/hpe/base/blueprint/services.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>www.hpe.com/Pointnext&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;br>&#xa; The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_w9mz
+                            jcr:lastModified="{Date}2019-01-22T21:25:16.869Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/top-5-things-you-shouldnt-miss-from-hpe"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            enableSocialSharing="true"
+                            header="Top Five Things from the Quarter"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Top Five Things from the Quarter"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T21:25:16.869Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Together_HPE_Nimble.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T21:25:16.869Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_w9mz>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_143q
+                            jcr:lastModified="{Date}2019-01-22T21:25:41.629Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/happy-anniversary-hpe-pointnext"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            enableSocialSharing="true"
+                            header="Happy Anniversary, HPE Pointnext!"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Happy Anniversary, HPE Pointnext!"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T21:25:41.629Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Happy-Anniversary-HPE-Pointnext.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T21:25:41.629Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_143q>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_fhik
+                            jcr:lastModified="{Date}2019-01-22T21:26:02.196Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpe-pointnext-services-to-accelerate-your-digital-transformation"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Pointnext: Services to Accelerate Your Digital Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Pointnext: Services to Accelerate Your Digital Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T21:26:02.196Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Services-to-Accelerate-Your-Digital-Transformation.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T21:26:02.196Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_fhik>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:16:31.076Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry--healthcare]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE eHealth Centers facilitate over one million patient visits in India"
+        jcr:uuid="32ef2573-b132-44b4-bbb3-846dbf1a0e63"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE eHealth Centers facilitate over one million patient visits in India"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2020-01-16T08:35:00.000-08:00"
+        metaDescription="The ‘Made in India’ cloud-based healthcare solution encourages healthier and more vibrant communities across the country"
+        metaKeywords="eHealth, India, eHCs, healthcare"
+        metaOgImage="/content/dam/hpe/newsroom/2019/12/image-norend/hpe-ehealth-centers-facilitate-over-one-million-patient-visits-in-india.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE eHealth Centers facilitate over one million patient visits in India"
+        pageTitle="HPE eHealth Centers facilitate over one million patient visits in India"
+        priority="(None)"
+        socialDescription="The ‘Made in India’ cloud-based healthcare solution encourages healthier and more vibrant communities across the country"
+        subtitle="The ‘Made in India’ cloud-based healthcare solution encourages healthier and more vibrant communities across the country"
+        theme="dark"
+        UAID="a235eedc-5e3e-454d-8dbb-40da8f08b5be"
+        UCID="443ec044-072c-4f23-bd99-81d020159fee">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-01-13T18:46:42.342Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JANUARY 16, 2020 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-16T16:52:42.092Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/12/image-norend/hpe-ehealth-centers-facilitate-over-one-million-patient-visits-in-india.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-16T16:36:25.213Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE announced that its eHealth Centers, which offer a digital healthcare solution, have collectively facilitated over 1 million patient visits across India&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The eHCs facilitate health monitoring and management by identifying disease patterns in local communities using data analytics&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE signed the USAID TB pledge, supporting the government’s target of making India TB-free by 2025&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_4c
+                    jcr:created="{Date}2019-12-16T16:36:48.185Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-12-16T16:37:04.208Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>The ‘Made in India’ cloud-based healthcare solution encourages healthier and more vibrant communities across the country&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-01-09T15:09:42.079Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Bengaluru, December 17, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced that its eHealth Centers (eHCs) have collectively facilitated over 1 million patient visits across India. Offering a digital healthcare solution, the vast eHC network offers remote diagnoses free of charge in underserved communities, reaffirming HPE’s long-term commitment to the country and its mission to advance the way people live and work.&lt;br>&#xa; &lt;br>&#xa; Many citizens lack access to primary healthcare services, which are critical to reducing mortality rates from chronic conditions such as cardiovascular disease and diabetes. Recognizing the significant role of technology in improving access and effectiveness of primary healthcare in underserved areas, HPE launched its eHC initiative in 2012. The eHCs, designed to fit and deploy within a standard shipping container, connect patients with highly skilled medics. These centers also combine online training materials for remote healthcare workers with diagnostic tools that capture the patients’ vital statistics on a cloud-based application. Additionally, by leveraging data analytics, the eHCs facilitate health monitoring and management by identifying disease patterns in local communities.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_8604
+                    jcr:created="{Date}2019-12-16T16:37:44.693Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-12-16T16:38:05.026Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The eHCs connect patients with highly skilled medics&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-12-16T16:38:05.026Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_8604>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-01-09T15:10:18.077Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“At HPE, we believe technology can play a significant role in addressing rapidly-evolving healthcare needs. Being a purpose-driven organization, we strive to develop innovative models such as eHCs to make our world better,” &lt;/i>said Som Satsangi, MD – India, HPE. &lt;i>“The one million eHC patient visits is a significant milestone in reaffirming our commitment to build a culture of innovation that positively impacts local communities across the country.”&lt;br>&#xa; &lt;br>&#xa; &lt;/i>&lt;b>Working towards a TB-free India&lt;br>&#xa; &lt;br>&#xa; &lt;/b>In support of the government’s target of making India TB-free by 2025, HPE signed the USAID TB pledge. Under this pledge, the eHCs will screen symptomatic patients and target the “Missing TB” cases who carry the disease and go undiagnosed.&amp;nbsp;The diagnosed patients will be referred to the nearest government recognized TB treatment center. The eHCs target to provide free diagnostic services to over 50,000 TB patients by July 2020.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-16T16:39:17.746Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Supporting the government’s target of making India TB-free by 2025, HPE signed the USAID TB pledge&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-12-16T16:39:17.746Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-01-15T15:27:46.451Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Expanding the eHC network&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Currently, there are over 130 eHCs deployed across 18 states in the country. To further increase the reach of affordable and personalized healthcare services, HPE will set-up additional eHCs across the country. The success of eHCs in India has resulted in HPE launching such facilities in Bhutan and the Philippines.&lt;br>&#xa; &lt;br>&#xa; HPE’s commitment to further improving global access to healthcare helped inspire the launch of Tech Impact 2030 in 2018. Along with the World Economic Forum, HPE announced the initiative focused on bringing together technology, industry and government to power meaningful change by the year 2030. Under this initiative, HPE introduced a challenge to enable real-time, personalized medical care for patients by 2030. Looking forward, HPE envisions emerging technology to radically improve the cost, speed and accuracy of medical research and patient care. For more information, please visit &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/content-hub/challenge-enable-real-time-personalized-medical-care-for-patients-by-2030.html&quot; target=&quot;_blank&quot;>https://www.hpe.com/us/en/newsroom/content-hub/challenge-enable-real-time-personalized-medical-care-for-patients-by-2030.html&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-16T16:41:10.981Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a href=&quot;http://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-12-16T16:43:27.637Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/07/hewlett-packard-enterprise-announces-500-million-investment-in-india-to-drive-innovation-and-growth"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise announces $500 million investment in India to drive innovation and growth"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise announces $500 million investment in India to drive innovation and growth"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-12-16T16:43:27.637Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/07/image-norend/hewlett-packard-enterprise-announces-500-million-investment-in-india-to-drive-innovation-and-growth.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-12-16T16:43:27.637Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-12-16T16:44:42.938Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/07/unlocking-economies-how-investing-in-india-will-drive-growth-for-the-country-and-business-outcomes"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Unlocking economies: How investing in India will drive growth for the country and business outcomes"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Unlocking economies: How investing in India will drive growth for the country and business outcomes"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-12-16T16:44:42.938Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/07/image-norend/unlocking-economies-how-investing-in-india-will-drive-growth-for-the-country-and-business-outcomes.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-12-16T16:44:42.938Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-12-16T16:46:07.810Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2019/08/hewlett-packard-enterprise-introduces-26-week-paid-parental-leave-in-india-in-line-with-global-program"
+                            description="&lt;p>News Advisory&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise introduces 26 week paid parental leave in India in line with global program"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise introduces 26 week paid parental leave in India in line with global program"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-12-16T16:46:07.810Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2019/08/image-norend/hewlett-packard-enterprise-introduces-26-week-paid-parental-leave-in-india-in-line-with-global-program.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-12-16T16:46:07.810Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-12-16T16:53:35.190Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

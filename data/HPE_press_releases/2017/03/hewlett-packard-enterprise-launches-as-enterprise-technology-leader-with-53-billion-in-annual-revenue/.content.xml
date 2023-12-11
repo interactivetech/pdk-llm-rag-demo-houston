@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:27:04.535Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-launches-as-enterprise-technology-leader-with-53-billion-in-annual-revenue"
+        jcr:uuid="9fd00551-3b74-4efd-8397-34bdb84ee2b2"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:25.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Launches as Enterprise Technology Leader With "
+        navTitle="Hewlett Packard Enterprise Launches as Enterprise Technology Leader With "
+        pageTitle="Hewlett Packard Enterprise Launches as Enterprise Technology Leader With "
+        priority="(None)"
+        subtitle="Begins Trading Today as Ticker &quot;HPE&quot; on the NYSE; New Company Is Leader in Infrastructure, Security, Big Data and Workplace Productivity Solutions"
+        theme="dark"
+        UAID="3f827d56-da56-4779-ad62-78de0d5a1e33"
+        UCID="99a9fe8c-6528-4bc1-84b0-dc36d3e85d06"
+        WPID="1469">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-22T14:38:56.751Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="Noember 2, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Begins Trading Today as Ticker &quot;HPE&quot; on the NYSE; New Company Is Leader in Infrastructure, Security, Big Data and Workplace Productivity Solutions&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_ow6y
+                    jcr:lastModified="{Date}2018-10-22T14:41:59.463Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Nov 2, 2015) - Today, following its separation from Hewlett-Packard Company,&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1225961&amp;amp;id=7552771&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2f&quot;>Hewlett Packard Enterprise&lt;/a> (NYSE: HPE) debuts as an enterprise technology leader with $53 billion in annual revenue, the most comprehensive product portfolio in the industry and a unique vision for the future of technology and its benefits for enterprise customers. To mark this milestone, Hewlett Packard Enterprise representatives including President and Chief Executive Officer Meg Whitman, as well as partners and customers will come together to ring the opening bell at the New York Stock Exchange, where the company will begin to trade under the ticker &amp;quot;HPE.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The winners in today's market will be those who apply the power of technology to fuel the power of ideas, and the new Hewlett Packard Enterprise is built to accelerate this journey for customers,&amp;quot; said Whitman. &amp;quot;Hewlett Packard Enterprise has the vision, financial resources and flexibility to help customers win while generating growth and long-term value for our shareholders.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In a dynamic market environment where technology is transforming businesses and entire industries at an unprecedented pace, Hewlett Packard Enterprise builds on its rich heritage of innovation and industry-leading positions in infrastructure, services, software, and financial services. Hewlett Packard Enterprise provides the cutting-edge technology solutions customers need to optimize their traditional IT while helping them build the secure, cloud enabled, mobile-ready future that is uniquely suited to their needs. The company is focused on four key areas that are fundamental to enabling business transformation and future growth, and represent an estimated (based on third party data) total addressable market of more than $1 trillion:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Transforming to a hybrid infrastructure&lt;/i> by helping customers seamlessly manage information across traditional IT and private, managed and public cloud environments;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Empowering a data-driven organization&lt;/i> engineered to turn information into insight and insight into action;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Protecting their digital enterprise&lt;/i> to manage risk, monitor operations, protect information and applications and sustain operational integrity;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Enabling workplace productivity&lt;/i> to create best-in-class experiences for employees, customers and partners through mobility and networking solutions.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information, visit the &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1225961&amp;amp;id=7552774&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fnewsroom.html&quot;>Hewlett Packard Enterprise Newsroom&lt;/a>.&lt;br>&#xa;For multimedia and press assets, visit &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1225961&amp;amp;id=7552777&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.eliasworldmedia.com%2fHewlettPackardEnterprise&quot;>www.eliasworldmedia.com/HewlettPackardEnterprise&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1225961&amp;amp;id=7552780&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2f&quot;>Hewlett Packard Enterprise&lt;/a>&amp;nbsp;is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking statements&lt;br>&#xa; &lt;/b>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_jtg6
+                            jcr:lastModified="{Date}2018-10-22T14:48:07.422Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/09/hpe-improves-energy-efficiency-of-taoyuan-city-through-real-time-monitoring-of-streetlights"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE improves energy efficiency of Taoyuan City through real-time monitoring of streetlights"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText=" "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-22T14:48:07.422Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/shutterstock_95437540-320x213.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-22T14:48:07.422Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_jtg6>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b98e
+                            jcr:created="{Date}2018-10-22T14:42:39.148Z"
+                            jcr:createdBy="alexandru.ion@hpe.com"
+                            jcr:lastModified="{Date}2018-10-22T14:42:39.148Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/mercedes-amg-petronas-motorsport-partners-with-hewlett-packard-enterprise-to-accelerate-performance-through-new-technology-solutions"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Mercedes-AMG Petronas Motorsport Partners with Hewlett Packard Enterprise to Accelerate Performance through New Technology Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Mercedes-AMG Petronas Motorsport Partners with Hewlett Packard Enterprise to Accelerate Performance through New Technology Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Mercedes-AMG-Petronas-Motorsport-partners-with-Hewlett-Packard-Enterprise-to-Accelerate-Performance-through-New-Technology-Solutions.jpg"/>
+                        </contentblock_b98e>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_8a22
+                            jcr:created="{Date}2018-10-22T14:42:20.938Z"
+                            jcr:createdBy="alexandru.ion@hpe.com"
+                            jcr:lastModified="{Date}2018-10-22T14:48:53.164Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hewlett-packard-enterprise-announces-antonio-neri-to-succeed-meg-whitman-as-chief-executive-officer"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Announces Antonio Neri to Succeed Meg Whitman as Chief Executive Officer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces Antonio Neri to Succeed Meg Whitman as Chief Executive Officer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-22T14:48:53.164Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Option-2-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-22T14:48:53.164Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_8a22>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

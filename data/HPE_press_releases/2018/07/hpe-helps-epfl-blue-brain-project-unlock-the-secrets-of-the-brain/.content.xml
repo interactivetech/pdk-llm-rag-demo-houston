@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:33:32.351Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry--healthcare,hpe-newsroom:categories/networking,hpe-newsroom:categories/company---customers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-helps-epfl-blue-brain-project-unlock-the-secrets-of-the-brain"
+        jcr:uuid="8d03de4e-158d-49f5-85b9-f0f7d1e64bf4"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-07-09T10:30:14.000-07:00"
+        metaDescription="HPE Helps EPFL Blue Brain Project Unlock the Secrets of the Brain"
+        metaKeywords="HPE, Blue Brain Project, neuroscience, simulation, modeling, supercomputer, HPC, high performance computing, data center "
+        navTitle="HPE Helps EPFL Blue Brain Project Unlock the Secrets of the Brain"
+        pageTitle="HPE Helps EPFL Blue Brain Project Unlock the Secrets of the Brain"
+        priority="(None)"
+        subtitle="EPFL Blue Brain Project deploys HPE supercomputer for digital reconstruction and simulations of the mammalian brain to advance the understanding of the brain"
+        theme="dark"
+        UAID="feb3df29-8f9a-4c3a-9b3e-731b45f2a341"
+        UCID="5b7c6cc0-3980-42c0-b414-58aef60ef623"
+        webSectionId="R11989"
+        WPID="201169">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="July 09, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/HPE-Helps-EPFL-Blue-Brain-Project-Unlock-the-Secrets-of-the-Brain.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Helps EPFL Blue Brain Project Unlock the Secrets of the Brain"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T12:58:34.342Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The new supercomputer, called Blue Brain 5, will be dedicated to simulation neuroscience, in particular simulation-based research, analysis and visualization, to advance the understanding of the brain&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Based on the HPE SGI 8600 System, HPE is providing tailored and scalable compute performance to enable the Blue Brain Project to pursue its scientific roadmap goal for 2020 to model entire regions of the mouse brain&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>With the new supercomputer, Blue Brain gains scalability to thousands of nodes in an easy-to-manage architecture&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>EPFL Blue Brain Project deploys HPE supercomputer for digital reconstruction and simulations of the mammalian brain to advance the understanding of the brain&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_zffx
+                    jcr:lastModified="{Date}2018-10-22T12:46:20.335Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced that the Ecole Polytechnique Fdrale de Lausannes (EPFL) &lt;a href=&quot;https://bluebrain.epfl.ch/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Blue Brain Project&lt;/a>, a Swiss brain research initiative, selected HPE to build a next-generation &lt;a href=&quot;https://www.hpe.com/us/en/servers/supercomputing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>supercomputer&lt;/a>&amp;nbsp;for modeling and simulation of the mammalian brain. The new supercomputer, called Blue Brain 5, will be dedicated to simulation neuroscience, in particular simulation-based research, analysis and visualization, to advance the understanding of the brain.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Brain disorders are complex phenomena spanning from genes to circuits to the whole brain. Establishing an integrated view of how all these levels work together and are perturbed in brain diseases is the primary challenge in understanding the brain. The Blue Brain Project is pioneering the approach of reconstructing and simulating digital models of brains to address this challenge. Blue Brain systematically releases open-access data, models and open-source tools to help the community, such as the European Human Brain Project, understand the brain at its different levels of organization.&lt;/span>&lt;/p>&#xa;"/>
+                <imageonlycomponent_c_1314031128
+                    jcr:created="{Date}2018-10-15T13:00:49.516Z"
+                    jcr:createdBy="vvoiculescu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T13:10:52.868Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/HPE-SGI-8600-system.jpg"
+                    imageAlignment="hpe-image-left"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_f6
+                    jcr:created="{Date}2018-10-15T13:11:42.341Z"
+                    jcr:createdBy="vvoiculescu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T13:12:20.099Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Based on the supercomputing requirements derived from the projects scientific roadmap, the Blue Brain Project followed a rigorous procurement process and after evaluation of the bids received, according to the published criteria, HPE was awarded a first contract at the end of 2017. Including a subsequent phase, the total value to provide state-of-the-art supercomputing technology and expertise can go up to CHF 18 million. The advanced supercomputer built by HPE is based on the&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/servers/proliant-servers/pip.hpe-sgi-8600-system.1010032504.html&quot;>HPE SGI 8600 System&lt;/a>, providing tailored and scalable compute performance to enable the Blue Brain Project to pursue its scientific roadmap goal for 2020 to model entire regions of the mouse brain, in particular the thalamus and neocortex.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_ybzt
+                    jcr:lastModified="{Date}2018-10-15T13:14:07.611Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is bringing state-of-the-art supercomputing technologies dedicated to simulation neuroscience&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T13:14:07.611Z"
+                        jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ybzt>
+                <textonlycomponent_cj87
+                    jcr:lastModified="{Date}2018-10-15T13:15:19.828Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Our mission is to create technologies that improve our quality of life, including powering technologies for the healthcare industry to deliver targeted treatments and save lives, said Antonio Neri, president and CEO, HPE. Through our relationship with the Blue Brain Project, HPE is bringing advanced supercomputing and bespoke applications to empower new research that can have transformative benefits for the neuroscientific community and society at large.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE designed Blue Brain 5 to specifically support the various compute-intensive challenges of the Blue Brain Projects reconstruction and simulation workflows.The flexible architecture of the HPE SGI 8600 System is instrumental for the Blue Brain Projects mission as it can host different sub systems that are specifically geared for tasks like visualization or deep learning, while being operated as one single system.Blue Brain 5 integrates four different configurations each optimized for a different workload profile, providing specific strengths in areas like memory bandwidth, network bandwidth, processing power, graphical processing and input/output.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_o6yz
+                    jcr:lastModified="{Date}2018-10-15T13:15:38.949Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is enabling the Blue Brain Project to pursue its 2020 goal to model entire regions of the mouse brain&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T13:15:38.949Z"
+                        jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_o6yz>
+                <textonlycomponent_6iis
+                    jcr:lastModified="{Date}2018-10-15T13:22:36.765Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The Blue Brain Projects scientific mission is critically dependent on our supercomputing capabilities, said Felix Schrmann, Co-Director, Blue Brain Project. Modeling an individual neuron at Blue Brain today leads to around 20,000 ordinary differential equations when modeling entire brain regions, this quickly raises to 100 billion equations that have to be solved concurrently. HPE helps us to navigate the challenging technology landscape in supercomputing.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Blue Brain Projects HPE SGI 8600 supercomputer is comprised of 327 compute nodes delivering 1.06 petaflops of peak performance. The system is equipped with 94 terabytes of memory a memory equivalent of 23,000 laptops and runs Intel®Xeon®Gold 6140 and Intel®Xeon Phi&lt;sup>TM&lt;/sup> 7230 processors as well as NVIDIA®Tesla®V100 graphic processors. The system uses single and dual-rail Mellanox InfiniBand high-performance networks and has 4 petabytes of high-performance storage from DataDirect Networks (DDN), delivering more than 50GB/s aggregated bandwidth, associated with an innovative 80 GB/s Infinite Memory Engine (IME) flash-based burst buffer.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the HPE SGI 8600 system, designed to solve the most complex problems and powering some of the fastest supercomputers in the world, Blue Brain gains scalability to thousands of nodes in an easy-to-manage architecture. The system also features an energy efficient liquid cooling solution that does not exhaust heated air into the data center. The new system has been installed at the Swiss National Supercomputing Centre (CSCS) in Lugano, Switzerland.&lt;b>&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to core to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nxb0
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/07/how-digital-twins-of-the-human-body-can-advance-healthcare"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="How Digital Twins of the Human Body Can Advance Healthcare"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How Digital Twins of the Human Body Can Advance Healthcare"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/BBP_simulation_of-_neural-activity_in_a_tissue_slice_1.jpg"/>
+                        </contentblock_nxb0>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_q4c3
+                            jcr:lastModified="{Date}2018-10-15T13:17:39.709Z"
+                            jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/developing-a-supercomputer-to-process-more-than-a-quintillion-calculations-per-second-qa-with-hpes-bill-mannel"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Developing a Supercomputer to Process More Than a Quintillion Calculations per Second: Q"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Developing a Supercomputer to Process More Than a Quintillion Calculations per Second: Q"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-15T13:17:39.709Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SeniorNotes-web.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-15T13:17:39.709Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_q4c3>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_xmho
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/fighting-oblivion-with-a-new-kind-of-computer"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Fighting Oblivion with a New Kind of Computer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Fighting Oblivion with a New Kind of Computer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Fighting-Oblivion-with-a-New-Kind-of-Computer-2.jpg"/>
+                        </contentblock_xmho>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

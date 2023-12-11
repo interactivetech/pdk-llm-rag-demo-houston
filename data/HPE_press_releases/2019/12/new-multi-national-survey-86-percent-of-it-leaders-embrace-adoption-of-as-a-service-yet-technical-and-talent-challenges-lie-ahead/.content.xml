@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:15:59.806Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:language="en"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="New multi-national survey: 86 percent of IT leaders embrace adoption of as-a-Service, yet technical and talent challenges lie ahead "
+        jcr:uuid="cb72ce42-92d1-4470-b41a-6ce6ef4297a2"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="New multi-national survey: 86 percent of IT leaders embrace adoption of as-a-Service, yet technical and talent challenges lie ahead "
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-12-03T05:00:00.000-08:00"
+        metaDescription="HPE peers inside the minds of IT decision makers (IDTMs) in a new survey to examine the benefits and concerns around as-a-Service adoption"
+        metaKeywords="as a service, aas, as-a-service, cloud, data silos, ITDM, IT, IT decision maker. HPE. HPE GreenLake, survey, industry, career, jobs"
+        metaOgImage="/content/dam/hpe/newsroom/2019/12/image-norend/new-multi-national-survey-86-percent-of-it-leaders-embrace-adoption-of-as-a-service-yet-technical-and-talent-challenges-lie-ahead.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="New multi-national survey: 86 percent of IT leaders embrace adoption of as-a-Service, yet technical and talent challenges lie ahead "
+        pageTitle="New multi-national survey: 86 percent of IT leaders embrace adoption of as-a-Service, yet technical and talent challenges lie ahead "
+        priority="(None)"
+        socialDescription="HPE peers inside the minds of IT decision makers (IDTMs) in a new survey to examine the benefits and concerns around as-a-Service adoption"
+        subtitle="HPE peers inside the minds of IT decision makers (IDTMs) in a new survey to examine the benefits and concerns around as-a-Service adoption"
+        theme="dark"
+        UAID="89c80860-a87e-4b77-b653-65b2791c1b93"
+        UCID="5f76e1d4-cbcc-428f-91c7-8c51b6f700a9">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-11-27T17:52:13.657Z"
+                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="DECEMBER 3, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-27T17:51:57.241Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/12/image-norend/new-multi-national-survey-86-percent-of-it-leaders-embrace-adoption-of-as-a-service-yet-technical-and-talent-challenges-lie-ahead.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-27T20:37:56.088Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>IT Decision Makers (ITDMs) say as-a-Service (aaS) will be very important for their company’s future (58%), competitiveness (55%) and growth (53%)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>66% of ITDMs say data migration to public cloud is currently stalled and 77% say data is siloed between public and private clouds&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Almost two-thirds (60%) of ITDMs 22-34 years-old are concerned that aaS adoption will make their current role obsolete&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-27T20:38:12.855Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>HPE peers inside the minds of IT decision makers (IDTMs) in a new survey to examine the benefits and concerns around as-a-Service adoption&lt;/h3>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_5d_443806343
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-03T13:05:57.238Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>MUNICH – Dec. 3, 2019&lt;/b> –&amp;nbsp;Nearly nine-in-ten (87%) IT decision makers (ITDMs) report that their organizations have started to implement as-a-Service (aaS) solutions or have already completed the process, yet seven in ten (71%) ITDMs are concerned about keeping up with the changing aaS landscape, according to the&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/pdfViewer.html?resource=/content/hpe/country/us/en/newsroom/resources/report/HPE-2019-As-a-Service-Driving-Change-Report&amp;amp;parentPage=/us/en/newsroom/press-release/2019/12/new-multi-national-survey-86-percent-of-it-leaders-embrace-adoption-of-as-a-service-yet-technical-and-talent-challenges-lie-ahead#share&quot; target=&quot;_blank&quot;>HPE “2019 As-a-Service: Driving Change Report”&lt;/a>.&amp;nbsp;The report, introduced today, surveyed over 1,000 ITDMs at companies of all sizes (from 50 employees to 10,000+) across the U.S., Germany and the UK to explore the future opportunities and impact of aaS consumption models.&amp;nbsp;&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <featuredresourcecomp
+                    jcr:created="{Date}2019-11-27T18:18:32.921Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-11-27T18:19:03.408Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/featuredResourceComponent"
+                    bottomPadding="0"
+                    ctaText="Download the report"
+                    topPadding="0"/>
+                <contentblock_7c25_co
+                    jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:15:57.589Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                    anchorName="share"
+                    bottomPadding="30px|30px|30px|30px|30px"
+                    ctaNewWindow="true"
+                    ctaNewWindowMicroModule="false"
+                    ctaText="Download the Report"
+                    ctaUrl="/content/hpe/base/blueprint/newsroom/resources/report/HPE-2019-As-a-Service-Driving-Change-Report"
+                    description="&lt;p>Exploring current and future opportunities, challenges and impact of as-a-Service (aaS) solutions&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                    enableAnimation="false"
+                    enableMicroModule="false"
+                    enablePrimaryCta="true"
+                    enableSecondaryCta="false"
+                    enableSocialSharing="true"
+                    header="HPE &quot;2019 As-a-Service: Driving Change Report&quot;"
+                    horizontalLayout="cb-50-50-left"
+                    imageAltText="HPE &quot;2019 As-a-Service: Driving Change Report&quot;"
+                    loopMedia="false"
+                    textIsRich="true"
+                    topPadding="30px|30px|30px|30px|30px">
+                    <image
+                        jcr:lastModified="{Date}2019-12-02T18:15:57.589Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"
+                        fileReference="/content/dam/hpe/newsroom/2019/12/image-norend/HPE-2019-As-a-Service-Driving-Change-Report.jpg"/>
+                    <imageMicroModule
+                        jcr:lastModified="{Date}2019-12-02T18:15:57.589Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </contentblock_7c25_co>
+                <textonlycomponent_5d_471386290
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-27T20:39:14.844Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Businesses of all sizes are embracing as-a-Service models to unlock innovation and agility and lead disruption rather than become a victim of it,” said Phil Davis, President of Hybrid IT for Hewlett Packard Enterprise. “As-a-Service elevates the role of IT decision makers, allowing them to become true service brokers who focus on strategic initiatives and revenue growth. As this survey data shows, the market clearly views as-a-Service as the future but are looking for a new and better approach to realize a consistent cloud experience, across public, private and the edge.”&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-27T20:39:28.710Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Businesses of all sizes are embracing as-a-Service models to unlock innovation and agility&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-11-27T20:39:28.710Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_5d_2145688638
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:16:38.905Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>“The 2019 As-a-Service: Driving Change Report” Top Findings include:&lt;br>&#xa; &lt;br>&#xa; &lt;/u>Adoption of aaS is on the rise across organizations:&lt;/b> Nearly nine-in-ten (87%) ITDMs report that their organizations have started to implement aaS solutions or have already completed the process. Furthermore, three-quarters (75%) of all ITDMs surveyed expect their organization to move toward full adoption of aaS solutions in less than five years.&lt;br>&#xa; &lt;br>&#xa; &lt;b>aaS is critical to keep up with the competitive landscape and remain strategic: &lt;/b>Executives recognize the critical need to modernize IT to support future business growth and competitive advantage. aaS solutions will be very important for their company’s future (58%), competitiveness (55%) and growth (53%).&lt;br>&#xa; &lt;br>&#xa; &lt;b>IT Challenges: data remains siloed within organizations&lt;/b>: Three quarters of ITDMs agree that at their organization, data is siloed between public and private clouds (77%) and admit that data silos are a key challenge (75%) for their businesses. About two-thirds (66%) state they agree that data migration to the public cloud is currently stalled at their organization.&lt;br>&#xa; &lt;br>&#xa; &lt;b>A generational divide - younger ITDMs are more fearful that their jobs will become obsolete due to aaS: &lt;/b>The survey findings show only about a quarter of ITDMs 55 and older (23%) are concerned that aaS adoption is making their job obsolete, compared to almost two-thirds (60%) of 22-34-year-olds. For both age groups, many (67%) ITDMs are concerned about new generations of digital natives having an advantage over their experience as it relates to aaS adoption.&lt;br>&#xa; &lt;br>&#xa; &lt;b>Career Driver - aaS enables career growth and opportunity for IT professionals:&lt;/b> Despite the changes ahead and apprehension from younger ITDMs, about nine-in-ten (87%) of all respondents agree that aaS adoption will advance their career and envision a shift in their roles from day-to-day IT support toward more of a business strategist role.&lt;b> &lt;/b>Globally, seven-in-ten ITDMs say aaS adoption will make their role within their organization more important (72%) and give them more control over data (70%) and budget (71%).&lt;br>&#xa; &lt;br>&#xa; &lt;b>&lt;u>HPE’s Commitment to aaS&lt;/u>:&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE pioneered the modern IT on premises as-a-Service model with &lt;a href=&quot;http://www.hpe.com/greenlake&quot; target=&quot;_blank&quot;>HPE GreenLake&lt;/a>. HPE GreenLake’s unique metering, cost control, software IP, and backing from HPE Financial Services provide a differentiated solution that competitors cannot match. HPE GreenLake is now one of the fastest-growing businesses in HPE, with more than 740 customers worldwide, including 160 new customer logo wins this year. Additionally, HPE has uniquely enabled its world-class partner community to deliver the offering – in 2019 the channel generated over 200% order growth for HPE GreenLake.&lt;br>&#xa; &lt;br>&#xa; &lt;b>HPE aaS Hybrid Cloud Platform Delivers a Consistent Cloud Experience Everywhere&lt;br>&#xa; &lt;br>&#xa; &lt;/b>To address some of the challenges and barriers to as-a-Service adoption referenced in the study, HPE also announced today the launch of &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/12/hpe-delivers-the-cloud-experience-everywhere-with-next-generation-as-a-service-platform.html&quot; target=&quot;_blank&quot;>HPE GreenLake Central&lt;/a>, an advanced software platform that provides customers with a consistent cloud experience for all their applications and data, through an operational console that runs, manages and optimizes their entire hybrid IT estate.&lt;br>&#xa; &lt;br>&#xa; HPE GreenLake Central gives customers a simple, unified, digital experience across public and private clouds, the data center and edge workloads and accelerates business outcomes by lowering costs and risks and providing greater choice and control. The platform gives them the freedom to choose which tools they want to use to build applications, where and how to place their workloads and data, and only pay for what they consume.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <imageonlycomponent
+                    jcr:created="{Date}2019-11-27T18:05:16.210Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:20:07.101Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="10"
+                    fileReference="/content/dam/hpe/newsroom/2019/12/image-norend/opportunities-challenges-and-future-of-as-a-Service-infographic.jpg"
+                    imageAlignment="hpe-image-left"
+                    topPadding="10"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <buttonctaitemcompone
+                    jcr:created="{Date}2019-11-27T23:53:49.560Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:19:47.889Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaButtonStyle="btn-contact"
+                    ctaNewWindow="true"
+                    ctaReferenceType="Link"
+                    ctaText="Download the infographic"
+                    ctaType="button"
+                    ctaUrl="/content/hpe/base/blueprint/newsroom/resources/report/opportunities-challenges-and-future-of-as-a-Service"
+                    videoType="youtube"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-03T13:06:51.722Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Resources&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>To read the full report, visit this&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/pdfViewer.html?resource=/content/hpe/country/us/en/newsroom/resources/report/HPE-2019-As-a-Service-Driving-Change-Report&amp;amp;parentPage=/us/en/newsroom/press-release/2019/12/new-multi-national-survey-86-percent-of-it-leaders-embrace-adoption-of-as-a-service-yet-technical-and-talent-challenges-lie-ahead#share&quot; target=&quot;_blank&quot;>page&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>For a look at HPE’s unique approach to as-a-Service and consumption-based offerings, read more &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/06/hpe-announces-plans-to-offer-entire-portfolio-as-a-service-by-2022.html&quot; target=&quot;_blank&quot;>here&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>To learn more about how HPE GreenLake is advancing the cloud experience, visit this &lt;a href=&quot;https://www.hpe.com/us/en/services/it-consumption.html?chatsrc=ot-en&amp;amp;jumpid=ps_jk4h6izbpr_aid-510455007&amp;amp;gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7Olj_3T9JYyT9HqvkCzN1Uho4joI5LaVKI9wORg2cupKkAJtIrdGm8aArNEEALw_wcB&amp;amp;gclsrc=aw.ds&quot; target=&quot;_blank&quot;>blog&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Methodology&lt;br>&#xa; &lt;br>&#xa; &lt;/b>&lt;/span>&lt;span data-rte-class=&quot;rte-temp&quot;>&lt;span data-rte-class=&quot;rte-temp&quot;>&lt;span data-rte-class=&quot;rte-temp&quot;>&lt;span data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>The report reflects independent research, commissioned by HPE and completed by a third-party vendor, that represents the key findings of an online survey conducted among a sample of over 1,000 IT decision makers, across three international markets (US, UK, and Germany) between October 4 and October 17, 2019.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way people live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a href=&quot;https://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-12-02T20:44:14.135Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/12/hpe-delivers-the-cloud-experience-everywhere-with-next-generation-as-a-service-platform"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE delivers the cloud experience everywhere with next-generation as-a-Service platform"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE delivers the cloud experience everywhere with next-generation as-a-Service platform"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-12-02T20:44:14.135Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/12/image-norend/hpe-delivers-the-cloud-experience-everywhere-with-next-generation-as-a-service-platform.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-12-02T20:44:14.135Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-27T18:11:29.791Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="social"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="false"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hpe-announces-plans-to-offer-entire-portfolio-as-a-service-by-2022"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE announces plans to offer entire portfolio as a Service by 2022"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE announces plans to offer entire portfolio as a Service by 2022"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-27T18:11:29.791Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/HPE-Announces-Plans-to-Offer-Entire-Portfolio-as -a-Service-by-2022.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-27T18:11:29.791Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff_co
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-27T19:16:17.787Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="social"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="false"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/10/hewlett-packard-enterprise-outlines-as-a-service-strategy-and-announces-fy20-outlook"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise outlines as a Service strategy and announces FY20 outlook"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise outlines as a Service strategy and announces FY20 outlook"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-27T19:16:17.787Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/10/image-norend/hewlett-packard-enterprise-outlines-as-a-service-strategy-and-announces-fy20-outlook.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-27T19:16:17.787Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff_co>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-09-05T17:38:02.066Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

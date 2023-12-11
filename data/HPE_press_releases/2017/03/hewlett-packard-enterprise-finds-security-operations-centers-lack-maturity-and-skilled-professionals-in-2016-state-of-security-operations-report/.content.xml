@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:19:37.009Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-finds-security-operations-centers-lack-maturity-and-skilled-professionals-in-2016-state-of-security-operations-report"
+        jcr:uuid="6561341f-4c21-4add-a0eb-5576dd73e51a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:59:27.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Finds Security Operations Centers Lack Maturity and Skilled Professionals in 2016 State of Security Operations Report"
+        navTitle="Hewlett Packard Enterprise Finds Security Operations Centers Lack Maturity and Skilled Professionals in 2016 State of Security Operations Report"
+        pageTitle="Hewlett Packard Enterprise Finds Security Operations Centers Lack Maturity and Skilled Professionals in 2016 State of Security Operations Report"
+        priority="(None)"
+        subtitle="Organizations That Master the Basics of Security Detection, Escalation and Response Place Themselves Ahead of the Curve"
+        theme="dark"
+        UAID="35849b4e-c1c2-41df-b0b8-0aa6aa4965b5"
+        UCID="0fb58e5d-8be9-49ad-87b9-da0cc3565219"
+        WPID="1417">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T08:57:02.143Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="January 19, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Organizations That Master the Basics of Security Detection, Escalation and Response Place Themselves Ahead of the Curve&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_gzn6
+                    jcr:lastModified="{Date}2018-10-23T09:09:29.889Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jan 19, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today published its third annual &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222611&amp;amp;type=1&amp;amp;url=http%3a%2f%2fhpe.com%2fsoftware%2fStateOfSecOps&quot;>State of Security Operations Report 2016&lt;/a>, highlighting the critical role &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222614&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fsecurity-operations-center%2f&quot;>security operations centers&lt;/a> (SOCs) play in protecting today's digital enterprise. As organizations face an increasingly volatile threat landscape, the report assesses &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222617&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fsecurity-operations-center%2f&quot;>SOC&lt;/a> maturity levels to help organizations improve their security posture and understand the components of a successful security operations organization.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Published by HPE &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222620&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fsecurity-operations-center%2f&quot;>Security Intelligence and Operations Consulting&lt;/a> (SIOC), the report examines 114 SOCs in more than 150 assessments around the globe and measures four areas of performance: people, processes, technology and business function. This year's report indicates that security operations maturity remains well below optimal levels, with 85 percent of assessed organizations falling below recommended maturity levels.&lt;sup>1&lt;/sup> While this number is alarmingly high, it accounts for the influx of new SOCs that enterprises are building to address evolving security challenges. These findings also demonstrate the need for organizations to strike the right performance balance across all areas of the SOC, from the foundation up.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Organizations are investing heavily in cyber security, but the lack of skilled resources and the deployment of advanced solutions without a solid SOC foundation in place remain top concerns,&amp;quot; said Chris Triolo, Vice President of Security Product Global Services at Hewlett Packard Enterprise. &amp;quot;To build a successful SOC, we recommend a holistic approach to security operations that includes mastering the basics of security monitoring, incident detection, breach escalation and response leveraging skilled resources from managed security services for complete or blended support, as well as implementing advanced data science, analytics and shared intelligence to more effectively protect the digital enterprise.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Key Observations&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Access toskilled security resources remains the top concern of organizations. &lt;/b>To combatpersonnel shortages, enterprises are implementing hybrid staffing andhybrid security infrastructure models that require less in-houseexpertise, while still delivering on detection capabilities.&lt;sup>1&lt;/sup>&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>The averageSOC lacks basic security monitoring capabilities.&lt;/b> In 2015, 24percent of assessed organizations only met minimum requirements to providesecurity monitoring, which translates to a lack of documentation with actionsbeing executed on an ad hoc basis.&lt;sup>1&lt;/sup>&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Business functionsof SOCs are improving. &lt;/b>This year's report shows that &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222623&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fsecurity-operations-center%2f&quot;>SOC&lt;/a>&amp;nbsp;professionals have improved their ability to prioritize critical businessneeds and allocate necessary personnel and technology resources. In thepast, the majority of organizations invested heavily in technologysolutions for the SOC without the support required to maximize the ROI ofsuch tools. A continuous investment into all facets of a cyber-defenseorganization is necessary to achieve and maintain optimal maturity.&lt;sup>1&lt;/sup>&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>ModernSOCs are implementing the latest security trends including hunt teams,deception grids, and data analytics-driven security. &lt;/b>Organizationsmoving to fifth-generation (5G/SOC) &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222626&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fsecurity-operations-center%2f&quot;>security operations&lt;/a> are best equipped to recognize the changing threatlandscape and approach security holistically.&lt;sup>1&lt;/sup>&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Internetof Things (IoT) security monitoring is raising capabilities forbusinesses. &lt;/b>Organizationsin the energy and healthcare sectors that implemented smart metermonitoring and medical device monitoring, respectively, had higher maturitylevels.&lt;sup>1&lt;/sup>&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Implications &amp;amp; Recommendations&lt;br>&#xa; &lt;/b>HPE continues to find that the majority of cyber defense organizations' operations remain below target maturity levels. A continual focus on mastering the basics and creating a solid foundation of risk identification, incident detection, breach escalation and response is key to effectiveness. Benefits from advanced analytics capabilities and &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222629&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fcyber-threat-analysis%2findex.html&quot;>threat intelligence&lt;/a> will only be realized if a strong security operations framework exists. A single product or service will not provide the protection and operational awareness that organizations need. Instead, organizations must focus on a continuous investment in their cyber security posture that encompasses people, process, technology and business function to effectively mitigate risks.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Methodology&lt;br>&#xa; &lt;/b>The methodology for assessments is based on HPE's &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222632&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fsecurity-operations-center%2f&quot;>security operations maturity model&lt;/a> (SOMM), which focuses on multiple aspects of a successful and mature security intelligence and monitoring capability including people, process, technology, and business functions. The SOMM uses a five-point scale -- a score of &amp;quot;0&amp;quot; is given for a complete lack of capability while a &amp;quot;5&amp;quot; is given for a capability that is consistent, repeatable, documented, measured, tracked, and continually improved upon. The ideal composite maturity score for a modern enterprise is &amp;quot;3&amp;quot;, while managed security service providers (MSSPs) should target a maturity level between &amp;quot;3&amp;quot; and &amp;quot;4&amp;quot;. The reliable detection of malicious activity and threats to the organization, and a systematic approach to manage those threats are the most important success criteria for a mature cyber defense capability.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The full methodology is detailed in the &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222635&amp;amp;type=1&amp;amp;url=http%3a%2f%2fhpe.com%2fsoftware%2fStateOfSecOps&quot;>report&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HPE Security&lt;br>&#xa; &lt;/b>HPE Security helps organizations detect and respond to cyber threats while safeguarding continuity and compliance to effectively mitigate risk and incident impact. Delivering an integrated suite of market-leading &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222638&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fenterprise-security.html&quot;>products&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222641&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.hp.com%2fenterprise%2fsecurity&quot;>services&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222644&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fcyber-threat-analysis%2findex.html&quot;>threat intelligence&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222647&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fsecurity-research%2findex.html&quot;>security research&lt;/a>, HPE Security helps customers proactively protect the interactions among users, applications and data, regardless of location or device. With a global network of security operations centers and more than 5,000 &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222650&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fbusiness-solutions%2fsecurity-overview.html&quot;>IT security&lt;/a> experts, HPE Security empowers customers and partners to safely operate and innovate while keeping pace with the speed of today's idea economy. Find out more about HPE Security at &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222653&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fsolutions%2fsecurity&quot;>https://www.hpe.com/us/en/solutions/security&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HPE Software on &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222656&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.linkedin.com%2fcompany%2fhpe-software&quot;>LinkedIn&lt;/a> and follow &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222659&amp;amp;type=1&amp;amp;url=https%3a%2f%2ftwitter.com%2fHPE_Software&quot;>@HPE_Software&lt;/a> on Twitter. To learn more about HPE Enterprise Security products and services on Twitter, please follow &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222662&amp;amp;type=1&amp;amp;url=https%3a%2f%2ftwitter.com%2fHPE_Security&quot;>@HPE_Security&lt;/a> and join HPE Enterprise Security on &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1239483&amp;amp;id=8222665&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.linkedin.com%2fcompany%2fhpe-security&quot;>LinkedIn&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> &amp;quot;State of Security Operations Report 2016&amp;quot; HPE Security Intelligence and Operations Consulting (SIOC), January 2016.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statements&lt;br>&#xa;This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended August 10, 2015, September 4, 2015, September 15, 2015, September 28, 2015 and October 7, 2015. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b4f8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-report-reveals-trials-and-errors-of-security-operations"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SecurityOperations.jpg"/>
+                        </contentblock_b4f8>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_8vuu
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/06/hpe-delivers-dual-processor-performance-with-single-processor-economics-in-new-hpe-proliant-dl325-gen10-server"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-Dual-Processor-Performance-with-Single-Processor-Economics-in-New-HPE-ProLiant-DL325-Gen10-Server.jpg"/>
+                        </contentblock_8vuu>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_gwmg
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-extends-industry-leading-proliant-gen10-portfolio-to-deliver-breakthrough-economics-in-server-virtualization"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Extends-Industry-Leading-ProLiant-Gen10-Portfolio.jpg"/>
+                        </contentblock_gwmg>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

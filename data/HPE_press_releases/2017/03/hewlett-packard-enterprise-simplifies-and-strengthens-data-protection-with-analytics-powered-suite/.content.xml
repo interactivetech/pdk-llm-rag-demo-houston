@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-31T20:13:12.237Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-simplifies-and-strengthens-data-protection-with-analytics-powered-suite"
+        jcr:uuid="8638eb26-771f-484a-ac1c-157e72767acd"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:54:34.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Simplifies and Strengthens Data Protection With Analytics-Powered Suite"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-simplifies-and-strengthens-data-protection-with-analytics-powered-suite/jcr:content/main-par/body-par/textonlycomponent_9v26"
+        navTitle="Hewlett Packard Enterprise Simplifies and Strengthens Data Protection With Analytics-Powered Suite"
+        pageTitle="Hewlett Packard Enterprise Simplifies and Strengthens Data Protection With Analytics-Powered Suite"
+        priority="(None)"
+        subtitle="HPE Adaptive Backup and Recovery Suite Leverages Operational Analytics to Provide Information Insight for Improved Efficiencies and Risk Mitigation"
+        theme="dark"
+        UAID="aeaa4474-6078-4d34-a30e-2f90d9eb7dc9"
+        UCID="33fba007-9435-41b1-976e-b685fd0ce517"
+        WPID="1212">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-24T09:16:43.627Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="OCTOBER 17, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Adaptive Backup and Recovery Suite Leverages Operational Analytics to Provide Information Insight for Improved Efficiencies and Risk Mitigation&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_9v26
+                    jcr:lastModified="{Date}2023-03-31T20:13:12.225Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Oct 17, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today introduced the HPE Adaptive Backup and Recovery Suite, an integrated suite that uses operational and file analytics to automate and streamline data protection. Delivering on its vision to bring information insight into the end-to-end backup and recovery process, the suite combines HPE Storage Optimizer, HPE Data Protector and HPE Backup Navigator with modern information optimization, analytics, and protection tools to efficiently safeguard and backup enterprise data across disparate repositories and locations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Traditional data protection and management tools present significant challenges to IT departments due to their inability to handle growing volumes of data, new waves of diverse applications, and new data protection rules such as the General Data Protection Regulation (GDPR). According to International Data Corporation (IDC), &amp;quot;&lt;i>keeping data safe, available and well managed is of paramount importance for successful digital transformation&lt;/i>.&amp;quot;&lt;sup>1&lt;/sup> IDC continues, &amp;quot;&lt;i>enterprises must rethink their data protection strategies and update them with solutions fit to overcome new age data complexities&lt;/i>.&amp;quot;&lt;sup>2&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Organizations are under immense pressure to manage and protect growing volumes of data that is outpacing their IT budgets,&amp;quot; said David Jones, senior vice president and general manager, Information Management &amp;amp; Governance, Hewlett Packard Enterprise. &amp;quot;With the HPE Adaptive Backup and Recovery Suite, IT departments can leverage analytics to optimize data management and protect what matters most while driving efficiency, system reliability and compliance across their environments.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Providing deep insights into enterprise information with intelligent, highly adaptive solutions powered by analytics is required to address modern data management challenges. With a robust analytical foundation, the recent enhancements to Data Protector, Backup Navigator and Storage Optimizer have uniquely tailored HPE's capabilities to address dynamic market conditions with increased operational efficiency and streamlined management regardless of data location. Individually, the solutions complement one another. In combination, the three solutions come together into one suite to augment insights into enterprise data while delivering time and cost savings, and significantly mitigating risk.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The increasing amount of data, combined with antiquated information management systems, is holding back organizations from developing new products and services,&amp;quot; said Nick Sundby, consulting director, IDC (@IDC) European Storage Group. &amp;quot;A software suite like HPE Adaptive Backup and Recovery, which helps organizations from the start to the end of their data protection journey -- that analyzes, then protects and optimizes the backup processes and infrastructure in a secure, automated way -- will set the benchmark for modern, self-optimizing backup and recovery solutions.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Adaptive Backup and Recovery Suite prioritizes critical workloads, predicts resource conflicts and expedites recommended remediation steps to drive efficiency, reliability and cost savings into the backup process. Through the combination of three market-proven offerings including &lt;i>HPE Storage Optimizer, HPE Data Protector&lt;/i> and &lt;i>HPE Backup Navigator, &lt;/i>HPE Adaptive Backup and Recovery Suite enables organizations to:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Manage and optimize unstructured information - &lt;/b>HPE Storage Optimizer helps companies analyze, classify and manage data based on its value. Users can understand and control the information landscape to reduce costs, meet backup SLAs and reduce compliance risks.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Protect data based on its value - &lt;/b>HPE Data Protector serves as the core protection engine for comprehensive backup and recovery that is centrally managed. Users can consolidate and standardize backup and replication to improve reliability, enhance business resiliency - while reducing cost and complexity.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Make backup process more efficient - &lt;/b>HPE Backup Navigator provides analytics, reporting and data monitoring. Users can identify protection gaps, run rapid root-cause analysis for issues in order to help IT departments plan for future backup resource and proactively resolve errors and improve resource utilization.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;It is imperative that our patients' health records are available to the medical staff at all times, as well as protected in the event of a disaster,&amp;quot; said James Matson, IT Coordinator, UP Health System Portage. &amp;quot;With HPE Data Protector, we have a trusted data protection solution in place, and are now expanding our use of the suite with the deployment of HPE Backup Navigator which will help us with the reporting and monitoring of our backup environment while providing us with insight so that we can optimize and run it more efficiently.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability and Pricing&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Adaptive Backup and Recovery suite is available immediately. In addition, the suite is optimized for HPE's storage portfolio including its StoreOnce, 3PAR StoreServ, and StoreEver offerings. Starting at $6,200/terabyte, the suite will be offered at flexible pricing levels based on capacity of data managed. &amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xd;&#xa; &lt;/b>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> &amp;quot;Reinventing Data Protection Fit for Digital Transformation&amp;quot;&lt;br>&#xd;&#xa; IDC - Carla Arend, Nick Sundby, Archana Venkatraman, October 2016&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> &amp;quot;Reinventing Data Protection Fit for Digital Transformation&amp;quot;&lt;br>&#xd;&#xa; IDC - Carla Arend, Nick Sundby, Archana Venkatraman, October 2016&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ympv
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-software-boosts-security-in-its-backup-suite-to-guard-against-growing-threats"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Digital-TransformationWeb.jpg"/>
+                        </contentblock_ympv>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yxy3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/get-ready-for-the-gdpr-with-hpe"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Get Ready for the GDPR with HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Get Ready for the GDPR with HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Get-ready-for-the-GDPR-with-HPE.jpg"/>
+                        </contentblock_yxy3>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_13xo
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-software-launches-gdpr-starter-kit-to-expedite-and-simplify-compliance"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Software Launches GDPR Starter Kit to Expedite and Simplify Compliance"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Software Launches GDPR Starter Kit to Expedite and Simplify Compliance"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/4_NewsroomImage.jpg"/>
+                        </contentblock_13xo>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

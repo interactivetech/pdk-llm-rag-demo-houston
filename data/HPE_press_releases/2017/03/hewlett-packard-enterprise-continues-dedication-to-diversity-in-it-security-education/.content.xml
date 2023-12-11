@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-21T00:05:37.559Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/compute,hpe-newsroom:categories/company---diversity-&amp;-inclusion]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-continues-dedication-to-diversity-in-it-security-education"
+        jcr:uuid="ef1d7eeb-c9c5-4eb8-95c9-77eade189ba7"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:58:30.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Continues Dedication to Diversity in IT Security Education"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-continues-dedication-to-diversity-in-it-security-education/jcr:content/main-par/body-par/textonlycomponent_2ngk"
+        navTitle="Hewlett Packard Enterprise Continues Dedication to Diversity in IT Security Education"
+        pageTitle="Hewlett Packard Enterprise Continues Dedication to Diversity in IT Security Education"
+        priority="(None)"
+        subtitle="HPE, Applied Computer Security Associates and CRA-W Award Third Annual Recipients of Scholarship for Women Studying Information Security"
+        theme="dark"
+        UAID="44ec37b2-7f0f-4f9e-8c3b-3e6a06d04a3d"
+        UCID="2e76c250-dee6-4051-87af-0c7a0c955c9a"
+        WPID="1366">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-22T13:47:07.204Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="APRIL 20, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE, Applied Computer Security Associates and CRA-W Award Third Annual Recipients of Scholarship for Women Studying Information Security&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_2ngk
+                    jcr:lastModified="{Date}2023-04-21T00:05:37.543Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Apr 20, 2016) - Hewlett Packard Enterprise (NYSE: HPE), in collaboration with Applied Computer Security Associates (ACSA) and the Computing Research Association's Committee on the Status of Women in Computing Research (CRA-W), today announced 16 new recipients and 8 continuing recipients of the 2016 Scholarship for Women Studying Information Security (&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.swsis.org/&quot;>SWSIS&lt;/a>).&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Now in its third year of funding by HPE, the scholarship program has supported 46 collegiate women working to join the growing security industry, which is faced with a significant talent gap. In fact, the lack of access to skilled security resources was the number one concern of Security Operations Center leaders interviewed in a 2016 report from HPE.&lt;sup>1&lt;/sup> This ongoing scholarship reinforces the company's dedication to addressing that challenge by supporting talented women interested in building a career in IT security through academic funding and hands-on internship opportunities.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;In today's digital economy, organizations must invest in the expert resources needed to protect their most critical assets and stay ahead of increasingly sophisticated cybercriminals,&amp;quot; said Sue Barsamian (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/suebarsamian&quot;>@suebarsamian&lt;/a>), senior vice president and general manager, HPE Security Products, Hewlett Packard Enterprise. &amp;quot;The women receiving this year's SWSIS scholarships represent the future leaders of our industry and our commitment to proactively foster diversity, passion, and expertise to succeed against adversaries.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>While the volume and cost of enterprise security breaches rise&lt;sup>2&lt;/sup>, security and business leaders struggle to fill positions that allow them to better defend and protect their organizations.&lt;sup>3&lt;/sup> HPE is committed to doing its part to address these industry-wide challenges by providing resources in support of both education and training initiatives. To simultaneously ensure diversity, as women only represent ten percent of the information security workforce,&lt;sup>4&lt;/sup> HPE committed a $250,000 four-year grant to the SWSIS scholarship program, initiated in 2014.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In 2016, HPE, ACSA and CRA-W are funding 24 scholarships for undergraduates and masters' degree candidates from colleges and universities across the United States including:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>California Polytechnic State University - San Luis Obispo&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>California State University, Northridge&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Carnegie Mellon University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Cornell University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Dakota State University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>DePaul University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Eastern Michigan University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Embry Riddle Aeronautical University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Ferris State University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>George Mason University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Indiana University at Bloomington&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Marshall University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Pennsylvania State University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>State University of New York at Albany&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>University of Colorado at Boulder&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>University of Maryland Baltimore County&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>University of Maryland University College&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>University of North Texas&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>University of Northwestern&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>University of South Florida&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Wilmington University&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Youngstown State University&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;CRA-W is proud to be part of the SWSIS scholarship program,&amp;quot; said Rebecca Wright, professor at Rutgers University (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/RutgersU&quot;>@RutgersU&lt;/a>) and co-director of the ACSA/CRA-W SWSIS scholarship program. &amp;quot;SWSIS has the potential to make a positive impact both on these students' lives and on the information security workforce.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;There weren't many computer classes offered when I was in high school, and I really didn't know much about cybersecurity until I entered undergrad,&amp;quot; said Kaitlyn Kelly, rising senior at SUNY&lt;/i> Albany (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/ualbany&quot;>@ualbany&lt;/a>) and one of this year's SWSIS scholars. &lt;i>&amp;quot;Now more than ever, it's so important to raise awareness about opportunities in the security field, and to show women that it's something they can be a part of. I look forward to continuing down this path, and hope to participate in more initiatives like the SWSIS program that are actively encouraging women to pursue cybersecurity as a career.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SWSIS scholarship details&lt;br>&#xd;&#xa; &lt;/b>The SWSIS program was founded by ACSA, a nonprofit organization dedicated to improving the understanding, theory and practice of cybersecurity. The SWSIS scholarship program is a joint effort between HPE, ACSA and CRA-W.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information on the program please visit the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.swsis.org/&quot;>SWSIS website.&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HPE Security&lt;br>&#xd;&#xa; &lt;/b>&lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/solutions/infrastructure-security.html&quot;>HPE Security&lt;/a> helps organizations protect their business-critical digital assets by building security into the fabric of the enterprise, detecting and responding to advanced threats, and safeguarding continuity and compliance to effectively mitigate risk. With an integrated suite of market-leading products, services, threat intelligence and security research, HPE Security empowers organizations to balance protection with innovation to keep pace with today's idea economy. Find out more about HPE Security at &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/products/storage/data-protection-solutions.html&quot;>https://www.hpe.com/us/en/solutions/protect-digital.html&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HPE Software &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPE_Software&quot;>@HPE_Software&lt;/a> on Twitter. To learn more about HPE Enterprise Security products and services on Twitter, please follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPE_Security&quot;>@HPE_Security&lt;/a> and join &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/solutions/infrastructure-security.html&quot;>HPE Enterprise Security&lt;/a> on &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.linkedin.com/company/hpe-security&quot;>LinkedIn&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xd;&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>1 &amp;quot;State of Security Operations Report 2016,&amp;quot; HPE Security Intelligence and Operations Consulting (SIOC), January 2016.&lt;br>&#xd;&#xa; 2 &amp;quot;2015 Cost of Cyber Crime Study: United States,&amp;quot; Ponemon Institute (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/ponemonprivacy&quot;>@PonemonPrivacy&lt;/a>), October 2015.&lt;br>&#xd;&#xa; 3 &amp;quot;Analytics and Intelligence Survey 2015,&amp;quot; SANS Institute, November 2015. &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.sans.org/reading-room/whitepapers/analyst/2015-analytics-intelligence-survey-36432&quot;>https://www.sans.org/reading-room/whitepapers/analyst/2015-analytics-intelligence-survey-36432&lt;/a>&lt;br>&#xd;&#xa; 4 &amp;quot;(ISC)&lt;sup>2&lt;/sup> Global Information Security Workforce Study,&amp;quot; (ISC)&lt;sup>2&lt;/sup>, April 2015. &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.isc2cares.org/IndustryResearch/GISWS/&quot;>https://www.isc2cares.org/IndustryResearch/GISWS/&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statements&lt;br>&#xd;&#xa; &lt;/b>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended August 10, 2015, September 4, 2015, September 15, 2015, September 28, 2015 and October 7, 2015. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yr5n
+                            jcr:lastModified="{Date}2018-10-22T13:55:01.109Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/09/intelligent-iot-powers-purdues-digital-agriculture-initiative-for-food-security-worldwide"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Intelligent IoT powers Purdues digital agriculture initiative for food security worldwide"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Intelligent IoT powers Purdues digital agriculture initiative for food security worldwide"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-22T13:55:01.109Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Intelligent-IoT-Powers-Purdue’s-Digital-Agriculture-Initiative-for-Food-....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-22T13:55:01.109Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_yr5n>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_w9yq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-acquires-niara-to-enhance-security-at-the-intelligent-edge"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Acquires-Niara.jpg"/>
+                        </contentblock_w9yq>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_k35s
+                            jcr:lastModified="{Date}2018-10-22T13:51:26.678Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/a-view-from-the-edge-one-of-the-most-exciting-times-in-history-is-right-now"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="A view from the edge: One of the most exciting times in history is  right now"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A view from the edge: One of the most exciting times in history is  right now"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-22T13:51:26.678Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/A-View-from-the-Edge-One-of-the-Most-Exciting-Times-in-History-is-…-Right-Now.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-22T13:51:26.678Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_k35s>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

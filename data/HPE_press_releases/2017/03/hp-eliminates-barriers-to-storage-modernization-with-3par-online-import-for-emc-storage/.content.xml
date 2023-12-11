@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:01:40.403Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-eliminates-barriers-to-storage-modernization-with-3par-online-import-for-emc-storage"
+        jcr:uuid="efb99f77-c962-4742-af8c-363a8ba07df0"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:33.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Eliminates Barriers to Storage Modernization With 3PAR Online Import for EMC Storage"
+        navTitle="HP Eliminates Barriers to Storage Modernization With 3PAR Online Import for EMC Storage"
+        pageTitle="HP Eliminates Barriers to Storage Modernization With 3PAR Online Import for EMC Storage"
+        priority="(None)"
+        subtitle="Replacing Old EMC VNX and CLARiiON CX4 Arrays With 3PAR StoreServ Storage Is Now Easier Than Migrating to EMC VNX2"
+        theme="dark"
+        UAID="e60b5cef-7070-4b8e-ae5e-8cdb86652b5d"
+        UCID="24ee4b80-cbd3-472a-aa6b-62b0c06aee6b"
+        WPID="1611">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-16T11:35:52.998Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 1, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Replacing Old EMC VNX and CLARiiON CX4 Arrays With 3PAR StoreServ Storage Is Now Easier Than Migrating to EMC VNX2&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_jz1y
+                    jcr:lastModified="{Date}2018-10-16T08:30:17.651Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - May 1, 2014) - HP (NYSE: HPQ) today introduced HP 3PAR Online Import support for migrating data from EMC VNX&lt;sup>(1)&lt;/sup> and EMC CLARiiON CX4 arrays to &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/products/data-storage/data-storage-products.html?compURI=1225854&quot;>HP 3PAR StoreServ Storage&lt;/a>, enabling customers to easily and quickly modernize legacy storage infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With support for HP EVA Storage and now EMC VNX&lt;sup>(1)&lt;/sup> and CLARiiON CX4 storage systems, customerscan save time and money by performing self-directed platform migrations without professional services engagements or external hardware appliances.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The introduction of virtualization, cloud and IT-as-a-Service workloads into the data center adds unpredictable demands on legacy storage, compromising an organization's ability to be agile and efficient. Additionally, moving to a new storage system often requires resource-intensive planning, change management and data migration.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To overcome the roadblocks that enterprises face when modernizing storage, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/3PARstoreserv&quot;>HP 3PAR Online Import software&lt;/a> now allows customers to migrate data easily from EMC VNX&lt;sup>(1)&lt;/sup> and EMC CLARiiON CX4 systems to any &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/storeserv7000&quot;>HP 3PAR StoreServ 7000-Series&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://h10010.www1.hp.com/wwpc/us/en/sm/WF05a/12169-304616-5044010-5044010-5044010-5157544.html?dnr=1&quot;>10000-Series&lt;/a> or &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/storeserv7450&quot;>all-flash 7450&lt;/a> array. This user-directed migration utility allows upgrades from legacy EMC arrays to HP 3PAR StoreServ Storage without requiring the use of host resources, specialized host software or additional hardware appliances. By using federated storage innovations and eliminating reliance on host resources, data migration with 3PAR Online Import is less disruptive to applications and can performed faster than other methods.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For existing EMC VNX customers, the latest generation of EMC VNX arrays -- or VNX2 -- use an operating system that is not supported on earlier VNX models, so the upgrade path from a first-generation VNX array to VNX2 requires a full data migration. Replacing EMC VNX&lt;sup>(1)&lt;/sup> and CLARiiON CX4 arrays with VNX2 requires 40 percent to 80 percent more commands than upgrading to HP 3PAR StoreServ,&lt;sup>(2)&lt;/sup> and involves either data migration tools that consume host resources and impact application performance&lt;sup>(3)&lt;/sup> or necessitates the use of costly additional hardware appliances.&lt;sup>(4)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;IT managers are challenged to increase business agility and efficiency but are constantly held back by gaps in fragmented and complex legacy storage systems,&amp;quot; said David Scott, senior vice president and general manager, HP Storage. &amp;quot;HP 3PAR StoreServ Storage delivers features not available on EMC VNX and now we're removing the data migration roadblock to enable affordable tier-1 storage for trapped EMC customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reduce the cost of storage modernization and data migration &lt;br>&#xa; &lt;/b>According to industry analysts and the professional IT community at Wikibon, data migration has traditionally been a source of pain for customers. A Wikibon study states that the time to provision new arrays averages five months and migration costs exceed one-half of the initial array cost itself.&lt;sup>(5)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help customers reduce storage costs, HP 3PAR Online Import software leverages the HP 3PAR Gen4 ASIC to drive efficient, inline, fat-to-thin conversion that takes fully provisioned (or fat) volumes from a legacy storage system and uses zero-block deduplication technology to convert them into thin-provisioned volumes on HP 3PAR StoreServ. It is this built-in fat-to-thin conversion capability that enables HP to offer a 50 percent capacity savings guarantee to EMC customers as part of the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/getthin&quot;>Get Thin Guarantee program&lt;/a>.&lt;sup>(6)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP 3PAR Online Import software is provided to new HP 3PAR StoreServ Storage customers at no charge for 180 days as part of the HP 3PAR Operating System (OS) Suite and does not require professional services. This means that migrating from older EMC VNX&lt;sup>(1)&lt;/sup> and EMC CLARiiON CX4 storage systems to HP 3PAR StoreServ Storage is now extremely cost-efficient and, in many cases, less costly than migrating to VNX2 since no additional hardware is ever required.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Increase agility with storage born for virtualization and IT as a Service&lt;br>&#xa; &lt;/b>HP 3PAR StoreServ Storage is a multitenant storage platform with tier-1 resiliency features and a single operating system that spans high-end, midrange, all-flash and hybrid arrays. This allows customers to reduce administrative complexity via common management across multiple classes of storage. In addition, customers can increase resource utilization by consolidating diverse and unpredictable workloads onto a single system and by nondisruptively load balancing between HP 3PAR StoreServ Storage systems. A common architecture also allows customers to upgrade to the latest version of the HP 3PAR OS on any model HP 3PAR StoreServ System.&lt;sup>(7)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP will be in Las Vegas May 5-7 to promote the ease of migration from EMC VNX&lt;sup>(1)&lt;/sup> and CLARiiON CX4 storage arrays to HP 3PAR StoreServ Storage as part of the &amp;quot;72 Hours of Yes&amp;quot; event. EMC customers in Las Vegas May 4-7 can tweet #72hoursofyes to request a complimentary ride from the airport, coffee or anything else to make their trip more enjoyable. The HP Storage Yes Team will try to say &amp;quot;yes&amp;quot; to as many fun and appropriate requests as possible.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP 3PAR Online Import software is included at no charge for 180 days with the HP 3PAR OS Suite, version 3.1.2 MU2 and later.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP 3PAR Online Import support for EMC VNX&lt;sup>(1)&lt;/sup> and EMC CLARiiON CX4 arrays will be available in June at no additional cost, and will be included as part of the 3PAR OS Suite version 3.1.3 MU1 and later.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1)Applies to first-generation VNX arrays, not to the latest generation, frequently referred to as &amp;quot;VNX2.&amp;quot;&lt;br>&#xa;(2)Based on HP analysis and testing of EMC published steps for migrating 10 hosts using PowerPath Migration Enabler Host Copy Software compared to 3PAR Online Import Software.&lt;br>&#xa;(3)Requires EMC PowerPath Migration Enabler Host Copy software.&lt;br>&#xa;(4)Requires an EMC VPLEX appliance.&lt;br>&#xa;(5)&amp;quot;&lt;a rel=&quot;nofollow&quot; href=&quot;http://wikibon.org/wiki/v/The_Cost_of_Storage_Array_Migration_in_2014&quot;>The Cost of Storage Array Migration in 2014&lt;/a>,&amp;quot; Wikibon.org.&lt;br>&#xa;(6)HP Get Thin Guarantee claims subject to terms and conditions. Details are available at hp.com/go/getthin.&lt;br>&#xa;(7)Includes 3PAR F-Class and T-Class arrays.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy; the impact of macroeconomic and geopolitical trends and events; the need to manage third party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Quarterly Report on Form 10-Q for the fiscal quarter ended April 30, 2013 and HP's other filings with the Securities and Exchange Commission, including HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3c41
+                            jcr:created="{Date}2018-10-16T09:05:34.649Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-16T09:05:34.649Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/07/hpe-advances-intelligent-storage-capabilities-with-ai-and-cloud-automation-for-hpe-3par"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Press-release_1.jpg"/>
+                        </contentblock_3c41>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ce0
+                            jcr:created="{Date}2018-10-16T09:04:08.105Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-16T09:04:08.105Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_ce0>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_f420
+                            jcr:created="{Date}2018-10-16T10:52:12.674Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-16T10:52:12.674Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-unveils-most-significant-3par-flash-storage-innovations-to-date"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE20160923076v2.jpg"/>
+                        </contentblock_f420>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

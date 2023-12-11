@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:04:24.904Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="updates-to-hp-helion-portfolio-help-customers-unlock-value-of-a-hybrid-infrastructure"
+        jcr:uuid="b5e6e936-548b-4058-b7de-0438934ae89d"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        metaDescription="Updates to HP Helion Portfolio Help Customers Unlock Value of a Hybrid Infrastructure"
+        navTitle="Updates to HP Helion Portfolio Help Customers Unlock Value of a Hybrid Infrastructure"
+        pageTitle="Updates to HP Helion Portfolio Help Customers Unlock Value of a Hybrid Infrastructure"
+        priority="(None)"
+        subtitle="HP Helion CloudSystem 9.0 Expands Support for Multiple Hypervisors and Clouds to Give Enterprises and Service Providers Maximum Flexibility"
+        theme="dark"
+        UAID="885f7786-8595-40ab-96b5-b444fee3e032"
+        UCID="f659f8dc-bdc6-4a5e-964f-2d40ba3426da"
+        WPID="1516">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T14:03:30.963Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 2, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP Helion CloudSystem 9.0 Expands Support for Multiple Hypervisors and Clouds to Give Enterprises and Service Providers Maximum Flexibility&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_lzw8
+                    jcr:lastModified="{Date}2018-10-19T13:22:06.606Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, NV--(Marketwired - Jun 2, 2015) - Today at HP Discover 2015, HP (NYSE: HPQ) announced updates to the HP Helion portfolio that will help enterprises realize the benefits of transitioning to a hybrid infrastructure. HP introduced &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/solutions/cloud/hybrid-it-management.html&quot;>HP Helion CloudSystem 9.0&lt;/a>, the next release of its flagship integrated enterprise cloud solution, and enhancements to &lt;a href=&quot;/content/hpe/base/blueprint/services/advise-transform-manage.html&quot;>HP Helion Managed Cloud Services&lt;/a> to manage enterprise workloads in a secure hosted cloud environment.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enterprises today spend the majority of IT budgets -- by some estimates as high as 90 percent -- on maintaining existing systems. HP estimates enterprises can reduce IT maintenance costs by approximately 40 percent by migrating existing systems to a cloud-based architecture. This can free-up the capital enterprise IT departments need to modernize application development and pursue new revenue generating opportunities.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Enterprise customers have a range of needs in moving to the cloud -- some need to cloud-enable traditional workloads, while others seek to build next generation 'cloud native' apps using modern technologies like OpenStack, Cloud Foundry and Docker,&amp;quot; said Bill Hilf, senior vice president, HP Helion Product and Service Management. &amp;quot;The expanded support for multiple hypervisors and cloud environments in HP Helion CloudSystem 9.0 gives enterprises and service providers added flexibility to gain cloud benefits for their existing and new applications.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A single, flexible cloud solution for diverse cloud requirements&lt;br>&#xa; &lt;/b>HP Helion CloudSystem is an integrated, end-to-end, private cloud solution, built to help customers realize the benefits of a hybrid infrastructure -- designed for traditional and cloud native workloads, enabling automation, orchestration and control across multiple heterogeneous clouds, workloads and technologies.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion CloudSystem 9.0 expands support for multiple hypervisors and multiple clouds to provide enterprises and service providers with maximum flexibility. Additionally, HP Helion CloudSystem 9.0 integrates &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/cloud/hphelion-openstack.html&quot;>HP Helion OpenStack&lt;/a> and the &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/solutions/cloud.html&quot;>HP Helion Development Platform&lt;/a> to provide customers an enterprise grade open source platform for cloud native application development and infrastructure. HP Helion CloudSystem 9.0 features/benefits include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Simultaneous support for multiple cloud environments, including Amazon Web Services (AWS), Microsoft Azure, HP Helion Public Cloud, OpenStack technology and VMware, with the ability to fully control where workloads reside&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The latest release of HP Helion OpenStack, exposing OpenStack software APIs to simplify and speed development and integration with other clouds and offering developer-friendly add-ons with the HP Helion Development Platform based on Cloud Foundry&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Support for multiple hypervisors, now including Microsoft Hyper-V, Red Hat KVM, VMware vSphere, as well as bare metal deployments, offering customers additional choice and avoiding vendor lock-in&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Support for AWS-compatible private clouds through integration with &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html&quot;>HP Helion Eucalyptus&lt;/a>, giving customers the flexibility to deploy existing AWS workloads onto clouds they control&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Support for unstructured data through the &lt;a rel=&quot;nofollow&quot; href=&quot;http://docs.openstack.org/developer/swift/&quot;>Swift OpenStack Object Storage&lt;/a> project&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The latest version of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/cloud-service-automation/&quot;>HP Cloud Service Automation&lt;/a>, providing the management capabilities to control hybrid cloud environments and a built-in path to support distributed compute, efficient object storage and rapid cloud native application development&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An intuitive setup model delivered as a virtual appliance, allowing for installation in hours&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion CloudSystem 9.0 is available as standalone software supporting a multiple vendor hardware environment or as a fully-integrated blade-based or hyper-converged infrastructure with &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/products/integrated-systems/converged-architecture.html&quot;>HP ConvergedSystem&lt;/a>. Availability is planned for later this year. HP Financial Services' IT investment and consumption offerings are available to help enterprises acquire HP Helion CloudSystem 9.0, in line with their hybrid IT transformation strategy.&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The digital age is disrupting the entertainment industry. Consumers want entertainment on demand, where they want it, on any device. To address this challenge, IT must take the lead on the digital journey,&amp;quot; said John Herbert, executive vice president and CIO, 20th Century Fox. &amp;quot;The Fox Media Cloud is built on HP Helion CloudSystem, supporting the distribution of broadcast quality TV episodes and full length feature films. HP Helion CloudSystem has helped our transition to an internal service provider model, enabling the delivery of hybrid cloud services while maintaining control, to provide new services faster, while ensuring high reliability and performance. This has provided us the ability to support the tremendous growth of our digital businesses while saving millions.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Customers increasingly rely on experienced channel partners to help guide them on their cloud implementations. With 56 percent of enterprise and mid-market customers working through a partner to build their private clouds, HP CloudSystem 9.0 presents a significant opportunity for HP partners.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Comport is automating many operations required to support hospital IT infrastructure,&amp;quot; said Jack Margossian, president and CEO, Comport Healthcare Solutions. &amp;quot;It's the beginning of an important transition in the data center, from a cost center to an efficient service center. IT can spin up and manage applications and data that support patient care in minutes instead of months, using toolsets they know. Using HP Helion CloudSystem, we are able to free up IT resources and reduce costs, enabling us to build new services while still providing for public cloud or SaaS resources. We look forward to introducing HP Helion CloudSystem 9.0 to our customers, with its additional flexibility and manageability.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>An enhanced enterprise-grade virtual cloud environment &lt;br>&#xa; &lt;/b>HP Helion Managed Cloud Services provides enterprise security and high availability capabilities needed to run mission critical business applications, while meeting customers' data sovereignty, regulatory and compliance requirements, and backed by enterprise grade service level agreements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To broaden this offering and deliver greater value and flexibility to customers, HP Helion Managed Cloud Services will launch into beta HP Helion OpenStack Managed Private Cloud and HP Helion Eucalyptus Managed Private Cloud, both of which will be consumable as a service via an easy access portal.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to these new beta offerings, HP Helion Managed Cloud Services will support the development of cloud native applications within a managed cloud service via the HP Helion Development Platform and automation of select virtual private cloud services.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion Managed Cloud Services features/benefits include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New automated provisioning capabilities through a self-service portal based on HP Cloud Service Automation, enabling clouds to be deployed more quickly&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Support for multiple platforms to enable hybrid cloud proof-of-concepts using HP Helion OpenStack and HP Helion Eucalyptus&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Cloud native application development capabilities through integration with the HP Helion Development Platform, allowing enterprises to rapidly develop, deploy and deliver cloud native apps&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion Managed Cloud enhancements are planned for availability later this year.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Global enterprise support when it counts&lt;br>&#xa; &lt;/b>HP offers Global Datacenter Care and Support in over 130 countries.Customers can call 24x7x365 and receive support in more than 30 languages, for any hardware platform, OS or hypervisor.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and are subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The OpenStack Word Mark and OpenStack Logo are either registered trademarks/service marks or trademarks/service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission. We are not affiliated with, endorsed or sponsored by the OpenStack Foundation, or the OpenStack community.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hsxe
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/taking-composable-infrastructure-to-the-next-level-hpe-unveils-software-defined-upgrades-to-simplify-hybrid-it"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Taking Composable Infrastructure to the Next Level: HPE Unveils Software-Defined Upgrades to Simplify Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Taking Composable Infrastructure to the Next Level: HPE Unveils Software-Defined Upgrades to Simplify Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Taking_Composable.jpg"/>
+                        </contentblock_hsxe>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hdhc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-extends-composability-to-cloud-and-hyper-converged-solutions"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Composability to Cloud and Hyper-converged Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Composability to Cloud and Hyper-converged Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_hdhc>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_l58q
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-extends-solutions-for-sap-applications-from-the-digital-core-to-the-intelligent-edge"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate08.jpg"/>
+                        </contentblock_l58q>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

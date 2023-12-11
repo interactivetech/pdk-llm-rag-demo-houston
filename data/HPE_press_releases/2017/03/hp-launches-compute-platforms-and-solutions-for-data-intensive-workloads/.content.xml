@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:43:30.337Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-launches-compute-platforms-and-solutions-for-data-intensive-workloads"
+        jcr:uuid="f1b03f5a-7759-4a6f-844b-38e5a841659f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:23.000-07:00"
+        metaDescription="HP Launches Compute Platforms and Solutions for Data-Intensive Workloads"
+        navTitle="HP Launches Compute Platforms and Solutions for Data-Intensive Workloads"
+        pageTitle="HP Launches Compute Platforms and Solutions for Data-Intensive Workloads"
+        priority="(None)"
+        subtitle="Scale-Out and Scale-Up Compute Portfolios Unleash Value From Unstructured and Structured Data to Enable The New Style of Business"
+        theme="dark"
+        UAID="43e298a5-2dc9-4edd-a6f5-a2e422a72acd"
+        UCID="6ba9f4fb-f7cf-4f7b-ab2f-eac3dd47d6ec"
+        WPID="1524">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-26T07:59:17.268Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 5, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Scale-Out and Scale-Up Compute Portfolios Unleash Value From Unstructured and Structured Data to Enable The New Style of Business&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_djiz
+                    jcr:lastModified="{Date}2018-10-26T11:00:56.573Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - May 5, 2015) - HP (NYSE: HPQ) today announced new and enhanced purpose-built &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/compute&quot;>Compute&lt;/a> platforms and solutions designed to help customers leverage all data assets in order to drive business outcomes, such as faster decision making, improved operational efficiency and direct content monetization.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Gartner, Inc. forecasts that 4.9 billion connected &amp;quot;things&amp;quot; will be in use in 2015, up 30 percent from 2014 and will reach 25 billion by 2020.&lt;sup>1&lt;/sup> This will cause an exponential increase in the amount of data, each of which will have a distinct value to the business. As a result, the industry is seeing the emergence of new technologies and architectures -- from open source data analytics and database platforms to in-memory databases -- built to derive value from data and deliver business outcomes.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's new Compute platforms have been tailored to meet the specific requirements of these data-intensive workloads. These platforms are purpose-built for a range of emerging technologies and applications including mass content storage, block and file storage, unstructured and real-time analytics, as well as simple and transactional databases.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new and enhanced servers and solutions include: HP Apollo 2000; the HP Apollo 4000 Systems family; the HP Big Data Reference Architecture; HP Integrity Superdome X; and the HP ProLiant DL580, DL560 and BL660c Gen9 servers. These servers are designed to optimize capacity and performance scalability, flexibility and cost efficiency with unique designs that address data center space, power and cooling challenges.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The ever-increasing volume, velocity and variety of data have stretched traditional server technologies beyond their limits -- it needs a set of purpose-built compute platforms specifically designed to extract the maximum value of the data,&amp;quot; said Alain Andreoli, senior vice president and general manager, Servers Business Unit, HP. &amp;quot;HP is innovating the designs of its broad Compute portfolio to align it to specific workload needs in order to help customers deliver the most impactful business outcomes by using data in ways that was impossible in the past.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP offers a spectrum of Compute platforms and solutions so customers from small businesses to global enterprises can leverage their data to extract value. With this broad portfolio, customers can select the optimal server to address their application requirements, commensurate with growth objectives and without over-provisioning.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The solutions are augmented with HP services, as well as an extensive ecosystem of partner solutions and services.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Scale-out Compute&lt;br>&#xa; &lt;/b>Scale-out workloads such as object and virtualized storage and Apache Hadoop require Compute platforms with performance scalability, density optimization, storage simplicity and configuration flexibility. HP addresses these requirements with a scale-out Compute portfolio that consists of the HP Apollo 2000 and 4000 systems as well as HP Moonshot.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/products/servers/high-performance-computing/apollo/apollo2000-product-portfolio.html&quot;>HP Apollo 2000&lt;/a> is the enterprise bridge to scale-out infrastructure. It is designed to deliver hyperscale efficiency and performance in traditional datacenters running general purpose and high performance workloads. The efficient, space-saving system comes in a familiar form factor that has the same rack dimensions, cabling, management and serviceability attributes of traditional 1U rack servers, so it can be introduced in a non-disruptive way. Additionally, up to four independent hot-pluggable servers in a standard 2U chassis enable customers to mix and match servers for workload optimization.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/apollo&quot;>HP Apollo 4000 Systems&lt;/a> family includes three servers purpose-built for data-intensive workloads like Hadoop and big data analytics, in addition to object storage. This family offers a choice of capacity density, performance scalability with one and three nodes, and the flexibility to change the ratio of compute to storage to match workload requirements. It includes the industry's densest 2U server in the HP Apollo 4200 with 28 large form factor (LFF) drives or 50 small form factor (SFF) drives.&lt;sup>2&lt;/sup> Additionally, the HP Apollo 4510 offers a 4U chassis with one server node providing rack-scale storage server density with up to 5.44 Petabytes (PB) in 42U rack. The HP Apollo 4530 offers three servers nodes in a chassis, making it ideal for Hadoop-based analytics, which leverages three-copy data replication.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>These solutions are supported by the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/big-data-platform-haven/index.html&quot;>HP Haven Big Data platform&lt;/a> featuring &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.vertica.com/hp-vertica-products/dragline/&quot;>HP Vertica&lt;/a> as well as HP HyperScale Big Data Ecosystem partners, including Cleversafe, Cloudera, Hortonworks, Microsoft and Scality. The solutions also support key open source projects like Ceph, OpenStack Swift and Apache Hadoop.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP Apollo 4000 servers, when combined with HP Moonshot, create the foundation for the HP Big Data Reference Architecture, an innovative new Hadoop infrastructure design that leverages the strength of HP's portfolio to deliver a differentiated solution. The HP Big Data Reference Architecture deploys a standard Hadoop distribution in an asymmetric fashion, enabling customers to scale storage and compute independently, providing up to twice the performance in 50 percent less space.&lt;sup>3&lt;/sup> This results in substantial reduction in total cost of ownership, as well as improvements in performance and energy efficiency.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Scale-up Compute&lt;br>&#xa; &lt;/b>Data-intensive, scale-up workloads such as in-memory and structured databases require high performance, availability and reliability as well as disaster tolerance. HP addresses these requirements with a scale-up Compute portfolio consisting of HP Integrity Superdome X as well as HP ProLiant DL580, 560 and BL660c Gen9 servers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/servers/integrity&quot;>HP Integrity Superdome X&lt;/a> is now certified for Windows and is ideal to support SQL Server 2014 deployments requiring the highest levels of transactional throughput and fast response times. With a large memory footprint and high-availability features, including hard partitioning that is 20 times more reliable than soft partitions,&lt;sup>4&lt;/sup> HP Integrity Superdome X is also an excellent fit for in-memory computing applications that require the greatest levels of flexibility for the most stringent service level agreements. Additionally, HP Integrity Superdome X delivers 40 percent lower total cost of ownership than Oracle Exadata X5-2.&lt;sup>5&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/servers/DL580Gen9&quot;>HP ProLiant DL580 Gen9&lt;/a> server delivers the highest performance and scalability in a four socket x86 system, with superior reliability and efficiency for resource and data-intensive workloads, such as in-memory platforms and structured databases like Microsoft SQL Server 2014. It has resiliency features and a compelling total cost of ownership based on the breakthrough cost efficiencies of the scale-up model with consolidation and virtualization. The HP ProLiant DL580 Gen9 server is integrated in the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-solutions/converged-systems/big-data-solutions/sap-hana.html&quot;>HP ConvergedSystem 500&lt;/a> to provide increased processing power, memory size and I/O capability to process and manage large volumes of information quickly.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP ProLiant DL560 Gen9 server is a high-density four-socket server for multi-workload compute, where data center space and price/performance are paramount. Its balanced performance, increased scalability and expansion, all in a 2U chassis, make it the ideal choice for virtualization, server consolidation, business processing and general 4P data-intensive applications.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP ProLiant BL660c Gen9 is a four-socket Compute server blade that transforms legacy converged infrastructures to increase the speed of business and support growth while reducing data center footprint. Scalable performance, flexible configurations, boosted compute operations and manageability through &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/oneview&quot;>HP OneView&lt;/a> enable it to serve demanding workload environments such as databases, virtualization, consolidation, modeling/simulation and public cloud to deliver results faster for agile businesses.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Services and support&lt;br>&#xa; &lt;/b>HP offers a comprehensive set of support and consulting &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/services&quot;>services&lt;/a> to complement the new purpose-built Compute platforms. HP's global team of Services experts are available to help design, deploy, manage and support their environment and processes, including consulting, migration, integration, outsourcing and support.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/hp-financial-services/index.html&quot;>HP Financial Services&lt;/a> (HPFS) creates the investment capacity to accelerate business transformation. Flexible investment solutions including HP Technology Refresh for Computing provide authorized partners and customers with the speed to access HP's new Compute solutions quickly and agility to adapt to change as it happens with the ability to refresh technology over time.&lt;sup>6&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;br>&#xa; &lt;/b>The HP Apollo 2000, Big Data Reference Architecture, HP Integrity Superdome X and HP ProLiant DL580 Gen9 are available now through HP and worldwide channel partners. The HP Apollo 4000 family, HP ProLiant DL560 Gen9 and HP ProLiant BL660c Gen9 are expected to be available in early June 2015.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>More information is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/ComputeforData&quot;>www.hp.com/go/ComputeforData&lt;/a>&lt;u>.&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1)Gartner, Inc. news release: &amp;quot;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.gartner.com/newsroom/id/2905717&quot;>Gartner Says 4.9 Billion Connected 'Things' Will Be in Use in 2015&lt;/a>&amp;quot;, November 2014.&lt;br>&#xa;(2)Leadership capacity in a 2U rack server - up to 224 Terabytes of direct attach storage per server. The highest storage density in any 2U server of any of the vendors' public products showing on internet search.&lt;br>&#xa;(3)Depending on workload as not all Big Data workloads are the same. Traditional MapReduce workloads had 16 percent better price/performance, with double the density and half the Watts. HBase had twice the performance for an equivalently-priced system. HP internal testing, April 2015.&lt;br>&#xa;(4)HP Labs. Based on HA and field data modeling, August 2013. Peter Piet and Bruce Edson, using Markov chain high availability modeling, running applications on separate nPars vs. running them together on the same nPar using virtual machines. HP, California. August 2013. HA modeling and field data supports these claims. Doug Davies, HA modeling of Superdome X vs. SD2 and DL980. Date - 8/30/2013. HA modeling and field data supports these claims.&lt;br>&#xa;(5)Compares an 8-socket Superdome X server and HP 3PAR StoreServ 7440c running RHEL and Serviceguard for Linux versus an Oracle Exadata X5-2 Half Rack running Exadata software and Oracle RAC. When comparing a 16-socket Superdome X server and HP 3Par StoreServ 7440c running RHEL and Serviceguard for Linux versus an Oracle Exadata X5-2 Full Rack running Exadata software and Oracle RAC, the TCO savings for Superdome X are 39%. Source: Based on HP internal analysis results using publicly available competitive data, April 2015.&lt;br>&#xa;(6)Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and are subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Apache, &lt;a rel=&quot;nofollow&quot; href=&quot;http://hadoop.apache.org/&quot;>Apache Hadoop, Hadoop&lt;/a>, and the yellow elephant logo are either registered trademarks or trademarks of the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.apache.org/&quot;>Apache Software Foundation&lt;/a> in the United States and/or other countries.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_tttt
+                            jcr:lastModified="{Date}2018-10-26T11:49:43.610Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/getting-to-know-mike-woodacre-the-team-behind-hpe-superdome-flex"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Getting to Know: Mike Woodacre &amp; the Team Behind HPE Superdome Flex"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Unveils the Worlds Most Scalable and Modular In-Memory Computing Platform"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-26T11:49:43.610Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Getting-to-Know-Mike-Woodacre-the-Team-Behind-HPE-Superdome-Flex-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-26T11:49:43.610Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_tttt>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_k0ul
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/7-iot-leaders-to-watch-in-2017"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="7 IoT Leaders to Watch in 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="7 IoT Leaders to Watch in 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/7_IoT_leaders.jpg"/>
+                        </contentblock_k0ul>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_e1ux
+                            jcr:lastModified="{Date}2018-10-26T11:43:57.951Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hewlett-packard-enterprise-unveils-the-worlds-most-scalable-and-modular-in-memory-computing-platform"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText=" "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-26T11:43:57.951Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/KUL-1-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-26T11:43:57.951Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_e1ux>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

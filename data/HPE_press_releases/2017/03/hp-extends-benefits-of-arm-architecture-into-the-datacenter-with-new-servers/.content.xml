@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-23T20:49:57.309Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-extends-benefits-of-arm-architecture-into-the-datacenter-with-new-servers"
+        jcr:uuid="76575e20-6769-4f6d-955a-a5d7af9fb600"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Extends Benefits of ARM Architecture Into the Datacenter With New Servers"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-extends-benefits-of-arm-architecture-into-the-datacenter-with-new-servers/jcr:content/main-par/body-par/textonlycomponent_d5iu"
+        navTitle="HP Extends Benefits of ARM Architecture Into the Datacenter With New Servers"
+        pageTitle="HP Extends Benefits of ARM Architecture Into the Datacenter With New Servers"
+        priority="(None)"
+        subtitle="Introduces First Enterprise-Class 64-Bit ARM-Based Servers; While Expanding the ARM Developer Ecosystem"
+        theme="dark"
+        UAID="1b60c84c-da45-48a4-8b30-6b29cb6486de"
+        UCID="87709555-9b6e-479e-8b7d-8bec566b5500"
+        WPID="1572">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T21:00:14.662Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 29, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Introduces First Enterprise-Class 64-Bit ARM-Based Servers; While Expanding the ARM Developer Ecosystem&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_d5iu
+                    jcr:lastModified="{Date}2023-04-23T20:49:57.290Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Sep 29, 2014) - HP (NYSE: HPQ) today announced two ARM®-based servers, including the first enterprise-class 64-bit ARM-based server, for customers that value choice in their compute strategy. Additionally, HP is making available a production-ready platform to enable software developers to develop, test and port applications to the 64-bit ARM-based server.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Part of the&amp;nbsp;HP ProLiant Moonshot&amp;nbsp;portfolio, the new servers underpin a major milestone in designing the next-generation infrastructure platform, which addresses IT demands with a vast pool of processing resources that can be located anywhere, scaled to any workload and available at any time. The HP ProLiant Moonshot servers deliver high-density, ARM-based systems for hyperscale, datacenter environments to help customers improve application performance, drive business innovation and deliver breakthrough datacenter economics.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HP ProLiant Moonshot 64-bit server, the HP ProLiant m400, is the result of a multi-year effort involving customer input and ARM ecosystem expansion to deliver solutions that meet HP's rigid engineering standards and testing for exceptional performance and quality to ensure a product is production ready for deployment in enterprise datacenters.&amp;nbsp;For specific workloads, the ARM architecture will optimize a customer's most critical compute requirement -- balanced memory at a lower total cost of ownership.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;ARM technology will change the dynamics of how enterprises build IT solutions to quickly address customer challenges,&amp;quot; said Antonio Neri, senior vice president and general manager, Servers and Networking, HP. &amp;quot;HP's history, culture of innovation and proven leadership in server technology position us as the most qualified player to empower customers with greater choice in the server marketplace.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>ARM technology delivers unprecedented levels of energy-efficient processing and a diverse range of solutions needed for mobile devices, and brings compelling economies of scale when combined with HP ProLiant Moonshot server technologies. HP ProLiant Moonshot is a precision-engineered system that optimizes application performance by ensuring server hardware is tuned to the task, providing the perfect compute balance for specific workloads. By leveraging energy-efficient system-on-a-chip (SOC) technology, a dense, converged form factor and highly flexible fabrics, HP ProLiant Moonshot provides high-speed connectivity between cartridges, as well as balanced computing with maximum throughput and memory to improve performance and compute efficiency.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Building a strong ARM ecosystem&amp;nbsp;&lt;br>&#xd;&#xa; &lt;/b>To address the demand for high-performance, energy efficient solutions, HP is also extending the reach of the growing ARM ecosystem. The&amp;nbsp;HP ProLiant Moonshot ARM-64 Developer Program, part of the&amp;nbsp;HP AllianceOne program, will enable developers to test and port code stacks and solutions to the ARM architecture. Through this program, developers can design fully-featured software on an ARM-based 64-bit system by remotely accessing the&amp;nbsp;HP ProLiant Moonshot Discovery Lab.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additionally, the ARM ecosystem on the HP ProLiant Moonshot servers will be further expanded with the following solutions:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Canonical offers Ubuntu, and orchestration tools Juju and Metal-as-a-Service (MAAS) software pre-installed on HP ProLiant Moonshot servers to enable customers to deploy complex workloads quickly.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Available today IBM Informix is the only commercially available database to run HP's new micro server architecture-ProLiant Moonshot.&amp;nbsp;Informix offers a unique combination of flexible grid technology and efficient data architecture that can enable commercial grade workloads to take advantage of these new server architectures.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Unleashing the power of ARM to accelerate performance&lt;br>&#xd;&#xa; &lt;/b>Workloads such as web caching, high-performance computing and big data analytics are fueling exponential demand for compute resources. In turn, organizations are challenged to deliver compute resources that enable richer end-user experiences and accelerate business innovation, while reducing operational costs.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Combining HP Moonshot innovations with the breakthrough capabilities of ARM® v8-A 64-bit architecture enables optimal compute with maximum memory and I/O throughput for web caching. The new HP ProLiant m400 servers, based on the X-Gene™ Server on a Chip™ from Applied Micro Circuits Corporation with Canonical Ubuntu operating system, saves on power, cooling and space, providing up to 35 percent reduction in total cost of ownership compared to rack servers.&lt;sup>(1)&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Customers like Sandia National Laboratories and University of Utah will use the HP ProLiant m400 server for high performance computing and scientific research.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;HP Moonshot with the ARM-based 64-bit system-on-chip server cartridge offers lower cost, higher density, and lower power consumption-three factors that will be critical to the future of cloud computing,&amp;quot; said Robert Ricci, Research Assistant Professor of Computer Science, University of Utah. &amp;quot;By giving researchers access to the HP Moonshot platform in our CloudLab facility, we empower them to develop fundamental breakthroughs that have the potential to change the capabilities, performance, reliability, and security of future clouds.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP is also introducing the new HP ProLiant m800 optimized for real-time data processing of high volume, complex data, such as pattern analysis. The 32-bit ARM-based server has the KeyStone™ architecture-based 66AK2Hx SoCs from Texas Instruments, featuring four ARM Cortex®-A15 cores and integrated digital signal processors (DSPs), Canonical, and HP 2D Torus Mesh Fabric in combination with Serial Rapid I/O to deliver three times more bandwidth and 90 percent low latency data throughput.&amp;nbsp;&lt;sup>(2)&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>PayPal is using the HP ProLiant m800 in their Systems Intelligence project.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The HP ProLiant m800's combination of ARM and Multicore Digital Signal Processors with high-speed, low-latency networking and tiered memory management creates a very energy efficient, extremely capable parallel processing platform with a familiar Linux interface,&amp;quot; said Ryan Quick, principal architect, Advanced Technology Group, PayPal. &amp;quot;It's a truly new approach to bringing scale-out design 'inside the box,' and breaks barriers between high performance computing and enterprise technology.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HP is combining the HP ProLiant m800 server with Enea Telco Development Platform and eInfochips Multimedia Transcode Engine to provide a unified development platform for accelerated development of network functions for telco customers. As a result, telcos can improve time to market of new applications and deliver twice the performance per rack unit than ATCA infrastructure.&amp;nbsp;&lt;sup>(3)&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP will demonstrate the new HP ProLiant Moonshot servers at ARM TechCon, Oct. 1-3 in Santa Clara, Calif.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Pricing and availability&lt;br>&#xd;&#xa; &lt;/b>The new HP Moonshot servers and related solutions will be available through HP and worldwide channel partners beginning September 29, 2014.&amp;nbsp;Flexible investment solutions&amp;nbsp;for HP Moonshot servers can provide customers and channel partners with quick access to the latest HP products through a simple, scalable and predictable monthly payment that aligns technology and financial requirements to business needs.&lt;sup>(4)&lt;/sup>&amp;nbsp;Pricing will vary based on model and customer configurations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's premier EMEA client event,&amp;nbsp;HP Discover, takes place Dec. 2-4 in Barcelona, Spain.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>1.&amp;nbsp;As described in the Moor Insights &amp;amp; Strategy whitepaper, &amp;quot;The First Enterprise Class 64-Bit ARMv8 Server: HP Moonshot System's HP ProLiant m400 Server Cartridge&amp;quot; which can be found at&amp;nbsp;&lt;a href=&quot;http://www.moorinsightsstrategy.com/?p=4753&quot; target=&quot;_blank&quot;>http://www.moorinsightsstrategy.com/?p=4753&lt;/a>. TCO is calculated over a 3-year period and includes power, cooling and space savings. This use case is a mid-sized commercial internet provider servicing their web request using a tiered web infrastructure.&amp;nbsp;This comparison is based on a combination of mid-range x86 and high-end x86 1U rack servers compared to HP ProLiant Moonshot m400 servers.&amp;nbsp;&lt;br>&#xd;&#xa; a. Mid-range x86 1U rack servers were used for the client-facing tier: (Quantity: 80/2 racks) 1P Xeon E3 1200 v3, 32GB memory, 1 HDD or 1 SSD, 1GbE, 1 power supply, 1 year of Linux support&amp;nbsp;&lt;br>&#xd;&#xa; b.&amp;nbsp;High-end&amp;nbsp;x86 1U rack servers were used for the application/caching tier: (Quantity: 40/1 rack) 2P Xeon E5 2600 v3, 64GB memory, 1 HDD or 1 SSD, 10GbE, redundant power, 1 year of Linux support&amp;nbsp;&lt;br>&#xd;&#xa; c.&amp;nbsp;HP ProLiant Moonshot m400 servers: (Quantity: 135/1 rack) 1P 64-bit ARMv8-based X-Gene, 64GB memory, 1-120Gb M.2 solid state boot device, 10GbE, redundant power, 1 year of Linux support&lt;br>&#xd;&#xa; 2.&amp;nbsp;Compared to Ethernet, SRIO = 3Gbps vs Ethernet = 1Gbps, 2.5 micro-second SRIO vs 25 microsecond typical with Ethernet&amp;nbsp;&lt;br>&#xd;&#xa; 3.&amp;nbsp;Based on ATCA (TI Shannon) vs HP ProLiant m800 (TI Hawking) utilizing G.729AB algorithm; ATCA (TI Shannon) = 113,280 per 12RU vs m800 (Hawking) = 254,880 per 12RU&amp;nbsp;&lt;br>&#xd;&#xa; 4.&amp;nbsp;Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and are subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release may contain forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of HP and its consolidated subsidiaries may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any projections of revenue, margins, expenses, HP's effective tax rate, earnings, net earnings per share, cash flows, benefit plan funding, share repurchases, currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring charges; any statements of the plans, strategies and objectives of management for future operations, including the execution of restructuring plans and any resulting cost savings or revenue or profitability improvements; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on HP and its financial performance; any statements regarding pending investigations, claims or disputes; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations; the impact of macroeconomic and geopolitical trends and events; the need to manage third party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Quarterly Report on Form 10-Q for the quarter ended April 30, 2014 and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_r9vg
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/04/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4623.jpg"/>
+                        </contentblock_r9vg>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_iwny
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-announces-global-reseller-agreement-with-mesosphere"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Announces Global Reseller Agreement with Mesosphere"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces Global Reseller Agreement with Mesosphere"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/AgreementWithMesophere_web.jpg"/>
+                        </contentblock_iwny>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3x59
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/06/hpe-delivers-dual-processor-performance-with-single-processor-economics-in-new-hpe-proliant-dl325-gen10-server"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-Dual-Processor-Performance-with-Single-Processor-Economics-in-New-HPE-ProLiant-DL325-Gen10-Server.jpg"/>
+                        </contentblock_3x59>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:25:45.883Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/hpe-telco-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-and-5g-lab-germany-collaborate-to-deliver-next-generation-edge-applications"
+        jcr:uuid="0b16c8f3-8961-4755-88e8-b6feb8aedf6f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-04-26T15:31:58.000-07:00"
+        mediaContactEmail="Jyotsna.Grover@hpe.com"
+        mediaContactName="Jyotsna Grover, HPE"
+        metaDescription="HPE and 5G Lab Germany Collaborate to Deliver Next-Generation Edge Applications"
+        navTitle="HPE and 5G Lab Germany Collaborate to Deliver Next-Generation Edge Applications"
+        pageTitle="HPE and 5G Lab Germany Collaborate to Deliver Next-Generation Edge Applications"
+        priority="(None)"
+        theme="dark"
+        UAID="ec35b9c6-d176-43f7-8b7e-33fc83f214b5"
+        UCID="8f634ce3-2e9e-4635-af50-6444c96a7d5a"
+        WPID="45819">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-25T12:07:00.458Z"
+                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 20, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPEand5GLab.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE and 5G Lab Germany Collaborate to Deliver Next-Generation Edge Applications"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_u31c
+                    jcr:lastModified="{Date}2018-10-25T12:11:15.925Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., April 20, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (NYSE:HPE) today announced a collaboration with the 5G Lab Germany, a consortium of researchers focused on delivering key technologies to enable 5G wireless networks. Through this collaboration, HPE and the 5G Lab will research the impacts of 5G wireless networks combined with HPE Edgeline Converged Edge Systems on the telecommunications and mobile industries. Additionally, Edgeline systems will be deployed at the network edge to enable the next generation of applications to take advantage of 5G network performance.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>5G wireless networks promise to adapt to consumer behavior in real time. The bandwidth improvements from 5G are expected to dramatically increase the amount of processing required throughout the network to deliver existing and new applications. The latency improvements will enable a new tier of automation and control that are not possible with todays 4G wireless networks. HPE and 5G Lab will partner to build proof points in autonomous vehicle intercommunication and deliver rich end user applications by leveraging 5G wireless networks and with HPE Edgeline Systems.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;5G plays a critical role as an enabler of the Internet of Things (IoT)&amp;quot;, said Dr. Tom Bradicich, vice president and general manager, servers, converged edge and IoT systems, Hewlett Packard Enterprise. &amp;quot;We are collaborating with the 5G Lab to develop high performance compute systems at the edge, which can consume and analyze data instantaneously to address the needs for the next generation of automation and mobile applications, particularlysmart cityand autonomousvehicle use cases.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Edgeline Converged Edge Systems feature a first-of-a-kind integration of the PXIe instrumentation standard in partnership with National Instruments, on which the industrys fastest 5G network testbeds have been built. 5G capabilities, coupled with Edgeline systems, provide the industrys most powerful integrated communication and compute platform to empower 5G applications.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Datacenter-grade meets Operations-functionality&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>While legacy equipment uses a hardware-centric model, HPE Edgeline systems provide a unique convergence of datacenter and operations technologies. HPE Edgeline integrates virtualized network functions with National Instruments software defined radio solutions within LabVIEW, to deliver industrial wireless data ingest capabilities needed to create 5G networks. Edgeline delivers modern software-defined services on industry-standard computing equipment, enabling high-performance computing functions to be deployed at the networks edge as opposed to the datacenter. This allows for high performance applications to be deployed and re-deployed at a rapid pace as the 5G standards emerge.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Without addressing 5G network needs, the advances in automation for mobile applications would not be possible for the telecommunications industry&amp;quot;, said Dr. Gerhardt Fettweis, Vodafone Chair Professor, Technische Universit of Dresden. &amp;quot;HPE and 5G Lab Germany are working to deliver the necessary network upgrades for the next-generation of mobility, enabling the pathway towards the Tactile Internet.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Secure and innovative&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Edgeline Converged Edge Systems uniquely combine high performance computing, virtualization, manageability and security with operational technology specific to industry via the PXIe industry standard the first in the industry to incorporate PXIe technology with high performance compute.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>National Instruments PXIe-based wireless modules and LabVIEW system design software provide flexibility for network operators looking to easily manage and modify their networks as standards emerge to drive rapid 5G network innovation.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;HPE and National Instruments have compatible solutions for addressing 5G prototyping scaling beyond the physical layer into the network and even edge computing&amp;quot;, said James Kimery, director of RF research and SDR marketing at National Instruments. &amp;quot;We are excited to work with HPE to move 5G to the next level.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial Contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>Jyotsna Grover, HPE&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:Jyotsna.Grover@hpe.com&quot;>Jyotsna.Grover@hpe.com&lt;/a>&lt;/span>&lt;/b>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_et1s
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/03/aruba-advances-mobile-first-architecture-to-enable-autonomous-networking-and-the-smart-digital-workplace"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Advances Mobile First Architecture to Enable Autonomous Networking and the Smart Digital Workplace"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Advances Mobile First Architecture to Enable Autonomous Networking and the Smart Digital Workplace"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Aruba-Advances-Mobile-First-Architecture-to-Enable-Autonomous-Networking-and-the-Smart-Digital-Workplace.jpg"/>
+                        </contentblock_et1s>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_uut7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-removes-barriers-for-mass-adoption-of-iot"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Removes Barriers for Mass Adoption of IoT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/RemovesBarriers-vb.jpg"/>
+                        </contentblock_uut7>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_y1lq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-and-deutsche-telekom-demonstrate-network-data-layer-for-5g-service-based-architecture"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Deutsche Telekom Demonstrate Network Data Layer for 5G Service-based Architecture"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Deutsche Telekom Demonstrate Network Data Layer for 5G Service-based Architecture"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-and-Deutsche-Telekom-Demonstrate-Network-Data-Layer-for-5G-Service-based-Architecture.jpg"/>
+                        </contentblock_y1lq>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

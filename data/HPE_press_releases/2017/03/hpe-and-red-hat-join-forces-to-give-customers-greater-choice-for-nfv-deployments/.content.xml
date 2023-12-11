@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:19:22.343Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners,hpe-newsroom:categories/hpe-telco-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-and-red-hat-join-forces-to-give-customers-greater-choice-for-nfv-deployments"
+        jcr:uuid="dd7ef106-c528-40f7-97dd-b215223aec4c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:51:06.000-07:00"
+        metaDescription="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+        navTitle="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+        pageTitle="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+        priority="(None)"
+        subtitle="Collaboration between open source leaders expands HPE's multi-stack strategy to include Red Hat OpenStack Platform and Red Hat Ceph Storage"
+        theme="dark"
+        UAID="bb14ef9c-3857-4b9d-bf6b-aeadec89c589"
+        UCID="09e1e932-e832-4394-81bb-5b4b1353a56c"
+        WPID="1078">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="March 31, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Aug11.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:39.916Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3> &lt;ul>&lt;/ul>"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Collaboration between open source leaders expands HPE's multi-stack strategy to include Red Hat OpenStack Platform and Red Hat Ceph Storage&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_1n9b
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>PALO ALTO, CA and RALEIGH, NC--(Marketwired - Feb 22, 2017) - &lt;a href=&quot;http://ctt.marketwire.com/?release=1298049&amp;amp;id=11057032&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2f&quot; rel=&quot;nofollow&quot;>Hewlett Packard Enterprise&lt;/a> (NYSE: HPE) and &lt;a href=&quot;http://ctt.marketwire.com/?release=1298049&amp;amp;id=11057035&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.redhat.com%2fen&quot; rel=&quot;nofollow&quot;>Red Hat, Inc.&lt;/a> (NYSE: RHT) announced today they are working together to accelerate the deployment of network functions virtualization (NFV) solutions based on fully open, production-ready, standards-based infrastructures. HPE plans to offer ready-to-use, pre-integrated &lt;a href=&quot;http://ctt.marketwire.com/?release=1298049&amp;amp;id=11057038&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fnetworking%2fnfv.html&quot; rel=&quot;nofollow&quot;>HPE NFV System&lt;/a> solutions and HPE Validated Configurations incorporating Red Hat OpenStack Platform and Red Hat Ceph Storage for communications service providers (CSPs).&lt;/p>&lt;p>Consistent with HPE's multi-cloud, multi-stack strategy and broader open source software commitment, HPE is collaborating with Red Hat to accelerate OpenStack adoption by CSPs worldwide, offering customers increased choice through multiple commercial distributions, including both HPE Helion OpenStack Carrier Grade and Red Hat OpenStack Platform. Red Hat is an open source leader, using an 'upstream first' approach to the development of its products, including Red Hat OpenStack Platform. As a result, Red Hat OpenStack Platform offers a fully open source foundation for NFV deployments.&lt;/p>&lt;p>&lt;em>&quot;The expansion of the relationship brings together two leaders in telecommunications well positioned and committed to helping CSPs accelerate their network transformations,&quot; said David Sliter, vice president and general manager, Communications Solutions Business, HPE. &quot;Red Hat and HPE share a common vision and commitment to enable a rich ecosystem of NFV solutions -- our work together is aimed at easing customers' ability to leverage the expansive options we collectively provide.&quot;&lt;/em>&lt;/p>&lt;p>With these new offerings, HPE and Red Hat are building upon an existing alliance, focused on helping customers overcome the inflexibility and high costs created by data center, application and IT sprawl by shifting resources to business innovation. This expanded collaboration enables Red Hat to make use of HPE OpenNFV Labs for virtual network function (VNF) validation and for Red Hat OpenStack Platform customers to access HPE VNF Onboarding Services. The HPE OpenNFV Solution Portal is also being expanded to include VNFs from Red Hat partners, providing customers with access to pre-validated solutions that can help simplify deployments.&lt;/p>&lt;p>&lt;em>&quot;With an open foundation for their NFV deployments, CSPs have access to a more flexible, agile, and scalable platform that can meet dynamic requirements, now and in the future,&quot; said Radhesh Balakrishnan, general manager, OpenStack, Red Hat. &quot;By bringing Red Hat OpenStack Platform and Red Hat Ceph Storage to HPE's NFV solution, we are offering even more choice to CSPs as they transform and modernize their networks.&quot;&lt;/em>&lt;/p>&lt;p>Additionally, HPE and Red Hat are collaborating to certify HPE NFV operations solutions, including HPE NFV Director for management and orchestration (MANO), HPE Service Director for operations support systems (OSS), HPE VNFs and the OpenDaylight-based HPE OpenSDN Solution on the Red Hat OpenStack Platform, backed by end-to-end support from HPE.&lt;/p>&lt;p>Red Hat OpenStack Platform and Red Hat Ceph Storage integration is planned for availability with the release of HPE NFV System 1.4. HPE NFV System is a pre-integrated solution bundle containing an optimal mix of hardware and software to simplify and accelerate NFV deployments, providing customers a simplified end-to-end experience from ordering, deployment, operations, lifecycle management and services. Bundles are fully tested, designed as building blocks that allow customers to start small and scale out as requirements increase. HPE NFV System 1.4 is targeted for availability in April 2017 for both HPE Helion OpenStack Carrier Grade and Red Hat OpenStack Platform.&lt;/p>&lt;p>For customers seeking guidance, systems integration and support for Red Hat open source technologies on HPE NFV System, HPE Technology Services offers services spanning strategy planning, proof-of-concept, assessment, validated active design, integration, solution support and comprehensive program management.&lt;/p>&lt;p>&lt;strong>About Hewlett Packard Enterprise&lt;br /> &lt;/strong>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/p>&lt;p>&lt;strong>About Red Hat&lt;br /> &lt;/strong>Red Hat is the world's leading provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage and virtualization technologies. Red Hat also offers award-winning support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT. Learn more at &lt;a href=&quot;http://ctt.marketwire.com/?release=1298049&amp;amp;id=11057041&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.redhat.com%2f&quot; rel=&quot;nofollow&quot;>http://www.redhat.com&lt;/a>.&lt;/p>&lt;p>&lt;strong>HPE Forward-Looking Statement&lt;br /> &lt;/strong>The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/p>&lt;p>The OpenStack Word Mark and OpenStack Logo are either registered trademarks/service marks or trademarks/service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission.&lt;/p>&lt;p>&lt;strong>Red Hat Forward-Looking Statements&lt;br /> &lt;/strong>Certain statements contained in this press release may constitute &quot;forward-looking statements&quot; within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: risks related to the ability of Red Hat to compete effectively; the ability to deliver and stimulate demand for new products and technological innovations on a timely basis; delays or reductions in information technology spending; the integration of acquisitions and the ability to market successfully acquired technologies and products; fluctuations in exchange rates; the effects of industry consolidation; uncertainty and adverse results in litigation and related settlements; the inability to adequately protect Red Hat intellectual property and the potential for infringement or breach of license claims of or relating to third party intellectual property; risks related to data and information security vulnerabilities; the ability to meet financial and operational challenges encountered in Red Hat's international operations; ineffective management of, and control over, Red Hat's growth and international operations;and changes in and a dependence on key personnel, as well as other factors contained in Red Hat's most recent Quarterly Report on Form 10-Q (copies of which may be accessed through the Securities and Exchange Commission's website at &lt;a href=&quot;http://ctt.marketwire.com/?release=1298049&amp;amp;id=11057044&amp;amp;type=1&amp;amp;url=http%3a%2f%2fcts.businesswire.com%2fct%2fCT%3fid%3dsmartlink%26url%3dhttp%253A%252F%252Fwww.sec.gov%26esheet%3d6097798%26lan%3den_US%26anchor%3dhttp%253A%252F%252Fwww.sec.gov%26index%3d5%26md5%3d623031a9d3c0ae5f2d429c1349f00d49%23_blank&quot; rel=&quot;nofollow&quot;>http://www.sec.gov&lt;/a>), including those found therein under the captions &quot;Risk Factors&quot; and &quot;Management's Discussion and Analysis of Financial Condition and Results of Operations&quot;. In addition to these factors, actual future performance, outcomes, and results may differ materially because of more general factors including (without limitation) general industry and market conditions and growth rates, economic and political conditions, governmental and public policy changes and the impact of natural disasters such as earthquakes and floods. The forward-looking statements included in this press release represent Red Hat's views as of the date of this press release and these views could change. However, while Red Hat may elect to update these forward-looking statements at some point in the future, Red Hat specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing Red Hat's views as of any date subsequent to the date of this press release.&lt;/p>&lt;p>Red Hat, Ceph and the Shadowman logo are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries.Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.The OpenStack word mark is a trademark or registered trademark of OpenStack Foundation in the United States and other countries, and is used with the OpenStack Foundation's permission. Red Hat, Inc. is not affiliated with, endorsed by, or sponsored by the OpenStack Foundation or the OpenStack community.&lt;/p>"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_pjdq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                        </contentblock_pjdq>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5d12
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpe-empowering-communication-service-providers-to-transform-into-digital-service-provider"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Empowering Communication Service Providers to Transform into Digital Service Provider"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Empowering Communication Service Providers to Transform into Digital Service Provider"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE_Empowering_Comm.jpg"/>
+                        </contentblock_5d12>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_bede
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/05/hpe-announces-collaboration-with-red-hat-to-optimize-and-accelerate-containers-in-production"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_image7.jpg"/>
+                        </contentblock_bede>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

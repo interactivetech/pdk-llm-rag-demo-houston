@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-28T01:08:29.473Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-extends-persistent-data-protection-from-data-center-to-cloud-with-encryption-innovations"
+        jcr:uuid="56a07c0e-92d1-4a4f-a4cd-6ae288414454"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:09.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Extends Persistent Data Protection From Data Center to Cloud With Encryption Innovations"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-extends-persistent-data-protection-from-data-center-to-cloud-with-encryption-innovations/jcr:content/main-par/body-par/textonlycomponent_xutz"
+        navTitle="HP Extends Persistent Data Protection From Data Center to Cloud With Encryption Innovations"
+        pageTitle="HP Extends Persistent Data Protection From Data Center to Cloud With Encryption Innovations"
+        priority="(None)"
+        subtitle="New HP Atalla Solutions Help Safeguard Sensitive Data in Cloud, On-Premises and Mobile Environments Against Information Theft"
+        theme="dark"
+        UAID="3c661934-4e9e-46c8-94de-26338188a37b"
+        UCID="b018c64f-cea1-4e65-9204-686472ce65b8"
+        WPID="1603">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-17T13:35:27.253Z"
+                jcr:lastModifiedBy="hpe.publishers"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 10, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HP Atalla Solutions Help Safeguard Sensitive Data in Cloud, On-Premises and Mobile Environments Against Information Theft&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_xutz
+                    jcr:lastModified="{Date}2023-03-28T01:08:29.460Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, NV--(Marketwired - Jun 10, 2014) - HP (NYSE: HPQ) today announced new encryption capabilities as well as information protection and control solutions that help safeguard data throughout its entire life cycle.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>New HP Atalla solutions support data whether it's at rest, in motion or in use -- across cloud, on-premises and mobile environments -- to ensure continuous protection of an organization's most sensitive information.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations face on average 122 successful attacks per week.&lt;sup>(1)&lt;/sup> With this constant threat of attack, security teams are no longer driven by whether their organization will be breached, but rather by the assumption that it has already been breached -- leaving critical data exposed. To prevent sensitive information from being stolen in the aftermath of a network breach, organizations turn to encryption to proactively protect data as it travels on open networks or is stored in the cloud.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As organizations embrace the New Style of IT, protecting sensitive information as it moves within and outside the enterprise becomes more critical than ever before,&amp;quot; said Art Gilliland, senior vice president and general manager, Enterprise Security Products, HP. &amp;quot;Building on decades of leadership in information protection, we are now extending the scale and power of HP Atalla's encryption technology from the data center to the cloud -- safeguarding data regardless of where it resides.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Significance of encryption in data security &lt;br>&#xd;&#xa; &lt;/b>Building on HP's more than 35 years of innovation in encryption technology and market leadership in protecting trillions of dollars annually for nine out of 10 of the world's largest banks, new HP Atalla solutions deliver advanced protection for data stored on-premises and in the cloud, as well as unstructured data such as confidential emails, payment information and electronic health records. Designed for organizations that need to protect sensitive information, including financial institutions, retailers, energy companies, healthcare providers and governments, HP Atalla solutions provide added protection against the exposure of sensitive data while supporting optimal performance and flexibility.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As the largest processor of Visa debit transactions globally, Visa Debit Processing Services is responsible for securing more than 23 billion debit transactions in the U.S. and prepaid transactions in the U.S. and Canada on an annual basis,&amp;quot; said Chris James, senior vice president, Product Development, Issuer Processing, Visa Inc. &amp;quot;HP Atalla is a critical piece of our enterprise IT portfolio, delivering innovative security solutions with the operational excellence, performance and reliability that helps Visa DPS enable secure access to business-critical payment processing data.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Business-critical encryption key management for the datacenter &lt;br>&#xd;&#xa; &lt;/b>High-profile data breaches and stringent regulatory compliance requirements have triggered wide-spread adoption of data encryption. When data is encrypted correctly, it significantly reduces the risk of financial losses and damage to an organization's reputation. However, deploying several disparate or incompatible encryption tools can create hundreds of thousands of encryption keys, resulting in new security risks, poor performance and complex manageability.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Secure Encryption with HP Enterprise Secure Key Manager (ESKM) 4.0 unifies and automates encryption controls to prevent unauthorized access to sensitive data. HP ESKM 4.0 reduces the cost and complexity of managing encryption keys across a distributed infrastructure with consistent security controls, automated key services and a single point of management. Easily integrating with HP hardware solutions, including HP ProLiant Gen 8 Servers, it secures and manages encryption keys without slowing server performance. HP ESKM 4.0 also fully supports the &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=kmip&quot;>OASIS Key Management Interoperability Protocol (KMIP)&lt;/a>, bringing open standards to encryption key management.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Removing encryption complexities for cloud workloads &lt;br>&#xd;&#xa; &lt;/b>As companies must embrace and adopt the new era of cloud computing, retaining control over sensitive data while realizing the benefits of the cloud are often competing concerns. To maintain control of sensitive data, organizations need the ability to encrypt and manage encryption keys even as the data is transferred to the cloud.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Deployed in minutes, HP Atalla Cloud Encryption reduces the complexity of encryption and key management in public, private and hybrid cloud environments with split-key encryption, a method for combining and splitting keys during the encryption process. In addition, customers can leverage integration with HP Enterprise Secure Key Manager to automatically manage and protect main keys on-premises in FIPS 140-2 Level 2 validated security appliances.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Persistent protection for unstructured data &lt;br>&#xd;&#xa; &lt;/b>With the consumerization of IT and the explosion of social media, it is estimated that 2.5 exabytes of new data is created every day&lt;sup>(2)&lt;/sup> and the volume of new data is doubling every 12 to 18 months.&lt;sup>(3)&lt;/sup> In fact, nearly 90 percent of the digital content being created includes unstructured data types, or human-generated information, such as documents, social content, video, audio and images.&lt;sup>(3)&lt;/sup> As this mounting volume of unstructured data moves across and outside of enterprise networks, organizations must ensure persistent protection at every stage in its life cycle.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Atalla Information Protection and Control (IPC) software protects sensitive enterprise data at every stage of the data life cycle -- from creation to collaboration to storage. The software uses an information-centric encryption approach that applies persistent protection to follow the data throughout its life cycle, no matter where it resides. The encryption technology is easily incorporated into business processes without adding complexity or time consuming and costly integration.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hpenterprisesecurity.com/&quot;>HP Enterprise Security&lt;/a> products and services are designed to disrupt the adversary at all stages of the threat life cycle, manage risk and extend customer security capabilities that comprehensively protect an enterprise. HP Atalla solutions are the first line of defense in data loss prevention, encrypting sensitive data as it is created and blocking an attacker from accessing the keys to unlock it.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;br>&#xd;&#xa; &lt;/b>HP Secure Encryption with centralized key management is available immediately worldwide by ordering the required HP ProLiant Gen 8 server HP Smart Storage options together with enterprise key management and client licenses from HP Atalla. Enterprises also can retrofit their compatible environments with the required HP Smart Array controllers to take advantage of this solution.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Atalla Cloud Encryption and HP Atalla Information Protection and Control (IPC) are available immediately worldwide.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>New investment solutions are also available globally from HP Financial Services to help enterprises quickly embrace the power of HP Atalla and maintain cost control in their businesses through a simple and predictable financing option.&lt;sup>(4)&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's annual enterprise security user conference, HP Protect, takes place September 8-11 in Washington, D.C.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1) &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hpenterprisesecurity.com/ponemon-study-2013&quot;>HP Ponemon Cost of Cyber Crime Study&lt;/a>, September 2013.&lt;br>&#xd;&#xa; (2) The Disruptive Power of Big Data, Vertica White Paper, November 2013.&lt;br>&#xd;&#xa; (3) IDC Predictions 2012: Competing for 2020.&lt;br>&#xd;&#xa; (4) Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and is subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0cci
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/get-ready-for-the-gdpr-with-hpe"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Get Ready for the GDPR with HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Get Ready for the GDPR with HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Get-ready-for-the-GDPR-with-HPE.jpg"/>
+                        </contentblock_0cci>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_rts3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-first-to-market-data-centric-iot-security"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE_Discover16_LV_14978.jpg"/>
+                        </contentblock_rts3>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_54ah
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/rsa-keynote-protecting-the-changing-value-of-data"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="RSA Keynote: Protecting the Changing Value of Data"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="RSA Keynote: Protecting the Changing Value of Data"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/NewsroomImage2.jpg"/>
+                        </contentblock_54ah>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

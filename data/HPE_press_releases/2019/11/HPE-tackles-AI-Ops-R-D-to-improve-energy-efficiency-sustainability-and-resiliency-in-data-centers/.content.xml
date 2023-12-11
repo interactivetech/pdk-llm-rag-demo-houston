@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:22:08.917Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud,hpe-newsroom:categories/networking,hpe-newsroom:categories/csr,hpe-newsroom:categories/industry---energy,hpe-newsroom:categories/company---customers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:language="en_us"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE tackles AI Ops R&amp;D to improve energy efficiency, sustainability and resiliency in data centers"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE tackles AI Ops R&amp;D to improve energy efficiency, sustainability and resiliency in data centers"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-11-18T08:52:00.000-08:00"
+        metaDescription="Multi-year collaboration with U.S. DOE's National Renewable Energy Laboratory will optimize power, cooling and IT operations for smarter and greener data centers for the exascale era"
+        metaKeywords="HPE, Hewlett Packard Enterprise, supercomputer, HPC, high-performance computing, AI, artificial intelligence, energy efficiency, sustainability, predictive analytics, research, science, deep neural networks, machine learning"
+        metaOgImage="/content/dam/hpe/newsroom/2019/11/image-norend/HPE-tackles-AI-Ops-R-D-to-improve-energy-efficiency-sustainability-and-resiliency-in-data-centers.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE tackles AI Ops R&amp;D to improve energy efficiency, sustainability and resiliency in data centers"
+        pageTitle="HPE tackles AI Ops R&amp;D to improve energy efficiency, sustainability and resiliency in data centers"
+        priority="(None)"
+        socialDescription="Multi-year collaboration with U.S. DOE's National Renewable Energy Laboratory will optimize power, cooling and IT operations for smarter and greener data centers for the exascale era"
+        subtitle="Multi-year collaboration with U.S. DOE's National Renewable Energy Laboratory will optimize power, cooling and IT operations for smarter and greener data centers for the exascale era"
+        UAID="fd1c4287-9743-48df-add8-8166d4a95395"
+        UCID="8df2fcc6-b356-4dda-ae01-cbab860c63ef">
+        <main-par
+            jcr:lastModified="{Date}2019-11-15T17:04:58.099Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-11-15T17:10:05.840Z"
+                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T17:13:13.278Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/HPE-tackles-AI-Ops-R-D-to-improve-energy-efficiency-sustainability-and-resiliency-in-data-centers.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T17:14:28.302Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and NREL are using over five years of data, totaling over 16 terabytes of data, collected from sensors in NREL’s supercomputers, Peregrine and Eagle, and its facility, to train models for anomaly detection to prevent issues before they occur&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The AI Ops project sprung from HPE’s R&amp;amp;D efforts involved with PathForward, a program backed by the US DOE to accelerate the nation’s technology roadmap for exascale computing, which represents the next major leap in supercomputing&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_32
+                    jcr:created="{Date}2019-11-01T22:21:45.032Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T17:13:33.646Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Multi-year collaboration with U.S. DOE's National Renewable Energy Laboratory will optimize power, cooling and IT operations for smarter and greener data centers for the exascale era &lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T17:15:39.125Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;b>SAN JOSE, Calif. – Nov. 18, 2019&lt;/b> –&amp;nbsp;&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise (HPE)&lt;/a> announced today an AI Ops R&amp;amp;D collaboration with the U.S Department of Energy’s &lt;a href=&quot;https://www.nrel.gov/&quot; target=&quot;_blank&quot;>National Renewable Energy Laboratory (NREL)&lt;/a> to develop Artificial Intelligence (AI) and Machine Learning (ML) technologies to automate and improve operational efficiency, including resiliency and energy usage, in data centers for the exascale era. The effort&amp;nbsp;is part of&amp;nbsp;NREL’s ongoing mission as a world leader in&amp;nbsp;advancing energy efficiency and&amp;nbsp;renewable energy&amp;nbsp;technologies&amp;nbsp;to create and implement new&amp;nbsp;approaches&amp;nbsp;that&amp;nbsp;reduce&amp;nbsp;energy consumption&amp;nbsp;and&amp;nbsp;lower operating costs.&lt;br>&#xa;&lt;br>&#xa;The project is part of a three year collaboration that introduces monitoring and predictive analytics to power and cooling systems in NREL’s Energy Systems Integration Facility (ESIF) HPC Data Center.&lt;br>&#xa;&lt;br>&#xa;HPE and NREL are using more than five years’ worth of historical data, which total more than 16 terabytes of data&lt;sup>1&lt;/sup>, collected from sensors in NREL’s supercomputers, Peregrine and Eagle, and its facility, to train models for anomaly detection to predict and prevent issues before they occur.&lt;br>&#xa;&lt;br>&#xa;The collaboration will also address future water and energy consumption in data centers, that in the U.S. alone will reach approximately 73 billion kWh and 174 billion gallons of water by 2020.&lt;sup>2&lt;/sup> HPE and NREL will focus on monitoring energy usage to optimize energy efficiency and sustainability as measured by key metrics such as Power Usage Effectiveness (PUE), Water Usage Effectiveness (WUE), and Carbon Usage Effectiveness (CUE).&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe_1759535328
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T17:18:05.166Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Early results based on models trained with historical data have successfully predicted or identified events that previously occurred in NREL’s data center, demonstrating the promise of using predictive analytics in future data centers.&lt;br>&#xa; &lt;br>&#xa; The AI Ops project sprung from HPE’s R&amp;amp;D efforts involved with &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2017/06/u-s-dept-of-energy-taps-hewlett-packard-enterprises-machine-research-project-to-design-memory-driven-supercomputer-2.html&quot; target=&quot;_blank&quot;>PathForward&lt;/a>, a program backed by the U.S. Department of Energy to accelerate the nation’s technology roadmap for exascale computing, which represents the next major leap in supercomputing. HPE realized a critical need to develop AI and automation capabilties to manage and optimize data center environments for the exascale era. Applying AI-driven operations to an exascale supercomputer -&amp;nbsp; which will run at a speed that will represent a thousandfold increase over today’s systems - will enable energy-efficient operations, and increase resiliency and reliability through smart and automated capabilities.&lt;br>&#xa; &lt;br>&#xa; “We are passionate about architecting new technologies that are impactful to powering the next era of innovation with exascale computing and its extent of operational needs,” said Mike Vildibill, vice president of Advanced Technologies Group, HPE. “We believe our journey to develop and test AI Ops with NREL, one of our longstanding and innovative partners, will allow the industry to build and maintain smarter and more efficient supercomputing data centers as they continue to scale power and performance.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b_copy_
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T20:17:13.401Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE and NREL collaborate to improve operational efficiency and resiliency in data centers&amp;nbsp;for the exascale era&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-11-15T20:17:13.401Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b_copy_>
+                <textonlycomponent_fe_1969382099
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T17:21:19.227Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Our research collaboration will span the areas of data management, data analytics, and AI/ML optimization for both manual and autonomous intervention in data center operations,” said Kristin Munch, manager for Data, Analysis and Visualization Group, National Renewable Energry Laboratory (NREL). “We’re excited to join HPE in this multi-year, multi-staged effort—and we hope to eventually build capabilities for an advanced smart facility after demonstrating these techniques in our existing data center.”&lt;br>&#xa; &lt;br>&#xa; The project will use open source software and libraries such as TensorFlow, NumPy and Sci-kit to develop machine learning algorithms. The project will focus on the following key areas:&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Monitoring: &lt;/b>Collect, process and&lt;b> &lt;/b>analyze vast volumes of IT and facility telemetry from disparate sources before applying algorithms to data in real-time&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Analytics:&lt;/b> Big data analytics and machine learning will be used to analyze data from various tools and devices spanning the data center facility&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Control&lt;/b>: Algorithms will be applied to enable machines to solve issues autonomously as well as intelligently automate repetitive tasks and perform predictive maintenance on both the IT and the datacenter facility&lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Datacenter operations&lt;/b>: AI Ops will evolve to become a validation tool for continuous integration (CI) and continuous deployment (CD) for core IT functions that span the modern datacenter facility&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE plans to demonstrate additional capabilities in the future with the enhancement of the HPE High Performance Cluster Management (HPCM) system to provide complete provisioning, management, and monitoring for clusters scaling to 100,000 nodes at a faster rate. Other testing plans include exploring integration of HPE InfoSight, a cloud-based AI-driven management tool that monitors, collects and analyzes data on IT infrastructure. HPE InfoSight is used to predict and prevent probable events to maintain the overall health of server performance.&lt;br>&#xa; &lt;br>&#xa; The solution will be showcased at HPE booth 1325 at Supercomputing 2019 (SC 19) in Denver, Colorado.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T17:28:42.525Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a href=&quot;http://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>&amp;nbsp;NREL supercomputers combined sensor data comprised of 1.6 billion datapoints&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup>&amp;nbsp;Berkeley Lab’s Energy Technology Areas: United States Data Center Energy Usage Report (2016): &lt;a href=&quot;https://eta.lbl.gov/publications/united-states-data-center-energy&quot; target=&quot;_blank&quot;>https://eta.lbl.gov/publications/united-states-data-center-energy&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&lt;br>&#xa; Editorial contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Nahren Khizeran, HPE&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:Nahren.khizeran@hpe.com&quot; target=&quot;_blank&quot;>Nahren.khizeran@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T17:30:40.568Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/09/hpe-advances-ai-rd-and-fuels-scientific-discovery-in-new-supercomputer-for-mit-lincoln-laboratory-supercomputing-center"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE advances AI R&amp;D and fuels scientific discovery in new supercomputer for MIT Lincoln Laboratory Supercomputing Center"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances AI R&amp;D and fuels scientific discovery in new supercomputer for MIT Lincoln Laboratory Supercomputing Center"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T17:30:40.568Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-advances-ai-rd-and-fuels-scientific-discovery-in-new-supercomputer-for-mit-lincoln-laboratory-supercomputing-center.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T17:30:40.568Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T17:34:58.872Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/08/hpe-builds-nasa-new-supercomputer-to-support-future-human-mission-to-moon"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE builds NASA new supercomputer to support future human mission to moon"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE builds NASA new supercomputer to support future human mission to moon"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T17:34:58.872Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/hpe-builds-nasa-new-supercomputer-to-support-future-human-mission-to-moon-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T17:34:58.872Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T17:32:31.792Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/08/hpe-triples-performance-and-enhances-energy-efficiency-in-new-supercomputer-for-national-renewable-energy-laboratory-nrel"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T17:32:31.792Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/HPE-Triples-Performance-and-Enhances-Energy-Efficiency-in-New-Supercomputer-for-National-Renewable-Energy-Laboratory-NREL.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T17:32:31.792Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+        </main-par>
+    </jcr:content>
+</jcr:root>

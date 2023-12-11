@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:35:34.528Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/other,hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="new-hpe-pointnext-capabilities-accelerate-transition-to-memory-driven-computing"
+        jcr:uuid="b7040f65-b268-455d-9023-0446e5b2377a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-06-20T13:00:07.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Lindsey Berryhill"
+        metaDescription="New HPE Pointnext Capabilities Accelerate Transition to Memory-Driven Computing"
+        metaKeywords="Memory-Driven Computing, developers, HPE Pointnext, Hewlett Packard Labs, HPE Superdome Flex, DZNE, Travelport, data"
+        navTitle="New HPE Pointnext Capabilities Accelerate Transition to Memory-Driven Computing"
+        pageTitle="New HPE Pointnext Capabilities Accelerate Transition to Memory-Driven Computing"
+        priority="(None)"
+        subtitle="Hewlett Packard Enterprise launches cloud-based Memory-Driven Computing Sandbox for customers and developers to drive rapid proofs-of-concept"
+        theme="dark"
+        UAID="ada2982f-0eeb-480c-86e5-ef64e166dab7"
+        UCID="3761528f-5fe5-4f2c-9e34-0b3f96e2aeab"
+        webSectionId="R11989"
+        WPID="200801">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 20, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/New-HPE-Pointnext-Capabilities-Accelerate-Transition-to-Memory-Driven-Computing.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="New HPE Pointnext Capabilities Accelerate Transition to Memory-Driven Computing"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:27:05.860Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Memory-Driven Computing is designed to dramatically improve performance and efficiency and unleash a new era of intellectual discovery and business opportunities&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Through HPE Pointnext advisory and professional services capabilities, the company will work with leading-edge customers, like Travelport, to explore Memory-Driven Computing&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Memory-Driven Computing Sandbox will support rapid testing for customers and will provide early access to emerging technologies, directly from the Labs, before broad commercial availability&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-31T10:26:17.452Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:27:07.218Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:27:43.865Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;h2>Hewlett Packard Enterprise launches cloud-based Memory-Driven Computing Sandbox for customers and developers to drive rapid proofs-of-concept&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bog2
+                    jcr:lastModified="{Date}2018-10-31T10:28:38.415Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;b>LAS VEGAS&amp;nbsp;- June 20, 2018&lt;/b>&lt;span class=&quot;body-copy-large&quot;>&lt;b> -&lt;/b>  Hewlett Packard Enterprise (NYSE: HPE) today announced the launch of an incubation practice with specialized skills for solving big data problems through Memory-Driven Computing, leveraging the expertise of Hewlett Packard Labs and HPE Pointnext. Through HPE Pointnext advisory and professional services capabilities, the company will work with leading-edge customers to explore Memory-Driven Computing applications and deliver proofs-of-concept that will demonstrate dramatic performance gains never before possible.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;span style=&quot;font-size: inherit;&quot;>Designed to dramatically improve performance and efficiency and unleash a new era of intellectual discovery and business opportunities, &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/content-hub.html&quot; rel=&quot;noopener&quot;>Memory-Driven Computing&lt;/a> is a new computing architecture that puts memory, not processing, at the center of the computing platform. Hewlett Packard Labs is developing the breakthrough technology innovations needed to enable Memory-Driven Computing as part of The Machine research project. Using the new architecture, organizations will be able to process vast amounts of data significantly faster and reduce the time to extract insight, from days to hours, hours to minutes, minutes to seconds, ultimately delivering real-time intelligence.&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We believe that all data is valuable. Our vision for Memory-Driven Computing is to enable customers to capture, keep and refine every last bit of their data, up to 10,000 times faster than yesterday's solutions&amp;quot;, said Beena Ammanath, global vice president, Artificial Intelligence, Data and Innovation, HPE. &amp;quot;The introduction of HPE Pointnext capabilities for Memory-Driven Computing will accelerate our ability to bring Memory-Driven Computing technologies to our customers and help them solve some of their most complex problems and more quickly than ever before&amp;quot;.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Pointnext has a team of emerging technology and AI experts already working hand-in-hand with its first commercial customer beginning the journey to Memory-Driven Computing, &lt;a href=&quot;https://www.travelport.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Travelport&lt;/a>&amp;nbsp;- a commerce platform that provides distribution, technology, payment and other solutions for the $7 trillion global travel industry.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Speed and accuracy are essential to delivering the right travel experience, and today's travelers expect the best answers instantly.Partnering with HPE, Travelport has built out a large-scale compute capability, internally referred to as the &amp;quot;wall of compute&amp;quot;, which has been able to keep pace with the ever-increasing demand of online travel searches. The volume of shopping requests continues to double every 18 months and will reach an average of three shopping requests per month per person on the globe by 2020. Today, that already translates to moving over 125 terabytes of data in and out of its data centers each day.&lt;/span>&lt;/p>&#xa;"/>
+                <imageonlycomponent_f
+                    jcr:created="{Date}2018-10-18T07:53:52.555Z"
+                    jcr:createdBy="camelia.manoiu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T08:56:34.512Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomMargin="30"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/las-vegas-travelport-video2.jpg"
+                    imageAlignment="hpe-image-left"
+                    isVideo="true"
+                    topMargin="30"
+                    videoDuration="2:49"
+                    videoId="O4-CH7GqoDg"
+                    videoSource="video"
+                    videoTitle="Travelport and HPE – Powering the Travel Experience with HPE Synergy"
+                    videoType="youtube"/>
+                <textonlycomponent_4c
+                    jcr:created="{Date}2018-10-18T07:51:22.397Z"
+                    jcr:createdBy="camelia.manoiu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:29:11.852Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>In April 2018, Travelport began the first commercial Memory-Driven Computing engagement, installing an HPE Superdome Flex in-memory computing system and leveraging HPEs expertise to rearchitect key Travelport algorithms using Memory-Driven Computing programming techniques.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Pointnext is providing guidance to Travelport around IT deployment strategy, sharing expertise and learnings from previous proofs-of-concept to improve their ability to program applications for Memory-Driven Computing environments. Additionally, HPE experts are helping Travelport and future customers identify a performance baseline for infrastructure upgrades, drive cost-benefit analyses for the transformation journey and port, tune, re-architect and refactor applications for Memory-Driven Computing&lt;span style=&quot;font-size: inherit;&quot;>.&lt;/span>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_4cr3
+                    jcr:lastModified="{Date}2018-10-18T08:43:07.424Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;A Memory-Driven Computing approach will help Travelport quickly uncover insights&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T08:43:07.424Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_4cr3>
+                <textonlycomponent_2qyv
+                    jcr:lastModified="{Date}2018-10-31T10:29:38.702Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Travelport handles incredibly huge data sets and demanding workloads. A Memory-Driven Computing approach will help Travelport quickly uncover insights in those data sets, as well as realize performance gains never before possible&amp;quot;, said Randy Meyer, vice president and general manager, Compute Solutions, HPE. &amp;quot;Working closely with HPE, Travelport will be able to test new technologies as they become available and remain at the forefront of in-memory computing advancements and by extension, the travel industry&amp;quot;.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As HPE Pointnext continues to work with customers on Memory-Driven Computing solutions, the team will unveil additional innovations and offerings for Memory-Driven Computing adoption, beginning with rapid assessments and proof-of-value services next year.&lt;/span>&lt;/p>&#xa;"/>
+                <imageonlycomponent_5
+                    jcr:created="{Date}2018-10-18T08:47:17.979Z"
+                    jcr:createdBy="camelia.manoiu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T09:09:49.278Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomMargin="30"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/hqdefault1.jpg"
+                    imageAlignment="hpe-image-left"
+                    isVideo="true"
+                    topMargin="30"
+                    videoId="qdOmLKMRwzM"
+                    videoSource="video"
+                    videoTitle="HPE Customers Begin Journey to Memory-Driven Computing"
+                    videoType="youtube"/>
+                <textonlycomponent_11
+                    jcr:created="{Date}2018-10-18T08:43:33.643Z"
+                    jcr:createdBy="camelia.manoiu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:30:13.407Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;b>Accessing Memory-Driven Computing, Today&lt;/b>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through a collaboration between HPE Pointnext, Hewlett Packard Labs and HPE's own Global IT organization, HPE is introducing a Memory-Driven Computing operating and development environment for customers and developers around the world.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_jnai
+                    jcr:lastModified="{Date}2018-10-18T09:00:09.629Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE is introducing a Memory-Driven Computing operating and development environment for customers&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T09:00:09.629Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_jnai>
+                <textonlycomponent_yzvp
+                    jcr:lastModified="{Date}2018-10-31T10:30:41.194Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Memory-Driven Computing Sandbox will feature HPE Superdome Flex with Software-Defined Scalable Memory, a new system enhancement under development and key technology output of The Machine research project. Software-Defined Scalable Memory includes new software and firmware advances that enable the industry-leading Superdome Flex memory fabric to address significantly larger pools of shared memory than previously possible. The technology provides the ability to compose memory on the fabric and offers the ability to scale to 96 terabytes, all while offering faster and more resilient performance.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;In the Memory-Driven Computing Sandbox, our customers' developer teams will be able to experiment right along with the Hewlett Packard Labs team&amp;quot;, said Kirk Bresniker, VP, HPE Fellow and chief architect for Memory-Driven Computing. &amp;quot;&lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2017/04/fighting-oblivion-with-a-new-kind-of-computer.html&quot; rel=&quot;noopener&quot;>First with DZNE&lt;/a> and now with Travelport, we have seen how quickly innovation is sparked when Memory-Driven Computing technologies get into developers' hands, and their work helps inspire and shape our research agenda. This program will support rapid testing for customers and will provide early access to emerging technologies, directly from the Labs, before broad commercial availability.It's a 21&lt;sup>st&lt;/sup> century mash up between Bill Hewlett and Dave Packard's edict to 'design for the engineer on the next bench' and today's agile development methodologies&amp;quot;.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_ps69
+                    jcr:lastModified="{Date}2018-10-18T09:04:30.165Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;First with DZNE and now with Travelport, we have seen how quickly innovation is sparked&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T09:04:30.165Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ps69>
+                <textonlycomponent_atq6
+                    jcr:lastModified="{Date}2018-10-31T10:31:19.939Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>As part of its strategy to commercialize innovations from The Machine research project, HPE will look for opportunities to bring select benefits of Memory-Driven Computing - like Software-Defined Scalable Memory - to customers faster.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Under The Machine research project, HPE is advancing toward a single architecture to manage a customer's entire enterprise, from every edge to any cloud. Through this work, HPE aims to one day power a mesh of precision systems specific to individual workloads - from distributed systems that sit at the edge to mission-critical systems at the core of its customer's operations - all connected through a secure common operating platform.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_y0lt
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/fighting-oblivion-with-a-new-kind-of-computer"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Fighting Oblivion with a New Kind of Computer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Fighting Oblivion with a New Kind of Computer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Fighting-Oblivion-with-a-New-Kind-of-Computer-2.jpg"/>
+                        </contentblock_y0lt>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_pc5p
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/mars-as-a-metaphor-for-life-on-earth"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPEs Next Frontier: Memory-Driven Computing"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPEs Next Frontier: Memory-Driven Computing"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/7Hero-web.jpg"/>
+                        </contentblock_pc5p>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d7re
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/memory-driven-computing-explained"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Memory-Driven Computing Explained"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Memory-Driven Computing Explained"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/5.jpg"/>
+                        </contentblock_d7re>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:45:20.675Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-announces-collaboration-with-red-hat-to-optimize-and-accelerate-containers-in-production"
+        jcr:uuid="5dec8e72-53b1-4286-8861-f7f1b59e38ba"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-05-03T04:50:09.000-07:00"
+        metaDescription="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+        navTitle="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+        pageTitle="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+        priority="(None)"
+        subtitle="New solution for Red Hat OpenShift Container Platform on HPE Synergy to accelerate container application delivery"
+        theme="dark"
+        UAID="335b6a54-ce77-4438-97ce-c9180fd11b64"
+        UCID="1de50fe0-fc93-4186-8e73-7513856e7b20"
+        webSectionId="R11989"
+        WPID="200497">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 03, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_image7.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:04:40.592Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and Red Hat collaborate to help enterprises to adopt and deploy containers in production rapidly and at scale&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The two companies also offer services to help customers adopt Red Hat OpenShift Container Platform with HPE platforms from proof of concept to production&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>With the efforts of HPE and Red Hat, IT experts can deploy a single container architecture from development to operations&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New solution for Red Hat OpenShift Container Platform on HPE Synergy to accelerate container application delivery&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_p873
+                    jcr:lastModified="{Date}2018-10-31T10:04:37.775Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., May 03, 2018 (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=fhmc6SC2jVXzLCAW5Uuvgg9XZkeW4F2rCY7lynU2URe2B9e_9hHs4EpAAkmR9aIlRO6F_uo1cgIrOXWLciu2uKfDSfMUqT-kGRotQZLCNLR_Uq0tcTaVj84ZkM8JiyKK&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;>&lt;u>Hewlett Packard Enterprise&lt;/u>&lt;/a> (HPE) today announced a collaboration with Red Hat, the leading provider of open source solutions, to enable enterprises to adopt and deploy containers in production rapidly and at scale.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>While developers find it easy to deploy containerized applications in their development and test environments, enterprises often require container scalability, added security features, persistent storage, and manageability to deploy containers in production. To help accelerate container application delivery, HPE and Red Hat are collaborating to optimize Red Hat OpenShift Container Platform on HPE platforms, including HPE Synergy, the industrys first composable infrastructure.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_iw8p
+                    jcr:lastModified="{Date}2018-10-15T14:20:51.135Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE and Red Hat are collaborating to optimize Red Hat OpenShift Container Platform on HPE platforms&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T14:20:51.135Z"
+                        jcr:lastModifiedBy="nagle@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_iw8p>
+                <textonlycomponent_41be
+                    jcr:lastModified="{Date}2018-10-31T10:05:37.069Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, the two companies are also collaborating to offer services to help customers adopt Red Hat OpenShift Container Platform with HPE platforms from proof of concept to production.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Deploying large-scale container environments to the enterprise data center is not simple, said Neil MacDonald, Vice President &amp;amp; General Manager, HPE Synergy &amp;amp; HPE BladeSystem. Through our long-standing collaboration with Red Hat, were aiming to accelerate the adoption and deployment of the Red Hat OpenShift Container Platform with HPE solutions from proof of concept to large scale deployment. Customers of both companies can now modernize their platform leveraging each of our services, support, and validated Red Hat OpenShift Container Platform technology stacks on HPE Synergy and HPE Nimble and 3PAR storage arrays.&amp;quot;&lt;/i>&lt;/span>&lt;i>&lt;br>&#xa; &lt;/i>&lt;/p>&#xa;"/>
+                <pullquote_ro82
+                    jcr:lastModified="{Date}2018-10-15T14:26:21.754Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We're aiming to accelerate adoption of Red Hat OpenShift Container Platform with HPE solutions from POC to large scale deployment&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T14:26:21.754Z"
+                        jcr:lastModifiedBy="nagle@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ro82>
+                <textonlycomponent_tner
+                    jcr:lastModified="{Date}2020-05-12T17:13:07.445Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the efforts of HPE and Red Hat, IT experts can deploy a single container architecture from development to operations.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;DevOps and agile application development are helping customers to deliver on the promise of digital transformation with accelerated application development and microservices architectures, said Ashesh Badani, vice president and general manager, OpenShift, Red Hat. Together, Red Hat and HPE aim to deliver a container-based solution that enables customers to not only build new cloud-native apps and microservices, but also to modernize legacy applications.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Red Hat OpenShift Container Platform has become a leader in the container space by offering an integrated, enterprise-grade container platform based on industry standards, including Linux containers and Kubernetes. HPE will pair key components of its hybrid IT portfolio of products and services with the following capabilities for Red Hat OpenShift Container Platform.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Containerization services &lt;/i>&lt;/b>- Helps customers adopt and migrate to Red Hat OpenShift Container Platform with containerization services through HPE Pointnext.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Reference architecture&lt;/i>&lt;/b> - Provides leading best practice blueprints for deploying scalable container platforms from development to operations through a validated design of Red Hat OpenShift Container Platform on HPE Synergy with HPE 3PAR and HPE Nimble Storage.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Composable Infrastructure for containers &lt;/i>&lt;/b>- Leverages HPE Synergy as a single platform to run containers on virtual machines or on bare metal, and traditional non-containerized applications side-by-side. HPE Synergy provides a single infrastructure for IT to dynamically compose their right mix of virtual, traditional and container resources, helping to increase business agility and resource utilization.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Persistent storage for containers&lt;/i>&lt;/b> - Enables developers to provision and manage storage volumes on demand with Red Hat OpenShift Container Platforms persistent volume framework, making it easier to provision container volumes, protect container data, and set Quality-of-Service (QoS) on HPE 3PAR and Nimble storage arrays.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Faster deployment and automation&lt;/i>&lt;/b> - Offers a complete set of Ansible playbooks along with step-by-step deployment guides to automate deployment of the HPE Synergy with Red Hat OpenShift Container Platform including high availability, networking, load balancing, persistent storage, container data protection policies, and OS security. This API-driven, programmatic control of physical infrastructure can deploy a production-ready Red Hat OpenShift Container Platform environment to less than two hours.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Container data protection&lt;/i>&lt;/b> - Improve backup and restoration of Red Hat OpenShift Container Platform data from public clouds using HPE Cloud Volumes and/or HPE Cloud Bank Storage.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Stronger security&lt;/i>&lt;/b>&lt;i>&lt;/i> Leverages various security tools designed to protect the complete stack. In addition, HPE offers its Gen10 Silicon Root of Trust security at the processor firmware level, which ensures servers to not execute compromised firmware code, and HPE Workload Aware Security for Linux (WASL) to further improve security from the OS level and below.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The above HPE technology stack will be available in September 2018. A Reference Architecture for HPE Synergy with Red Hat OpenShift Container Platform featuring the Gluster File System is already available today.&amp;nbsp;&lt;br>&#xa;&lt;br>&#xa;HPE Pointnext also offers a comprehensive portfolio of advisory and professional services supporting application containerization and Kubernetes integration. In late 2018, HPE Pointnext plans to expand the offering with additional services to help customers adopt Red Hat OpenShift Container Platform with HPE solutions and migrate to containers.&lt;br>&#xa;&lt;br>&#xa;To learn more about this announcement, visit the HPE booth #403 at Red Hat Summit in San Francisco from May 8 10, 2018. In addition, on May 10, 2018 at 8:30 a.m. PST, Parvesh Sethi, SVP and GM, HPE Pointnext, will deliver a technology keynote focused on how HPE and Red Hat are building automated, codable and consumable technologies.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Red Hat, Ansible, Gluster and OpenShift are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the U.S. and other countries. Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Lindsey Berryhill, HPE&lt;/b>&lt;br>&#xa; &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=5WwaukyyPkakCiO7oTsHBdz-g2PlZgr9Fx48wNMWkHnuiuw0RYNpXfb2shhvgsVRF4w-TDAf6Wejsj-Gbk-o6dGXvwu6g6HWiSEuDNTT4es=&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;>&lt;u>lindsey.berryhill@hpe.com&lt;/u>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nmiz
+                            jcr:lastModified="{Date}2020-05-12T17:13:23.456Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Joins Other Community Leaders in Protecting Developers and Enabling Innovation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Joins Other Community Leaders in Protecting Developers and Enabling Innovation"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:13:23.456Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Mark-Potter-HPE-Joins-Other-Community-Leaders-in-Protecting-Developers-and-Enabling-Innovation.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:13:23.456Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_nmiz>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_htqo
+                            jcr:lastModified="{Date}2020-05-12T17:13:33.120Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/from-kubernetes-to-docker-hpe-onesphere-is-supercharging-cloud-application-development"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="From Kubernetes to Docker  HPE OneSphere is supercharging cloud application development"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="From Kubernetes to Docker  HPE OneSphere is supercharging cloud application development"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:13:33.120Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/From-Kubernetes-to-Docker-–-HPE-OneSphere-is-supercharging-cloud-application-development-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:13:33.120Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_htqo>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ytqn
+                            jcr:lastModified="{Date}2020-05-12T17:13:42.246Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-and-red-hat-join-forces-to-give-customers-greater-choice-for-nfv-deployments"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:13:42.246Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Aug11.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:13:42.246Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_ytqn>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

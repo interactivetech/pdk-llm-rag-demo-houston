@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:26:15.692Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-enhances-partner-program-to-deliver-higher-payouts-and-more-growth-opportunities"
+        jcr:uuid="abd40355-df12-4fd0-9d59-fcb097bce617"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-08-27T04:45:48.000-07:00"
+        metaDescription="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+        metaKeywords="HPE Partner Ready Program, Partner Program, Solution Providers, Ease of doing business, High-Growth, Profitable, Consistent, Simplified"
+        navTitle="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+        pageTitle="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+        priority="(None)"
+        subtitle="New program features help channel partners capitalize on emerging market trends and improve partner experience"
+        theme="dark"
+        UAID="a2bb39ef-7643-41f7-a213-1f5fe5912c5f"
+        UCID="ce30d878-7dc9-4463-b735-48c7e8dd9f43"
+        webSectionId="R11989"
+        WPID="201402">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 27, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/1.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-07-02T19:13:13.414Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Key changes to HPE Partner Ready program to accelerate Solution Providers profitable growth&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Simplified program design to make partnering with HPE easier&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Established global consistency across the program with visibility across the entire sales cycle&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Accelerating partner sales capabilities with new aligned training categories and a global technical community&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-16T23:08:52.591Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New program features help channel partners capitalize on emerging market trends and improve partner experience&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_9fy0
+                    jcr:lastModified="{Date}2018-10-16T23:03:12.959Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced key changes to its industry-leading HPE Partner Ready program that will accelerate solution providers profitable growth by rewarding them for investing in product lines aligned to high-growth market areas including composable infrastructure, hyperconverged solutions, storage, software and consumption services. The program will also feature simpler, globally consistent design for easier partnering.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Key updates to the HPE Partner Ready program, which will take effect beginning November 1, 2018, include:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Rewarding partners for their investment in market growth areas with greater rebates and quicker access to higher membership tiers with accompanying benefits;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Simplifying program design to make partnering with HPE easier, including rewards from the first sale, without gates, caps or targets;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Creating global consistency across the program with visibility across the entire sales cycle, one consistent transaction process for quote configuration, and a faster pricing process; and&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Driving technical enablement and excellence in the channel to accelerate partner sales capabilities with new aligned training categories.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_iz0h
+                    jcr:lastModified="{Date}2018-10-16T21:10:08.397Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is making the industrys leading partner program even better&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T21:10:08.397Z"
+                        jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_iz0h>
+                <textonlycomponent_few4
+                    jcr:lastModified="{Date}2020-07-02T19:14:06.656Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;HPE is making the industrys leading &lt;a href=&quot;https://www.hpe.com/us/en/servers/server-partner-program.html&quot; target=&quot;_blank&quot;>partner program&lt;/a>&lt;sup>&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>[1]&lt;/a>&lt;/sup> even better with enhancements that will maximize partner experience and make it easier and more profitable to do business with us, said Paul Hunter, Worldwide Partner Sales Leader, HPE. Partners will earn more through the increased focus on high-growth areas of the market, as well as improve their skills to more effectively sell solutions in the future through new training and competencies.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Rewarding Solution Provider Partners for Shifting to High-Growth Areas&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Todays hyper-connected world has created an explosion of data and accelerated the pace of business. Organizations are embracing solutions that allow them to increase their speed and agility, improve insights and actions through data analytics, and leverage flexible IT consumption models. HPE has built an innovative portfolio of products and services that enables customers to successfully take advantage of these trends. The enhancements to the HPE Partner Ready program announced today reward solution provider partners for selling these high-growth offerings within the HPE portfolio.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Specifically, the program features a simplified rebate model that offers greater rewards for selling HPE high-growth products and services, ranging from composable and hyperconverged solutions such as HPE Synergy and HPE SimpliVity, to storage solutions such as HPE Nimble Storage and HPE 3PAR, to software solutions such as HPE OneView and HPE OneSphere, to services led solutions such as HPE GreenLake and HPE Datacenter Care. Further, the HPE Engage &amp;amp; Grow&lt;sup>&lt;a href=&quot;#_ftn2&quot; name=&quot;_ftnref2&quot;>[2]&lt;/a>&lt;/sup> partner incentive program, which rewards partner sales representatives for selling across the HPE portfolio, will expand to encompass high-growth products and services, enabling even more partners and partner sales representatives to qualify for rewards.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The shift to consumption-based financial models that allow customers to pay for the infrastructure they use each month while avoiding capital expenses is a notable industry trend. In fact, according to IDC, by 2020, consumption-based procurement will account for as much as 40% of enterprises' IT infrastructure spending&lt;sup>&lt;a href=&quot;#_ftn3&quot; name=&quot;_ftnref3&quot;>[3]&lt;/a>&lt;/sup>. Recognizing this market shift, HPE is introducing a new competency in the HPE Partner Ready program for HPE GreenLake, the companys suite of pay-per-use on-premises IT solutions, as well as a robust rebate that rewards HPE Partner Ready for Services partners for their capabilities with consumption-based models.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, as part of the program enhancements, HPE is accelerating access to HPE Partner Ready program membership tiers, allowing partners to unlock higher membership tiers and accompanying benefits more quickly. For example, the criteria for a new Hybrid IT specialization have been designed to accelerate progression through the partner tiers up to five times faster.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simplifying Program Design to Make Partnering with HPE Easier&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE has simplified the FY19 HPE Partner Ready program to allow partners globally to earn rewards from first sale, without gates, caps or target. This change creates a simpler model for channel partners, allowing them more predictability through the rebate levels.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_ate7
+                    jcr:lastModified="{Date}2018-10-16T23:17:32.624Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>A simpler model for channel partners, allowing them more predictability through the rebate levels&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T23:17:32.624Z"
+                        jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ate7>
+                <textonlycomponent_rveo
+                    jcr:lastModified="{Date}2018-10-16T23:18:54.208Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE Partner Ready for Services partners can take advantage of a streamlined compensation framework for HPE Pointnext. The services structure is a simplified model with just four globally consistent rebate elements, as opposed to the 14 previously included. The highest rebate places special emphasis on our HPE GreenLake consumption-based IT solution.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Creating Global Consistency Across the Program&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Partner Ready program is a simple, transparent program designed to allow partners to focus on sales and meeting customer needs. Beginning in November, HPE partners will have end-to-end visibility across the entire sales cycle, one consistent transaction process for quote configuration, and a faster pricing process with one single source for data. The global uniformity of the HPE Partner Ready program will provide a responsive support route for partner sales through an accessible, dedicated global community.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The first-class industry standing of the HPE Partner Ready program reflects the long-term relationships we build with our partners through a stable partner program said Hunter. We consistently look for ways to strengthen and enhance the program, so channel partners can continue to count on us to lead and drive growth through predictable earning potential.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Driving Technical Enablement and Excellence in the Channel&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Partner technical presales and solution architects are leading digital transformation projects for customers. HPE is accelerating partner capabilities in high-growth segments by aligning partner training, certifications and competencies to the higher-value selling priorities tied to market trends.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE is rolling out a global technical community for HPE presales and channel presales that offers ongoing engagement and training opportunities to improve their ability to deliver innovative digital transformation solutions for customers. More information will be provided about this community at the formal program launch in FY19.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;a href=&quot;#_ftnref1&quot; name=&quot;_ftn1&quot;>[1]&lt;/a>&lt;/sup> Canalys Candefero Vendor Benchmark, July 2018.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;a href=&quot;#_ftnref2&quot; name=&quot;_ftn2&quot;>[2]&lt;/a>&lt;/sup> HPE Engage &amp;amp; Grow is a global incentives platform named &amp;quot;Partner Sales Rewards&amp;quot; in APAC and India&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;a href=&quot;#_ftnref3&quot; name=&quot;_ftn3&quot;>[3]&lt;/a>&lt;/sup> IDC FutureScape: Worldwide Datacenter 2018 Predictions Nov 2017&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_q03n
+                            jcr:lastModified="{Date}2020-07-02T19:14:19.412Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/changes-to-the-partner-ready-program-prove-that-we-are-still-far-ahead-of-the-pack"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Changes to the Partner Ready program prove that we are still far ahead of the pack"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Changes to the Partner Ready program prove that we are still far ahead of the pack"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:14:19.412Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/Changes-to-the-Partner-Ready-program-prove-that-we-are-still-far-ahead-of-the-pack.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:14:19.412Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_q03n>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_lxzj
+                            jcr:lastModified="{Date}2020-07-02T19:14:27.317Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/new-hpe-presales-program-to-sharpen-partners-competitive-edge"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="New HPE Presales Program to Sharpen Partners' Competitive Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="New HPE Presales Program to Sharpen Partners' Competitive Edge"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:14:27.317Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_Meeting.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:14:27.317Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_lxzj>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_a88x
+                            jcr:lastModified="{Date}2020-07-02T19:14:34.740Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-empowers-partners-to-drive-profitable-growth-with-new-best-in-class-consumption-program"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:14:34.740Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/General-Partners-Session-Release.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:14:34.740Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_a88x>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

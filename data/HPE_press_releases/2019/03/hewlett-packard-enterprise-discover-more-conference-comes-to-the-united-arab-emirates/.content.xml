@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:58:48.790Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise Discover More Conference comes to the United Arab Emirates"
+        jcr:uuid="079fead2-d8f9-42b0-aaba-960833113d55"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise Discover More Conference comes to the United Arab Emirates"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-03-14T09:33:00.000-07:00"
+        metaContextualCategory="URL"
+        metaDescription="HPE Discover More offers customers and partners deeper insights into the importance of enterprise technology in a digital-first world, building on HPE’s flagship Discover event by providing more localized, relevant content"
+        metaKeywords="Innovation, Discover More, UAE, vision, technology"
+        metaOgImage="/content/dam/hpe/newsroom/2019/03/image-norend/Hewlett-Packard-Enterprise-Discover-More-Conference-comes-to-the-United-....jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise Discover More Conference comes to the United Arab Emirates"
+        pageTitle="Hewlett Packard Enterprise Discover More Conference comes to the United Arab Emirates"
+        priority="(None)"
+        socialDescription="HPE Discover More offers customers and partners deeper insights into the importance of enterprise technology in a digital-first world, building on HPE’s flagship Discover event by providing more localized, relevant content"
+        subtitle="HPE Discover More offers customers and partners deeper insights into the importance of enterprise technology in a digital-first world, building on HPE’s flagship Discover event by providing more localized, relevant content"
+        theme="dark"
+        UAID="d502dee7-67e2-4ed0-9e81-c4123434579c"
+        UCID="1ccdd1c2-ae30-4a32-9d88-0547e9ea6b05">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-03-14T16:17:54.320Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MARCH 14, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T17:00:23.238Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/03/image-norend/Hewlett-Packard-Enterprise-Discover-More-Conference-comes-to-the-United-....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:21:10.735Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Discover More in Dubai to be held on 20th March, Jumeirah Beach Hotel&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The latest in a series of technology showcase events, delivered locally and tailored to local market, builds on flagship HPE Discover event&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Over 1,000 customers to attend, with speakers including Antonio Neri - President &amp;amp; CEO, HPE, Dr. Fabio Fontana, VP &amp;amp; MD, HPE Middle East, and H.E. Sarah Al Amiri, UAE Minister of State for Advanced Sciences&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_f9
+                    jcr:created="{Date}2019-03-14T16:18:11.962Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:21:51.848Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Discover More offers customers and partners deeper insights into the importance of enterprise technology in a digital-first world, building on HPE’s flagship Discover event by providing more localized, relevant content&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:24:15.517Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Dubai, United Arab Emirates– 14 March, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced that its Discover More technology showcase event will take place in the U.A.E on 20&lt;sup>th&lt;/sup> March at the Jumeirah Beach Hotel in Dubai.&lt;br>&#xa;&lt;br>&#xa;HPE Discover More offers customers and partners deeper insights into the importance of enterprise technology in a digital-first world, building on HPE’s flagship Discover event by providing more localized, relevant content. At the event, HPE will be demonstrating how enterprises can transform their business in a world where everything computes, and where everyone and everything – billions of devices, cars and homes, workplaces, stadiums, hospitals and factory floors – shares data.&lt;br>&#xa;&lt;br>&#xa;HPE Discover More – Dubai takes place at the Jumeirah Beach Hotel and is expected to draw over one thousand HPE customers and partners to the event. Attendees will learn more around HPE’s brand vision to advance the way people live and work, through helping enterprises to redefine experiences and drive smarter, more secure, hyper-efficient operations across every industry. These possibilities include helping meet the food requirements of a growing global population and advancing precision medicine — healthcare tailored to the individual needs of every patient worldwide.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_9d0c
+                    jcr:created="{Date}2019-03-14T16:24:47.579Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:25:26.198Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE Discover More is expected to draw over one thousand HPE customers and partners to the event&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-03-14T16:25:26.198Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_9d0c>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:26:20.098Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Discover More – Dubai will be opened by Dr. Fabio Fontana, vice president and managing director, HPE Middle East, who will then hand over to Antonio Neri- President &amp;amp; CEO, HPE. Antonio is visiting the UAE for the first time as CEO of HPE and will take the audiences through the advances that HPE brings to people’s personal and professional lives. H.E. Sarah Al Amiri, UAE Minister of state for Advanced Sciences will then put things into context for the UAE and the region, by highlighting the UAE’s vision for the role of technology and its impact on the way people live and work.&amp;nbsp;&lt;br>&#xa;&lt;i>&lt;br>&#xa;Data is the biggest factor in the transformation of technology today. It facilitates the insights for progress, and it’s being created at rates like never before. HPE Discover More is the perfect environment for customers to engage, meet and accelerate new partnerships,” &lt;/i>said Dr. Fabio Fontana, vice president and managing director, HPE Middle East.&lt;i> “We’re bringing an ongoing, conversation to our highly engaged global audience with frequent events, delivered locally and with a diverse range of topics, tailored to local market audiences. We’re very excited to be bringing this event to the UAE.”&lt;/i>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:27:28.588Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE Discover More is the perfect environment for customers to engage, meet and accelerate new partnerships&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-03-14T16:27:28.588Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:28:04.054Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Building on HPE’s broader company strategy, Discover More will showcase technologies aimed at helping businesses deploy an edge-centric, cloud-enabled and data-driven approach to turn vast amounts of data into action and value:&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_1c
+                    jcr:created="{Date}2019-03-14T16:28:24.156Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-25T19:33:26.915Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Edge-centric:&lt;/b> The edge is ever-expanding. It’s where billions of people and places and trillions of things intersect— generating unimaginable amounts of data. By 2020, Gartner estimates 75% of data generated will never see a data center or cloud – HPE continues to be at the forefront of the intelligent edge, enabling real-time insights and action&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Data-driven&lt;/b>: Data is the new currency but it’s coming at us faster than ever before, and from new sources. HPE helps enterprises process and analyze data from every edge to any cloud – and at every scale – accelerating insights, action and value&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cloud-enabled:&lt;/b> Organizations of all sizes are adopting &lt;a href=&quot;https://www.hpe.com/us/en/solutions/cloud.html&quot; target=&quot;_blank&quot;>hybrid cloud&lt;/a> models to create and deliver new services, improve time-to-market, and drive business growth. However, the transition to hybrid cloud environments can be hampered by the need for specialized skills to build and operate proprietary cloud stacks.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_10
+                    jcr:created="{Date}2019-03-14T16:30:26.885Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:35:48.383Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>To register interest in attending the event, or for more information, please access &lt;b>&lt;a href=&quot;https://www.hpe.com/emea_middle_east/en/home.html&quot; target=&quot;_blank&quot;>https://www.hpe.com/emea_middle_east/en/home.html&lt;/a>&lt;/b>&lt;/span>&lt;b> &lt;/b>&lt;/p>&#xa;"
+                    topPadding="10"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-14T16:31:34.323Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise - use only as needed&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-03-14T17:04:34.323Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-kit/2019/01/discover-2018-madrid"
+                            description="&lt;p>Press Kit&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Discover 2018 Madrid"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Discover 2018 Madrid"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-03-14T17:04:34.323Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Discover-2018-Madrid.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-03-14T17:04:34.323Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-03-14T17:06:32.099Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/11/the-edge-centric-cloud-enabled-data-driven-enterprise-of-the-future"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="The edge-centric, cloud-enabled, data-driven enterprise of the future"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The edge-centric, cloud-enabled, data-driven enterprise of the future"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-03-14T17:06:32.099Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/The-Edge-Centric-Cloud-Enabled-Data-Driven-Enterprise-of-the-Future.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-03-14T17:06:32.099Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-03-14T17:08:26.595Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Watch Now"
+                            ctaUrl="https://www.hpe.com/events/discover/more"
+                            description="&lt;p>Live Stream&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Discover More"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Discover More"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-03-14T17:08:26.595Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/03/image-norend/HPE-Discover-More-live-stream-on-demand.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-03-14T17:08:26.595Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-03-14T17:01:52.603Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

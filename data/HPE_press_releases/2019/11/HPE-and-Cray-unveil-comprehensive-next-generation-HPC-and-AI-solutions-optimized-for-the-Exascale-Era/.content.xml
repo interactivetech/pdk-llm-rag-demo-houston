@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:22:52.900Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:language="en"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-11-18T13:09:00.000-08:00"
+        metaDescription="Combined portfolios power HPC and AI solutions of any size, for every environment; on premises, in "
+        metaKeywords="HPC, high performance compute, computing, AI, Artificial Intelligence, exascale, big data, as a Service, as-a-Service, aaS, high-performance computing, digital transformation, HPE, Cray, supercomputer"
+        metaOgImage="/content/dam/hpe/newsroom/2019/11/image-norend/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+        pageTitle="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+        priority="(None)"
+        socialDescription="Combined portfolios power HPC and AI solutions of any size, for every environment; on premises, in "
+        subtitle="Combined portfolios power HPC and AI solutions of any size, for every environment; on premises, in "
+        UAID="01d548f0-8c42-4c71-b28f-b9a8cc8b18ec"
+        UCID="9ba8f3c1-224b-44eb-86d5-089369c0d3d6">
+        <main-par
+            jcr:lastModified="{Date}2019-11-15T20:24:50.924Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-11-15T21:10:14.525Z"
+                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T21:13:22.214Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T01:39:42.124Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The addition of Cray, Inc. bolsters HPE’s HPC and AI solutions to now encompass an end-to-end supercomputing architecture across compute, interconnect, software, storage and services, delivered on premises, hybrid or as a Service&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New portfolio will enable every enterprise with technologies needed for the exascale era, which is defined by explosive data growth and new converged workloads such as HPC, AI, and analytics&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_32
+                    jcr:created="{Date}2019-11-01T22:21:45.032Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T01:41:40.167Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Combined portfolios power HPC and AI solutions of any size, for every environment; on premises, in the cloud or as a Service &amp;nbsp;&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T01:42:58.297Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;b>SAN JOSE, Calif. – November 18, 2019&lt;/b> –&amp;nbsp;&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise (HPE)&lt;/a>&amp;nbsp;today announced it will deliver the industry’s most comprehensive high-performance computing (HPC) and Artificial Intelligence (AI) portfolio for the exascale era, which is characterized by explosive data growth and new converged workloads such as HPC, AI, and analytics.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The addition of Cray, Inc., which HPE recently acquired, bolsters HPE’s HPC and AI solutions to now encompass an end-to-end supercomputing architecture across compute, interconnect, software, storage and services, delivered on premises, hybrid or as-a-Service. Now every enterprise can leverage the same foundational HPC technologies that power the world’s fastest systems, and integrate them into their data centers to unlock insights and fuel new discovery.&amp;nbsp;&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b_copy_
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T01:40:42.180Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE customers can now leverage the same foundational HPC technologies powering the world’s fastest systems&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-11-18T01:40:42.180Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b_copy_>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T02:02:17.903Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Digital transformation is driving new data-intensive workloads and real-time analytics operating at an unprecedented scale. New software, compute, interconnect, and storage capabilities are required for customers to unlock the potential of their data and accelerate innovation. HPE delivers solutions for any experience from single, small systems all the way to exascale-class supercomputers with tailored software, interconnect and storage capabilities. This includes solutions for modeling and simulation in weather forecasting, manufacturing and energy sectors, and AI and big data analytics in precision medicine, autonomous vehicles, geospatial imaging and financial services.&lt;br>&#xa; &lt;br>&#xa; &lt;i>“The combination of HPE and Cray will redefine the supercomputing industry by delivering solutions and services that enable customers to thrive in the Exascale Era, helping them achieve significant breakthroughs and advances in business and society,” said Peter Ungaro, senior vice president and general manager, HPC and AI, at HPE. “Customers increasingly turn to HPE as trusted, global partner that can help them harness the full power of data to address their most pressing challenges. Through the combination of HPE and Cray offerings, we now give customers more choice and control in how they apply HPC, to span any size and scale, running in any environment, from on premises to the cloud.”&amp;nbsp;&lt;br>&#xa;&lt;br>&#xa;&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe_665967167
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T01:54:46.149Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE’s latest HPC and AI end-to-end portfolio is comprised of the following services, software, compute, interconnect and storage capabilities:&lt;br>&#xa; &lt;br>&#xa; &lt;b>Making HPC and AI&amp;nbsp; accessible as a Service&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>As previously announced, Cray and Microsoft have collaborated to allow access to HPC technology and systems for Cray in Microsoft Azure offerings. HPE plans to expand customer choice for customers by providing its HPC and AI solutions through HPE GreenLake, a market-leading as-a-Service offering from HPE.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Purpose-built software to manage all types of data&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPC and AI systems run like a cloud &lt;/b>– Cray System Management Software, built on a container-based, multi-tenant architecture, enables converged HPC and AI workloads to run simultaneously on a single system, providing administrators and developers with a modern, cloud experience.&lt;b>&lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simplifying and optimizing workloads &lt;/b>– HPE is simplifying application development and management across complex HPC and AI workloads that consist of diverse processors and accelerators with the Cray Programming Environment (CPE). CPE provides a complete and fully supported developer environment is a&amp;nbsp; fully integrated software suite, offering compilers and programming languages, tools and libraries that maximizes programmer productivity, application scalability and performance. It is designed to allow easy porting of existing applications with minimal recoding, while minimizing changes to existing programming models and simplifying developer transition to new hardware paradigm.&lt;b>&lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Extended support for HPE Performance Cluster Management: &lt;/b>The HPE Performance Cluster Management (HPCM) software provides complete provisioning, management, and monitoring for clusters scaling to 100,000 nodes. The software enables fast system setup from bare-metal, comprehensive hardware monitoring and management, image management, software updates and power management. As part of the new portfolio, future planned releases of HPCM will expand system support to include new Cray systems. This new support will enable customers with a breadth of new system choices while maintaining their existing HPCM management environment.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Compute optimized for any environment, any size&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is extending its leadership in enterprise-grade computing with the HPE family of Apollo systems by adding Cray Supercomputers to its portfolio. This new combined compute portfolio will bring customers a new level of choice for a range of workloads, and delivered at any scale. Starting at a single server and expanding to the largest supercomputers, the combined portfolio can comprehensively address the supercomputing needs of any data center. The new Cray systems will be based on the Shasta architecture, which will be used to deliver the first three U.S. exascale systems.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Redefined high performance interconnect for growing data traffic&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is offering Cray Slingshot, a redefined HPC interconnect, to address demands for higher speed and lower latency to process the explosion of new data and convergence of HPC and AI workloads. Slingshot starts with 200 gbps throughput and adds unique congestion control capabilities to deliver the performance and scale required to drive numerous data-intensive workflows simultaneously on a single system.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Faster, intelligent storage for modern HPC&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>High performance storage: &lt;/b>The recent introduction of Cray ClusterStor E1000, a storage solution and a new type of solution for HPE’s HPC portfolio, supports ongoing data growth and converged workloads. ClusterStor meets storage requirements while significantly reducing the need for additional storage drives through its intelligent new data management software.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Efficient high touch service for tailored experiences&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE delivers a personalized experience with HPE Pointnext services, a consulting and technical services offering that provides collaborative efforts to advise, design and accelerate deployment of any digital experience or roadmap to meet an organization’s goals. HPE is further bolstering these offerings with Cray’s services, which include support features such as installation, troubleshooting, system maintenance, system administration, and system optimization.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa; HPE will showcase several solutions at the annual Supercomputing Conference 2019 (SC 19) in Denver, Colorado, such as the new &lt;a href=&quot;https://community.hpe.com/t5/Servers-The-Right-Compute/HPE-ProLiant-Gen10-Plus-The-power-of-EPYC-fully-unleashed/ba-p/7069874&quot; target=&quot;_blank&quot;>HPE ProLiant DL385 and DL325 Gen10 Plus servers&lt;/a>, based on 2&lt;sup>nd&lt;/sup> Gen AMD EPYC™ processors which significantly enhance performance and efficiency for vital workloads like HPC, and an &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/11/HPE-tackles-AI-Ops-R-D-to-improve-energy-efficiency-sustainability-and-resiliency-in-data-centers.html&quot; target=&quot;_blank&quot;>AI Ops solution&lt;/a> as part of an R&amp;amp;D collaboration with the National Renewable Energy Laboratory (NREL) to improve energy efficiency, sustainability and resiliency in supercomputing data centers. &lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe_148294057
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T01:55:43.937Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a href=&quot;http://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>. &lt;br>&#xa;&lt;/span>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Nahren Khizeran, HPE&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:Nahren.khizeran@hpe.com&quot; target=&quot;_blank&quot;>Nahren.khizeran@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T21:25:08.419Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/09/hpe-completes-acquisition-of-supercomputing-leader-cray-inc"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE completes acquisition of supercomputing leader Cray Inc."
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE completes acquisition of supercomputing leader Cray Inc."
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T21:25:08.419Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-completes-acquisition-of-supercomputing-leader-cray-inc.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T21:25:08.419Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T21:30:25.474Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/09/hpe-and-cray-join-forces-to-power-the-exascale-era"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE and Cray join forces to power the exascale era"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Cray join forces to power the exascale era"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T21:30:25.474Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/hpe-and-cray-join-forces-to-power-the-exascale-era-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T21:30:25.474Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T21:26:54.704Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/10/this-is-why-we-celebrate-exascale-day"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="This is why we celebrate Exascale Day"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="This is why we celebrate Exascale Day"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T21:26:54.704Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2019/10/image-norend/This-Is-Why-We-Celebrate-Exascale-Day.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T21:26:54.704Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+        </main-par>
+    </jcr:content>
+</jcr:root>

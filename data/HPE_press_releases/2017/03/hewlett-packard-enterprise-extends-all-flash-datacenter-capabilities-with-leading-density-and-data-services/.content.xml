@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:18:58.097Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-extends-all-flash-datacenter-capabilities-with-leading-density-and-data-services"
+        jcr:uuid="f755b443-6097-424f-8de5-afd6fc7a97de"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:29.000-07:00"
+        mediaContactEmail="stefanie.cannon"
+        mediaContactName="Stefanie Cannon, HPE"
+        metaDescription="Hewlett Packard Enterprise Extends All-Flash Datacenter Capabilities with Leading Density and Data Services"
+        navTitle="Hewlett Packard Enterprise Extends All-Flash Datacenter Capabilities with Leading Density and Data Services"
+        pageTitle="Hewlett Packard Enterprise Extends All-Flash Datacenter Capabilities with Leading Density and Data Services"
+        priority="(None)"
+        subtitle="Accelerating the mainstream adoption of flash for more workloads, at greater scale, with less risk"
+        theme="dark"
+        UAID="e3c44f42-5248-4443-8b37-13de7727fed9"
+        UCID="435a50c4-f6f9-4bcd-b6a8-e725d49b11fa"
+        WPID="1311">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T12:53:46.122Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 7, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Accelerating the mainstream adoption of flash for more workloads, at greater scale, with less risk&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_lqhe
+                    jcr:lastModified="{Date}2018-10-23T13:29:56.198Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS June 7, 2016&lt;/b> Today, Hewlett Packard Enterprise (HPE) announced new &lt;a href=&quot;/content/hpe/base/blueprint/products/storage.html&quot;>data storage&lt;/a> solutions to help customers unlock the value of the all-flash datacenter. Updates to the &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot;>HPE 3PAR StoreServ&lt;/a> flash portfolio include the worlds most capacity-dense all-flash system,[i] persistent storage for containers, unified storage enhancements, and flash-integrated &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot;>data protection&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Data is at the heart of digital disruption; the ability to accelerate how data is stored, analyzed and protected can be an advantage. This is why customers are moving to flash at record speeds and exploring &lt;a href=&quot;/content/hpe/base/blueprint/solutions/software-defined.html&quot;>software-defined storage&lt;/a> options.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPEs consistent strategy has been to simplify storage with systems optimized for all-flash, and software-defined storage deployed as a &lt;a href=&quot;/content/hpe/base/blueprint/solutions/software-defined.html&quot;>data fabric&lt;/a> across form factors. Response has been positive, with HPE being the only major vendor to gain share in each of the last two years.[ii] In fact, in the most recent quarter HPE was the market share leader in total storage while both Dell and EMC continued to decline.[iii] The solutions announced today expand HPEs lead in the all-flash datacenter and assure customers a clear path to whats next.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The era of the storage-only vendor is over and has been replaced by the era of the best-integrated IT stack, said Manish Goel, SVP and GM, Storage, Hewlett Packard Enterprise. Underpinned by flash and software-defined storage, HPE has the unique infrastructure and software innovation required to power hybrid IT across any form factor and consumption model.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enabling a 16x boost in all-flash density to shrink datacenter costs&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>All-flash storage has enabled business transformation for a large number of customers and HPEs focus on speed, affordability and enterprise-class data services have led to rapid growth for the 3PAR family of &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot;>all-flash arrays&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To extend this trajectory, HPE announced support for new 7.68 TB and 15.36 TB 3D NAND solid state drives (SSDs) across the 3PAR StoreServ family. With these drives, HPE 3PAR StoreServ is the most dense and scalable all-flash array in the industry, now supporting up to 24 petabytes of usable SSD capacity in a single system[iv] and 12x better density than EMC all-flash systems.[v] Over the last 24 months, HPE 3PAR has delivered 16x flash density improvements and 40 percent lower dollar per usable gigabyte.[vi] New and existing customers can choose from different SSD drive types and sizes to optimize deployment flexibility.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Support for these large capacity SSDs is enabled by two key technologies: 3PAR Adaptive Sparing, a patented 3PAR technology which assures that any SSDs, regardless of size, can be used without compromise and with 5x the media endurance.[vii] 3PAR Express Layout is another enabler that provides concurrent access from the 3PAR storage controllers to the SSDs for higher throughput.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cloud-native apps with tier-1 data availability via Docker integration&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Container technology is a new approach to increase application development and deployment flexibility but as enterprise customers embrace DevOps methodologies it has become clear that highly available, persistent storage is a key requirement in production operations.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To meet these requirements, HPE already provides Docker-OpenStack drivers through collaboration with ClusterHQ as part of the &lt;a href=&quot;http://releases.openstack.org/&quot;>official OpenStack release&lt;/a> and now has released an official Docker-Integrated Volume Plugin for HPE 3PAR StoreServ Storage. Integrated with Docker Engine, this driver adds the ability to provide persistent storage for containers and enables the use of flash-optimized HPE 3PAR StoreServ arrays as the underlying storage for virtualized or bare-metal container deployments using Docker. With this integration, containerized applications can take advantage of advanced data services data encryption, quality of service, snapshots, replication, and deduplication.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enhanced unified data access and flash-optimized data protection&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As flash expands across the datacenter, protecting and securing data at speeds not possible with traditional methods has become a critical requirement. &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/rmc-backup.html&quot;>HPE Recovery Manager Central&lt;/a> (RMC) solves this by directly moving application snapshots from 3PAR flash to secondary protection storage up to 23x faster than traditional &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/rmc-backup.html&quot;>storage backup&lt;/a>.[viii] This not only reduces risk, but applying &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/protection-retention-availability/store-once.html&quot;>HPE StoreOnce&lt;/a> deduplication to the process reduces capacity requirements by 95 percent or more.[ix] Today, HPE expanded the HPE RMC application ecosystem to include Oracle Databases, SAP HANA, and 3PAR File Persona. These new applications join existing application-integrated protection for VMware, Microsoft SQL, and any Microsoft VSS-enabled application running as a virtual machine.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>One of the industrys most established flash platforms, 3PAR has supported unified file, block, and object access for over 18 months and is now enriching these capabilities with security and archiving capabilities including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>File Lock for 3PAR File Persona which protects data consistency and supports governance by making files immutable, enabling policy-based retention, preventing file deletion and supporting data validation.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>NTFS security mode and cross-protocol locking for 3PAR File Persona enhance security for Windows environments and deliver more seamless group file sharing between protocols including SMB and NFS.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE StoreEver Archive Manager software which lowers the cost of retaining 3PAR file data to be archived on tape yet enables data to be accessed transparently as if still online.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE offers a comprehensive set of technology support and consulting services to help customers navigate their data management and protection journeys. HPE announced from Technology Consulting a new TCO Analysis for all-flash storage quantifying hardware, software, and energy savings and benefits by adopting all-flash. Additional offerings also include HPE Flexible Capacity for instant on-demand resources at a cost per GB allocation and engaging with HPEs technology consulting team for transformation services that include current state advisory, design and integration, data migration and end-to-end protection services.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>7.68 TB SSDs available worldwide starting June 6, 2016, with a US street price starting from US$20,748.&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>15.36 TB SSDs will be orderable and shipping 2H 2016, with a US street price starting from US$40,000.&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Docker-Integrated Volume Plugin for HPE 3PAR StoreServ Storage will be available in June from the HPE Storage GitHub page at &lt;a href=&quot;https://github.com/hpe-storage/python-hpedockerplugin&quot;>https://github.com/hpe-storage/python-hpedockerplugin&lt;/a>.&lt;b>&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Recovery Manager Central (RMC) with support for SAP HANA and 3PAR File Persona is currently available worldwide at no additional charge to customers who have an existing RMC licenses and a valid support contract. Licensing for new customers starts at $1000.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Recovery Manager Central for Oracle (RMC-O) will be available in July for a list price starting at $2500. Customers with an existing 3PAR Recovery Manager for Oracle license and a valid support contract can upgrade at no additional charge.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>File Persona enhancements will be available in 2H of 2016.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprises filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprises Registration Statement on Form 10 dated July 1, 2015, as amended. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[i] Based on publicly available information for currently available single-system storage arrays based on currently available usable capacity.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[ii] Based on the Q1 2016 IDC WW Quarterly Disk Storage Systems Tracker for External Storage (entry, midrange, and high-end flash; hybrid, and HDD storage systems). Major storage vendor refers to the top 6 vendors as ranked by market share.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[iii] Based on the Q1 2016 IDC WW Quarterly Disk Storage Systems Tracker for Total Storage Revenue growth (External, Internal and ODM storage systems). Note HPE is ahead of EMC in revenue, but statistically tied for #1 position.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[iv] Maximum capacity supported using 8 TB drives as of 2H2016.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[v] Based on the comparison of a single EMC VMAX 850 system with 24 PB of SSD capacity as compared to the HPE 3PAR 20850 with 24 PB usable SSD capacity (using a 4:1 compaction ration), which is supported as of 2H 2016.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[vi] Based on the period between June 2016 and June 2014, density per rack unit improved from 35 TB/U to 563 TB/U and cost per GB decreased from US $2 per GB usable (using 1.92 TB drives and 4:1 compaction) to US $1.20 usable (using 15 TB drives and 4:1 compaction).&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[vii] Based on internal telemetry data that shows an average burn-out rate for 3PAR SSDs of 0.6% prior to June 2016. The latest Adaptive Sparing enhancements are anticipated to reduce this burn-out rate to 0.2% or lower.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[viii] Based on internal HPE testing performed in May 2016 comparing backup performance of HPE Recovery Manager Central with traditional, non-HPE backup software.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[ix] As compared to a fully hydrated backup. Subject to customer qualification and compliance with the Get Protected Guarantee Terms and Conditions, which will be provided to you by your HPE Sales or Channel Partner representative.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_fath
+                            jcr:lastModified="{Date}2018-10-23T13:01:14.340Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/for-customers-confidence-in-their-storage-partner-is-key-and-it-starts-with-a-clear-roadmap"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="For Customers, Confidence in Their Storage Partner is Key  and it Starts with a Clear Roadmap"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="For Customers, Confidence in Their Storage Partner is Key  and it Starts with a Clear Roadmap"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T13:01:14.340Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/For-Customers-Confidence-in-Their-Storage-Partner-is-Key-–-and-it-Starts-with-a-Clear-Roadmap.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T13:01:14.340Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_fath>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_xfdy
+                            jcr:lastModified="{Date}2018-10-23T13:02:57.011Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/hpe-synergy-remains-the-only-truly-composable-platform-out-there-despite-the-noise-around-new-solutions"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Synergy remains the only truly composable platform out theredespite the noise around new solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Synergy remains the only truly composable platform out theredespite the noise around new solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T13:02:57.011Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/HPE-Synergy-remains-the-only-truly-composable-platform-out-there—despite-the-noise-around-new-solutions.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T13:02:57.011Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_xfdy>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_vs0f
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/the-data-center-of-the-future-here-today-technologies-from-the-machine-program-drive-hybrid-infrastructure-portfolio-and-future-innovations"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="The Data Center of the Future, Here Today"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Data Center of the Future, Here Today"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/The-Data-Center-of-the-Future-vb.jpg"/>
+                        </contentblock_vs0f>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:49:01.268Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:lockable,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise opens doors for Discover More Saudi Arabia"
+        jcr:uuid="a8e82d61-1448-41af-8f4c-f8cc0a833c73"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise opens doors for Discover More Saudi Arabia"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-04-15T08:00:00.000-07:00"
+        metaDescription="HPE Discover More in Saudi Arabia offers customers and partners deeper insight into the importance of enterprise technology in a digital-first world"
+        metaKeywords="HPE Discover More"
+        metaOgImage="/content/dam/hpe/newsroom/2019/04/image-norend/Hewlett-Packard-Enterprise-Opens-Doors-for-Discover-More-Saudi-Arabia.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise opens doors for Discover More Saudi Arabia"
+        pageTitle="Hewlett Packard Enterprise opens doors for Discover More Saudi Arabia"
+        priority="(None)"
+        socialDescription="HPE Discover More in Saudi Arabia offers customers and partners deeper insight into the importance of enterprise technology in a digital-first world"
+        subtitle="HPE Discover More in Saudi Arabia offers customers and partners deeper insight into the importance of enterprise technology in a digital-first world"
+        theme="dark"
+        UAID="1fc57a49-43f5-4311-a288-0ff601783d4b"
+        UCID="05cba09c-cf54-4e33-97c1-0641329b55d7">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-04-15T15:17:19.671Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="APRIL 15, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:30:47.714Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/Hewlett-Packard-Enterprise-Opens-Doors-for-Discover-More-Saudi-Arabia.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:18:59.617Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Discover More conference opens its doors for day one in Riyadh&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The latest in a series of technology showcase events, delivered locally, focuses on Accelerate your Business with HPE&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Over 1000+ customers to attend, with speakers including Issa Al Khamees, MD, HPE KSA, Johannes Koch, VP &amp;amp; MD, HPE Central Europe, Middle East and Africa, Sorin Cheran, HPC and AI Strategist, and Dr. Moudhi ALJamea, GM, Head of Digital School at STC Academy&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_26
+                    jcr:created="{Date}2019-04-15T15:17:37.978Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:17:55.497Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Discover More in Saudi Arabia offers customers and partners deeper insight into the importance of enterprise technology in a digital-first world&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:40:38.584Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Riyadh, Saudi Arabia, April 15, 2019&lt;/b>– Hewlett Packard Enterprise (HPE) has today announced the start of its Discover More technology showcase in Saudi Arabia. HPE Discover More will offer customers and partners deeper insights into the importance of enterprise technology in a digital-first world, building on HPE’s flagship Discover event by providing more localized, relevant content. Over the next few days, HPE will be demonstrating how enterprises can transform their technology in a world where everything computes, and where everyone and everything – billions of devices, cars and homes, workplaces, stadiums, hospitals and factory floors – shares data.&lt;br>&#xa; &lt;br>&#xa; Taking place at Crowne Plaza Riyadh RDC Hotel &amp;amp; Convention, Riyadh and with 1000+ HPE customers and partners expected to attend, HPE Discover More Saudi Arabia is an opportunity for organizations to learn more around HPE’s brand vision to advance the way people live and work through helping enterprises to redefine experiences and drive smarter, more secure, hyper-efficient operations across every industry. Possibilities like helping meet the food requirements of a growing global population, and advancing precision medicine — healthcare tailored to the individual needs of every patient worldwide.&lt;br>&#xa; &lt;br>&#xa; HPE Discover More – Riyadh will be opened by Issa Al Khamees, managing director, HPE KSA to talk about how his team is empowering the digital transformation of the Kingdom of Saudi Arabia, who will then handover to Johannes Koch, vice president and managing director, HPE Central Europe, Middle East and Africa. This will be followed by Sorin Cheran, HPC and AI Strategist speaking about the future of AI. Saleh Al Nemer, CTO, HPE KSA will discuss implementing intelligent technology in the 4&lt;sup>th&lt;/sup> industrial revolution whilst Dr. Moudhi ALJamea, GM, Head of Digital School at STC Academy will highlight the socio-economic benefits that can be unlocked through empowering more women.&lt;br>&#xa; &lt;i>&lt;br>&#xa;“We’re delighted to be able to host one of our global Discover More series of events here in Saudi Arabia – providing a great opportunity for us to meet our local leaders and discuss how together we can create great benefits for society and great achievements for business,” said Issa Al Khamees, Managing Director for HPE Saudi Arabia. “With a focus on data and its role in our digital-first world, we’re excited to help people utilize data, realize its value, and fulfill its potential.”&lt;/i>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="10"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:32:57.403Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is excited to help customers utilize data to fulfill its potential&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-04-15T15:32:57.403Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:21:38.399Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Building on HPE’s broader company strategy, Discover More will showcase technologies aimed at helping businesses deploy an edge-centric, cloud-enabled and data-driven approach to turn vast amounts of data into action and value:&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:22:21.982Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Edge-Centric:&lt;/b> The edge is ever-expanding. It’s where billions of people and places and trillions of things intersect— generating unimaginable amounts of data. By 2020, Gartner estimates 75% of data generated will never see a data center or cloud – HPE continues to be at the forefront of the intelligent edge, enabling real-time insights and action&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Data-driven&lt;/b>: Data is the new currency but it’s coming at us faster than ever before, and from new sources. HPE helps enterprises process and analyze data from every edge to any cloud – and at every scale – accelerating insights, action and value&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cloud-enabled:&lt;/b> Organizations of all sizes are adopting hybrid cloud models to create and deliver new services, improve time-to-market, and drive business growth. However, the transition to hybrid cloud environments can be hampered by the need for specialized skills to build and operate proprietary cloud stacks.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_79
+                    jcr:created="{Date}2019-04-15T15:23:08.042Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-04-15T15:23:33.343Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information, please access &lt;a href=&quot;https://h41382.www4.hpe.com/discover-more/Riyadh&quot; target=&quot;_blank&quot;>https://h41382.www4.hpe.com/discover-more/Riyadh&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-04-15T15:36:18.321Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/04/hpe-technology-powers-saudi-arabias-first-local-mobile-payment-solution-that-supports-contactless-transactions"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE technology powers Saudi Arabia’s first local mobile payment solution that supports contactless transactions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE technology powers Saudi Arabia’s first local mobile payment solution that supports contactless transactions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-15T15:36:18.321Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/HPE-technology-powers-Saudi-Arabias-first-local-mobile-payment-solution-....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-15T15:36:18.321Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-04-15T15:37:48.156Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-kit/2019/01/discover-2018-madrid"
+                            description="&lt;p>Press Kit&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Discover 2018 Madrid"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Discover 2018 Madrid"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-15T15:37:48.156Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Discover-2018-Madrid.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-15T15:37:48.156Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-04-15T15:39:51.926Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Watch More"
+                            ctaUrl="https://www.hpe.com/events/discover/more"
+                            description="&lt;p>Live Stream&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Discover More"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Discover More"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-15T15:39:51.926Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/03/image-norend/HPE-Discover-More-live-stream-on-demand.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-15T15:39:51.926Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-04-15T18:00:01.182Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

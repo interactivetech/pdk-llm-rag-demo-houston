@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-05-23T14:56:28.498Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/compute,hpe-newsroom:categories/company---diversity-&amp;-inclusion]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise launches interactive game teaching young girls critical cybersecurity skills"
+        jcr:uuid="20e98209-0b5c-4ff3-999c-b454393fc2eb"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-01-24T10:18:00.000-08:00"
+        metaDescription="HPE’s new cybersecurity game and curriculum to educate Girl Scouts on safely and defensively navigating the internet and social media"
+        metaKeywords="hpe, hpe news, hpe newsroom, education, girl scouts, cybersecurity"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/01/hewlett-packard-enterprise-launches-interactive-game-teaching-young-girls-critical-cybersecurity-skills/jcr:content/main-par/body-par/textonlycomponent_97"
+        navTitle="Hewlett Packard Enterprise launches interactive game teaching young girls critical cybersecurity skills"
+        pageTitle="Hewlett Packard Enterprise launches interactive game teaching young girls critical cybersecurity skills"
+        priority="(None)"
+        subtitle="HPE’s new cybersecurity game and curriculum to educate Girl Scouts on safely and defensively navigating the internet and social media"
+        theme="dark"
+        UAID="6b312bcf-233c-4ee4-a1a6-b33c31e2b491"
+        UCID="d09aef3b-8e0e-4986-a7bc-d31314e3a32f">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-24T16:45:39.823Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JANUARY 24, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-24T16:49:11.128Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/01/image-norend/Hewlett Packard Enterprise Launches Interactive Game Teaching Young Girl.._.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-24T16:50:08.502Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Collaboration will educate Girl Scouts about safely and defensively navigating the internet&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Newly debuted interactive online game Cyber Squad will teach cyber smarts and simulate the consequences of risky and safe online behaviors and decisions&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Initiative aims to close gender gap in STEM and cybersecurity workforce via sparking girls’ interest in technology–and ties to Girl Scouts’ pledge to bring 2.5 million girls into STEM pipeline by 2025&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_9b
+                    jcr:created="{Date}2019-01-25T18:17:26.571Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-01-25T18:19:14.396Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE’s new cybersecurity game and curriculum to educate Girl Scouts on safely and defensively navigating the internet and social media&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-25T18:53:37.139Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif. – Jan. 24, 2019 – &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced the launch of a cybersecurity curriculum geared at educating young girls on cybersecurity skills. Launched in partnership with &lt;a href=&quot;http://www.gscnc.org/&quot; target=&quot;_blank&quot;>Girl Scouts Nation’s Capital&lt;/a> and targeted at Junior Girl Scouts (ages 9-11), the program will help girls safely and defensively navigate the internet, covering fundamental knowledge and best practices across four key domains: personal information and digital footprint; online safety; privacy and security; and cyberbullying. As part of the newly minted program, HPE is also debuting an educational online game, called Cyber Squad, designed to teach children cybersecurity literacy via an interactive, narrative format that takes players through real-life scenarios and simulates the consequences of both risky and safe online behaviors. Girl Scouts who complete the program and game will receive a patch to display on their uniforms/vests certifying their newfound cybersecurity savvy and smarts.&lt;br>&#xa;&lt;br>&#xa;“Kids are becoming more mobile, networked and connected, but this also comes with alarming risks and dangers. Making basic cybersecurity awareness at a young age is imperative, and as fundamental as safety skills in the physical world, like learning how to cross the street,” said HPE Chief Information Security Officer Liz Joyce. “As someone who tackles cyber risks and crime by day and goes home to a young daughter at night, I know just how critical this education is. Through this collaboration, we hope to arm Girl Scouts with the cybersecurity literacy and knowledge they need to be savvy, secure and safe online, and to empower them to be good digital citizens.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_b68b
+                    jcr:created="{Date}2019-01-24T16:57:19.565Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-01-24T16:57:48.599Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Kids are becoming more connected, but this also comes with alarming risks and dangers&lt;/p>&#xa;">
+                    <image
+                        jcr:lastModified="{Date}2019-01-24T16:57:48.599Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_b68b>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-05-23T14:54:31.876Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>As children gain online access earlier and earlier, they are increasingly vulnerable to damaging online behaviors and privacy risks, including social engineering, cyberbullying and exposure to malicious actors and cybercrime. Today, the average child receives their first smartphone at 10.3 years old, and 39 percent of children create their first social media account at 11.4 years. Yet many children lack the cybersecurity knowledge they need to protect themselves, particularly as they enter their teenage years and navigate the digital landscape more independently. For example:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Only 44 percent of young people use a password on their mobile devices. &lt;a href=&quot;https://www.businesswire.com/news/home/20150603005121/en/New-Intel-Security-%E2%80%9CRealities-Cyber-Parenting%E2%80%9D-Study&quot; target=&quot;_blank&quot;>Twenty-nine percent&lt;/a> of pre-teens and teens know other people’s online passwords.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Only &lt;a href=&quot;https://www.businesswire.com/news/home/20140602006734/en/Cyberbullying-Triples-New-McAfee-%E2%80%9C2014-Teens-Screen&quot; target=&quot;_blank&quot;>61 percent of U.S. teens&lt;/a> and tweens use privacy settings on social media. &lt;a href=&quot;https://www.businesswire.com/news/home/20140602006734/en/Cyberbullying-Triples-New-McAfee-%E2%80%9C2014-Teens-Screen&quot; target=&quot;_blank&quot;>Thirty percent&lt;/a> have posted their phone number online, and 14 percent have posted their home addresses online.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.businesswire.com/news/home/20140602006734/en/Cyberbullying-Triples-New-McAfee-%E2%80%9C2014-Teens-Screen&quot; target=&quot;_blank&quot;>Eighty percent&lt;/a> of youth have witnessed cyberbullying, but 24 percent report they would not know what to do if harassed or bullied online.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.greeleytribune.com/news/business/have-you-had-that-cybersecurity-chat-with-your-kids/&quot; target=&quot;_blank&quot;>Twenty-seven percent of youth&lt;/a> would be willing to meet or have already met up with someone in-person who they first met online.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Eighty-six percent of girls claim to be able to conduct online chats without their parents’ knowledge, and 69 percent of teens regularly receive online communications from strangers without telling parents or guardians.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.businesswire.com/news/home/20150603005121/en/New-Intel-Security-%E2%80%9CRealities-Cyber-Parenting%E2%80%9D-Study&quot; target=&quot;_blank&quot;>Ninety-four percent of parents&lt;/a> believe they know what their children are doing online, but nearly 70 percent of pre-teens admit to hiding online activities.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xd;&#xa;Aiming to close this gap, &lt;a href=&quot;http://www.gscnc.org/en/council/news/2019/girl_scouts_nation_s.html&quot; target=&quot;_blank&quot;>HPE has closely partnered with Girl Scouts Nation’s Capital&lt;/a> to design a local educational program for Girl Scouts aiming to equip girls with cybersecurity awareness, knowledge and skills. The largest Girl Scouts council in the nation, Girl Scouts Nation’s Capital serves 60,000 girls in the Greater Washington Region, including Washington, D.C., Virginia, West Virginia and Maryland. HPE also aims to launch the game and curriculum to other international markets and youth organizations down the line, and to other Girl Scouts councils in the future.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <imageonlycomponent_9
+                    jcr:created="{Date}2019-01-24T17:00:33.631Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2022-05-23T14:54:43.048Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="30"
+                    disableCaptionUnderline="false"
+                    disableImageScaling="false"
+                    fileReference="/content/dam/hpe/newsroom/2019/01/image-norend/Girl Scouts Nations Capital - Social Media Safety.jpg"
+                    imageAlignment="hpe-image-left"
+                    isVideo="false"
+                    isZoom="false"
+                    textIsRich="true"
+                    topPadding="30"
+                    useNativeAspectRatio="false"
+                    videoSource="video"
+                    videoType="youtube"
+                    zoomBackground="white"
+                    zoomLevel="1"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-05-23T14:54:59.465Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Photo credit: Girl Scouts Nation's Capital&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_6e
+                    jcr:created="{Date}2019-01-24T17:02:39.040Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2022-05-23T14:55:23.312Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Designed by the &lt;a href=&quot;http://www.bafta.org/media-centre/press-releases/brenda-romero-special-award&quot; target=&quot;_blank&quot;>BAFTA award-winning game studio&lt;/a> &lt;a href=&quot;https://www.romerogames.ie/&quot; target=&quot;_blank&quot;>Romero Games&lt;/a>, Cyber Squad simulates cybersecurity issues such as phishing, cyberbullying and online safety through a narrative, role-playing interface:&lt;br>&#xd;&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simulating Real-Life Cyber Situations&lt;/b>: The game places players and their avatars in real-life social and digital situations with online safety and privacy concerns. Role-playing a main female character, players are asked to assess the risks of the scenarios and dilemmas and decide on their avatar’s next steps in the storyline.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Risks &amp;amp; Rewards:&lt;/b> As a result of their decisions, the players then experience either positive or negative outcomes of their choices. They are rewarded for safe decisions, and conversely, witness how risky choices unfold and branch out in the storyline and impact their avatar and her group of friends whether online, at school or home.&amp;nbsp;Via making safe cyber choices throughout each storyline, players are awarded with virtual cyber patches, and must unlock four topical patches across phishing, cyberbullying, online safety, and digital footprint to successfully complete Cyber Squad.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Friendly Competition&lt;/b>: Cyber Squad comes with multiple-choice trivia features to quiz players on their earned cybersecurity knowledge, allowing them to test their cyber smarts against peers in face-to-face group settings.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Currently the game is available via a web interface, but will be launched across mobile and desktop platforms in the coming year. The game is also being launched to Girl Scouts as a printable board game, which aims to enable a more interactive style of play in-person.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="20"/>
+                <imageonlycomponent_b
+                    jcr:created="{Date}2019-01-24T17:04:35.376Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2022-05-23T14:55:34.015Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="30"
+                    disableCaptionUnderline="false"
+                    disableImageScaling="false"
+                    fileReference="/content/dam/hpe/newsroom/2019/01/image-norend/Cyber Squad = Password Decision.jpg"
+                    imageAlignment="hpe-image-left"
+                    isVideo="false"
+                    isZoom="false"
+                    textIsRich="true"
+                    topPadding="30"
+                    useNativeAspectRatio="false"
+                    videoSource="video"
+                    videoType="youtube"
+                    zoomBackground="white"
+                    zoomLevel="1"/>
+                <textonlycomponent_29
+                    jcr:created="{Date}2019-01-24T17:05:39.008Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-01-25T18:59:07.813Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to teaching girls practical digital skills, the joint curriculum and patch also ties into the &lt;a href=&quot;https://www.girlscouts.org/&quot; target=&quot;_blank&quot;>Girl Scouts&lt;/a> organization’s longer-term &lt;a href=&quot;https://www.girlscouts.org/en/press-room/press-room/news-releases/2017/girl-scouts-announces-STEM-pledge.html&quot; target=&quot;_blank&quot;>pledge to bring 2.5 million girls&lt;/a> into the science, technology, engineering and math (STEM) pipeline by 2025. Statistics show that women are underrepresented in the STEM workforce, with the largest disparities in engineering and computer sciences. Women comprise just &lt;a href=&quot;https://ngcproject.org/statistics&quot; target=&quot;_blank&quot;>29 percent of the U.S. science and engineering workforce&lt;/a>, and according to Cybersecurity Ventures, only &lt;a href=&quot;https://cybersecurityventures.com/women-in-cybersecurity/&quot; target=&quot;_blank&quot;>20 percent of the global cybersecurity workforce&lt;/a>.&lt;br>&#xa;&lt;br>&#xa;To encourage more girls to discover and excel in STEM fields, Girl Scouts has committed to helping close the gap through robust STEM programming, including launching dozens of new technology and science-focused badges and &lt;a href=&quot;https://www.girlscouts.org/en/our-program/journeys.html&quot; target=&quot;_blank&quot;>projects&lt;/a>. &lt;a href=&quot;https://www.girlscouts.org/en/press-room/press-room/news-releases/2017/girl-scouts-announces-STEM-pledge.html&quot; target=&quot;_blank&quot;>Seventy-seven percent of Girl Scouts&lt;/a> say that because of the organization, they are considering careers in technology. In fact, the HPE Cyber Squad game and cybersecurity patch curriculum were designed and developed pro bono by HPE’s women in cybersecurity employee group, which is dedicated to encouraging and supporting more women in the field.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-24T17:08:30.638Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The Girl Scouts’ work with HPE ties to its pledge to bring 2.5M girls into the STEM pipeline by 2025&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-24T17:08:30.638Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-05-23T14:56:28.487Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Girls are going online earlier and earlier, and it’s especially crucial that they are equipped with the knowledge and tools they need to be savvy consumers, and protect themselves, their identity and data,” said Lidia Soto-Harmon, chief executive officer of Girl Scouts Nation’s Capital. “Through collaborating with the passionate women in cybersecurity at HPE to make cyber smarts fun, we are not only sparking new interest in STEM for girls, but getting them excited about technology – through technology. We’re thrilled to roll this out in our council, while empowering girls to carve their own path and be game changers.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; To learn more about the Girl Scouts Nation’s Capital Cybersecurity Patch program, visit &lt;u>&lt;a href=&quot;http://www.gscnc.org/en/event/council_activities.html&quot; target=&quot;_blank&quot;>gscnc.org/stem&lt;/a>&lt;/u> or &lt;a href=&quot;http://www.gscnc.org/en/council/news/2019/girl_scouts_nation_s.html&quot; target=&quot;_blank&quot;>read more here&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>Hewlett Packard Enterprise is a &lt;a href=&quot;https://www.hpe.com/us/en/services.html&quot; target=&quot;_blank&quot;>global technology leader&lt;/a> focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-01-24T17:13:56.362Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-security-arcsight-wins-trust-award-for-best-siem-security-solution-at-sc-awards-2017"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-24T17:13:56.362Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/2_HPE_Unveils_its_New_TV_Ads_3200x2133.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-24T17:13:56.362Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-01-24T17:22:01.350Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-report-reveals-trials-and-errors-of-security-operations"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-24T17:22:01.350Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SecurityOperations.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-24T17:22:01.350Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-01-24T17:34:00.140Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/bosch-software-innovations-paving-the-way-for-interoperability-in-iot-technology/"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Paving the Way for Interoperability in IoT Technology"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Paving the Way for Interoperability in IoT Technology"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-24T17:34:00.140Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Paving the Way for Interoperability in IoT Technology.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-24T17:34:00.140Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-02-08T21:29:28.898Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

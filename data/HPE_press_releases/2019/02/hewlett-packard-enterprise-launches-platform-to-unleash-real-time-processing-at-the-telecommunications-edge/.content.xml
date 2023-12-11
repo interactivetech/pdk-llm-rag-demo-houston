@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T07:02:42.959Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry---telcom-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+        jcr:uuid="0ae65d7e-d316-4908-bfd1-41455d4e7ae0"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-02-19T07:09:00.000-08:00"
+        metaDescription="HPE Edgeline EL8000 Converged Edge System enables data-intensive, low-latency telecommunications services, based on open standards and advanced remote manageability"
+        metaKeywords="Edgeline, Edge, EL8000, Converged, Telco, Telecommunications, 5G, CSP, Samsung, Tech Mahindra, vRAN, MEC, LTE, IoT, AI"
+        metaOgImage="/content/dam/hpe/newsroom/2019/02/image-norend/Hewlett-Packard-Enterprise-Launches-Platform-to-Unleash-Real-Time-Proces....jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+        pageTitle="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+        priority="(None)"
+        socialDescription="HPE Edgeline EL8000 Converged Edge System enables data-intensive, low-latency telecommunications services, based on open standards and advanced remote manageability"
+        subtitle="HPE Edgeline EL8000 Converged Edge System enables data-intensive, low-latency telecommunications services, based on open standards and advanced remote manageability"
+        theme="dark"
+        UAID="2ec911da-33b1-434e-ad25-bae1c7986786"
+        UCID="82d91ac9-c05f-43b1-884f-cdbe4abc41c1">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-02-19T15:14:08.941Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="FEBRUARY 19, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:44:00.825Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/Hewlett-Packard-Enterprise-Launches-Platform-to-Unleash-Real-Time-Proces....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T16:31:59.878Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>IDC forecasts that more than 150 billion devices will be connected across the globe by 2025, most of which will be creating data in real time &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The newly launched HPE Edgeline EL8000 Converged Edge System is aimed at helping communication service providers (CSP) capitalize on data-intensive, low-latency services for media delivery, connected mobility, and smart cities&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_60
+                    jcr:created="{Date}2019-02-19T15:14:45.778Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:15:21.370Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Edgeline EL8000 Converged Edge System enables data-intensive, low-latency telecommunications services, based on open standards and advanced remote manageability&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-20T04:07:44.745Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN JOSE, Calif, February 19, 2019 – &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced the HPE Edgeline EL8000 Converged Edge System to help communication service providers (CSP) capitalize on data-intensive, low-latency services for media delivery, connected mobility, and smart cities. The new system enables CSPs to process vast amounts of data in real time directly at the edge, based on open standards to boost flexibility and reduce costs. HPE also announced collaborations with Samsung and Tech Mahindra to accelerate CSPs 5G adoption, leveraging the HPE Edgeline EL8000 Converged Edge System to deploy the next generation of edge-centric virtual 5G applications.&lt;br>&#xa; &lt;br>&#xa; IDC forecasts that more than 150 billion devices will be connected across the globe by 2025, most of which will be creating data in real time. As a result, IDC predicts real-time data to represent nearly 30 percent of the Global Datasphere by 2025. Estimated to be 33 zettabytes in 2018, IDC forecasts the Global Datasphere to grow to 175 zettabytes by 2025. [1]&lt;br>&#xa; &lt;br>&#xa; To deliver new services that tap into this massive growth of real-time data, CSPs must transform their telecommunications network edge towards standard IT systems and software-defined architectures, such as virtual radio access networks (vRAN) and virtual cable modem termination systems (vCMTS). The open-standards based HPE Edgeline EL8000 Converged Edge System was therefore developed as a cost effective replacement for CSPs’ current proprietary edge systems, with enhanced performance and versatility for data-intensive real-time digital services. Additionally, the HPE Edgeline EL8000 Converged Edge System’s unique design delivers high performance and ultra-low latency for the most demanding use cases, including media streaming, IoT, artificial intelligence, and video analytics, in a compact and ruggedized form factor, equipped with edge-optimized serviceability and remote systems management.&lt;br>&#xa; &lt;br>&#xa; &lt;i>“CSPs have come a long way in virtualizing their networks. As this continues, the distribution of converged communications and compute capacity throughout the network will accelerate lower costs and improve service”, &lt;/i>said Dr. Tom Bradicich, Vice President and General Manager, Converged Servers, Edge and IoT Systems, HPE.&lt;i> “The HPE Edgeline EL8000 Converged Edge System delivers the capabilities of closed proprietary systems and more, but on an open-standards platform, combined with proven data-center class IT.”&lt;/i>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_f246
+                    jcr:created="{Date}2019-02-19T15:20:13.052Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:47:45.430Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The EL8000 delivers the capabilities of closed proprietary systems but on an open-standards platform&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-02-19T15:47:45.430Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_f246>
+                <imageonlycomponent_2
+                    jcr:created="{Date}2019-02-19T15:21:17.139Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:44:39.117Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="10"
+                    fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/HPE-Edgeline-EL8000-Converged-Edge-System.jpg"
+                    imageAlignment="hpe-image-left"
+                    topPadding="10"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-25T19:21:21.695Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Designed for the real-life challenges of the telecommunications network edge&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The massive growth of data volumes requires that CSPs deploy high-performance edge systems in their cell sites, often in remote and harsh environments. Moreover, this infrastructure must support many workload and quality-of-service requirements for which tailored slices of the network are employed. The HPE Edgeline EL8000 Converged Edge System delivers an unprecedented combination of capabilities to meet these challenges, including:&lt;br>&#xa; &lt;br>&#xa; -&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>Compact and ruggedized design optimized for harsh cell-site locations&lt;/b> – Exceeding the requirements of industry standards NEBS and ASHRAE class 3 and 4, the system is resistant against hazardous environmental influences like heat, shock and vibration, as well as failover, supporting continuous operation between 0 and 55 degrees Celsius. The system can run rack mounted or stand-alone in any space available, with either a front-to-back and back-to-front cooling design.&lt;/span>&lt;/p>&#xa;&lt;p>-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span class=&quot;body-copy-large&quot;>&lt;b>Low-latency, high-performance system design&lt;/b> &lt;b>powers data-intensive applications at the edge&lt;/b> – The single-socket design, equipped with high-end Intel&lt;sup>®&lt;/sup> Xeon&lt;sup>®&lt;/sup> Scalable Processors, reduces latency and energy consumption. System components can be combined, scaled and hot-swapped to meet changing demands, supporting, among others, NVIDIA&lt;sup>®&lt;/sup> Tesla&lt;sup>®&lt;/sup> GPUs, FPGAs from Intel and Xilinx, NICs from Intel or Mellanox, up to 1.5TB of memory and 16TB of storage.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>Modular blade and chassis options for use-case flexibility&lt;/b> – With a range of depth and width options for blades and chassis, the system can be flexibly configured and scaled to meet new or changing use-case requirements. The flexible design allows CSPs to extend small- and micro-cell deployments, ensuring that cellular coverage can keep pace with increasing numbers of connected devices.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b>One-click provisioning and remote systems management ensures continuous availability and performance in far-flung cell-sites &lt;/b>– HPE’s proven HPE iLO 5 technology and the newly developed chassis manager software enable remote provisioning, ongoing system health monitoring, updates, and management of HPE Edgeline EL8000 &lt;a href=&quot;https://www.hpe.com/us/en/servers/edgeline-iot-systems.html&quot; target=&quot;_blank&quot;>Converged Edge Systems&lt;/a> across thousands of cell sites, from cell towers to oil rigs, without needing IT expertise on site.&lt;br>&#xa; &lt;/span>&lt;br>&#xa;&lt;br>&#xa;&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Collaboration between HPE and Intel has resulted in this versatile platform for network transformation at the edge,” &lt;/i>said Sandra L. Rivera, Senior Vice President and General Manager, Network Platforms Group, Intel. &lt;i>“Powered by Intel Xeon Scalable processors and based on open standards, the HPE Edgeline EL8000 Converged Edge System will enable high performance, flexible and intelligent networks that are required to deliver high bandwidth and low latency for edge and 5G services.”&lt;/i>&lt;/span>&lt;br>&#xa;&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_6ae6
+                    jcr:created="{Date}2019-02-19T15:38:05.179Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:48:08.965Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Converged communications throughout the network will accelerate lower costs and improve service&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-02-19T15:48:08.965Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_6ae6>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:46:43.835Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE collaborates with Samsung and Tech Mahindra to drive transformation of the network edge&lt;br>&#xa;&lt;br>&#xa;&lt;/b>To help CSPs accelerate their 5G transformation, HPE and Samsung Electronics Corporation (SEC) are collaborating to provide a joint edge-to-core vRAN commercial solution based on Samsung’s radio network technologies and system integration services, and the HPE Edgeline EL8000 Converged Edge System.&lt;br>&#xa;&lt;br>&#xa;&lt;i>“Samsung and HPE combine their strengths in radio networks, edge systems, and telecommunications infrastructure to drive the change towards a standard-IT based and software-defined network edge,” &lt;/i>said Wonil Roh, Vice President, Head of Technology Strategy at Samsung Network Business.&lt;i> “The HPE Edgeline EL8000 Converged Edge System will play a key role in Samsung's challenge to evolve our customers’ networks with 5G vRAN demanding intense low-latency.”&lt;br>&#xa;&lt;br>&#xa;&lt;/i>While some CSPs aim to deploy 5G from 2020 onwards, others may not be able to do so for a few years, potentially leaving entire regions without 5G coverage. As part of this interim process CSPs are turning to multi-access edge computing (MEC) software, which delivers many of the benefits of 5G, but using 4G LTE infrastructure. For this reason, HPE is collaborating with Tech Mahindra, a global leader in MEC software, to deliver MEC solutions based on the HPE Edgeline EL8000 Converged Edge System.&lt;br>&#xa;&lt;br>&#xa;&lt;i>&amp;quot;Our collaboration with HPE and the introduction of the HPE Edgeline EL8000 Converged Edge System is a major step for driving a fast and smooth transformation towards open standards at the edge in the Telco and Comms marketplace,” &lt;/i>said &lt;i>Karthikeyan Natarajan, Global Head, Engineering, IoT &amp;amp; Enterprise Mobility, Tech Mahindra&lt;/i>. &lt;i>“As a leader in Telco and Comms software and services, Tech Mahindra sees HPE as ideally positioned to help us deliver significantly improved user experiences, particularly through the often-uneven transformation from 4G to 5G.”&lt;/i>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T16:32:42.745Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>To accelerate 5G, HPE and Samsung are collaborating on edge-to-core solutions&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-02-19T16:32:42.745Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:49:09.353Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Edgeline EL8000 Converged Edge System will be showcased at Mobile World Congress in Barcelona, February 25-28, 2019, and will be on display at both HPE’s and Samsung’s booths.&lt;br>&#xa;&lt;br>&#xa;&lt;b>Availability&lt;br>&#xa;&lt;br>&#xa;&lt;/b>The HPE Edgeline EL8000 Converged Edge System will be available worldwide from June 2019.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-19T15:50:17.760Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[1] &lt;a href=&quot;https://www.seagate.com/files/www-content/our-story/trends/files/idc-seagate-dataage-whitepaper.pdf&quot; target=&quot;_blank&quot;>IDC White Paper: ‘Data Age 2025, The Digitization of the World From Edge to Core’ sponsored by Seagate, November 2018&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-02-19T15:52:49.000Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/11/hewlett-packard-enterprise-launches-edge-platform-solutions-accelerating-business-efficiency-and-innovation"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise launches edge platform solutions accelerating business efficiency and innovation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise launches edge platform solutions accelerating business efficiency and innovation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-02-19T15:52:49.000Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Hewlett-Packard-Enterprise-launches-edge-platform-solutions-accelerating....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-02-19T15:52:49.000Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-02-19T16:28:09.089Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise Delivers Industry First Converged System for IoT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers Industry First Converged System for IoT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-02-19T16:28:09.089Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/0000_hpe-to-acquire-cloud-cruiser.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-02-19T16:28:09.089Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-02-19T16:30:47.214Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-accelerates-data-insight-and-action-across-the-enterprise-with-latest-edgeline-capabilities"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-02-19T16:30:47.214Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Edgeline-Release.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-02-19T16:30:47.214Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-02-19T18:25:10.632Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

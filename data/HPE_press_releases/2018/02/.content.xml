@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2018-11-19T14:52:20.856Z"
+        cq:lastModifiedBy="cheryl.nagle"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="02"
+        jcr:uuid="2d232f8b-dabc-4cdd-a4cc-aad18fca1c0b"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"
+        webSectionId="R11989"/>
+    <hpe-reports-fiscal-2018-first-quarter-results/>
+    <hpe-helps-u-s-department-of-defense-to-advance-national-defense-capabilities/>
+    <hewlett-packard-enterprise-to-present-live-audio-webcast-of-first-quarter-earnings-conference-call-2/>
+</jcr:root>

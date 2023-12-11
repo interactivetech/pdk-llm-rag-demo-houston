@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:35:17.648Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-powers-engaging-digital-experiences-with-enhanced-rich-media-management-solution"
+        jcr:uuid="66aed482-de01-48f6-8d86-18cc147dc827"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:33.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Powers Engaging Digital Experiences With Enhanced Rich Media Management Solution"
+        navTitle="HP Powers Engaging Digital Experiences With Enhanced Rich Media Management Solution"
+        pageTitle="HP Powers Engaging Digital Experiences With Enhanced Rich Media Management Solution"
+        priority="(None)"
+        subtitle="HP MediaBin 8.1 Delivers Technology Integrations With Leading Online Video Platform From Brightcove and Limelight"
+        theme="dark"
+        UAID="6c6ea6e1-f695-46e6-8537-a3829c758228"
+        UCID="8df52a69-70c9-445a-b02e-321e5b45fb1c"
+        WPID="1618">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-17T08:23:36.421Z"
+                jcr:lastModifiedBy="hpe.publishers"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 7, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP MediaBin 8.1 Delivers Technology Integrations With Leading Online Video Platform From Brightcove and Limelight&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_5d72
+                    jcr:lastModified="{Date}2018-10-17T08:24:29.516Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Apr 7, 2014) - HP(NYSE: HPQ) --&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/&quot;>HP Autonomy&lt;/a> today announced &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/products/mediabin&quot;>HP MediaBin&lt;/a> 8.1, the latest evolution of its market-leading digital asset management software to help organizations leverage rich media assets in digital marketing campaigns more effectively, enabling them to deliver more powerful customer experiences across all channels, and resulting in greater engagement, increased conversion rate and higher-impact marketing.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The explosion of rich media has raised customer experience expectations, making delivery of compelling, visually rich media across a variety of channels pervasive in today's competitive marketing campaigns. Organizations are increasingly challenged to not only understand the meaning contained within rich media assets but also effectively utilize and manage the critical information that lies within multimedia content.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/products/mediabin&quot;>HP MediaBin&lt;/a> 8.1 simplifies the core tasks of media management, search and publishing while providing advanced scalability and in-depth, real-time media monitoring and analytics for all rich media assets, including images, audio and video files.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;We are very pleased to see HP Autonomy's continued investment in their Digital Media Management solution with the new release of HP MediaBin 8.1,&amp;quot; said David R. Price, project manager, Kaiser Permanente. &amp;quot;Kaiser implemented HP MediaBin last year and our users find it to be a giant leap forward. MediaBin's scalability, flexibility, configurable tasks, automated upload/download workflows, image transformations and API guide make it a tremendous Digital Asset Management system for us.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Autonomy also announced collaborations with leading online video platform vendors &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.brightcove.com/en/&quot;>Brightcove&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.limelight.com/&quot;>Limelight Networks&lt;/a>. With this integration, HP MediaBin 8.1 provides its users with best-of-breed solutions to manage, distribute, stream and analyze video assets to an online audience in a few simple clicks.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;HP Autonomy is continuing to provide solutions like HP MediaBin 8.1 to meet the exponential growth of rich media, helping organizations leverage invaluable data from multimedia content to develop dynamic and compelling online experiences for customers,&amp;quot; said Rafiq Mohammadi, general manager, Marketing Optimization, HP Autonomy. &amp;quot;Together with our partners, we are delivering product innovations that simplify rich media management, leading to more defined and deliberate marketing campaigns that truly resonate with customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Powered by HP Autonomy's meaning-based computing platform, HP IDOL, HP MediaBin 8.1 helps organizations deliver high-impact marketing and communications that fully leverage rich media with greater agility and brand equity. The current release includes the following updates:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Simplified metadata management&lt;/u>: through advanced grouping and bulk editing of data associated with a variety of assets, users can customize the way their assets are searched for and organized.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Increased usability&lt;/u>: the ability to immediately sort, filter and view rich media provides new options for users to organize and preview items, making it easier for users to collect, move, edit, and upload or delete multiple rich media assets.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Conceptual asset search&lt;/u>: by leveraging advanced algorithms in HP IDOL 10.5, users receive real-time suggestions and recommendations for increased digital asset relevance.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Open integration and workflow&lt;/u>: through integration of HP Process Automation 7.4.1, users can create models and monitor visual workflows for any process related to asset ingest, transformation and distribution. Open API technologies and web services enable integration of third-party applications and development of customer user interfaces.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Choice of deployment models&lt;/u>: advanced on-premises, cloud and hybrid implementations include increased performance and security functionalities.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Brightcove customers create and manage an ever-increasing number of rich media assets across a large number of distribution channels and devices,&amp;quot; said David Sayed, vice president, Product Management, Brightcove. &amp;quot;For organizations using both HP MediaBin and Brightcove Video Cloud, we are excited about the level of integration that is now available, which will further enable organizations to manage and leverage their rich media assets.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Organizations are increasingly looking for new ways to integrate digital assets and video to create compelling customer experiences,&amp;quot; said Edgardo Nazario, vice president, Cloud Solutions, Limelight Networks. &amp;quot;With HP MediaBin 8.1, users get a solution that combines strong digital asset management capabilities with a robust analytics platform. We're pleased to work with HP Autonomy to help organizations engage their audiences by delivering stronger, more impactful rich media assets.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;br>&#xa; &lt;/b>HP MediaBin 8.1 is available now.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/products/mediabin&quot;>www.autonomy.com/products/mediabin&lt;/a>. HP also will be demonstrating the new software at NAB 2014 in the HP Meeting Place and Demos center at the Las Vegas Convention Center South Hall S111 April 7 to April 9 from 9 a.m. to 6 p.m.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP Autonomy&lt;br>&#xa; &lt;/b>HP Autonomy is a global leader in software that processes unstructured human information, including social media, email, video, audio, text and web pages. Using HP Autonomy's information management and analytics technologies, organizations can extract meaning in real time from data in virtually any format or language, including structured data. A range of purpose-built market offerings help organizations drive greater value through information analytics, unified information access, archiving, eDiscovery, enterprise content management, data protection and marketing optimization. Additional information is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/&quot;>autonomy.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HPis available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_6j3x
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-forms-a-go-to-market-alliance-with-microsoft-through-cloud28"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Forms a Go-To-Market Alliance With Microsoft Through Cloud28 "
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Forms a Go-To-Market Alliance With Microsoft Through Cloud28 "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPEand5GLab.jpg"/>
+                        </contentblock_6j3x>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_i7vz
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/03/hpe-boosts-channel-sales-opportunities-with-new-cloud28-member-spotlight-pages"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Boosts Channel Sales Opportunities with New Cloud28  Member Spotlight Pages"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Boosts Channel Sales Opportunities with New Cloud28  Member Spotlight Pages"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/HPE-Boosts-Channel-Sales-Opportunities-with-New-Cloud28-Member-Spotlight-Pages.jpg"/>
+                        </contentblock_i7vz>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_vv6x
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hewlett-packard-enterprise-introduces-new-high-margin-solutions-and-services-growth-opportunities-for-partners"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Introduces New High-Margin Solutions and Services Growth Opportunities for Partners"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Introduces New High-Margin Solutions and Services Growth Opportunities for Partners"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_image3.jpg"/>
+                        </contentblock_vv6x>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

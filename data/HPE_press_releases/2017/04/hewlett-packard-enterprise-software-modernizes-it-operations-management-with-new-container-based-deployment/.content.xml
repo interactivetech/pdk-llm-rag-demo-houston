@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:26:15.270Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-software-modernizes-it-operations-management-with-new-container-based-deployment"
+        jcr:uuid="90184275-20b9-405f-84cc-0b35f09f5ee6"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-04-26T11:42:21.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Software Modernizes IT Operations Management with New Container-Based Deployment"
+        navTitle="Hewlett Packard Enterprise Software Modernizes IT Operations Management with New Container-Based Deployment"
+        pageTitle="Hewlett Packard Enterprise Software Modernizes IT Operations Management with New Container-Based Deployment"
+        priority="(None)"
+        subtitle="New suites embed open source Docker and Kubernetes container technology to enable IT operations at the speed of DevOps"
+        theme="dark"
+        UAID="d4372d15-8919-4e61-9dff-ec9d5fc6ca62"
+        UCID="db635695-c846-4895-80f8-f50970a31ac4"
+        WPID="137313">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-25T12:26:12.952Z"
+                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 12, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Software-innovation.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Software Modernizes IT Operations Management with New Container-Based Deployment"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New suites embed open source Docker and Kubernetes container technology to enable IT operations at the speed of DevOps&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_b0i5
+                    jcr:lastModified="{Date}2020-04-13T17:46:57.876Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p class=&quot;sub-heading&quot;>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., April 12, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise Software today announced the launch of containerized versions of its HPE IT Operations Management (ITOM) offerings. These suites Hybrid Cloud Management, Data Center Automation, Operations Bridge, and IT Service Management Automation help enterprise IT customers manage their private and public cloud infrastructure, and deliver new services at scale in response to the rapidly changing needs of business partners and DevOps teams. Deployed with built-in, open source container technology from Docker and Kubernetes, the four suites are expected to receive quarterly enhancements that provide customers with the latest innovations in real time to dramatically reduce time to value.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new container deployment foundation built into the suites provides IT teams with industry-leading deployment, update and scale-out capabilities. Customers will be able to rapidly deploy and upgrade to the latest analytics-driven ITOM suites in a matter of minutes on a variety of platforms including bare metal, virtualized, private and public cloud infrastructures. As a result, customers can minimize upgrade risk and downtime, while maximizing IT resources by scaling on demand.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The world of IT Operations is experiencing unprecedented growth and complexity&amp;quot;,&lt;/i> &lt;i>said&lt;/i> &lt;i>Tom Goguen, vice president and general manager, IT Operations Management, Hewlett Packard Enterprise. &amp;quot;IT organizations need to be able to respond to business needs and deliver results quickly, while managing regulatory and operational compliance. Over the past year, we haverevamped our portfolio by moving away from point products to integrated solutions, and are delivering new innovative capabilities such as analytics and ChatOps on a quarterly basis.Our new containerized suites simplify the day-to-day operations and deliver unprecedented time to value, enabling ITOps to run at the speed of DevOps.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>IT Operations at the speed of DevOps with HPEs Container Lifecycle Management&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to building container technology into the DNA of the new offerings, the HPE IT Operations Management suites have also added a number of features to help organizations deploy and manage their container-based applications at scale, with the same familiar tools.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>ITOMs four suites and the key container lifecycle capabilities include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hybrid Cloud Management&lt;/b> Manages a wide array of hybrid and multi-cloud environments with application pipeline automation and compliance capabilities. The new version enables the service design and deployment of new container-based applications, including ready-to-consume development testing environments and rapid application releases.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Data Center Automation&lt;/b> Automates tasks and orchestrates processes for provisioning, patching and compliance features. The new version delivers container, hardware and host operating system provisioning with compliance capabilities.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Operations Bridge&lt;/b> Integrates with existing tools to provide automated event reduction, root-cause identification and business service modeling. The new version improves speed and responsiveness of operations teams by enabling the monitoring and troubleshooting of container infrastructure and applications.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>IT Service Management Automation&lt;/b> Simplifies the ordering, administration and maintenance of IT Operations. The new version provides analytics-driven service management, as well as automated discovery and configuration management to support container-based applications.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;With the new micro service and containerized architecture, the HPE Operations Bridge is going in the right direction&amp;quot;, said Luke Bradley, senior manager of engineering, Vodafone Group Services. &amp;quot;With simpler deployment, faster versioning, and streamlined patching as well as improved scalability, its an exciting evolution and will bring real value to us.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;New IT operation deployments are typically an extensive and complicated process that can take months to manage and complete&amp;quot;, said Torrey Jones, principal consultant, GreenLight. &amp;quot;HPEs new approach to IT operations software delivery with containerizing its suites dramatically simplifies setup allowing us to focus on accelerating time-to-value for our customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HPE Software on &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=QD0SX7VJNYspE3FXm-IqXuzq33nU1Lq2CdsW1XJqZ6oN9kOx_aa8Vs0SlVu4XeUXrxFcHBLMLdmYSiQGUQAjur7L2pJIMWl1iERD5p5Q_UQ=&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;>LinkedIn&lt;/a> and follow &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=RtQL-zKn2poEPBPKS_uAu5q68migqleScdW_qoN64NsoP6jyyZq9ZFLVnkw2miYTekjPUA73dp7tQtFt1xMWDA==&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;>@HPE&lt;/a> and &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=6ezwyrA_s0NKVmU8EHTpd_ZcFkKjCYbC4GLZszaLYYOyV66Wk0NtFo2AiSQ91UUXr65VtIW6MpRI4VXFTVxG-W2cWcJqFNHXhHNoibFrNxk=&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;>@HPE_Software&lt;/a> on Twitter. To learn more about ITOM software solutions suites on Twitter, please follow &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=ju9McckqXAQQcVYYiKBu-I9Fl0wwWj5WDl9fCcrj-GAJqPVKLZ0ogxtO5bIjZ_IDXE_lySuYBg3tbyI_BDAtLQ==&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;>@HPE_ITOps&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise (NYSE:HPE)is an industry-leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_u6if
+                            jcr:lastModified="{Date}2018-10-25T12:35:16.790Z"
+                            jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/from-kubernetes-to-docker-hpe-onesphere-is-supercharging-cloud-application-development"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="From Kubernetes to Docker  HPE OneSphere is supercharging cloud application development"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="From Kubernetes to Docker  HPE OneSphere is supercharging cloud application development"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-25T12:35:16.790Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/From-Kubernetes-to-Docker-–-HPE-OneSphere-is-supercharging-cloud-application-development-1-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-25T12:35:16.790Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_u6if>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_08eh
+                            jcr:lastModified="{Date}2018-10-25T12:38:45.042Z"
+                            jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/07/hpe-advances-intelligent-storage-capabilities-with-ai-and-cloud-automation-for-hpe-3par"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-25T12:38:45.042Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Press-release_1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-25T12:38:45.042Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_08eh>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_q9rg
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-delivers-application-performance-testing-with-hpe-stormrunner-load-on-aws-marketplace"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/PerformanceTesting.jpg"/>
+                        </contentblock_q9rg>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

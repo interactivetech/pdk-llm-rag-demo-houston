@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:56:10.504Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-helion-openstack-2-0-delivers-a-production-ready-enterprise-grade-cloud-platform"
+        jcr:uuid="78a5358b-9e65-4348-9086-0f87e0d41456"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:51.000-07:00"
+        metaDescription="HP Helion OpenStack 2.0 Delivers a Production Ready, Enterprise Grade Cloud Platform"
+        navTitle="HP Helion OpenStack 2.0 Delivers a Production Ready, Enterprise Grade Cloud Platform"
+        pageTitle="HP Helion OpenStack 2.0 Delivers a Production Ready, Enterprise Grade Cloud Platform"
+        priority="(None)"
+        subtitle="New Lifecycle Management and Security Enhancements Help Organizations Implement and Operate OpenStack Technology"
+        theme="dark"
+        UAID="c72f1677-b595-445a-8383-5059dea0e282"
+        UCID="18cf10a6-9a60-4fde-893c-d64b00fc7e76"
+        WPID="1483">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T10:19:28.892Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="Oct 28, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Lifecycle Management and Security Enhancements Help Organizations Implement and Operate OpenStack Technology&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_yvr5
+                    jcr:lastModified="{Date}2018-10-19T10:21:53.104Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>TOKYO, JAPAN--(Marketwired - Oct 28, 2015) - Today at &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.openstack.org/summit/tokyo-2015/&quot;>OpenStack Summit Tokyo 2015&lt;/a>, HP (NYSE: HPQ) announced the availability of HP Helion OpenStack 2.0, a production ready, open source based cloud platform designed to meet enterprise requirements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As organizations strive for the right mix of traditional IT and private cloud technology to run their mission-critical applications and protect sensitive data, many are turning to the flexibility and economics of the &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.openstack.org/&quot;>OpenStack&lt;/a> project.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion OpenStack 2.0 offers an enterprise grade cloud platform, adding new features to address organizations' lifecycle management and security challenges, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Easy provisioning of new infrastructure and the ability to repurpose existing infrastructure to meet scalability needs without impacting availability&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Rolling upgrades which facilitate entire cloud environment software upgrades without requiring planned or unplanned downtime&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Continuous patch management allowing security patches and updates without application interruption&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Easy to use administrator interface, centralized logging and monitoring at scale across a cloud environment&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Network configuration flexibility to enable connectivity with existing IT environments&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Strict OpenStack API adherence to enable cross-cloud compatibility and ability to leverage the upstream ecosystem of third party plug-ins&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion OpenStack 2.0 also enables customers to create and manage software defined networks (SDN) in a distributed, multi-datacenter environment through integration with HP Distributed Cloud Networking (DCN) and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.nuagenetworks.net/products/virtualized-services-platform/&quot;>Nuage Networks Virtualized Services Platform&lt;/a>. This removes the boundaries of traditional networking, unlocking the full automation and agility needed for hybrid cloud.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Enterprises want to benefit from the powerful capabilities of OpenStack technology, but they must have the enterprise grade capabilities required to support their businesses,&amp;quot; said Bill Hilf, senior vice president and GM, HP Cloud. &amp;quot;The configuration, security and scalability advances in HP Helion OpenStack 2.0 enable organizations to deploy OpenStack technology into production with the confidence that they are backed by the experience and support of a trusted end-to-end technology partner.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Unmatched OpenStack technology expertise &lt;br>&#xa; &lt;/b>To help customers implement, their cloud environments, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/cloud/services-overview.html&quot;>HP Helion Professional Services&lt;/a> can provide a team of experienced HP architects and cloud technologists to help customers determine the right cloud strategy for them.HP Helion Professional Services brings a unique perspective to the customer, gained from delivering thousands of lines of code to the OpenStack community, as well as hands-on customer deployments of large scale OpenStack clouds. HP Helion Professional Services has capabilities that span the entire cloud lifecycle, from advice and strategy, to transformation, implementation and management.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/cloud/helionready/index.html&quot;>HP Helion Ready Program&lt;/a> connects customers with an ecosystem of HP Helion-certified solution providers and hardware vendors whose software solutions and hardware products have been tested and certified on HP Helion OpenStack, enabling customers to confidently deploy HP Helion OpenStack in heterogeneous environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion OpenStack 2.0 is based on OpenStack Kilo. OpenStack Liberty was released on October 15. HP continues to be a leading contributor to the OpenStack community as the leading engineering contributor to OpenStack Liberty in terms of the number of commits, reviews, lines of code, contributing employees, Project Team Leads (PTL) and members of the Technical Committee. In all, HP had 210 employees contribute code to Liberty. HP is a Platinum Founding member of the OpenStack Foundation and a key contributor to multiple OpenStack projects, including funding, code, reviews, testing and training. HP currently holds an OpenStack Board of Directors position, eight PTL positions and three Technical Committee membership positions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability &lt;br>&#xa; &lt;/b>HP Helion OpenStack 2.0 is now available worldwide. Pricing varies by configuration and individual customer requirements. For more information on what makes HP Helion OpenStack 2.0 enterprise-ready, read Bill Hilf's &amp;quot;&lt;a rel=&quot;nofollow&quot; href=&quot;http://h30499.www3.hp.com/t5/Grounded-in-the-Cloud/HP-Helion-OpenStack-2-0-The-innovation-of-open-source-with-the/ba-p/6806339&quot;>Grounded in the Cloud&lt;/a>&amp;quot; blog post.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The OpenStack word mark and the Square O Design, together or apart, are trademarks or registered trademarks of OpenStack Foundation in the United States and other countries, and are used with the OpenStack Foundation's permission.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news advisory contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0dy7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-and-rackspace-deliver-industrys-first-pay-as-you-go-openstack-private-cloud"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Rackspace Deliver Industrys First Pay-as-You-Go OpenStack Private Cloud"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Rackspace Deliver Industrys First Pay-as-You-Go OpenStack Private Cloud"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_0dy7>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hryb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                        </contentblock_hryb>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_9xix
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-and-red-hat-join-forces-to-give-customers-greater-choice-for-nfv-deployments"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Aug11.jpg"/>
+                        </contentblock_9xix>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

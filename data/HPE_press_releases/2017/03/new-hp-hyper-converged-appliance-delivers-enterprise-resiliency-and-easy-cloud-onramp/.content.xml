@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:10:22.420Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="new-hp-hyper-converged-appliance-delivers-enterprise-resiliency-and-easy-cloud-onramp"
+        jcr:uuid="fe19be9a-6048-40d0-afd0-021551a24e7a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        metaDescription="New HP Hyper-Converged Appliance Delivers Enterprise Resiliency and Easy Cloud Onramp"
+        navTitle="New HP Hyper-Converged Appliance Delivers Enterprise Resiliency and Easy Cloud Onramp"
+        pageTitle="New HP Hyper-Converged Appliance Delivers Enterprise Resiliency and Easy Cloud Onramp"
+        priority="(None)"
+        subtitle="New Hyper-Converged Appliance Combines Built-In Disaster Recovery With Next-Generation Servers and Hybrid Cloud Orchestration for Half the Cost of Competitors"
+        theme="dark"
+        UAID="74ff55e9-55f7-488b-af0d-71790f41e7db"
+        UCID="b9d3b2a4-b2d5-4029-b21c-7aefffd42387"
+        WPID="1504">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-26T07:19:38.678Z"
+                jcr:lastModifiedBy="irina.rac@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 4, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Hyper-Converged Appliance Combines Built-In Disaster Recovery With Next-Generation Servers and Hybrid Cloud Orchestration for Half the Cost of Competitors&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_uvt7
+                    jcr:lastModified="{Date}2018-10-26T07:25:57.960Z"
+                    jcr:lastModifiedBy="irina.rac@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Aug 4, 2015) - HP (NYSE: HPQ) today announced the new HP ConvergedSystem 250-HC StoreVirtual (CS 250), a hyper-converged appliance that offers a highly available virtual server and storage infrastructure that is configurable in minutes for nearly half the price of competitive systems.&lt;sup>1&lt;/sup> This new enterprise-grade solution is designed for virtual desktops and remote office productivity but also offers an easy path to hybrid cloud.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Businesses of all sizes are looking for flexible infrastructure solutions that will allow them to quickly deploy and run new applications. According to IDC, this trend has resulted in a 116 percent year-over-year increase in hyper-converged systems sales and 60 percent compound annual growth rate (CAGR) anticipated through 2019.&lt;sup>2&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Building on HP's market leading x86 server and virtualization solutions combined with its proven HP StoreVirtual software-defined storage (SDS) technology, the new CS 250 is business continuity-enabled from day one. The CS 250 features enhanced VMware integration, supports hybrid-cloud solution architectures and is accompanied by new delivery services and channel programs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;There is no one-size-fits-all solution for infrastructure,&amp;quot; said Manish Goel, senior vice president and general manager, HP Storage. &amp;quot;This is why HP continues to offer flexible and interoperable solutions based on HP StoreVirtual technology to help our customers lower costs independent of the hypervisors and hardware platforms they choose. Hyper-convergence is simply the next step in HP's evolution of the software-defined data center.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Affordable hyper-convergence with built-in disaster protection and native management &lt;/b>Built on the latest HP, Intel, and VMware technologies, the CS 250 is powered by StoreVirtual technology and offers turnkey simplicity in a fully integrated and tested hyper-converged solution. The CS 250 ships ready to quickly respond to new on-demand infrastructure and virtual desktop requirements with greater configuration flexibility designed to fit a wider range of virtualized workloads and customer budgets, including a new three-node configuration that is up to 49 percent more cost effective than comparable configurations from Nutanix and other competitors.&lt;sup>3&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The inclusion of three 4TB StoreVirtual Virtual Storage Appliance (VSA) licenses delivers multi-site business continuity by leveraging the system's ability to flexibly replicate data to any other HP StoreVirtual-based solution. This means that customers can leverage their existing infrastructure as a replication target at no additional cost. The new CS 250 also allows customers to tailor the system with a choice of up to 96 processing cores, a mix of SSD and SAS disk drives, and up to 2TB of memory per 4-node appliance -- double that of previous generations.&lt;sup>4&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The CS 250 arrives pre-configured for vSphere 5.5 or 6.0 and HP OneView InstantOn to enable customers to be production-ready with only 5 minutes of keyboard time and a total of 15 minutes deployment time, with daily management from VMware vCenter via the HP OneView for VMware vCenter plug-in.&lt;sup>5&lt;/sup> This simple plug-in assures IT generalists have a unified management experience for the appliance using tools they already know.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The storage market is rapidly evolving from traditional external storage with standalone networking and compute to converged solutions that collapse the stack,&amp;quot; said Stu Miniman, principal research contributor, Wikibon. &amp;quot;HP StoreVirtual is the original software-defined storage, it has evolved to be well positioned across multiple use cases with flexibility spanning hyper-converged, VSA, Helion OpenStack and physical storage appliances.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hyper-convergence meets hybrid-cloud with new solutions and services&lt;br>&#xa; &lt;/b>For midsize and enterprise customers seeking an efficient and cost-effective cloud entry point, the new HP Helion CloudSystem 9.0 built on the CS 250 is an open, enterprise-grade solution that provides an easy path to the hybrid cloud. This hyper-converged cloud solution leverages the clustered compute and storage resources of the CS 250 for on-premises workloads but adds self-service portal provisioning and public cloud bursting features for those moving beyond server virtualization.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP is also introducing new Software-Defined Storage Design and Integration services to help customers deploy highly scalable, elastic cloud storage services. The design service enables customers to make informed decisions on how to modernize their storage infrastructure using software-defined storage technologies for automation and capacity pooling. The integration service provides customers with detailed configuration and implementation guidance tailored to their specific needs to accelerate time to value.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Driving velocity with new channel sales programs and demand generation&lt;br>&#xa; &lt;/b>To help meet the growing interest in software-defined technologies, HP announced that it is enhancing its &amp;quot;Nitro&amp;quot; partner program and opening it up to distributors worldwide, starting with Arrow Electronics in the US. Originally launched with Intel to provide a &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/products/data-storage/server-vsa.html?jumpid=va_r2880_ww/en/large/tsg/pl_po_ob_ds_pd/server-vsa_cc/dt&quot;>1TB HP StoreVirtual VSA license at no cost&lt;/a> to customers, the latest enhancements to the program focus on equipping resellers with training tools and customer materials to promote HP StoreVirtual technologies as a cornerstone of the software-defined data center. The enhanced program also provides face-to-face reseller training, web content support, and customized demand generation materials enabling distributors to empower the broader HP reseller community to educate their customers on software-defined infrastructure and provide assistance in the transition to a software-defined data center.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;sup>6 &lt;br>&#xa;&lt;/sup>&lt;/b>The 4-node CS 250-HC StoreVirtual is available on August 17&lt;sup>th&lt;/sup> while 3-node configurations are available on September 28&lt;sup>th&lt;/sup>.A sample solution price inclusive of the 3-node CS250 with Foundation Carepack and VMware vSphere Enterprise starts at a list price of $121,483.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion CloudSystem 9.0 will be available in September.&lt;br>&#xa;Software-Defined Storage Design and Integration services are available now.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> According to a list price comparison of the CS 250 and the IDC price book list price of Nutanix 3360 G4, each with 24x7 support.&lt;br>&#xa;&lt;sup>2&lt;/sup> IDC Market Analysis, &amp;quot;Worldwide Hyperconverged Systems 2015-2019 Forecast,&amp;quot; April 2015.&lt;br>&#xa;&lt;sup>3&lt;/sup> According to a list price comparison of the CS 250 and the IDC price book list price of Nutanix 3360 G4, each with 24x7 support.&lt;br>&#xa;&lt;sup>4&lt;/sup> As compared to the HP ConvergedSystem 242-HC StoreVirtual model.&lt;br>&#xa;&lt;sup>5&lt;/sup> Based on internal testing July 2015 of an HP ConvergedSystem 200-HC StoreVirtual with HP OneView InstantOn version 1.0.1&lt;br>&#xa;&lt;sup>6&lt;/sup> Estimated U.S. list prices. Actual prices may vary.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission, including HP's Quarterly Report on Form 10-Q for the fiscal quarter ended January 31, 2015. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>©2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_vsrw
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/05/hpe-simplivity-support-for-microsoft-hyper-v-hypervisor"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Announces HPE SimpliVity Support for Microsoft Hyper-V and SimpliVity Workspaces for Citrix"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces HPE SimpliVity Support for Microsoft Hyper-V and SimpliVity Workspaces for Citrix"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/HPE-Announces-HPE-SimpliVity-Support-for-Microsoft-Hyper-V-and-SimpliVity-Workspaces-for-Citrix-2.jpg"/>
+                        </contentblock_vsrw>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d4zx
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-extends-smb-it-budgets-with-multi-dimensional-storage-scalability"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends SMB IT Budgets with Multi-Dimensional Storage Scalability"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends SMB IT Budgets with Multi-Dimensional Storage Scalability"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Storage_web.jpg"/>
+                        </contentblock_d4zx>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_oj7y
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/3-things-you-need-to-know-about-hyper-converged-technology"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="3 Things You Need To Know About Hyper-Converged Technology"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="3 Things You Need To Know About Hyper-Converged Technology"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/hpe-pointnext-hero.jpg"/>
+                        </contentblock_oj7y>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

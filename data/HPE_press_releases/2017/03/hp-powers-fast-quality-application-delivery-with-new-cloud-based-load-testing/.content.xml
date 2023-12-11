@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:34:26.617Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-powers-fast-quality-application-delivery-with-new-cloud-based-load-testing"
+        jcr:uuid="7cb20009-4b76-441a-b3b4-6327d84b35d4"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Powers Fast, Quality Application Delivery With New Cloud-Based Load Testing"
+        navTitle="HP Powers Fast, Quality Application Delivery With New Cloud-Based Load Testing"
+        pageTitle="HP Powers Fast, Quality Application Delivery With New Cloud-Based Load Testing"
+        priority="(None)"
+        subtitle="New Solution Allows Development Teams to Deliver Amazing Apps at Big Data Scale"
+        theme="dark"
+        UAID="1557f03e-8e17-47f5-9f56-4df3aee142dd"
+        UCID="b2bad609-c43f-4e9c-8514-cc48ec8c7a9e"
+        WPID="1575">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T22:35:27.504Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 15, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Solution Allows Development Teams to Deliver Amazing Apps at Big Data Scale&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_ciye
+                    jcr:lastModified="{Date}2018-10-18T22:38:17.983Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Sep 15, 2014) - HP (NYSE: HPQ) today expanded the HP&amp;nbsp;Performance Testing&amp;nbsp;Suite with a new software solution focused on helping Agile development teams accelerate application quality and delivery via a simple, intuitive and scalable cloud-based platform.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP StormRunner Load&amp;nbsp;joins HP's existing performance testing solutions, which include&amp;nbsp;HP LoadRunner&amp;nbsp;and&amp;nbsp;HP Performance Center.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The modern enterprise faces a perfect storm of changes that are driving the need for a completely new approach to application delivery and testing. Businesses must develop applications that can instantly operate across a wide variety of platforms including thousands, or millions, of mobile devices. These applications must understand and interoperate with a constantly expanding set of systems and data. Finally, as time to market becomes increasingly important, businesses need fast access to development environments that allow for&amp;nbsp;rapid testing&amp;nbsp;and delivery.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations have adapted with new models for application development, transitioning from structured and phased waterfall approaches to Agile and nimble development. These organizations need application delivery and&amp;nbsp;performance testing software&amp;nbsp;that is designed for the modern market landscape, and empowers small and large teams to deliver powerful applications with high velocity.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP StormRunner Load&amp;nbsp;specifically targets Agile development teams looking to apply smarter testing techniques into development, enabling them to:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Extend the value of their existing investment in&amp;nbsp;HP Performance Testing Solutions&amp;nbsp;by addressing the unique needs of&amp;nbsp;Agile testing. Teams can reuse test scripts between the solutions and use HP StormRunner Load to dynamically scale.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Speed up the delivery of new business solutions by testing earlier and more accurately without slowing dev and test sprints or adding extra overhead, facilitated by a simple and scalable cloud solution.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Develop more optimal and scalable business applications by improving performance and user experience for increased user engagement using a Node.js back end to empower testing of more dynamic web and mobile apps.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Gain deep insights into key performance metrics on their&amp;nbsp;performance testing, including analytics that help determine the root causes of issues.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As enterprises continue to migrate applications and solutions to the cloud, they need to ensure that the performance of their applications will not degrade as the volume of users increases,&amp;quot; said Raffi Margaliot, general manager, Application Delivery Management, HP Software. &amp;quot;HP StormRunner Load is designed specifically to help Agile teams deliver scalable, high-performing cloud-based modern apps while also helping them capitalize on their existing investments in HP.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Availability&amp;nbsp;&lt;br>&#xa;&lt;/b>HP StormRunner Load&amp;nbsp;will be available worldwide next month from HP and its ecosystem of channel partners.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information about HP StormRunner Load is available at&amp;nbsp;https://www.pronq.com/software/stormrunner-load.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Additional resources&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Watch the HP webinars:&amp;nbsp;ABCs of Performance Testing Series I&amp;nbsp;and&amp;nbsp;Performance testing in the Cloud, an introduction to HP StormRunner Load.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Read&amp;nbsp;The Future of Testing Blog&amp;nbsp;and&amp;nbsp;HP LoadRunner and HP Performance Center Blog.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Join&amp;nbsp;&lt;a href=&quot;https://plus.google.com/communities/112269336199190546469&quot;>GooglePlus&lt;/a>&amp;nbsp;for upcoming Hangouts featuring product demos, best practices and more.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Join HP Software on&amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/company/hp-software&quot;>LinkedIn&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;http://www.twitter.com/HPSoftware&quot;>Twitter&lt;/a>. Follow&amp;nbsp;@HPSoftwareALM&amp;nbsp;on Twitter for more information about the HP Performance Testing Suite, which includes HP StormRunner Load.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About HP&lt;br>&#xa;&lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_2q4l
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-delivers-application-performance-testing-with-hpe-stormrunner-load-on-aws-marketplace"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/PerformanceTesting.jpg"/>
+                        </contentblock_2q4l>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_shvz
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/10/four-ways-to-future-proof-your-supply-chain"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Four Ways to Future-Proof Your Supply Chain"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Four Ways to Future-Proof Your Supply Chain"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/10/image-norend/Four-Ways-to-Future-Proof-Your-Supply-Chain.jpg"/>
+                        </contentblock_shvz>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_w84f
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/08/scotch-oakburn-college-future-proofs-it-with-hpe-hyperconverged-solution"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Scotch Oakburn College Future-proofs IT with HPE Hyperconverged Solution"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Scotch Oakburn College Future-proofs IT with HPE Hyperconverged Solution"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/Students.jpg"/>
+                        </contentblock_w84f>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

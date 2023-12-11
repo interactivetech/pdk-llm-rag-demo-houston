@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-22T19:19:58.958Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---esg,hpe-newsroom:categories/industry---energy-&amp;-climate]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-announces-goal-to-reduce-greenhouse-gas-emissions-of-product-portfolio"
+        jcr:uuid="bdeb3cc1-5440-4182-9eee-2baee5d29f2b"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Announces Goal to Reduce Greenhouse Gas Emissions of Product Portfolio"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-announces-goal-to-reduce-greenhouse-gas-emissions-of-product-portfolio/jcr:content/main-par/body-par/columncontainercompo/column_2/contentblock_satl"
+        navTitle="HP Announces Goal to Reduce Greenhouse Gas Emissions of Product Portfolio"
+        pageTitle="HP Announces Goal to Reduce Greenhouse Gas Emissions of Product Portfolio"
+        priority="(None)"
+        subtitle="With Latest Initiative, HP Becomes Only Global IT Company to Set Carbon Reduction Goals for Entire Value Chain"
+        theme="dark"
+        UAID="ec2226cf-addc-4852-a84a-ca8e70351738"
+        UCID="d1a945a9-6d5a-4231-9ba0-29ed7fc190b0"
+        WPID="1574">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T22:40:48.376Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 23, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>With Latest Initiative, HP Becomes Only Global IT Company to Set Carbon Reduction Goals for Entire Value Chain&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_apk0
+                    jcr:lastModified="{Date}2023-03-22T19:18:43.230Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>PALO ALTO, CA--(Marketwired - Sep 23, 2014) - As part of ongoing efforts to lower its carbon footprint across all phases of its business, HP (NYSE: HPQ) today announced a goal to reduce the emissions intensity of its product portfolio&lt;sup>(1)&lt;/sup>&amp;nbsp;by 40 percent by 2020 compared to 2010 levels.&lt;sup>(2)&lt;/sup>&lt;span class=&quot;body-copy-large&quot;>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>With this announcement, HP becomes the only global IT company to have set carbon reduction goals for all three parts of its value chain -- operations, supply chain and product portfolio.&lt;/p>&#xd;&#xa;&lt;p>HP&amp;nbsp;previously announced a goal&amp;nbsp;to reduce total greenhouse gas (GHG) emissions from its operations (Scope 1&amp;nbsp;and&amp;nbsp;Scope 2) by 20 percent by 2020, compared to 2010 levels. This built on HP's&amp;nbsp;previous goal&amp;nbsp;of a 20 percent carbon reduction, which the company achieved in 2011 -- two years early. And last year, HP&amp;nbsp;set a goal, the first for the IT industry, to drive a 20 percent decrease in first-tier manufacturing and product transportation-related GHG emissions intensity&lt;sup>(3)&lt;/sup>&amp;nbsp;by 2020, compared with 2010.&lt;/p>&#xd;&#xa;&lt;p>&amp;quot;As one of the world's largest IT companies, we believe we are uniquely positioned to help our company and our customers lower carbon emissions by developing more sustainable technologies that replace outdated, inefficient processes and behaviors,&amp;quot; said Gabi Zedlmayer, vice president and chief progress officer, Corporate Affairs, HP. &amp;quot;With this new emissions goal, we are once again demonstrating our commitment to building a low-carbon economy that creates a better future and a healthier world for generations to come.&amp;quot;&lt;/p>&#xd;&#xa;&lt;p>This new product portfolio goal represents the latest in a series of initiatives undertaken by HP to improve the performance and lower the environmental impact of its product portfolio, which accounts for approximately 61 percent of the company's carbon emissions. This work includes improving data center efficiencies by developing energy-efficient solutions such as the&amp;nbsp;HP Moonshot&amp;nbsp;server architecture, which consumes up to 89 percent less energy,&lt;sup>(4)&lt;/sup>&amp;nbsp;uses 80 percent less space&lt;sup>(4)&lt;/sup>&amp;nbsp;and costs 77 percent less than a traditional server environment.&lt;sup>(5)&lt;/sup>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;b>&lt;br>&#xd;&#xa;HP recognized by CDP as climate change leader&lt;br>&#xd;&#xa; &lt;/b>HP's efforts to reduce carbon emissions and mitigate the business risks of climate change have once again been recognized by CDP, an international, not-for-profit organization that provides the only global system for companies and cities to measure, disclose, manage and share vital environmental information.&lt;/p>&#xd;&#xa;&lt;p>In the&amp;nbsp;CDP S&amp;amp;P 500 Climate Change Report 2014, released today, HP received the highest possible disclosure score, 100 out of 100 points. This resulted in HP's placement on the Climate Disclosure Leadership Index, which spotlights companies that have demonstrated the highest level of transparency and data quality in their disclosure of climate-related information.&lt;/p>&#xd;&#xa;&lt;p>In addition, HP was one of 34 S&amp;amp;P 500 companies featured on this year's CDP Climate Performance Leadership Index (CPLI), which highlights companies that have demonstrated a commitment to managing climate change by integrating it into their business strategy and taking actionable steps to mitigate climate-related risk. HP was placed in the highest performance band of &amp;quot;A&amp;quot; for its climate performance assessment.&lt;/p>&#xd;&#xa;&lt;p>More information about HP's carbon reduction goals and other sustainability efforts are available on the Living Progress website at&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/living-progress.html&quot; target=&quot;_blank&quot;>www.hp.com/go/livingprogress&lt;/a>.&lt;/p>&#xd;&#xa;&lt;p>&lt;sup>(1)&lt;/sup>&amp;nbsp;Emissions intensity of the HP product portfolio refers to tonnes CO&lt;sub>2&lt;/sub>e/net revenue arising from use of high-volume product lines, including notebooks, tablets, desktops, mobile computing devices and workstations; inkjet and LaserJet printers; and HP servers, including industry-standard servers, HP Moonshot and HP Apollo.&lt;br>&#xd;&#xa;&lt;sup>(2)&lt;/sup>&amp;nbsp;Expressed as emissions generated per unit of output. The unit of output was determined per product line as follows: printer output represents carbon emissions from printing one A4 image; each personal system represents one unit of output; for servers, each unit of output equals a task performed by the system, as defined by industry standards.&lt;br>&#xd;&#xa;&lt;sup>(3)&lt;/sup>&amp;nbsp;HP calculates emissions intensity as its suppliers' GHG emissions divided by HP's annual revenue. This method normalizes performance based on business productivity.&lt;br>&#xd;&#xa;&lt;sup>(4)&lt;/sup>&amp;nbsp;Based on HP internal analysis of HP Moonshot with ProLiant Moonshot Server Cartridges.&lt;br>&#xd;&#xa;&lt;sup>(5)&lt;/sup>&amp;nbsp;Based on HP internal estimates of total cost to operate HP Moonshot with ProLiant Moonshot Server Cartridges as compared to traditional servers.&lt;/p>&#xd;&#xa;&lt;p>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Quarterly Report on Form 10-Q for the fiscal quarter ended July 31, 2014, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/p>&#xd;&#xa;&lt;p>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/p>&#xd;&#xa;&lt;p>&lt;b>&lt;br>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at&amp;nbsp;http://www.hp.com&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_vnff
+                            jcr:lastModified="{Date}2023-03-22T19:19:23.675Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/hpe-launches-worlds-first-supply-chain-program-based-on-climate-science"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="HPE launches worlds first supply chain program based on climate science"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE launches worlds first supply chain program based on climate science"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-22T19:19:23.675Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplateSupplyChain.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-22T19:19:23.675Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_vnff>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_asye
+                            jcr:lastModified="{Date}2023-03-22T19:19:43.680Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/top-5-things-you-shouldnt-miss-from-the-new-living-progress-report"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="Top 5 things you shouldnt miss from the new Living Progress Report"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Top 5 things you shouldnt miss from the new Living Progress Report"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-22T19:19:43.680Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Living-Progress-Report-2018.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-22T19:19:43.680Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_asye>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_satl
+                            jcr:lastModified="{Date}2023-03-22T19:19:58.938Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/top-6-things-you-shouldnt-miss-from-hpes-living-progress-report"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="Top 6 Things You Shouldnt Miss From HPEs Living Progress Report"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Top 6 Things You Shouldnt Miss From HPEs Living Progress Report"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-22T19:19:58.938Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_image7.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-22T19:19:58.938Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_satl>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

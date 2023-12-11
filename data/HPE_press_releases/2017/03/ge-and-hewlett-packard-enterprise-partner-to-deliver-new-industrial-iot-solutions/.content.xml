@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:44:54.513Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---customers,hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="ge-and-hewlett-packard-enterprise-partner-to-deliver-new-industrial-iot-solutions"
+        jcr:uuid="a413bd7c-32b4-4100-bee7-badf924e6e8a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:29.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="Justine Gananian, Hewlett Packard Enterprise"
+        metaDescription="GE and Hewlett Packard Enterprise Partner to Deliver New Industrial IoT Solutions"
+        navTitle="GE and Hewlett Packard Enterprise Partner to Deliver New Industrial IoT Solutions"
+        pageTitle="GE and Hewlett Packard Enterprise Partner to Deliver New Industrial IoT Solutions"
+        priority="(None)"
+        subtitle="Strategic agreement brings together HPE and GE IoT technologies and expertise to deliver Predix capabilities at the edge"
+        theme="dark"
+        UAID="942a8524-999e-49ac-b7d0-f7aa717add39"
+        UCID="681ed21a-5e5c-47de-926a-709be1c32fb4"
+        WPID="1308">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T13:34:27.938Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 8, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Strategic agreement brings together HPE and GE IoT technologies and expertise to deliver Predix capabilities at the edge&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_yysv
+                    jcr:lastModified="{Date}2018-10-23T13:35:19.223Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS June 8, 2016 Hewlett Packard Enterprise (NYSE: HPE) and GE Digital (NYSE: GE) today announced a strategic agreement to unite cutting-edge Internet of Things (IoT) technologies from HPE with GEs industrial expertise and its Predix platform to bring digital know-how to the industry sector. Together, the two companies will enable industrial analytics from the edge to the cloud. This alliance offers a combination of HPEs market leading hardware with GEs for industry, by industry software to deliver a new suite of solutions for customers seeking to transform their businesses with real-time analytics and insights.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As part of this agreement, HPE will be a preferred storage and server infrastructure provider for Predix cloud technologies. To enhance the service offering and accelerate time to market, HPE will provide support for the design, implementation and rollout of the Predix platform, through its services and infrastructure offerings. GE will also leverage HPE technology for much of its virtual infrastructure as well as some OEM offerings.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE will help power the Predix platform with its IoT-optimized hardware and software. GEs Predix platform will be a preferred software solution for HPE for industrial-related use cases and opportunities. Additionally, HPE plans to certify 100 developers on Predix globally. The two companies will jointly develop long-term partnerships to support the aerospace, oil and gas, manufacturing, automotive and energy industries.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>We are building an ecosystem with world-class partners who share our commitment to delivering better outcomes for our customers, said Denzil Samuels, Head of Global Channels and Alliances, GE Digital. By combining HPEs key infrastructure capabilities with the Predix platform, we are enabling our customers with industrial analytics and the ability to leverage new insights that were not possible before.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In order to fully take advantage of the Industrial IoT, customers need data-center-grade computing power, both at the edge where the action is and in the cloud, said Mark Potter, senior vice president and chief technology officer, Enterprise Group, Hewlett Packard Enterprise. With our advanced technologies, customers are able to access data center-level compute at every point in the Industrial IoT, delivering insight and control when and where needed.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Predix is GEs cloud-based Platform-as-a-Service for the Industrial Internet. Unlike other IoT and enterprise platforms available, the Predix platform is built exclusively for industry, providing GE and its partners with a platform designed to meet the unique strength, scale and security requirements of industrial data.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE provides an end-to-end Industrial IoT portfolio, supported by compute, networking, data analysis and security offerings and intended to simplify IoT solutions for customers. Together, these technologies will help HPE and GE industrial customers breakdown silos that once separated control systems and leverage next-generation sensors to distill insights and automate industrial environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is uniquely positioned to provide the necessary hardware, software and services to implement the advanced technology infrastructure required for GEs Predix, said Potter.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The market for Industrial IoT technologies is quickly expanding. IC Insights predicted Industrial IoT implementations would reach $12.4 billion in revenue in 2015, nearly doubling from $6.4 billion in 2012. The strategic partnership between HPE and GE furthers their commitment to accelerate real-time decision making and machine learning for their customers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE offers a complete IoT suite that includes HPE Edgeline servers, HPE Haven OnDemand, a powerful cloud-based &lt;a href=&quot;https://www.havenondemand.com/&quot;>platform&lt;/a> comprising more than 60 advanced machine learning APIs and services, and the HPE Universal IoT Platform, which provides ubiquitous connectivity for maximum scalability, modularity and versatility.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking statement&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended, and Hewlett Packard Enterprise's Form 10-K dated December 17, 2015 and Form 10-Q dated March 10, 2016. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About GE Digital&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>GE Digital connects streams of machine data to powerful analytics and people, providing industrial companies with valuable insights to manage assets and operations more efficiently. World-class talent and software capabilities driving digital industrial transformation for big gains in productivity, availability and longevity. For more information, visit the website at www.ge.com/digital.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yig8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/abb-and-hpe-bring-intelligence-to-industrial-plants"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="ABB and HPE Bring Intelligence to Industrial Plants"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="ABB and HPE Bring Intelligence to Industrial Plants"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/busy-factory_small.jpg"/>
+                        </contentblock_yig8>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_l85z
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-extends-solutions-for-sap-applications-from-the-digital-core-to-the-intelligent-edge"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate08.jpg"/>
+                        </contentblock_l85z>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_9u1f
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-accelerates-data-insight-and-action-across-the-enterprise-with-latest-edgeline-capabilities"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Edgeline-Release.jpg"/>
+                        </contentblock_9u1f>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

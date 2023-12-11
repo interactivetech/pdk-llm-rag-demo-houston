@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:38:39.956Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+        jcr:uuid="a28005c2-5b3c-4969-a967-2ebbca8a3e5b"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-06-18T04:00:00.000-07:00"
+        metaDescription="HPE Primera leverages AI from HPE InfoSight to deliver unmatched simplicity, availability and performance for mission-critical applications"
+        metaKeywords="hpe, hpe news, hpe newsroom,HPE Primera,HPE InfoSight"
+        metaOgImage="/content/dam/hpe/newsroom/2019/06/image-norend/hewlett-packard-enterprise-unveils-new-mission-critical-storage-for-the-....jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+        pageTitle="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+        priority="(None)"
+        socialDescription="HPE Primera leverages AI from HPE InfoSight to deliver unmatched simplicity, availability and performance for mission-critical applications"
+        subtitle="HPE Primera leverages AI from HPE InfoSight to deliver unmatched simplicity, availability and performance for mission-critical applications"
+        theme="dark"
+        UAID="2c11806f-488a-4972-b7dd-80ad96aaeec2"
+        UCID="f32ed921-699b-4c18-ad54-e95c7873b817">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-06-15T02:09:27.630Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T02:12:58.518Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hewlett-packard-enterprise-unveils-new-mission-critical-storage-for-the-....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T02:14:05.357Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE introduces HPE Primera, a new storage platform designed to deliver superior simplicity, availability, and performance for mission-critical applications &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Primera advances the HPE Intelligent Data Platform, a portfolio of products and solutions designed to help customers transition from delivering storage to unlocking business value with intelligent data&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_80
+                    jcr:created="{Date}2019-06-15T02:14:25.826Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T02:14:47.316Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Primera leverages AI from HPE InfoSight to deliver unmatched simplicity, availability and performance for mission-critical applications&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-09T14:22:15.760Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS, Nev. – June 18, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced &lt;a href=&quot;https://www.hpe.com/us/en/storage/hpe-primera.html&quot; target=&quot;_blank&quot;>HPE Primera, a new platform that redefines mission-critical storage&lt;/a> by delivering superior simplicity, availability and performance. HPE Primera leverages the industry’s &lt;a href=&quot;https://www.hpe.com/us/en/solutions/infosight.html&quot; target=&quot;_blank&quot;>most advanced AI platform for operations&lt;/a>, HPE InfoSight, to deliver significant breakthroughs – including 93% less time spent on managing storage&lt;sup>i&lt;/sup>, the ability to predict and prevent issues, and accelerate application performance.&lt;br>&#xa; &lt;br>&#xa; Businesses seek to bring new mission-critical applications to market, and support existing ones in order to accelerate speed of business, agility and innovation. However, it is nearly impossible for IT to keep up with these demands because they remain tied down administering, tuning, and supporting infrastructure. As a result, IT is forced to sacrifice agility for reliability.&lt;br>&#xa; &lt;br>&#xa; HPE Primera eliminates the compromises and redefines what is possible in mission-critical storage, by blending innovation from across HPE’s storage portfolio, to provide superior simplicity, availability and performance.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-08-10T16:41:40.345Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Delivering a Simple, Consumer-Grade User Experience for Mission-Critical Storage&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simple to install&lt;/b>: Customers can self-install HPE Primera in less than 20 minutes.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simple to manage&lt;/b>: Storage can be provisioned on HPE Primera within seconds. Data reduction is built-in and always-on with the flexibility to turn it off.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simple to upgrade&lt;/b>: Built with a services-centric OS that decouples data services so they can be deployed, upgraded, or restarted independently. HPE Primera software can be upgraded by customers in 5 minutes without any disruption.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simple to own&lt;/b>: Customers have the choice to deploy HPE Primera as a service with a fully managed experience and pay only for what they use through HPE GreenLake. For CapEx purchases, the ownership experience is transformed with Timeless Storage for HPE Primera, ending forklift upgrades. Customers get a non-disruptive controller refresh, all-inclusive software, and storage guarantees for data reduction and availability.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="20"/>
+                <pullquote_723
+                    jcr:created="{Date}2019-06-15T02:17:52.032Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2021-08-10T16:41:21.776Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Organizations need a new approach to infrastructure operations with an intelligent data strategy&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2021-08-10T16:41:21.776Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_723>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-08-10T16:41:30.952Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Raising the Expectations of Mission-Critical Storage with 100% Availability Guaranteed&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>100% availability guarantee&lt;/b>: HPE Primera comes standard with HPE Proactive Care and a 100% data availability guarantee without requiring special contracts or onerous terms.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Seeing beyond walls of storage&lt;/b>: More than 90% of issues arise from above the storage layer&lt;sup>2&lt;/sup> – in the network, server and virtualization layer. HPE Primera sees beyond storage with HPE InfoSight to predict and prevent any disruptions in the networking, application and server layers.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Mission-critical reliability built-in&lt;/b>: HPE Primera is architected for high availability with multi-node design, transparent business continuity with HPE Peer Persistence and data replication. Application-aware data protection via HPE Recovery Manager Central is included, combining with HPE StoreOnce for 15X faster restore and extending to public cloud for cost-effective, long-term retention via HPE Cloud Bank Storage.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"/>
+                <textonlycomponent_56
+                    jcr:created="{Date}2019-06-15T02:22:06.778Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2021-08-10T16:41:47.911Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Predictable Performance for Unpredictable Application Workloads&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>High performance for consolidating demanding applications: &lt;/b>HPE Primera&lt;b> &lt;/b>has an&lt;b> &lt;/b>all-active architecture that brings massive parallelism and multi-node performance, which accelerates applications, including 122% faster Oracle performance.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Visibility to consolidate safely: &lt;/b>Powered by HPE InfoSight, HPE Primera delivers the visibility for optimizing application workload placement while accounting for application performance characteristics and interactions with other shared applications on an HPE Primera system.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Real-time analytics to maintain predictable performance:&lt;/b> HPE InfoSight is now more deeply integrated on HPE Primera with AI models trained in the cloud that are now embedded in the array for real-time analytics to ensure consistent performance for application workloads.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_6f
+                    jcr:created="{Date}2019-06-15T02:23:53.439Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2021-08-10T16:41:54.686Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Intelligence changes everything,” said Milan Shetti, SVP and General Manager, HPE Storage. “Today’s organizations need a fundamentally new approach to infrastructure operations with an intelligent data strategy. HPE Primera leverages HPE’s unique Intelligent Data Platform to deliver unmatched simplicity, availability, and performance for mission-critical applications, so businesses can focus on harnessing data to drive their business forward.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “I spend my nights and weekends, as well some serious dollars, managing and upgrading my storage systems,” said Michael York, Sr. Systems Engineer, Asante. “I’m looking forward to deploying HPE Primera with its self-setup, self-tuning and automatic upgrades that don’t disrupt applications. The extremely simple management experience is something I didn’t know was possible from a high-end platform.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/i>HPE Primera advances the HPE Intelligent Data Platform, a portfolio of products and solutions designed to accelerate application performance, transform data management, harness the agility of all clouds, and empower businesses by unlocking hidden insights within data in real time.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The Intelligent Data Platform helps customers transition from delivering storage to unlocking business value with intelligent data.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The HPE Intelligent Data Platform leverages HPE InfoSight, the industry’s most advanced AI and machine learning platform, to deliver autonomous, self-managing data storage. HPE InfoSight has analyzed application patterns across 1,250 trillion data points over the last decade to predict and prevent disruptions across storage, servers, and virtual machines, resulting in savings of over 1.5 million hours of lost productivity due to downtime. HPE InfoSight provides the intelligent foundation for all of the HPE storage products, including HPE Primera, creating the industry’s only end-to-end AI pipeline for self-managing storage.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="20"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-08-10T16:42:05.360Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE InfoSight has analyzed application patterns across 1,250 trillion data points over the last decade&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2021-08-10T16:42:05.360Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-08-10T16:42:17.312Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Primera will be orderable in August 2019.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Resources&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more about HPE Primera, visit: &lt;a href=&quot;https://hpe.com/storage/Primera&quot; target=&quot;_blank&quot;>https://hpe.com/storage/Primera&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>IDC &lt;a href=&quot;https://www.hpe.com/us/en/resources/storage/hpe-primera.html&quot; target=&quot;_blank&quot;>white paper&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T17:09:19.862Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>i&lt;/sup>&amp;nbsp;Based on HPE internal testing, compared to previous generation storage arrays.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup>Based on recent survey of IT leaders by IDC&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-15T02:30:05.979Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/hpe-advances-its-intelligent-data-strategy"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Advances Its Intelligent Data Strategy"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Advances Its Intelligent Data Strategy"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-15T02:30:05.979Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/HPE-Advances-Its-Intelligent-Data-Strategy.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-15T02:30:05.979Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-15T02:32:47.114Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/12/intelligent-storage-unlocking-your-datas-potential"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Intelligent storage: Unlocking your data’s potential"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Intelligent storage: Unlocking your data’s potential"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-15T02:32:47.114Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE20161021012.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-15T02:32:47.114Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-06-15T02:34:37.378Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/04/a-universal-translator-for-the-intelligent-edge"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="A universal translator for the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A universal translator for the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-15T02:34:37.378Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/A-Universal-Translator-for-the-Intelligent-Edge.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-15T02:34:37.378Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-06-15T02:12:23.654Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

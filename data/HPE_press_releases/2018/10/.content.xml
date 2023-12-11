@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2018-11-19T14:59:32.919Z"
+        cq:lastModifiedBy="cheryl.nagle"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="10"
+        jcr:uuid="54bafd08-8ef9-4ba7-a5c9-b94fa6444424"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"
+        webSectionId="R11989"/>
+    <hewlett-packard-enterprise-provides-business-updates-and-announces-fy19-outlook/>
+    <hpe-to-webcast-2018-securities-analyst-meeting/>
+    <hpe-accelerates-all-flash-data-center-adoption-across-state-co-operative-banks-in-india/>
+    <hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/>
+    <cray-introduces-first-exascale-class-supercomputer/>
+</jcr:root>

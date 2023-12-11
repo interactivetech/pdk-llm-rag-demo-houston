@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:00:16.481Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-unveils-the-worlds-most-scalable-and-modular-in-memory-computing-platform"
+        jcr:uuid="cdad403b-50ec-4f26-949a-ab749e348b46"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-06T03:45:00.000-08:00"
+        metaDescription="Hewlett Packard Enterprise Unveils the Worlds Most Scalable and Modular In-Memory Computing Platform"
+        navTitle="Hewlett Packard Enterprise Unveils the World's Most Scalable and Modular In-Memory Computing Platform"
+        pageTitle="Hewlett Packard Enterprise Unveils the World's Most Scalable and Modular In-Memory Computing Platform"
+        priority="(None)"
+        subtitle="New HPE Superdome Flex elevates high performance data analytics for mission critical workloads"
+        theme="dark"
+        UAID="34680755-9995-4585-9ab2-6d4d2c8d1073"
+        UCID="51cea058-52d6-4eb6-9630-c51984bd593a"
+        WPID="199287">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 06, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-05-11T23:09:48.703Z"
+                    jcr:lastModifiedBy="lunkova.volha"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    color="None"
+                    fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Hewlett-Packard-Enterprise-Unveils-the-World-Most-Scalable-and-Modular-In-Memory-Computing-Platform.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    isVideo="false"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HPE Superdome Flex elevates high performance data analytics for mission critical workloads&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_66
+                    jcr:created="{Date}2018-10-17T17:28:24.605Z"
+                    jcr:createdBy="hpe.publishers"
+                    jcr:lastModified="{Date}2018-10-17T17:29:10.631Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO – November 6, 2017 – Today, Hewlett Packard Enterprise (HPE) revealed the world’s most scalable and modular in-memory computing platform, HPE Superdome Flex. The platform enables enterprises of any size to process and analyze massive amounts of data and turn it into real-time business insights.&lt;/span>&lt;/p>&#xa;"/>
+                <imageonlycomponent_3
+                    jcr:created="{Date}2018-10-17T17:28:06.990Z"
+                    jcr:createdBy="hpe.publishers"
+                    jcr:lastModified="{Date}2018-10-17T17:29:14.244Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="30"
+                    fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/31945_Hawks_Snap_1_Images_v03_00002.png"
+                    imageAlignment="hpe-image-left"
+                    topPadding="30"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_x5w6
+                    jcr:lastModified="{Date}2020-04-13T18:17:30.835Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>In a world transformed by exponential data growth, customers face a complex dilemma how to handle unprecedented data flows while maintaining business continuity and agility to quickly respond to business changes. One way companies are tackling this challenge is by leveraging in-memory databases, such as SAP HANA, Oracle Database In-Memory and Microsoft SQL Server. HPE is the global leader for SAP HANA as approximately 50 per cent of SAP HANA server deployments are on HPE systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;In order to harness the full value of in-memory computing, the underlying infrastructure must be capable of addressing large data sets and process analytics without slowing transactions to achieve real-time insights. HPE Superdome Flex has a unique modular design that scales seamlessly so enterprises can keep pace with evolving data demands, while unmatched reliability capabilities provide a resilient platform that safeguards critical workloads.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;Customers want to harness all of their data to derive actionable insights in real-time to make more impactful business decisions,&amp;quot; said Randy Meyer, vice president and general manager, Synergy &amp;amp; Mission Critical Servers, Hewlett Packard Enterprise. &amp;quot;With HPE Superdome Flex, customers can capitalize on in-memory data analytics for their most critical workloads and scale seamlessly as data volumes grow.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE's latest mission critical in-memory computing platform combines the reliability of HPE Integrity Superdome X with the scalable technology for high performance data analytics that HPE gained with its &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-completes-acquisition-of-sgi.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>acquisition of SGI.&lt;/a> HPE Superdome Flex enables customers to:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Turn data into actionable insights at unparalleled scale and in real-time&lt;/b>: Designed with &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2017/05/memory-driven-computing-explained.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>Memory-Driven Computing&lt;/a> principles, HPE Superdome Flex provides a shared pool of memory over an ultra-fast fabric that's capable of scaling from 768GB to 48TB in a single system, delivering unmatched compute power for the most demanding applications.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Start small and grow seamlessly: &lt;/b>The platform has a unique modular design that scales from four to 32 sockets in four-socket increments. This equips customer environments of all sizes with in-memory computing that can expand seamlessly and cost-efficiently as needs increase.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Safeguard mission-critical workloads&lt;/b>: HPE Superdome Flex offers proven reliability, availability and serviceability (RAS) capabilities not present in other standard x86 platforms to provide 99.999% single-system availability.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>&lt;br>&#xa;Optimizing Performance with HPE Pointnext&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE Pointnext has the expertise and services to help organizations through their digital transformation, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Advisory Services focuses on developing a business strategy aligned with business outcomes.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Professional Services specializes in seamless implementation, on-budget execution and creative configurations that get the most out of the HPE Superdome Flex solution. This includes HPE Pointnext's proven migration methodology that enables continuous business through the entire process.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Operational Services offers support for the entire solution and application ecosystem.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;&lt;/b>&lt;b data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_y869
+                            jcr:lastModified="{Date}2018-10-17T17:43:55.867Z"
+                            jcr:lastModifiedBy="hpe.publishers"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/getting-to-know-mike-woodacre-the-team-behind-hpe-superdome-flex"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Getting to Know: Mike Woodacre and the Team Behind HPE Superdome Flex"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Getting to Know: Mike Woodacre and the Team Behind HPE Superdome Flex"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T17:43:55.867Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/10/image-norend/Getting-to-Know-Mike-Woodacre-the-Team-Behind-HPE-Superdome-Flex.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T17:43:55.867Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_y869>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3ntf
+                            jcr:lastModified="{Date}2018-10-17T17:43:48.482Z"
+                            jcr:lastModifiedBy="hpe.publishers"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-partners-with-stephen-hawkings-cosmos-research-group-and-the-cambridge-faculty-of-mathematics"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE partners with Stephen Hawking's COSMOS Research Group and the Cambridge Faculty of Mathematics"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE partners with Stephen Hawkings COSMOS Research Group and the Cambridge Faculty of Mathematics"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T17:43:48.482Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/COSMOS-header-2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T17:43:48.482Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_3ntf>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_n8jt
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-extends-solutions-for-sap-applications-from-the-digital-core-to-the-intelligent-edge"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate08.jpg"/>
+                        </contentblock_n8jt>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-17T17:25:44.395Z"
+            jcr:lastModifiedBy="hpe.publishers"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

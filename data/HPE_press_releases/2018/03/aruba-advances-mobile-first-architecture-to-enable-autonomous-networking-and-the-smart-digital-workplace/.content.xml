@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-10-04T19:32:48.723Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="aruba-advances-mobile-first-architecture-to-enable-autonomous-networking-and-the-smart-digital-workplace"
+        jcr:uuid="a3d039e0-ab38-4ffa-9816-c001875ac111"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-03-27T05:00:31.000-07:00"
+        metaDescription="Aruba Advances Mobile First Architecture to Enable Autonomous Networking and the Smart Digital Workplace"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2018/03/aruba-advances-mobile-first-architecture-to-enable-autonomous-networking-and-the-smart-digital-workplace/jcr:content/main-par/body-par/columncontainercompo/column_1/contentblock_vpai"
+        navTitle="Aruba Advances Mobile First Architecture to Enable Autonomous Networking and the Smart Digital Workplace"
+        pageTitle="Aruba Advances Mobile First Architecture to Enable Autonomous Networking and the Smart Digital Workplace"
+        priority="(None)"
+        subtitle="Introduces New AI-Powered Analytics and Assurance Innovation and Partnerships for the Future of Mobile, IoT and Cloud"
+        theme="dark"
+        UAID="07340118-15c1-4aec-b696-fdd068abfb2e"
+        UCID="3e49ca29-885f-4b7d-8432-d5696d243bc2"
+        webSectionId="R11989"
+        WPID="200246">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-07-27T17:42:05.708Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="March 27, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Aruba-Advances-Mobile-First-Architecture-to-Enable-Autonomous-Networking-and-the-Smart-Digital-Workplace.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Aruba Advances Mobile First Architecture to Enable Autonomous Networking and the Smart Digital Workplace"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T18:19:24.983Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>At its Atmosphere conference, HPEs Aruba announced the latest innovations to its Mobile First Architecture&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>To help customers manage dynamic, unpredictable environments, Aruba is expanding its analytics and assurance capabilities with the company's new machine learning solution – NetInsight&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aruba has also added a new category of partners to create smarter modern workplace experiences&lt;/span>&lt;br>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Introduces New AI-Powered Analytics and Assurance Innovation and Partnerships for the Future of Mobile, IoT and Cloud&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_l1jd
+                    jcr:lastModified="{Date}2022-10-04T19:30:18.583Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SANTA CLARA, Calif. March 27, 2018&lt;/b> Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), today advanced its &lt;a href=&quot;http://www.arubanetworks.com/solutions/mobile-first-architecture/&quot; target=&quot;_self&quot;>Mobile First Architecture&lt;/a> with the introduction of new innovations in AI-powered analytics and assurance to enable autonomous networking, as well as partnerships to deliver smarter workplace experiences.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; To help IT organizations enhance the user experience and ensure business resilience as they continue to adopt mobility, IoT and cloud, Aruba has introduced NetInsight, an artificial intelligence (AI) based analytics and assurance solution for optimizing network performance. Additionally, Aruba has added a new category of &lt;a href=&quot;http://www.arubanetworks.com/solutions/digital-workplace/&quot; target=&quot;_self&quot;>smart digital workplace&lt;/a> partners to the &lt;a href=&quot;https://www.arubanetworks.com/partners/programs/partner-finder/&quot; target=&quot;_self&quot;>ArubaEdge Technology Partner Program&lt;/a> including corporate real estate (CRE) leaders, connected furniture companies, and technology vendors, to deliver next-generation workplace experiences that securely support IoT, building automation, and personalized, location-based services for guests and employees.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>Optimizing Network Performance: New NetInsight Delivers AI-Powered Analytics and Assurance&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>Today, IT organizations are challenged with managing highly dynamic, unpredictable environments with tools that were designed to manage infrastructure, and not to enhance the user experience. IT professionals require modern tools that proactively stay ahead of performance issues, deliver insights into possible causes, and recommend configuration changes that optimize the network before impacting users or the business.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; To address this challenge, Aruba has expanded the analytics and assurance capabilities of its Mobile First Architecture with its new NetInsight solution. NetInsight uses machine learning to continuously monitor the network, deliver insights in the event of anomalies, and then recommends how best to optimize the network for todays mobile-first employees and workplace-critical IoT devices, based on data that is specific to user connectivity and RF performance attributes.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_cuhl
+                    jcr:lastModified="{Date}2018-10-15T18:19:53.109Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>NetInsight is Aruba's newest solution helping customers manage dynamic, unpredictable environments&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T18:19:53.109Z"
+                        jcr:lastModifiedBy="velazquez@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_cuhl>
+                <textonlycomponent_gafc
+                    jcr:lastModified="{Date}2020-07-27T17:52:04.100Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba customer, The University of Washington, is keenly focused on providing a positive user experience at itscampuses, hospitals, and clinics. With morethan 12,000 Wi-Fi access points andover 150,000 deviceson the network daily,performance management challengesdue to size, unpredictable usage patterns and a wide range of performance stringent applications, are a real concern.&lt;/span>&lt;br>&#xd;&#xa;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Todays digital campuses and hospitals are increasingly dependent on complex applications, smart devices and mobile users who expect to have connectivity everywhere. said David Morton, Director, Networks and Telecommunications at the University of Washington.Using Aruba NetInsight, we have access to network datawith flow visualizationsand actionable analytics that helpus make critical decisions about whereexpandedand newcoverage is needed - such as outdoor Wi-Fi for new construction. We can also validate thebefore and afterimpacts of network change so that we can proactively deliver the best possible user experience.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Building the Smart Digital Workplace with an Ecosystem of Proven Partners&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Mobility, cloud and IoT adoption is changing the future of work, demanding an autonomous approach to networking. Highly efficient, IoT-enabled smart buildings are intersecting with the mobile-first digital workplace. This new paradigm is forming a smart digital workplace that needs to deliver secure and reliable, optimized and personalized experiences that will foster employee creativity, collaboration, speed and freedom.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_ygui
+                    jcr:lastModified="{Date}2018-10-15T18:20:26.571Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Changes in mobility, cloud and IoT demand an autonomous approach to networking&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T18:20:26.571Z"
+                        jcr:lastModifiedBy="velazquez@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ygui>
+                <textonlycomponent_5og1
+                    jcr:lastModified="{Date}2022-10-04T19:32:14.520Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Leveraging its Mobile First Architecture, Aruba has expanded its &lt;a href=&quot;http://www.arubanetworks.com/partners/ecosystem/&quot; target=&quot;_self&quot;>ArubaEdge Technology Partner Program&lt;/a> with a new category of partners that include commercial real estate (CRE), connected furniture and new technology companies. Together with Aruba, this new set of partners will create modern workplaces that uniquely pair end user mobility, secure connectivity, and location with the sensory context of enterprise IoT. These experiences range from personalized workspace ergonomics and lighting, to mobile UC and fully automated conference rooms, to preventive equipment maintenance and automated energy conservation, on a single infrastructure.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Consumers have come to expect seamless experiences in everything that they do, and that includes the workplace, said Sandeep Dav, Chief Digital and Technology Officer, Global Workplace Solutions at CBRE. Our clients, as they seek to attract and retain their best and brightest, are finding it important to deliver an enhanced workplace experience. They are turning to CBRE to deliver experiential services and a digital workplace, which we do via CBRE 360, an experience services offering enabled by leading technology. There is strong alignment between CBREs goal of creating next generation workplace environments with integrated property services and Arubas smart digital workplace direction. This is an area where our teams have collaborated and expect to realize greater synergies in the future.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Companies are reevaluating their real estate strategies to better align with and enable the future of work, said Francisco J. Acoba, Managing Director and U.S. Lead Global Real Estate Transformation, Deloitte Consulting LLP. The smart digital workplace, is now a major point of differentiation for organizations as employers look to attract, retain and grow todays talent. The future of work will be defined by smart workplace experiences, and corporate real estate leaders along with their IT counterparts should consider embracing how mobility and enterprise IoT will transform the physical office.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; What constitutes a great workplace experience is rapidly evolving with the addition of digital and data layers, said Jeff Gibson, Director of Advanced Business Development at Herman Miller.People need a variety of settings to perform their work activities and the digital layers that we are delivering are helping to maximize the experience. We are working with Aruba to create this vision where cloud connected furniture and devices can be deployed to support a mobile-first digital experience. Leveraging data and insights provides efficient usage of space for organizations as well as maximizes the performance potential.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>Enhanced Collaboration and Seamless Workplace Productivity&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>In many digital enterprises, two or more collaboration applications are used simultaneously, such as Skype for Business for voice calling and desktop sharing, and Zoom for video meetings and bringing in mobile and conference room devices. Zooms focus on frictionless meetings across conference rooms and teaming spaces is well aligned with Arubas smart digital workspace initiative.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The workplace has evolved into experiences in which people, content, and tools must seamlessly interact, said Eric Yuan, Chief Executive Officer at Zoom. Zooms mobile, desktop, and software-based room conferencing systems foster those experiences by allowing the most suitable tools to work together. That openness is a breath of fresh air for customers who for years had no choice but to buy their networks and telepresence from a single vendor.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; To deliver a wide variety of proven digital workplace productivity and enterprise IoT solutions, Aruba has furthered its ArubaEdge Technology Partner Program, adding smart digital workplace partners &lt;a href=&quot;http://acceltex.com/&quot; target=&quot;_blank&quot;>AccelTex&lt;/a>, &lt;a href=&quot;https://www.hpe.com/us/en/services.html&quot; target=&quot;_blank&quot;>HPE Pointnext&lt;/a>, Lunera, &lt;a href=&quot;https://www.patrocinium.com/&quot; target=&quot;_blank&quot;>Patrocinium&lt;/a> and &lt;a href=&quot;https://spaceiq.com/&quot; target=&quot;_blank&quot;>SpaceIQ&lt;/a> to a list that already includes &lt;a href=&quot;https://envoy.com/&quot; target=&quot;_blank&quot;>Envoy&lt;/a>, &lt;a href=&quot;https://robinpowered.com/&quot; target=&quot;_blank&quot;>Robin&lt;/a> and &lt;a href=&quot;https://www.teem.com/&quot; target=&quot;_blank&quot;>Teem&lt;/a>. These partners deliver integrated solutions that leverage a combination of location services, secure enterprise IoT management for personalized, and automated digital workplaces.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>Pricing and Availability&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>NetInsight is available today as a subscription starting at $30 USD per network device (access point, controller). Pricing varies with multiyear subscriptions.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>Additional Customer and Channel Partner Quotes&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>Our customers are increasingly interested in modern workplace environments driven by the growth in mobility and IoT, said Tony Balistrieri, VP, Corporate Field Sales, &lt;a href=&quot;http://www.zones.com/site/home/index.html&quot; target=&quot;_blank&quot;>Zones, Inc.&lt;/a> These new trends increase the reliance on having a trusted partner for solutions architecting which is essential when bringing together multiple technologies to deliver smart digital workplaces.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The Ohio State University (OSU) is the third largest public university in the US. With over 66,000 students with an average of 132,000 devices connecting to its network daily, managing network performance can be complex and time consuming which is one of the key reasons OSU deployed Arubas NetInsight.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; NetInsight is filling an engineering void in our team by automatically assessing the current and historic performance of the campus wireless network, making suggestions for improvements, and measuring those improvements in an easily digestible way, said Bob Corbin, Senior Director of Infrastructure, The Ohio State University. In some respects, it has become the newest member of our team.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>HPE Pointnext&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>Smart digital workplace services and solutions from &lt;a href=&quot;https://www.hpe.com/us/en/services.html&quot; target=&quot;_blank&quot;>HPE Pointnext&lt;/a> provide customers and partners worldwide the expertise to fully take advantage of modern technology to propel innovation, customer satisfaction and profitability driven from engaged employee experiences. These services and solutions can help augment customer IT and Aruba partner teams or provide the complete capabilities needed for the design, development management and support of smart digital workplaces built on the Aruba Mobile First Platform and a curated ecosystem of partners.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>About Aruba, a Hewlett Packard Enterprise company&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>Aruba, a Hewlett Packard Enterprise company, is a leading provider of next-generation networking solutions for enterprises of all sizes worldwide. The company delivers IT solutions that empower organizations to serve the latest generation of mobile-savvy users who rely on cloud-based business apps for every aspect of their work and personal lives.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; To learn more, visit Aruba at&amp;nbsp;&lt;a href=&quot;http://www.arubanetworks.com/&quot; target=&quot;_self&quot;>http://www.arubanetworks.com&lt;/a>. For real-time news updates follow Aruba on&lt;a href=&quot;https://twitter.com/arubanetworks&quot; target=&quot;_blank&quot;>Twitter&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/arubanetworks&quot; target=&quot;_blank&quot;>Facebook&lt;/a>, and for the latest technical discussions on mobility and Aruba products visit Airheads Social at &lt;a href=&quot;https://community.arubanetworks.com/&quot; target=&quot;_self&quot;>https://community.arubanetworks.com/&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_62od
+                            jcr:lastModified="{Date}2022-10-04T19:32:33.308Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/cape-networks-will-become-the-newest-company-to-join-the-hpe-family"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="Cape Networks Will Become the Newest Company to Join the HPE Family"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Cape Networks Will Become the Newest Company to Join the HPE Family"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-10-04T19:32:33.308Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Cape-Networks-Will-Become-the-Newest-Company-to-Join-the-HPE-Family.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-10-04T19:32:33.308Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_62od>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_vpai
+                            jcr:lastModified="{Date}2022-10-04T19:32:48.703Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/03/hpe-to-acquire-cape-networks"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="HPE to Acquire Cape Networks"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE to Acquire Cape Networks"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-10-04T19:32:48.703Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/HPE-to-Acquire-Cape-Networks.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-10-04T19:32:48.703Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_vpai>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys"/>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

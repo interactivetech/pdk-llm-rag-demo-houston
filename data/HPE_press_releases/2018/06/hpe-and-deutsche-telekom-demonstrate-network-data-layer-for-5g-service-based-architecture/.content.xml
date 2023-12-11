@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-01-11T00:29:55.853Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry---telcom-&amp;-5g,hpe-newsroom:categories/hpe-financial-services-(hpefs),hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-and-deutsche-telekom-demonstrate-network-data-layer-for-5g-service-based-architecture"
+        jcr:uuid="01f4e6e0-b71d-4c46-8d9d-8b2907d947af"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-06-27T04:00:14.000-07:00"
+        metaDescription="HPE and Deutsche Telekom Demonstrate Network Data Layer for 5G Service-based Architecture"
+        metaKeywords="5G, Network Data Layer, Deutsche Telekom"
+        navTitle="HPE and Deutsche Telekom Demonstrate Network Data Layer for 5G Service-based Architecture"
+        pageTitle="HPE and Deutsche Telekom Demonstrate Network Data Layer for 5G Service-based Architecture"
+        priority="(None)"
+        subtitle="HPE deploys the worlds first Network Data Layer Proof-of-Concept with Deutsche Telekom AG"
+        theme="dark"
+        UAID="0fbc44e6-006e-43c8-864b-34f7a91e377c"
+        UCID="b70b98b3-6237-48ba-bf0e-54db731f5a6a"
+        webSectionId="R11989"
+        WPID="201097">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 27, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-and-Deutsche-Telekom-Demonstrate-Network-Data-Layer-for-5G-Service-based-Architecture.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE and Deutsche Telekom Demonstrate Network Data Layer for 5G Service-based Architecture"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:40:03.611Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and Deutsche Telekom Deploy World's First Network Data Layer Proof of Concept for 5G Service-Based Architecture&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Implementation of HPE Shared Data Environment (SDE) simplifies creation of end-user services and streamlines network performance&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Cloud-native VNFs benefit from a simplified internal architecture&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-31T09:39:15.637Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:40:05.917Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T07:36:39.354Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE deploys the world's first Network Data Layer Proof-of-Concept with Deutsche Telekom AG&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_lyoo
+                    jcr:lastModified="{Date}2020-04-13T19:01:09.033Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PALO ALTO, Calif. and BONN, Germany - June 27, 2018 -&lt;/b> &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) and Deutsche Telekom AG, announce that they have recently implemented the world's first Network Data Layer (NDL) Proof-of-Concept integrating various Virtual Network Functions (VNFs) of different vendors in a cloud infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Deutsche Telekom deployed NDL using HPE Shared Data Environment (SDE) and is compliant with the principles of the Unified Data Layer that has been specified in standardization bodies. It simplifies the creation of end-user services by exposing network capabilities to operator's services and 3rd-party applications, and streamlines performance of the heterogeneous network environments for savings on network resources, and operational efficiency.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The NDL implementation, with multiple virtual instances of HPE's SDE solution, dealt with diverse traffic patterns (5G UDR/UDSF) and high performance requirements of various stateless VNFs that externally store all their data. As demonstrated, such cloud-native VNFs benefit from a simplified internal architecture regarding redundancy, failure recovery, scalability and operability. Deutsche Telekom implemented a PCRF, as one of the integrated HPE SDE clients in the Proof-of-Concept, in a completely stateless mode and won the Policy Control Award 2018 for 'most innovative data monetization solution&amp;quot;&lt;sup>1&lt;/sup>.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_6wz5
+                    jcr:lastModified="{Date}2018-10-18T07:40:17.849Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Cloud-native VNFs benefit from a simplified architecture regarding redundancy, failure recovery, scalability and operability&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T07:40:17.849Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_6wz5>
+                <textonlycomponent_ddt5
+                    jcr:lastModified="{Date}2018-10-31T09:43:03.366Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Deutsche Telekom and HPE have proven that stateless clients, in combination with a Network Data Layer architecture, significantly reduce the complexity of the overall solution by allowing network topological transparency, improved resiliency, as well as a reduced cloud integration and configuration process.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Sven Langer, Senior Core Network Architect at Deutsche Telekom stated: HPEs Network Data Layer implementation allowed a rapid and smooth integration with third party VNFs. Verified response times in a range of 1 millisecond provide an excellent basis for cloud native network functions to externally store all data, especially dynamic context data that allows seamless failovers and improves the customer experience.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Globally Communication Service Provider's (CSPs) are looking for the best approach to evolve to 5G networks as well as innovating to deliver digital services. said Dave Sliter, VP &amp;amp; GM, Communications and Media Solutions, HPE. Adoption of 5G technology introduces major operational and financial challenges. HPE Shared Data Environment is an essential enabler for this transformation and reduces these risks.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_45g4
+                    jcr:lastModified="{Date}2018-10-18T07:42:31.460Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE shared Data Environment is an essential enabler for transformation and reducing risks&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T07:42:31.460Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_45g4>
+                <textonlycomponent_oxxj
+                    jcr:lastModified="{Date}2020-04-13T19:02:11.394Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>5G is set to improve coverage, speed and reliability for mobile users whilst giving CSPs the ability to send data with little latency and high precision. 5G will also be an essential component for other emerging IoT technology including smart city functions, car-to-car communication, wireless sensors and mobile wearables.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Shared Data Environment solutions are available globally.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional information on HPE Shared Data Environment solutions: &lt;a href=&quot;https://www.hpe.com/us/en/solutions/digital-communications-services.html&quot; target=&quot;_blank&quot;>www.hpe.com/dsp/services&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>.&amp;nbsp;&lt;a href=&quot;https://tmt.knect365.com/policy-control/awards&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>https://tmt.knect365.com/policy-control/awards&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_az53
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/gartner-names-hpe-a-leader-in-magic-quadrant-for-operations-support-systems"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Gartner-Names-HPE-a-Leader-in-Magic-Quadrant-for-Operations-Support-Systems.jpg"/>
+                        </contentblock_az53>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wzde
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/hpe-and-5g-lab-germany-collaborate-to-deliver-next-generation-edge-applications"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and 5G Lab Germany Collaborate to Deliver Next-Generation Edge Applications"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and 5G Lab Germany Collaborate to Deliver Next-Generation Edge Applications"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPEand5GLab.jpg"/>
+                        </contentblock_wzde>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_82ef
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/02/hpes-role-in-creating-a-better-future-on-display-at-mobile-world-congress-2018"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPEs Role in Creating a Better Future on Display at Mobile World Congress 2018"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPEs Role in Creating a Better Future on Display at Mobile World Congress 2018"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/Blog-Image-Cite.jpg"/>
+                        </contentblock_82ef>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

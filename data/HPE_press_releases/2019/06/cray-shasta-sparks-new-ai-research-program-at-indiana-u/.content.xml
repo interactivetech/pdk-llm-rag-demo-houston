@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:40:59.385Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/compute]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Cray Shasta sparks new AI research program at Indiana U"
+        jcr:uuid="2dc75562-8822-40c3-85c1-dc820377efde"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Cray Shasta sparks new AI research program at Indiana U"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-06-07T11:47:00.000-07:00"
+        metaDescription="Supercomputer “Big Red 200” will be the first Cray Shasta system in academia"
+        metaKeywords="Cray, Shasta supercomputer, Indiana University, artificial intelligence, AI, exascale, exascale era, Slingshot interconnect, Big Red 200, AMD EPYC processors"
+        metaOgImage="/content/dam/hpe/newsroom/2019/06/image-norend/cray-shasta-sparks-new-ai-research-program-at-indiana-u.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Cray Shasta sparks new AI research program at Indiana U"
+        pageTitle="Cray Shasta sparks new AI research program at Indiana U"
+        priority="(None)"
+        socialDescription="Supercomputer “Big Red 200” will be the first Cray Shasta system in academia"
+        subtitle="Supercomputer “Big Red 200” will be the first Cray Shasta system in academia"
+        theme="dark"
+        UAID="5a9e6623-6703-4e06-9778-f383129183df"
+        UCID="3d7b543e-cc24-400a-9ff6-e2610721b819">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-09-10T18:32:53.238Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 7, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T18:33:09.689Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/cray-shasta-sparks-new-ai-research-program-at-indiana-u.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T18:33:51.730Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Indiana University&amp;nbsp;will be the first university to deploy a Shasta system Slingshot interconnect&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Named “Big Red 200,” the new supercomputer will be instrumental in the University’s exploration and advancement of AI in education, cybersecurity, medicine, environmental science and more&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent
+                    jcr:created="{Date}2020-09-10T18:33:59.864Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T18:34:17.409Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomMargin="0"
+                    bottomPadding="0"
+                    leftMargin="0"
+                    leftPadding="0"
+                    rightMargin="0"
+                    rightPadding="0"
+                    textIsRich="true"
+                    textOnly="&lt;h2>Supercomputer “Big Red 200” will be the first Cray Shasta system in academia&lt;/h2>&#xd;&#xa;"
+                    topMargin="0"
+                    topPadding="0"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T18:51:29.387Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Global supercomputer leader&amp;nbsp;Cray Inc.&amp;nbsp;today announced that&amp;nbsp;Indiana University&amp;nbsp;has selected a Cray Shasta supercomputing system to advance the use of artificial intelligence (AI) across diverse research fields at the university and for the state of&amp;nbsp;Indiana.&amp;nbsp;Indiana University&amp;nbsp;will be the first university to deploy a Shasta system, the Cray Slingshot interconnect and Cray Urika AI Suite for Shasta, providing its engineers, researchers and scientists powerful resources for the next era of computing. Named “Big Red 200,” the new supercomputer will be instrumental in the University’s exploration and advancement of AI in education, cybersecurity, medicine, environmental science and more.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “The new Cray Shasta system is a necessary addition to support Indiana University’s future research endeavors in solving some of the most pressing challenges facing the people of&amp;nbsp;Indiana&amp;nbsp;and our world. We’ve entered an age where AI is poised to transform the future of many industries–from healthcare to cybersecurity–and we’re confident the latest technology from Cray will meet our needs for a computing infrastructure that will build on the promise of AI in Indiana,” said&amp;nbsp;Brad Wheeler, VP for information technology and CIO at&amp;nbsp;Indiana University. “AI brings a whole new level of insight to our researchers and with Big Red 200, we look forward to uncovering more ways we can use AI to solve societal challenges, scientific queries and further education.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Big Red 200, named to celebrate the University’s bicentennial, will replace its predecessor, the “Big Red II” a Cray XK7 supercomputer. With new high-performance computing capabilities, including 2nd generation AMD EPYC™ processors, the new Cray Shasta supercomputer will be the platform for researchers to advance the use of AI across diverse research areas and in the University’s three&amp;nbsp;&lt;a href=&quot;https://grandchallenges.iu.edu/&quot; target=&quot;_blank&quot;>Grand Challenges&lt;/a>&amp;nbsp;initiative to solve local as well as global issues:&amp;nbsp;Precision Health, Prepared for Environmental Change, and Responding to the Addictions Crisis.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “We’re honored to partner with&amp;nbsp;Indiana University&amp;nbsp;and support their critical AI research program,” said&amp;nbsp;Peter Ungaro, CEO at Cray. “Big Red 200 is a shining example of how the same technology in our new Shasta supercomputer architecture that powers the world’s largest exascale systems can be put to work in the University’s datacenter to meet their research objectives. With a Cray Shasta system&amp;nbsp;Indiana University&amp;nbsp;is equipped with a unique solution that blends the best of supercomputing and cloud technologies to help them achieve breakthrough results in AI.”&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T18:37:50.584Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit:&amp;nbsp;&lt;a href=&quot;http://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;i>This press release originally published on cray.com and has been updated and published here in HPE’s Newsroom.&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T18:40:45.408Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/11/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T18:40:45.408Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T18:40:45.408Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T18:42:54.629Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/07/hewlett-packard-enterprise-powers-the-university-of-edinburghs-international-data-facility-with-software-hpc-and-ai-solutions"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Hewlett Packard Enterprise powers the University of Edinburgh’s International Data Facility with software, HPC and AI solutions"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise powers the University of Edinburgh’s International Data Facility with software, HPC and AI solutions"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T18:42:54.629Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2020/07/image-norend/hpe-powers-the-university-of-edinburghs-international-data-facility-with-software-hpc-and-ai-solutions.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T18:42:54.629Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T18:44:59.667Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/01/us-department-of-energys-argonne-leadership-computing-facility-alcf-and-hpe-expand-high-performance-computing-hpc-storage-capacity-for-exascale"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="U.S. Department of Energy’s Argonne Leadership Computing Facility (ALCF) and HPE expand High-Performance Computing (HPC) storage capacity for Exascale"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="U.S. Department of Energy’s Argonne Leadership Computing Facility (ALCF) and HPE expand High-Performance Computing (HPC) storage capacity for Exascale"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T18:44:59.667Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2020/01/image-norend/us-department-of-energys-argonne-leadership-computing-facility-alcf-and-hpe-expand-high-performance-computing-hpc-storage-capacity-for-exascale.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T18:44:59.667Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-09-05T17:38:02.066Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

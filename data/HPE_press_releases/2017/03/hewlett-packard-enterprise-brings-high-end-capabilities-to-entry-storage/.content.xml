@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-24T17:51:54.495Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-brings-high-end-capabilities-to-entry-storage"
+        jcr:uuid="881a5771-73c0-41b6-857e-b863014ddadd"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:55:57.000-07:00"
+        mediaContactEmail="stefanie.cannon"
+        mediaContactName="Stefanie Cannon, HPE"
+        metaDescription="Hewlett Packard Enterprise Brings High-End Capabilities to Entry Storage"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-brings-high-end-capabilities-to-entry-storage/jcr:content/main-par/body-par/textonlycomponent_m5h0"
+        navTitle="Hewlett Packard Enterprise Brings High-End Capabilities to Entry Storage"
+        pageTitle="Hewlett Packard Enterprise Brings High-End Capabilities to Entry Storage"
+        priority="(None)"
+        subtitle="New flash and software-defined storage breakthroughs eliminate compromise and technology dead-ends for SMBs"
+        theme="dark"
+        UAID="a02ce1a5-1c33-44f2-99b1-01ac19de4f69"
+        UCID="96c721f1-44e9-4be1-8e9c-f85cc0b4e36f"
+        WPID="1265">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T14:51:32.496Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="AUGUST 15, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New flash and software-defined storage breakthroughs eliminate compromise and technology dead-ends for SMBs&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_m5h0
+                    jcr:lastModified="{Date}2023-03-24T17:51:54.486Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Palo Alto, CA Aug 15, 2016 Today, Hewlett Packard Enterprise (HPE) announced new shared storage solutions that help small and midsized businesses (SMBs) modernize their IT with hybrid flash and software-defined storage platforms that bring enterprise capabilities to sub-$10K price points.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For years, SMB customers have been forced to subjugate business requirements due to the cost and complexity of enterprise storage. While others have deployed flash for app acceleration, leveraged software-defined storage for cost savings, and are exploring hyper-convergence to accelerate time-to-value, smaller customers and others with entry budgets have been priced out of these game-changing technologies.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The worldwide leader in servers&lt;sup>[1]&lt;/sup> and storage&lt;sup>[2]&lt;/sup>, HPE is bringing enterprise storage data services to the entry space with modern storage that eliminates technology dead ends. The new HPE StoreVirtual 3200 provides a next-generation, entry storage array starting at $6K with an easy on-ramp to software-defined storage while the HPE MSA 2042 delivers hybrid flash for application acceleration starting at under $10K.&lt;sup>[3]&lt;/sup> Both systems feature a rich set of data services from data migration, to flash tiering to embedded resiliency across systems and sites.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>No matter your size, when it comes to todays digital transformation, good enough storage is no longer good enough, said Bill Philbin, vice president and general manager, Storage, Hewlett Packard Enterprise. By lowering the cost of flash and enabling a composable data fabric across storage systems and hyper-converged appliances, HPE is helping customers get off the disposable technology treadmill and onto storage they can grow with, not out of.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Modern shared storage with software-defined DNA starting at $6K&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE StoreVirtual 3200 Storage is a next generation, flexible shared storage system built on HPEs leading &lt;a href=&quot;/content/hpe/base/blueprint/solutions/software-defined.html&quot;>software-defined storage&lt;/a> platform with over 200,000 &lt;a href=&quot;/content/hpe/base/blueprint/products/storage.html&quot;>StoreVirtual&lt;/a> deployments worldwide.&lt;sup>[4]&lt;/sup> The HPE StoreVirtual 3200 provides small and midsized storage customers with a new dual-controller array based on 64-bit ARM technology, a new RAID stack and advanced storage data services like snapshots, thin provisioning and replication at an unprecedented price point. The StoreVirtual 3200 also provides customers with a futureproof and risk-free path for growth through a composable data fabric that spans HPE StoreVirtual Systems and VSA software running seamlessly on &lt;a href=&quot;/content/hpe/base/blueprint/products/servers.html&quot;>HPE ProLiant servers&lt;/a>, &lt;a href=&quot;/content/hpe/base/blueprint/products/integrated-systems/hyper-converged-systems.html&quot;>HPE hyperconverged&lt;/a> appliances, and &lt;a href=&quot;/content/hpe/base/blueprint/products/integrated-systems/synergy.html&quot;>HPE Synergy&lt;/a>. By using the same software-defined storage operating system everywhere, HPEs vision is to provide customers the freedom to grow in any direction, at any time, across any form factor or consumption model.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Architected on a foundation with proven 5-nines availability, the HPE StoreVirtual 3200 is a new breed of StoreVirtual array that gives customers the flexibility to consolidate workloads, add flash when they are ready and scale to meet future demands. Advanced features are available which allow the system to address real-time workload changes by dynamically reacting to I/O fluctuations. This approach utilizes a small amount of &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage.html&quot;>flash storage&lt;/a> to deliver application acceleration with no user interventionmaking it ideal for server virtualization and productivity apps&lt;sup>[5]&lt;/sup>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Deployable in minutes and manageable with zero learning curve, the HPE StoreVirtual 3200 introduces SMB customers to a consumer-driven user experience based on the same intuitive design framework now shared across HPEs &lt;a href=&quot;/content/hpe/base/blueprint/products/storage.html&quot;>enterprise storage&lt;/a> and data center offerings. This simplicity extends to a new remote, cloud-based analytics capability featuring a built-in best practices engine and capacity planning tools to simplify management and reduce risk.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE StoreVirtual 3200 provides resiliency across systems and sites as well as built-in support for more than 2,000 snapshots for rapid, granular recovery designed to keep small to midsized businesses running. For additional protection, with software such as HPE VM Explorer, data can be backed up and stored on HPE StoreOnce Disk Backup.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To ease the technology transition, tools such as HPE StoreVirtual Migration Manager software are available to simplify and de-risk workload migrations. Existing StoreVirtual customers will find the StoreVirtual 3200 can provide the same performance and capacity at 58 percent lower cost than existing 2-node StoreVirtual 4000 configurations.&lt;sup>[6]&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Industrys leading entry SAN array [7] gets flash makeover for under $10K&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE MSA 2042 takes HPEs flagship entry arraywith nearly half a million units sold to-date&lt;sup>[8]&lt;/sup>and turbo-charges it with 800 GB of built-in solid state disk (SSD) capacity plus an all-inclusive software suite that delivers enterprise capabilities, at a starting price under $10K.&lt;sup>[9]&lt;/sup> With flash acceleration, automated tiering and &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/protection-retention-availability/store-once.html&quot;>data protection&lt;/a> features now standard and price-reduced, the MSA 2042 delivers up to 60 percent increase in database transactions per second and 80 percent faster application response times&lt;sup>[10]&lt;/sup> at a 54 percent cost savings,&lt;sup>[11]&lt;/sup> making it ideal for customers looking to accelerate apps such as databases and consolidate on a proven platform.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With simple management designed for IT generalists and HPE ProLiant server users, the MSA 2042 offers the same ease of use as the rest of the MSA family. It provides the flexibility to use built-in SSD capacity as either a read cache accelerator or as a performance tier for read and write acceleration with no additional licensing costs. The system features a set-and-forget tiering engine that optimizes flash capacity by reacting on-the-fly without manual intervention.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Out-of-the-box support for up to 512 array snapshots and remote replication to any MSA system provides affordable application availability with instant recovery to help businesses protect their data and their businesses&lt;sup>[12]&lt;/sup>. A replication wizard simplifies the task of setting up and establishing replication pairs from a unified, easy-to-use GUI.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To protect investments and eliminate technology dead-ends, the MSA 2042 allows businesses to start small and scale with any combination of supported flash and traditional disk drives. As with the other members of the MSA family, the 2042 offers data-in-place upgrades that eliminate data migration headaches and allow customers to carry forward their drive investments.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE StoreVirtual 3200 storage systems are available worldwide, orderable immediately with US street pricing starting at $6,055.&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE MSA 2042 storage systems are available worldwide, orderable immediately with US street pricing starting at $9,877.&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE StoreVirtual Migration Manager available worldwide in Q3 2016.&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprises businesses; the competitive pressures faced by Hewlett Packard Enterprises businesses; risks associated with executing Hewlett Packard Enterprises strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprises filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[1]IDC Worldwide Quarterly Server Tracker for 1CQ16, June 2016. Hewlett Packard Enterprise continues to lead in the worldwide server market by revenue. HPE is the undisputed #1 in worldwide revenue for multiple consecutive quarters.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[2] Based on the Q1 2016 IDC WW Quarterly Disk Storage Systems Tracker for Total Storage Revenue growth (External, Internal and ODM storage systems) in 1Q16. Note HPE is ahead of EMC in revenue, but statistically tied for #1 position.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[3] Estimated US street price for 1.2TB configuration with hardware and software.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[4] Based on HPE internal analysis, June 2016.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[5] Based on software capabilities available with the Advanced Data Services suite.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[6] Estimated US street price comparison between a 2-node StoreVirtual 4330 vs equivalent StoreVirtual 3200 with 14.4 TB raw capacity.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[7] Based on the Q1 2016 IDC WW Quarterly Enterprise Storage Systems Tracker for External Entry (PB 1-4) SAN Storage revenue in 1Q16.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[8] Based on internal reporting of total MSA units shipped.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[9] Based on US street pricing for the MSA 2042 with 800 GB of built-in flash and all-inclusive software license suite. See pricing section for additional details.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[10] Based on third-party testing of MSA 2042 with built-in SSDs and read cache vs. MSA 2040 with HDDs.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[11] Based on flash capacity and software now included with the MSA 2042 array, as compared to purchasing flash capacity and software separately prior to August 15, 2016.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>[12] One HPE Remote Snap license is provided with the MSA 2042. One license per array is required for replication between arrays. Remote Snap is not supported on SAS host-attach models.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_krzc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/09/hpe-introduces-industrys-broadest-high-performance-flash-portfolio-for-midsize-businesses"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Office.jpg"/>
+                        </contentblock_krzc>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_la6a
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/together-hpe-and-nimble-storage-will-deliver-the-industrys-leading-flash-storage-and-predictive-analytics-portfolio"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NewsroomImage1.jpg"/>
+                        </contentblock_la6a>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_xtyl
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/nimble-storage-to-extend-hpe-industry-leadership-in-flash-storage"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Nimble Storage to Extend HPE Industry Leadership in Flash Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Nimble Storage to Extend HPE Industry Leadership in Flash Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Nimble-2100x1181.jpg"/>
+                        </contentblock_xtyl>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-09-08T19:45:44.187Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-delivers-industry-first-converged-system-for-iot"
+        jcr:uuid="6f6c7a90-37be-4edb-99d2-eed378200330"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:29.000-07:00"
+        mediaContactEmail="Kasia.Johnston"
+        mediaContactName="Kasia Johnston, HPE"
+        metaDescription="Hewlett Packard Enterprise Delivers Industry First Converged System for IoT"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-industry-first-converged-system-for-iot/jcr:content/main-par/body-par/columncontainercompo/column_2/contentblock_13us"
+        navTitle="Hewlett Packard Enterprise Delivers Industry First Converged System for IoT"
+        pageTitle="Hewlett Packard Enterprise Delivers Industry First Converged System for IoT"
+        priority="(None)"
+        subtitle="New IoT solutions, services and ecosystem provide device security and enables decision making at the edge"
+        theme="dark"
+        UAID="569c53ca-a304-4487-89b4-b4d6713e2ddd"
+        UCID="505a1bc7-144e-47c9-8b67-cb651259db7e"
+        WPID="1307">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T13:51:15.478Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 8, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New IoT solutions, services and ecosystem provide device security and enables decision making at the edge&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_5ou5
+                    jcr:lastModified="{Date}2022-09-08T19:45:13.386Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS June 8, 2016 Today, Hewlett Packard Enterprise (HPE) unveiled the Edgeline EL1000 and Edgeline EL4000, the industrys first converged systems for the Internet of Things (IoT). These systems integrate data capture, control, compute and storage to deliver heavy-duty analytics and insights at the edge to enable real-time decision making. In addition, HPE announced enhanced IoT security capabilities, new services and an industry leading partner ecosystem to advance the adoption and impact of the Internet of Things.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the proliferation of IoT devices, or things generating petabytes of data every day, organizations have an opportunity to quickly capture, process and analyze that data to enable real-time control and decision making. Oil and gas, manufacturing and telecommunications industries face specific IoT challenges they need to harness data in remote environments, from windmills in the desert to smart energy grids and manufacturing plants, to drive timely business decisions. Until now, the remote data would have to be transported to a data center or cloud for analysis, which can be a slow, risky and inefficient process. HPE today introduced new IoT solutions that enable organizations to harness the power of their data by delivering real-time analytics and machine learning at the edge, where the things are.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations that take advantage of the vast amount of data and run deep analytics at the edge can become digital disrupters within their industries, said Dr. Tom Bradicich, vice president and general manager, Servers and IoT Systems, Hewlett Packard Enterprise. HPE has built machine learning and real time analytics into its IoT platforms, and provides services that help customers understand how data can best be leveraged, enabling them to optimize maintenance management, improve operations efficiency and ultimately, drive significant cost savings.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>HPE Edgeline IoT Systems&lt;/u>: &lt;u>Deep Data Capture and Analytics at the Edge&lt;/u>&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is unveiling the &lt;a href=&quot;/content/hpe/base/blueprint/product-catalog/servers/edgeline-systems.hits-12.html&quot; target=&quot;_blank&quot;>Edgeline EL1000&lt;/a> and &lt;a href=&quot;/content/hpe/base/blueprint/product-catalog/servers/edgeline-systems.hits-12.html&quot; target=&quot;_blank&quot;>Edgeline EL4000&lt;/a>, the industrys first converged systems for the IoT, integrating compute, storage, data capture, control and enterprise-class systems and device management built to thrive in hardened environments and handle shock, vibration and extreme temperatures. The EL1000 and EL4000 are optimized to deliver heavy-duty data analytics and insights, graphically intense data visualization, and real time response at the edge.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE announced today that the HPE Vertica Analytics Platform runs on the Edgeline EL4000, delivering historical and predictive analytic insights from in-database machine learning algorithms across a broad range of IoT analytic use cases. Vertica on Edgeline brings applied machine learning to the edge to deliver closed-loop analytics that enable organizations to derive immediate insights from their IoT initiatives. In addition, to easily secure traffic back to the data center, the EL1000 and EL4000 support &lt;a href=&quot;http://www.arubanetworks.com/products/security/vpn-services/&quot; target=&quot;_self&quot;>Arubas Virtual Intranet Access&lt;sup>TM&lt;/sup>&lt;/a> (VIA) VPN client. Arubas VIA&lt;sup>TM&lt;/sup> provides organizations an automated, zero-touch, secure VPN, and is available for both commercial and high-security government IoT applications.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Dynamic IoT Security&lt;/u>&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Securing enterprise networks for the onslaught of IoT devices is also a primary concern for IT professionals today. Networks need to automatically add, detect, profile and secure new and unknown IoT devices without manual intervention. With enhancements to&lt;u> &lt;/u>&lt;a href=&quot;http://www.arubanetworks.com/products/security/&quot; target=&quot;_self&quot;>Aruba ClearPass&lt;/a>&lt;u>,&lt;/u> IT can profile new IoT devices, enforce security policies, and exchange policy status with other security systems including mobile device management systems. &lt;a href=&quot;http://community.arubanetworks.com/t5/Technology-Blog/The-Internet-of-Things-Game-changer-or-security-nightmare/ba-p/268023&quot; target=&quot;_self&quot;>ClearPass integrates with existing network infrastructures&lt;/a> from any vendor enabling IT teams to easily automate and scale rather than become an inhibitor for new digital transformation initiatives.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>IoT Expertise - Helping Customers Transform, Design and Run IoT&lt;/u>&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE also introduced the HPE IoT Transformation workshop (TW), an interactive HPE facilitated workshop that helps customers to define their IoT vision and strategy and gain business technology alignment. This structured discussion takes a fact-based, analytical approach to help customers achieve alignment on their vision, identify current and future states, and determine a set of specific transformational IoT projects. The IoT TW is the first step in a full suite of services designed to help customers successfully implement IoT solutions based on business needs and industry parameters. In addition, HPEs Analytic Consulting and Predictive Maintenance Services deliver advanced analytics to business processes to achieve objectives, reduce costs and improve efficiencies.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Partnerships&lt;/u>&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is partnering with industrial IoT leaders like &lt;a href=&quot;http://www.ge.com/digital/&quot; target=&quot;_blank&quot;>GE Digital&lt;/a>, &lt;a href=&quot;http://www.ni.com/en-us.html&quot; target=&quot;_blank&quot;>National Instruments&lt;/a> and &lt;a href=&quot;http://www.ptc.com/&quot; target=&quot;_blank&quot;>PTC&lt;/a> as part of its go to market plan to deliver joint solutions to customers.These solutions address industrial use cases to combine the very best of Operational Technology (OT) and IT to support the aerospace, oil and gas, manufacturing, automotive and energy industries.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE also announced four &lt;a href=&quot;/content/hpe/base/blueprint/products/servers/global-innovation-lab.html&quot; target=&quot;_blank&quot;>IoT Innovation Labs&lt;/a> and expertise across the globe. HPE and Intel operate these labs to help customers envision how IoT can be applied in their industry, build and test IoT applications, and access technical expertise. In addition, partners and customers are able to engage, interact, assess and collaborate on solutions development and their applications. The labs are now open and located at HPE facilities in Houston, Texas, Grenoble, France, Bangalore, India and Singapore.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_tjde
+                            jcr:lastModified="{Date}2022-09-08T19:45:24.915Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/creating-a-refinery-of-the-future-with-the-internet-of-things"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Creating a refinery of the future with the Internet of Things"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Creating a refinery of the future with the Internet of Things"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T19:45:24.915Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T19:45:24.915Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_tjde>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wktj
+                            jcr:lastModified="{Date}2022-09-08T19:45:34.111Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/abb-and-hpe-bring-intelligence-to-industrial-plants"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="ABB and HPE Bring Intelligence to Industrial Plants"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="ABB and HPE Bring Intelligence to Industrial Plants"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T19:45:34.111Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/busy-factory_small.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T19:45:34.111Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_wktj>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_13us
+                            jcr:lastModified="{Date}2022-09-08T19:45:44.173Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-accelerates-data-insight-and-action-across-the-enterprise-with-latest-edgeline-capabilities"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T19:45:44.173Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Edgeline-Release.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T19:45:44.173Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_13us>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

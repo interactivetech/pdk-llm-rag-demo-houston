@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:04:42.921Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-delivers-a-fast-and-safe-path-to-the-all-flash-data-center"
+        jcr:uuid="74541452-e061-4580-9dc4-c954492ae1b5"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:25.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Delivers a Fast and Safe Path to the All-Flash Data Center"
+        navTitle="Hewlett Packard Enterprise Delivers a Fast and Safe Path to the All-Flash Data Center"
+        pageTitle="Hewlett Packard Enterprise Delivers a Fast and Safe Path to the All-Flash Data Center"
+        priority="(None)"
+        subtitle="New 3PAR StoreServ All-Flash Solutions and StoreOnce Protection Enable Futureproof Data Center Modernization"
+        theme="dark"
+        UAID="770ad8a1-f5b4-4a7d-a689-7741791fb01e"
+        UCID="330c5528-e0bd-4470-ae86-c17ce52f4834"
+        WPID="1463">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T14:03:35.062Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="Nov 16, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New 3PAR StoreServ All-Flash Solutions and StoreOnce Protection Enable Futureproof Data Center Modernization&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_gvva
+                    jcr:lastModified="{Date}2018-10-19T14:13:41.711Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Nov 16, 2015) - Hewlett Packard Enterprise (NYSE: HPE) today announced new &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot;>HPE 3PAR StoreServ Storage&lt;/a> solutions to accelerate the move to all-flash data centers. HPE has also integrated 3PAR StoreServ with new &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/products/storage/protection-retention-availability/store-once.html&quot;>HPE StoreOnce&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/products/storage/storeever-tape-storage.html&quot;>HPE StoreEver&lt;/a> product lines to ensure protection and retention keep pace with demand.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The need for enterprises to move faster is driving trends like IT-as-a-Service and the growth of data analytics, which in turn are driving the adoption of flash storage. In addition to speed and predictable service levels, organizations adopting flash are also reducing storage footprint by up to 85 percent as they move away from spinning disks in favor of this higher density media.&lt;sup>1&lt;/sup> In fact, IDC reported that the impact flash-based arrays will have on the data center is undeniable as more flash platforms deliver enterprise-class data services, including snapshots, clones, encryption, replication, and quality of service.&lt;sup>2&lt;/sup> HPE 3PAR StoreServ delivers all of these data services and has a recently updated flash portfolio that provides industry leading scale,&lt;sup>3&lt;/sup> record-setting performance,&lt;sup>4&lt;/sup> and affordability starting at $19K.&lt;sup>5&lt;/sup> Today's announcements help legacy storage users migrate more quickly to flash while reducing risk.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;&lt;i>Faced with the need for agility, organizations want to take advantage of game-changers like flash without introducing risk,&amp;quot; said Manish Goel, senior vice president and general manager for storage, HPE. &amp;quot;To meet those demands, Hewlett Packard Enterprise simplifies storage with a single flash-optimized 3PAR StoreServ line from the entry to enterprise with tier-1 resiliency and built-in data protection&lt;/i>.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerating the move to the all-flash data center&lt;br>&#xa; &lt;/b>3PAR StoreServ Storage enables organizations to accelerate the transformation to the all-flash data center with solutions that accommodate new and mixed media types in the same array while maintaining performance and enterprise-class resiliency. Earlier this month, the Storage Performance Council published a new world record SPC-2 result for the 3PAR StoreServ 20850 all-flash array that demonstrates better performance at half the price of the EMC VMAX 400K.&lt;sup>6&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Building on this success, HPE is introducing new 3PAR StoreServ products, solutions, and services:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>3PAR Flash Acceleration for Oracle&lt;/b> - AnHPE validated solution that boosts database performance up to 75 percent&lt;sup>7&lt;/sup>while enabling legacy systems like EMC VMAX to remain in place. Theseflash arrays can be placed for half the cost&lt;sup>8&lt;/sup> versus upgrading the legacy storage systems&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>3PAR Online Import software&lt;/b> - Afree, 12-month license for customers looking to move off hard disk drive(HDD)-bound legacy storage via simple, five-step migration from EMC, HDS,and now IBM XIV storage&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Support for 3D NAND drives&lt;/b> -Support for this new solid state drive (SSD) technology enables customersto accelerate application performance with a low incremental investment&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Lowering cost with flash-ready unified storage and next-gen active archive&lt;br>&#xa; &lt;/b>Unlike pure flash systems designed for single media types or single SAN protocols, StoreServ Storage features a flash-optimized design that supports both file and block storage as well as a secondary tier of HDDs. Leveraging this architecture, HPE also introduced today the 3PAR StoreServ 8200 Converged File and Block Starter Kit, which enables consolidation onto a single unified system that costs 26 percent less than competitors.&lt;sup>9&lt;/sup> To help customers deploy these unified systems with more confidence, HPE also released several reference architectures for 3PAR StoreServ Storage, addressing Virtual Desktop Infrastructure and SharePoint environments as well as HPE Software solutions for information management.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE is also offering a completely refreshed portfolio of StoreEver LTO-7 media, drives and automated libraries. This refreshed product lineup delivers even more low-cost and reliable long-term data retention solutions to customers, providing 2x the capacity at nearly double the performance of previous generations of LTO technology&lt;sup>10&lt;/sup> plus a 100x improvement in reliability.&lt;sup>11&lt;/sup> Pairing high-performance 3PAR StoreServ flash arrays with these new StoreEver Tape offerings gives customers the ability to deploy a &amp;quot;tape as NAS&amp;quot; solution to simply and seamlessly access bulk archives on tape as if they were on disk, ideal for enabling active archive.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reducing risk with flash- and app-integrated data protection &lt;br>&#xa; &lt;/b>HPE also announced new solutions to help customers as they move away from traditional backup silos in favor of flash array- and application-integrated data protection, including an entirely new lineup of entry and mid-range HPE StoreOnce Systems. With up to 2.7 times more performance&lt;sup>12&lt;/sup> and up to twice the density of the competition,&lt;sup>13&lt;/sup> these new StoreOnce models are priced at under $0.05 per usable gigabyte (GB) of logical capacity&lt;sup>14&lt;/sup> and support native integration with Oracle, SAP, Microsoft, Veeam, and Veritas applications to improve performance, reduce network bandwidth, and eliminate dedicated backup management.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For customers on the path to an all-flash data center, these new StoreOnce models include application-integrated snapshot offload capabilities from 3PAR StoreServ via &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/products/storage/rmc-backup.html&quot;>StoreOnce Recovery Manager Central (RMC)&lt;/a> software. Already integrated with VMware, RMC software now enables the rapid creation and movement of Microsoft SQL snapshots directly from the 3PAR StoreServ array to any StoreOnce backup target via unique HPE Express Protect technology. Featuring deep VMware vCenter and Microsoft SQL Studio management integration, this solution reduces risk by allowing users to move data to a secondary storage tier, reduces cost by eliminating licenses for dedicated ISV backup software, and improves agility by accelerating backup and recovery. With the added integration of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/data-protector-backup-recovery-software/index.html&quot;>Data Protector&lt;/a> and RMC, customers gain advanced virtual machine recovery options, granular item recovery, and the ability to utilize tiers such as tape and cloud for efficient long-term retention.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Pricing and Availability&lt;sup>15&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>3D NAND SSDs are available worldwide on December 17, 2015, with a US street price starting from $2,075 per drive and capacity points starting at 400 GB.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>3PAR Online Import support for IBM XIV is available with 3PAR OS 3.2.2 MU2 in January, 2016.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The 3PAR StoreServ 8200 Converged File and Block Starter Kit with 8 10K 600-GB SAS drives, 12 2-TB 7.2K SAS drives, OS Suite, Replication Suite, 3 years of24x7 Proactive Care Support, and a 16-TB File Persona license is available worldwide on December 7, 2015 for a US street price of $36,201.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>StoreEver LTO-7 tape media, tape drives, and tape automation products are available worldwide on December 1, 2015, with a US street price starting at $4,831 for an internal tape drive.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HPE StoreOnce 3100 with 8TB of raw backup capacity is available worldwide on December 14, 2015, with a US street price starting at $5,931.25.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The StoreOnce 3520 starts at 12TB raw with a US street price starting at $8,128.55.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The StoreOnce 3540 starts with 24TB raw with a US street price starting at $10,950.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The StoreOnce 5100 starts with 48TB raw with a US street price starting at $25,056.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Version 2.0 of StoreOnce RMC software, which allows native data movement from 3PAR to StoreOnce backup for data protection, is available worldwide on January 15, 2016, with a US street price starting from $540.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>&lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/home.html&quot;>Hewlett Packard Enterprise&lt;/a> is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement &lt;br>&#xa; This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> HPE internal analysis; as compared to EMC VMAX 400K with 12 PB of capacity (representing a mix of 90% HDDs and 10% SSDs).&lt;br>&#xa; &lt;sup>2&lt;/sup> Flash-Based Array Market Proving to Be More Than Just a Flash in the Pan as Market Soars Past $11 Billion in 2014, IDC Says, January 2015, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.idc.com/getdoc.jsp?containerId=prUS253597153&quot;>http://www.idc.com/getdoc.jsp?containerId=prUS25359715&lt;br>&#xa; &lt;sup>3&lt;/sup>&lt;/a> HPE 3PAR StoreServ 20850 demonstrated 62,844.45 SPC-2 MBPS, $19.93/SPC-2 MBPS Price Performance, current as of November 16, 2015, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.storageperformance.org/benchmark_results_files/SPC-2/HPE/B00075_HPE_3PAR-StoreServ-20850/b00075_HPE_3PAR-StoreServ-20850_SPC-2_executive-summary.pdf4&quot;>http://www.storageperformance.org/benchmark_results_files/SPC-2/HPE/B00075_HPE_3PAR-StoreServ-20850/b00075_HPE_3PAR-StoreServ-20850_SPC-2_executive-summary.pdf&lt;br>&#xa; &lt;/a>&lt;sup>4&lt;/sup> HPE internal analysis based on the comparison of HPE 3PAR StoreServ 20850 Storage with 12 BP usable capacity and EMC XtremIO storage, using 40TB flash bricks (a total of 8 systems) to achieve 12 PB usable capacity.&lt;br>&#xa; &lt;sup>5&lt;/sup> All-flash HPE 3PAR StoreServ 8000 Storage systems are available worldwide, orderable immediately, with US street pricing starting from $19,479.&lt;br>&#xa; &lt;sup>6&lt;/sup> EMC VMAX 400K demonstrates 55,643.78 SPC-2 MBPS, $33.58 SPC-2 MBPS Price Performance, current as of November 16, 2015. &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.storageperformance.org/benchmark_results_files/SPC-2/EMC/B00073_EMC_VMAX-400K/b00073_EMC_VMAX-400K_SPC-2_executive-summary.pdf.7&quot;>http://www.storageperformance.org/benchmark_results_files/SPC-2/EMC/B00073_EMC_VMAX-400K/b00073_EMC_VMAX-400K_SPC-2_executive-summary.pdf&lt;/a>.&lt;br>&#xa; &lt;sup>7&lt;/sup> Based on HPE internal testing, August 2015.&lt;br>&#xa; &lt;sup>8&lt;/sup> Wikibon, November 2015.&lt;br>&#xa; &lt;sup>9&lt;/sup> As compared to a similarly configured VNX 5400. HPE 3PAR File starter kit 6U vs EMC VNX at 10U. 3PAR 8200 with 8 10K 600GB SAS drives, 12 2-TB 7.2K SAS drives, OS Suite, 16-TB File Persona license, Replication Suite, and 3 years of 24x7 Proactive Care Support.&lt;br>&#xa; &lt;sup>10&lt;/sup> Compared with LTO-6 technology.&lt;br>&#xa; &lt;sup>11&lt;/sup> Based on two orders of magnitude better bit error rate compared with LTO-6 technology.&lt;br>&#xa; &lt;sup>12&lt;/sup> Based on comparison of publicly available product information for EMC DD2200 with Data Domain Boost and HPE StoreOnce 3520/3540 Systems with StoreOnce Catalyst.&lt;br>&#xa; &lt;sup>13&lt;/sup> Based on a comparison of HPE StoreOnce 3540 and EMC DD2200 using publicly available product information.&lt;br>&#xa; &lt;sup>14&lt;/sup> Based on the US list price for HPE StoreOnce 3540 System with 15.5TB of capacity assuming a 20:1 deduplication ratio.&lt;br>&#xa; &lt;sup>15&lt;/sup> Estimated U.S. street prices. Actual prices may vary.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_on5l
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_on5l>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_y32x
+                            jcr:lastModified="{Date}2018-10-19T14:19:35.344Z"
+                            jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/hpe-accelerates-all-flash-data-center-adoption-across-state-co-operative-banks-in-india/"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Accelerates All-Flash Data Center Adoption Across State Co-operative Banks in India"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Accelerates All-Flash Data Center Adoption Across State Co-operative Banks in India"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-19T14:19:35.344Z"
+                                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE Accelerates All-Flash Data Center Adoption Across State Co-operative Banks in India.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-19T14:19:35.344Z"
+                                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_y32x>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_1026
+                            jcr:created="{Date}2018-10-19T14:26:42.112Z"
+                            jcr:createdBy="razvan.floristeanu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-19T14:30:44.912Z"
+                            jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-19T14:30:44.912Z"
+                                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/10/image-norend/HPE-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-HPE-Nimble-Storage-and-HPE-3PAR.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-19T14:30:44.912Z"
+                                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_1026>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

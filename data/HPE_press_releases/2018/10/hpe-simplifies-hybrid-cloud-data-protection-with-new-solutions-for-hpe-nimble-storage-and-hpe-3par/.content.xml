@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:21:11.590Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par"
+        jcr:uuid="7e3cb595-838a-4672-a560-89daab11b005"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-10-01T04:45:45.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Natassia Culp"
+        metaDescription="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+        metaKeywords="3PAR, Data protection, GreenLake, StoreOnce"
+        navTitle="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+        pageTitle="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+        priority="(None)"
+        subtitle="New features enable customers to reduce storage costs, improve backup performance and decrease operator time"
+        theme="dark"
+        UAID="d89f6795-d381-43b7-95f8-00f0085f7dc2"
+        UCID="dbf7c257-164b-40bc-90c3-ac4997012d4e"
+        webSectionId="R11989"
+        WPID="201786">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-11-07T12:15:49.659Z"
+                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 1, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/10/image-norend/HPE-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-HPE-Nimble-Storage-and-HPE-3PAR.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-30T17:48:23.472Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE introduces new capabilities allowing users to increase the simplicity, performance and agility of data life cycle management for private and public clouds&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New solutions help reduce unplanned downtime and data loss&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New features enable customers to reduce storage costs, improve backup performance and decrease operator time&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_jl6j
+                    jcr:lastModified="{Date}2018-11-07T12:21:39.349Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa; PALO ALTO, California – Oct. 1, 2018&amp;nbsp;&lt;/b>– Hewlett Packard Enterprise (HPE) today announced new hybrid cloud data protection and copy data management solutions for its intelligent storage portfolio. These new capabilities allow customers to increase operational efficiency by up to 95%&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn1&quot; name=&quot;_ftnref1&quot;>&lt;sup>1&lt;/sup>&lt;/a>, enable faster back up to the cloud, and reduce cloud storage costs by up to 20x&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn2&quot; name=&quot;_ftnref2&quot;>&lt;sup>2&lt;/sup>&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Next generation of HPE StoreOnce backup appliance portfolio increases business continuity with flash speed data protection in the data center and cost-efficient archive and disaster recovery in the cloud&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Recovery Manager Central (RMC) 6.0 simplifies data protection and copy data management for HPE Nimble Storage&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE StoreOnce with Commvault software integration reduces the storage footprint and network bandwidth requirements to the cloud&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Backup is enhanced with next-generation HPE StoreOnce and Commvault software integration, offering consumption-based IT models and reducing costs by up to 30%&lt;sup>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn3&quot; name=&quot;_ftnref3&quot;>3&lt;/a>&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;As the engine of digital transformation, data is an organization’s most valuable currency. The ability to gain actionable insights and unlock the economic value of data is critical for driving business outcomes. However, managing and protecting that data is increasingly challenging. Exploding data growth, demanding service level agreement (SLA) requirements, and an evolving threat landscape are putting pressure on IT to embrace an intelligent storage approach to protecting applications across their private and public cloud estate.&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;nbsp;“Businesses need a built-for-cloud approach to data protection and copy data management on premises and in the cloud for simple and efficient data mobility,” said Patrick Osborne, Vice President of Secondary Storage and Big Data product management, HPE. “The solutions and services announced today enable HPE 3PAR and HPE Nimble Storage customers to effortlessly orchestrate intelligent, multi-tiered data protection from on premises arrays to the public cloud – driven by policy and business need.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Next-Generation HPE StoreOnce Optimizes Cloud Investment&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;An increasing number of organizations are now deploying a cloud-first strategy, mandating that their IT functions are built for cloud. HPE StoreOnce systems deliver simple, cost-efficient and secure backup to the cloud. As a result, customers can leverage the benefits of the cloud for long-term retention of backup data to help with regulatory or governance compliance or disaster recovery, while continuing to use on-premises performance-optimized StoreOnce systems for short-term operational recovery, enabling fast restore.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;“The significant performance, capacity and manageability improvements offered by the next generation HPE StoreOnce lets us and our customers protect more data, faster, and for less,” said Sebastian Koehler, Solution Architect, GODYO Enterprise Computing AG. “The new HPE StoreOnce systems enable simpler and more rapid provisioning of new data protection storage, while the introduction of the larger HPE StoreOnce VSA along with the new flexible License Server is game changing for the quick deployment and re-deployment of HPE StoreOnce as a virtual appliance. All of this coupled with the proven inbuilt performance and efficiency of HPE StoreOnce Catalyst and replication provides customers with the capabilities they need out of the box for fast, reliable operational recovery.”&amp;nbsp;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_g3zq
+                    jcr:lastModified="{Date}2018-10-29T23:24:21.209Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Next generation HPE StoreOnce with Cloud Bank Storage delivers simple, efficient and secure backup&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-29T23:24:21.209Z"
+                        jcr:lastModifiedBy="esparza@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_g3zq>
+                <textonlycomponent_qkjx
+                    jcr:lastModified="{Date}2019-07-23T15:33:18.916Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Next-generation HPE StoreOnce with Cloud Bank Storage dramatically improves the performance and agility of hybrid cloud&amp;nbsp;&lt;a href=&quot;/content/hpe/base/blueprint/products/storage/data-protection-solutions.html&quot;>data protection&lt;/a>&amp;nbsp;for environments including Amazon S3 and Microsoft Azure by copying only unique data to the cloud, and stores encrypted, self-describing backup data for simple cloud disaster recovery. The next generation HPE StoreOnce platform reduces operational time by as much as 95%&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn4&quot; name=&quot;_ftnref4&quot;>&lt;sup>4&lt;/sup>&lt;/a>&amp;nbsp;with a unified view of multiple HPE&amp;nbsp;&lt;a href=&quot;/content/hpe/base/blueprint/products/storage/protection-retention-availability/store-once.html&quot;>StoreOnce&lt;/a>&amp;nbsp;systems - both on premises and in the cloud.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;Cloud is a strategic priority in every organization today, and data protection is a popular use case,” said Tad Brockway, General Manager, Azure Storage at Microsoft Corp. “Next generation HPE StoreOnce with Cloud Bank Storage delivers simple, efficient and secure backup to the cloud. With the combination of Microsoft Azure and HPE StoreOnce, enterprises are able to move data faster and reduce downtime risk.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;RMC 6.0 for HPE Nimble Storage Delivers Cloud Agility at Flash Speed&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Businesses are looking to leverage their backup data for more than just recovery. They are evolving their data protection process from being a reactive insurance policy to a proactive, value-added service for their organization.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE RMC delivers a&amp;nbsp;&lt;a href=&quot;/content/hpe/base/blueprint//products/storage/rmc-backup.html&quot;>simpler, centralized copy data management solution&lt;/a>&amp;nbsp;currently available for HPE 3PAR and now extended to HPE Nimble Storage. Using RMC 6.0 for direct backup from HPE storage arrays to HPE StoreOnce now delivers approximately 23X&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn5&quot; name=&quot;_ftnref5&quot;>&lt;sup>5&lt;/sup>&lt;/a>&amp;nbsp;faster backup and about 15X&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn6&quot; name=&quot;_ftnref6&quot;>&lt;sup>6&lt;/sup>&lt;/a>&amp;nbsp;faster&amp;nbsp;recovery&amp;nbsp;with less cost and complexity than competing solutions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;“Our research shows that fragmented, inefficient secondary data copy sprawl is putting pressure on costs and intensifying risk for many organizations,” said Christophe Bertrand, senior data protection analyst, Enterprise Strategy Group. “HPE storage-integrated copy data management with RMC 6.0 helps solve the challenges of copy data proliferation and manual data provisioning with fast, automated and zero-impact data access for recovery, archive, analytics and application development.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Commvault Integration Extends the HPE StoreOnce Software Partner Ecosystem&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;New Commvault Complete™ Backup &amp;amp; Recovery software integration with HPE StoreOnce provides seamless and efficient backup to the cloud. Commvault customers can now benefit from up to 20x&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn7&quot; name=&quot;_ftnref7&quot;>&lt;sup>7&lt;/sup>&lt;/a>&amp;nbsp;lower cloud storage costs, faster backups, and approximately 95%&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn8&quot; name=&quot;_ftnref8&quot;>&lt;sup>8&lt;/sup>&lt;/a>&amp;nbsp;less backup storage and network traffic.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;“This announcement further strengthens the partnership between Commvault and HPE, providing our mutual customers with a simple, efficient, fast and secure hybrid cloud data protection solution,” said Owen Taraniuk, Head of Worldwide Partnerships and Market Development at Commvault. “The combination of Commvault software and the next generation HPE StoreOnce platform seamlessly extends the datacenter to the cloud, enabling organizations to move data where it needs to be.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Optimized Cloud Economics&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE customers can now gain from applying cloud economics to the security and control of their on-premises infrastructure with a consumption-based IT billing model that aligns and grows with business needs. The consumption-based IT models and HPE GreenLake Flex Capacity planning strategies with HPE&amp;nbsp;&lt;a href=&quot;http://www.hpe.com/greenlake&quot;>GreenLake&lt;/a>&amp;nbsp;Backup will be enhanced with the next-generation HPE StoreOnce and the new Commvault integration, delivering 30% savings with HPE GreenLake Flex Capacity&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn9&quot; name=&quot;_ftnref9&quot;>&lt;sup>9&lt;/sup>&lt;/a>. The complete backup solution is designed, operated and implemented by HPE Pointnext.&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additionally, advisory and professional services for Microsoft Azure Hybrid Cloud offered by HPE Pointnext help customers define and implement a &lt;a href=&quot;https://www.hpe.com/us/en/solutions/cloud.html&quot; target=&quot;_blank&quot;>hybrid IT&lt;/a> backup strategy that delivers end-to-end support for the customer environment from primary storage to HPE StoreOnce and Microsoft Azure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE StoreOnce is now available starting at $4,800 for a HPE StoreOnce virtual storage appliance&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>RMC 6.0 will be available December 2018 and comes standard with every HPE 3PAR and HPE Nimble Storage array&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Commvault integration with HPE StoreOnce is currently available&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftn10&quot; name=&quot;_ftnref10&quot;>10&lt;/a>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Backup is currently available&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more about HPE Data Protection solutions, please visit:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.hpe.com/storage/dataprotection&quot;>www.hpe.com/storage/dataprotection&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more about HPE StoreOnce, please visit:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.hpe.com/storage/storeonce&quot;>www.hpe.com/storage/storeonce&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information about HPE Recovery Manager Central, please visit:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.hpe.com/storage/rmc&quot;>www.hpe.com/storage/rmc&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information about HPE GreenLake backup, please visit:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.hpe.com/greenlake&quot;>www.hpe.com/greenlake&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to core to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref1&quot; name=&quot;_ftn1&quot;>1&lt;/a> Based on management of federation of 20 StoreOnce Next Gen appliances compared to management of 20 x StoreOnce G3 appliances independently (In cloud or on premises)&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref2&quot; name=&quot;_ftn2&quot;>2&lt;/a>&amp;nbsp;Assuming dedupe ratio of 20:1 as compared to a fully hydrated backup&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref3&quot; name=&quot;_ftn3&quot;>3&lt;/a>&amp;nbsp;A commissioned study conducted by Forrester Consulting, The Total Economic Impact of HPE GreenLake Flex Capacity, May 2018.&amp;nbsp; Results are for a composite organization based on interviewed customers.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref4&quot; name=&quot;_ftn4&quot;>4&lt;/a>&amp;nbsp;Based on management of federation of 20 StoreOnce Next Gen appliances compared to management of 20 x StoreOnce G3 appliances independently (In cloud or on premises)&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref5&quot; name=&quot;_ftn5&quot;>5&lt;/a>&amp;nbsp;Based on HPE testing comparison between HPE Recovery Manager Central and traditional backup environments&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref6&quot; name=&quot;_ftn6&quot;>6&lt;/a>&amp;nbsp;Based on HPE testing comparison between HPE Recovery Manager Central and traditional backup environments&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref7&quot; name=&quot;_ftn7&quot;>7&lt;/a>&amp;nbsp;Assuming dedupe ratio of 20:1 as compared to a fully hydrated backup&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref8&quot; name=&quot;_ftn8&quot;>8&lt;/a>&amp;nbsp;Assuming dedupe ratio of 20:1 as compared to a fully hydrated backup&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref9&quot; name=&quot;_ftn9&quot;>9&lt;/a>&amp;nbsp;A commissioned study conducted by Forrester Consulting, The Total Economic Impact of HPE GreenLake Flex Capacity, May 2018.&amp;nbsp; Results are for a composite organization based on interviewed customers.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://news.hpe.com/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par/#_ftnref10&quot; name=&quot;_ftn10&quot;>10&lt;/a>&amp;nbsp;Commvault support for HPE Cloud Bank Storage will be available November 2018&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial Contact:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>Natassia Culp&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:corpmediarelations@hpe.com&quot;>corpmediarelations@hpe.com&lt;/a>&lt;/span>&lt;/b>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_prj3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_prj3>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_oivp
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-unveils-most-significant-3par-flash-storage-innovations-to-date"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE20160923076v2.jpg"/>
+                        </contentblock_oivp>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_37tt
+                            jcr:lastModified="{Date}2018-10-29T23:31:14.087Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/put-your-backup-data-to-work-a-qa-on-the-hpe-nimble-storage-adaptive-flash-array"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Put Your Backup Data to Work: A Q&amp;A on the HPE Nimble Storage Adaptive Flash Array"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Put Your Backup Data to Work: A Q"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-29T23:31:14.087Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Put-Your-Backup-Data-to-Work-A-QA-on-the-HPE-Nimble-Storage-Adaptive-Flash-Array.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-29T23:31:14.087Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_37tt>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

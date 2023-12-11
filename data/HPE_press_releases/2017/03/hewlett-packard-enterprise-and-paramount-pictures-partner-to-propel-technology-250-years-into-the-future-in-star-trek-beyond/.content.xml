@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:52:24.908Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-and-paramount-pictures-partner-to-propel-technology-250-years-into-the-future-in-star-trek-beyond"
+        jcr:uuid="04690d10-f3b0-41c8-94ac-06a88d01aebb"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:55.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="Simon Bowers, Hewlett Packard Enterprise"
+        metaDescription="Hewlett Packard Enterprise and Paramount Pictures Partner to Propel Technology 250 Years into the Future in Star Trek Beyond"
+        navTitle="Hewlett Packard Enterprise and Paramount Pictures Partner to Propel Technology 250 Years into the Future in Star Trek Beyond"
+        pageTitle="Hewlett Packard Enterprise and Paramount Pictures Partner to Propel Technology 250 Years into the Future in Star Trek Beyond"
+        priority="(None)"
+        subtitle="HPE film integrations and new ad campaign feature futuristic concept technologies inspired by The Machine"
+        theme="dark"
+        UAID="e43f6f41-e04b-416f-8b06-625bab7b2b89"
+        UCID="f3b73507-c0dc-43ea-81dd-8be1203e2b64"
+        WPID="1329">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T07:57:03.069Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 6, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE film integrations and new ad campaign feature futuristic concept technologies inspired by The Machine&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_8eyi
+                    jcr:lastModified="{Date}2018-10-23T08:09:41.124Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., June 6, 2016 Hewlett Packard Enterprise (NYSE: HPE) has teamed with Paramount Pictures to imagine technology 250 years into the future for the upcoming Star Trek Beyond feature film from Paramount Pictures and Skydance set for worldwide release beginning July 20. The upcoming film will include several futuristic concept technologies created exclusively for the movie based on HPE's &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/content-hub/memory-driven-computing.html&quot;>The Machine&lt;/a>, a groundbreaking research project being developed by the company. Also in connection with the film, HPE will debut a new advertising campaign featuring The Machine, the first prototype of which is slated to launch later this year.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As the official enterprise technology partner for Star Trek Beyond, HPE designers and researchers worked closely alongside the filmmaking team to design futuristic technologies that could one day be powered by The Machine and that would contribute to bringing the world of Star Trek Beyond to life.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This collaboration presented a unique backdrop against which we could highlight the vast potential of The Machine, said Henry Gomez, Chief Marketing and Communications Officer, Hewlett Packard Enterprise. Star Trek has a long tradition of boldly enabling us to imagine mankinds future. The Machine will reinvent computing architecture from the ground up, so the connection to the films exciting technologies is easy to envision.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Planets definitely aligned for this HPE partnership with Star Trek Beyond given the timing of the launch of The Machine technology and the films release, said LeeAnne Stables, President of Worldwide Marketing Partnerships and Licensing for Paramount Pictures. It was exciting to see the HPE designers working in a room with our creative teams to infuse actual future world technology into this action-packed film. We know movie audiences around the world love seeing whats ahead.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPEs The Machine project is focused on reinventing the computing architecture on which all computing is currently based from smart phones to data centers to super computers. It aims to break through the limitations of todays computing, enabling a massive and essential leap forward in computing performance and efficiency.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Machine plans to use light, called photonics, for communications rather than copper wires; it aims to make the save button a concept of the past, instead capturing, and remembering, everything in memory as it is created and even after its turned off; and it plans to revolutionize how security is embedded throughout a computer.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Machine technologies are currently being designed to address technological challenges in the not-so-distant future from dealing with the massive quantities of data generated through connected devices to being able to translate health data from millions of people into solutions for the healthcare industry.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE advertising campaign, Accelerating Beyond, will feature Star Trek Starfleet Academy recruits in a world powered by The Machine 250 years in the future. It is designed to illustrate the progress that could one day be achieved through the lens of The Machine technology. The campaign, which will include :60 and :30 second television ads, shot in a futuristic landscape in Iceland along with digital treatments, will debut at HPEs Discover Las Vegas conference, June 7-9. It will begin rotation widely on July 1.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Star Trek Beyond will be in theaters beginning July 22.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Star Trek Beyond&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>STAR TREK BEYOND, the highly anticipated next installment in the globally popular Star Trek franchise, created by Gene Roddenberry and reintroduced by J.J. Abrams in 2009, returns with director Justin Lin (The Fast and the Furious franchise) at the helm of this epic voyage of the U.S.S. Enterprise and her intrepid crew. In Beyond, the Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>From Paramount Pictures and Skydance, STAR TREK BEYOND is a Bad Robot, Sneaky Shark, Perfect Storm Entertainment production. The film stars John Cho, Simon Pegg, Chris Pine, Zachary Quinto, Zo Saldana, Karl Urban, Anton Yelchin and Idris Elba. Directed by Justin Lin, the third film in the franchise series is produced by J.J. Abrams, Roberto Orci, Lindsey Weber, and Justin Lin; and executive produced by Jeffrey Chernov, David Ellison, Dana Goldberg, and Tommy Harper. Based upon Star Trek created by Gene Roddenberry, the screenplay is written by Simon Pegg &amp;amp; Doug Jung.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>STAR TREK BEYOND opens in U.S. theaters July 22, 2016.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-looking statements&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended, and Hewlett Packard Enterprise's Form 10-K dated December 17, 2015 and Form 10-Q dated March 10, 2016. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_fmvk
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/10/hpe-is-making-artificial-intelligence-accessible-and-practical"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Is Making Artificial Intelligence Accessible and Practical"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Is Making Artificial Intelligence Accessible and Practical"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/10/image-norend/HPE-Is-Making-Artificial-Intelligence-Accessible-and-Practical.jpg"/>
+                        </contentblock_fmvk>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <textonlycomponent_f3
+                            jcr:created="{Date}2018-10-23T08:15:10.196Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T08:18:39.124Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                            textOnly="&lt;h4>Hewlett Packard Enterprise/SGI “Cheyenne” and “Pleiades” Systems Named on TOP500 List&lt;/h4>&#xa;&lt;p>News Advisory&lt;/p>&#xa;"
+                            topPadding="60"/>
+                        <buttonctaitemcompone
+                            jcr:created="{Date}2018-10-23T08:17:54.565Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T08:18:24.068Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                            ctaLinkStyle="default"
+                            ctaReferenceType="Link"
+                            ctaText="Read More"
+                            ctaType="Link"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprisesgi-cheyenne-and-pleiades-systems-named-on-top500-list"
+                            videoType="youtube"/>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4fnd
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/02/gen-z-reaches-critical-milestone-in-enabling-open-ecosystem-in-computing"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gen-Z reaches critical milestone in enabling open ecosystem in computing"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gen-Z reaches critical milestone in enabling open ecosystem in computing"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/Gen-Z-core-spec.png"/>
+                        </contentblock_4fnd>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-03T19:20:40.102Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---customers,hpe-newsroom:categories/hpe-telco-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-and-wind-river-partner-to-create-carrier-grade-hp-helion-openstack-solutions-for-nfv"
+        jcr:uuid="d7a78918-542a-499e-b9f6-2fb79b91c39e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:38.000-07:00"
+        metaDescription="HP and Wind River Partner to Create Carrier Grade HP Helion OpenStack Solutions for NFV"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-and-wind-river-partner-to-create-carrier-grade-hp-helion-openstack-solutions-for-nfv/jcr:content/main-par/body-par/textonlycomponent_meix"
+        navTitle="HP and Wind River Partner to Create Carrier Grade HP Helion OpenStack Solutions for NFV"
+        pageTitle="HP and Wind River Partner to Create Carrier Grade HP Helion OpenStack Solutions for NFV"
+        priority="(None)"
+        subtitle="Partnership to Deliver a highly Resilient Cloud Platform Required for Communications Service Providers"
+        theme="dark"
+        UAID="fa805d9d-e101-4fac-b875-defbcaab53dd"
+        UCID="9e4319ca-c264-4f08-953f-3c4f345040dc"
+        WPID="1559">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T16:33:35.149Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 4, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Partnership to Deliver a highly Resilient Cloud Platform Required for Communications Service Providers&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_meix
+                    jcr:lastModified="{Date}2023-04-03T19:20:40.093Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PARIS, FRANCE--(Marketwired - Nov 4, 2014) - Today at the&amp;nbsp;OpenStack Summit, HP (NYSE: HPQ) announced a partnership with&amp;nbsp;Wind River&amp;nbsp;to develop solutions with&amp;nbsp;HP Helion OpenStack® technology to enable carrier grade network functions virtualization (NFV) capabilities. The addition of proven carrier grade technologies from Wind River into HP Helion OpenStack is designed to provide communications service providers (CSPs) with an open source based cloud platform that meets their demanding reliability requirements and accelerates their transition to NFV deployments.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Cloud computing is enabling the communications industry's shift towards network and application virtualization, allowing the delivery of new services to their customers more quickly with significantly reduced operating and capital costs. In order to facilitate this shift, CSPs require carrier grade, open standards based NFV solutions that are extremely reliable.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;CSPs want the benefits of cloud computing, while meeting their rigorous reliability, performance and management requirements,&amp;quot; said Saar Gillai, senior vice president/COO, HP Cloud &amp;amp; general manager, NFV, HP. &amp;quot;HP and Wind River are collaborating to provide a fully integrated and supported HP Helion cloud solution for carrier grade NFV, enabling CSPs to leverage the agility that the over-the-top providers possess.&lt;/i>&amp;nbsp;&lt;i>We will also work together to enhance OpenStack technology to help ensure it evolves to meet carrier grade specifications.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For CSPs seeking cloud-enabled carrier grade NFV deployments, HP Helion OpenStack will be offered with integrated Wind River products and technologies. Key benefits of the HP Helion OpenStack-Wind River integrated solutions will include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Reliability&amp;nbsp;- Carrier grade Linux® and kernel-based virtual machine (KVM) hypervisor, advanced self-healing, and high availability add-ons for OpenStack Control Plane to enable service availability levels that carriers and CSPs demand&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Performance&amp;nbsp;- Carrier grade accelerated vSwitch for high performance networking, advanced NFV workload placement to maximize the number of subscribers supported per server, utilization of system topology to optimize Virtual Network Function (VNF) performance, and an availability and affinity model designed to ensure VNF service availability while providing max performance with the lowest latency&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Manageability&amp;nbsp;- Scheduling and orchestration of workloads, security features to meet carrier needs, and open, standards based applications programming interfaces (APIs)&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The telecom industry is eager to tap into the vast potential of NFV. By taking advantage of a virtualized or cloud environment, service providers can easily and quickly introduce new high-value services while reducing costs. In every case, maintaining carrier grade reliability is critical,&amp;quot; said Jim Douglas, senior vice president and CMO, Wind River. &amp;quot;By partnering with a leader like HP, we're enabling a new generation of carrier grade, cloud-enabled NFV deployments for our customers in this changing market.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;CSPs understand the value of OpenStack technology as a part of their NFV strategies -- whether that's in terms of saving costs or just avoiding lock-in,&amp;quot; said Peter Jarich, vice president, Current Analysis. &amp;quot;Combining HP's deep OpenStack assets and commitment with Wind River's carrier-grade capabilities should help CSPs accelerate their journey to NFV, benefitting from the open source community approach that's been honed in the enterprise IT environment.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;A partnership committed to helping CSPs compete in a changing market&lt;br>&#xd;&#xa; &lt;/b>Together HP and Wind River are accelerating CSPs' network transformation by helping customers quickly address NFV applications and lower total cost of ownership through the adoption of commercial off-the shelf hardware. Earlier this year Wind River also began certifying its networking and communications software on HP ProLiant servers, providing network equipment providers and service providers the performance, cost-effectiveness and energy efficiency of proven enterprise platforms together with the reliability of carrier-grade platforms.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Wind River is a member of the&amp;nbsp;HP OpenNFV Program, which provides CSPs and their suppliers -- network equipment providers NEPs, independent software vendors and system integrators -- the foundation upon which to build a dynamic service and network environment.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP is a member of the&amp;nbsp;Wind River Titanium Cloud&amp;nbsp;partner program, which provides an ecosystem of optimized, interoperable standard solutions based on the Wind River Titanium Server NFV software platform.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Availability&lt;br>&#xd;&#xa; &lt;/b>HP Helion OpenStack solutions with carrier grade capabilities will be available in calendar year 2015.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The OpenStack™ Word Mark and OpenStack Logo are either registered trademarks/service marks or trademarks/service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission. HP is not affiliated with, endorsed or sponsored by the OpenStack Foundation, or the OpenStack community.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d22y
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                        </contentblock_d22y>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_km44
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-and-red-hat-join-forces-to-give-customers-greater-choice-for-nfv-deployments"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Aug11.jpg"/>
+                        </contentblock_km44>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3ve0
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-launches-virtualized-management-to-increase-telecom-services-quality-and-agility"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate02.jpg"/>
+                        </contentblock_3ve0>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

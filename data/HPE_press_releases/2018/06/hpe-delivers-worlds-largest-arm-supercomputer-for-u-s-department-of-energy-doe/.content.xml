@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T06:50:31.369Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/csr,hpe-newsroom:categories/networking,hpe-newsroom:categories/company---customers,hpe-newsroom:categories/industry---energy-&amp;-climate]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-delivers-worlds-largest-arm-supercomputer-for-u-s-department-of-energy-doe"
+        jcr:uuid="d7be36b6-7d47-4f82-a0a6-145584c0728c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-06-18T04:00:00.000-07:00"
+        mediaContactEmail="Nahren.Khizeran@HPE.com"
+        mediaContactName="Nahren Khizeran"
+        metaDescription="HPE Delivers Worlds Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+        metaKeywords="HPE, Arm, Department of energy, supercomputer, exascale, HPC, high performance computing, memory, data center"
+        navTitle="HPE Delivers World's Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+        pageTitle="HPE Delivers World's Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+        priority="(None)"
+        subtitle="New Arm-based portfolio brings optimal memory solutions, greater density and power efficiency to target high performance computing (HPC) workloads"
+        theme="dark"
+        UAID="325ced70-31b7-418b-91ec-fd17fc928329"
+        UCID="9cb7e6f1-1454-437a-bea7-429b7bce65a4"
+        webSectionId="R11989"
+        WPID="200908">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2021-10-15T18:17:53.273Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 18, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-05-11T23:08:26.191Z"
+                    jcr:lastModifiedBy="lunkova.volha"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    color="None"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-World-Largest-Arm-Supercomputer-for-US-Department-of-Energy-DOE.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    isVideo="false"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:49:23.845Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New supercomputer allows National Nuclear Security Administration to improve analysis on complex, data-driven engineering and science simulations&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Delivers 2.3 theoretical peak petaflops of performance, 33% better memory performance than traditional market offerings, and greater system density&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and DOE are making strategic investments in diverse architectures by introducing Arm-based technologies to supercomputing&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-31T09:47:49.575Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:49:29.520Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Arm-based portfolio brings optimal memory solutions, greater density and power efficiency to target high performance computing (HPC) workloads&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_zdzh
+                    jcr:lastModified="{Date}2021-10-15T18:14:40.623Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PALO ALTO, Calif. -&amp;nbsp; June 18, 2018 -&amp;nbsp;&lt;/b>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced its collaboration with Sandia National Laboratories and the U.S. Department of Energy (DOE) to deliver the world's largest Arm supercomputer&lt;sup>1&lt;/sup>. As part of the Vanguard program, Astra, the new Arm-based system, will be used by the National Nuclear Security Administration (NNSA) to run advanced modeling and simulation workloads for addressing areas such as national security, energy and science.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In today's data-intensive environment, there is an insatiable demand for higher compute performance as organizations continue to conduct research-intensive tasks that require processing and analyzing large data sets to address challenges across medicine, climate change, space, and oil and gas exploration. To accelerate this research and discovery process, there is a global race to achieve the next leap in supercomputing with an exascale-class system that is 10 times greater than today's systems&lt;sup>2&lt;/sup>. As a strong contender in this race, the U.S. Department of Energy has moved up its timeline to deliver the first exascale system by 2021 and by doing so, is investing in diverse architectures to support necessary performance, memory and scalable capabilities to drive engineering to the next great frontier in computing.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_ddj3
+                    jcr:lastModified="{Date}2018-10-18T12:17:42.579Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE is introducing a new architecture with a memory-centric design for supercomputing&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T12:17:42.579Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ddj3>
+                <textonlycomponent_qqxw
+                    jcr:lastModified="{Date}2018-10-31T09:52:26.056Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>By introducing new processors like Arm to the HPC ecosystem, which has been historically dominated by x86-based technologies, HPE is building a diverse network to offer more competitive options to power next-generation &lt;a href=&quot;https://www.hpe.com/us/en/servers/supercomputing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>supercomputers&lt;/a> while accelerating the path to exascale. HPE is also delivering memory-centric designs to support rapidly growing data-intensive HPC workloads while enabling greater density with more performance-packed servers by bringing robust, Arm-based HPC technologies to power the Astra supercomputer and future systems.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;By introducing Arm processors with the HPE Apollo 70, a purpose-built HPC architecture, we are bringing powerful elements, like optimal memory performance and greater density, to supercomputers that existing technologies in the market cannot match&amp;quot;, said Mike Vildibill, vice president, Advanced Technologies Group, HPE. &amp;quot;Sandia National Laboratories has been an active partner in leveraging our Arm-based platform since its early design, and featuring it in the deployment of the world's largest Arm-based supercomputer, is a strategic investment for the DOE and the industry as a whole as we race toward achieving exascale computing.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_6b9y
+                    jcr:lastModified="{Date}2018-10-18T12:20:05.911Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;This is a historical moment for the industry as we race toward achieving exascale computing&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T12:20:05.911Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_6b9y>
+                <textonlycomponent_ibbn
+                    jcr:lastModified="{Date}2018-10-31T09:53:03.436Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>With Astra, a major stepping stone in HPE's path to exascale, HPE is delivering over 2.3 theoretical peak petaflops of performance&lt;sup>4&lt;/sup>, 33% better memory performance than traditional market offerings&lt;sup>5&lt;/sup>, and greater system density. The NNSA, an agency within the DOE that is responsible for the management and security of the nations nuclear weapons, nuclear nonproliferation, and naval reactor programs, will use Astra to advance modeling and simulation tools to improve analysis on data-intensive science experiments.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The National Nuclear Security Administration is committed to the advancement of high performance computing in support of the nation's stockpile stewardship,&amp;quot; said Mark Anderson, director, Office of Advanced Simulation and Computing and Institutional Research and Development, National Nuclear Security Administration. &amp;quot;By investigating emerging advanced architectures, like Arm, as part of the Vanguard program, we hope to gain new approaches to predictive analysis and simulation modeling that addresses complex, data-driven engineering and science simulations.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_ens0
+                    jcr:lastModified="{Date}2018-10-18T12:22:39.813Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE is delivering advanced HPC technologies to drive engineering for the next great frontier in computing&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T12:22:39.813Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ens0>
+                <textonlycomponent_vb2e
+                    jcr:lastModified="{Date}2021-10-15T18:16:25.432Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Astra will be deployed at Sandia National Laboratories and will run on the HPE Apollo 70. This purpose-built HPC platform is based on the Cavium ThunderX2 Arm processor. Astra is comprised of over 145,000 cores in 2,592 dual-processor servers and offers greater density with four compute nodes in a 2U form factor.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;i>&amp;quot;We are committed to fielding the most advanced technologies as part of the Vanguard program&amp;quot;, said James Laros, Vanguard program lead, Sandia National Laboratories. &amp;quot;We are collaborating with HPE to advance the Arm ecosystem and prove the viability of this architecture to support our national security mission.&amp;quot;&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/i>Additional HPE features that deliver optimal performance include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-performance-software-message-passing-interface.1010144155.html&quot; target=&quot;_blank&quot;>&lt;b>HPE Message Passing Interface (MPI)&lt;/b>&lt;/a>: A high-performance MPI library complemented with profiling and runtime optimization tools designed to boost performance of existing MPI applications without the need to recompile existing codes. HPE's implementation of MPI is highly optimized, enabling faster performance and scalability when powering HPC applications.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/detail/pip.hp-mcs-200-cooling-unit.6230883.html&quot; target=&quot;_blank&quot;>&lt;b>HPE MCS-300 Cooling Unit&lt;/b>&lt;/a>&lt;b>:&lt;/b> A power-efficient liquid cooling system that supports high-density systems without compromising on energy consumption. Using a liquid-cooled infrastructure enables more density, improves operational environment for HPC systems, and cost savings compared to traditional air-cooled solutions.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-performance-cluster-manager-software.1010836945.html#https%3A%2F%2Fwww.hpe.com%2Fus%2Fen%2Fproduct-catalog%2Fdetail%2Fpip.hpe-performance-cluster-manager-software.1010836945.html&quot; target=&quot;_blank&quot;>&lt;b>HPE Performance Cluster Manager&lt;/b>&lt;/a>: HPE's first integrated system management software for HPC clusters that enables fast system setup and lowers total cost of ownership, increasing productivity and providing a better return on hardware investments.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Apollo 4520&lt;/b>: An optimized storage solution that offers a high performing, all-flash &lt;a href=&quot;https://www.hpe.com/us/en/solutions/hpc-high-performance-computing/storage.html&quot; target=&quot;_blank&quot;>Lustre filesystem&lt;/a> for extreme bandwidth and reduced latency on data access. The solution increases application performance, allowing more computation to take place on the system.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional insight into HPEs HPC offerings and industry collaborations, please visit &lt;a href=&quot;https://www.hpe.com/us/en/solutions/hpc-high-performance-computing.html&quot; target=&quot;_blank&quot;>HPE's High Performance Computing Solutions&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Stop by HPE booth E1030 to view a demo on the HPE Apollo 70 platform and learn how the Arm-based system is powering next-generation supercomputers at the annual &lt;a href=&quot;https://www.isc-hpc.com/&quot; target=&quot;_blank&quot;>International Supercomputing Conference (ISC 2018)&lt;/a> in Frankfurt, Germany&lt;b>&lt;i>.&lt;/i>&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ol>&#xd;&#xa;&lt;li>HPE internal. Received written confirmation from Cavium providing the Thunder X2 processor for Astra. June 2018.&lt;/li>&#xd;&#xa;&lt;li>&lt;a href=&quot;https://www.exascaleproject.org/what-is-exascale/&quot; target=&quot;_blank&quot;>S. Department of Energy Exascale Project&lt;/a>&lt;/li>&#xd;&#xa;&lt;li>&lt;a href=&quot;https://science.energy.gov/~/media/ascr/ascac/pdf/meetings/201709/HellandASCAC170926.pdf&quot; target=&quot;_blank&quot;>S. Department of Energy Office of Science Advanced Scientific Research&lt;/a>&lt;/li>&#xd;&#xa;&lt;li>Based on calculation of the peak floating point performance. Calculated as: CPUs: 5184 * Cores per CPU: 28 * Frequency of CPU: 2.0 GHz * Instructions per cycle (fused multiply + add): 8 = 2.322 PFLOPs. June 2018.&lt;/li>&#xd;&#xa;&lt;li>Benchmarks based on test comparing Cavium ThunderX2 Arm processor with latest x86-based processor. Posted on &lt;a href=&quot;https://www.nextplatform.com/2017/11/27/cavium-truly-contender-one-two-arm-server-punch/&quot; target=&quot;_blank&quot;>https://www.nextplatform.com/2017/11/27/cavium-truly-contender-one-two-arm-server-punch/&lt;/a> November 2017.&lt;/li>&#xd;&#xa;&lt;/ol>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ctcu
+                            jcr:lastModified="{Date}2021-10-15T18:17:10.324Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/02/hpe-helps-u-s-department-of-defense-to-advance-national-defense-capabilities"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-10-15T18:17:10.324Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/HPE-Helps-U.S.-Department-of-Defense-to-Advance-National-Defense-Capabilities.png"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-10-15T18:17:10.324Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_ctcu>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_iq93
+                            jcr:lastModified="{Date}2021-10-15T18:17:18.452Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/08/hewlett-packard-enterprise-sends-supercomputer-into-space-to-accelerate-mission-to-mars"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Hewlett Packard Enterprise Sends Supercomputer into Space to Accelerate Mission to Mars"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Sends Supercomputer into Space to Accelerate Mission to Mars"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-10-15T18:17:18.452Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/Spaceborne-Computing-Astronaut.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-10-15T18:17:18.452Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_iq93>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_evr5
+                            jcr:lastModified="{Date}2021-10-15T18:17:26.590Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/11/hpe-helps-businesses-capitalize-on-hpc-and-ai-applications-with-new-high-density-compute-and-storage"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-10-15T18:17:26.590Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Helps-Businesses-Capitalize-on-HPC-and-AI-Applications-with-New-High-Density-Compute-and-Storage.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-10-15T18:17:26.590Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_evr5>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-18T12:09:59.017Z"
+            jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

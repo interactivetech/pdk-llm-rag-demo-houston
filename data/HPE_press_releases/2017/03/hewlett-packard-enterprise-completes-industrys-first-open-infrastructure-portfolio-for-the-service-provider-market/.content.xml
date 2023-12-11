@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:01:43.066Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers,hpe-newsroom:categories/mergers-and-acquisitions,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-completes-industrys-first-open-infrastructure-portfolio-for-the-service-provider-market"
+        jcr:uuid="4d681d9e-3264-4024-b9f0-d9bd599024ad"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:59:00.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="Hewlett Packard Enterprise Completes Industry"
+        navTitle="Hewlett Packard Enterprise Completes Industry's First Open Infrastructure Portfolio for the Service Provider Market"
+        pageTitle="Hewlett Packard Enterprise Completes Industry's First Open Infrastructure Portfolio for the Service Provider Market"
+        priority="(None)"
+        theme="dark"
+        UAID="b14498aa-4eef-4804-90b2-400842237722"
+        UCID="3f28d1f8-fa1d-4453-b931-43872109ce2a"
+        WPID="1388">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="March 31, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_xtar
+                    jcr:lastModified="{Date}2018-10-23T12:27:25.171Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Mar 8, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today announced its open, cloud-optimized storage server, making HPE the only top-tier vendor to offer a complete open infrastructure portfolio with compute, networking and now storage server offerings. Today's announcement also includes enhancements to HPE Cloudline servers and HPE Altoline network switches for service providers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>According to 451 Research, traditional hosting and infrastructure-as-a-service (IaaS) will grow from a $60 billion market in 2015 into a $70 billion market in 2016, and is set to double in size by 2019. Organizations are moving workloads from traditional shared, virtualized and dedicated infrastructure products to increasingly specialized infrastructure and application environments, including IaaS and Software as a Service. In turn, service provider implementation of managed services and alternative technology solutions, including OpenStack, are seen as potential points of differentiation.&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The desire for rapid growth and the need for agility is encouraging service providers to explore open infrastructure as an option for building and managing cloud-scale data centers. These new technologies, which are built on open standards, bring economies of scale to data centers by enabling service providers to reduce operational costs, enhance efficiency and quickly adapt to changing business demands.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Service providers are looking for the operational agility and faster data center integration that comes with deploying open infrastructures, while others value the integrated management and proven deployment capabilities that come with industry-standard offerings,&amp;quot; said Reaz Rasul, vice president and general manager, Global Hyperscale Business, HPE. &amp;quot;HPE is the only vendor that offers a choice of standard or open infrastructure solutions to accelerate business growth and provide service providers with the flexibility required to scale rapidly and cost-effectively.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Compute for massive cloud storage&lt;br>&#xa; With the explosive growth of data, service providers need to increase storage capacity while maintaining the smallest datacenter footprint possible. &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1247874&amp;amp;id=8669869&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fproducts%2fproliant-servers%2fproduct-detail.html%3foid%3d1008862559&quot;>The HPE Cloudline CL5200&lt;/a> is a high density, multi-node storage server designed for service providers looking for high density storage with an aggressive $/GB to run cloud storage and data analytics applications. Built on open design principles to increase adaptability and facilitate IT integration, the HPE Cloudline CL5200 fits easily into a multi-vendor management environment.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Cloudline CL5200 features minimalist bare-iron design and supports one or two compute nodes for various performance tiers. The server supports up to 80 large form factor hard drives to provide up to 640 TB of storage in a single 4U chassis.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE expanded its partnership with Scality in January 2016, to accelerate the adoption of software-defined object and file storage. Scality RING supports HPE's industry standard x86 servers, and now includes certified support for the HPE Cloudline CL5200.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This partnership is designed to provide service providers with the flexibility, resiliency, and performance required to drive down the cost of storage at petabyte scale.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE 'Open' Networking Portfolio&lt;br>&#xa; &lt;/b>HPE is expanding its portfolio of&amp;nbsp;&lt;a rel=&quot;nofollow&quot;>HPE Altoline&lt;/a> switches with the introduction of four new models to its 6900 family, including one that features 25/100 Gbps. The switches will enhance customers' ability to tailor their networking infrastructure to meet their specific applications and workload requirements, and enable service providers and web scale networks to quickly scale their networks at low cost with any product of choice, all while avoiding vendor lock-in.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Altoline switch family provides service providers with their choice of open source networking operating systems, including Cumulus, Pica8, and later this year, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1247874&amp;amp;id=8669872&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.openswitch.net%2f&quot;>OpenSwitch&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Helion brings Open Storage to Open Compute&lt;br>&#xa; As part of HPE's commitment to the open source community, we are deepening our commitment to meet scale-out open storage requirements. HPE Helion offers a mature OpenStack enterprise-grade distribution, supported by reference architectures optimized for the OpenStack Swift object storage project. This solution has been optimized for 2016 with new reference architectures for hyper-scale, multi-data center operations. Leveraging ProLiant Gen 9 servers this solution meets optimum processing needs and delivers a smaller footprint to allow for greater cost savings while supporting highly available, predictable, massive storage growth. HPE Helion OpenStack with Swift is available today. For more information, please click &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1247874&amp;amp;id=8669875&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fcloud%2fhelion-content-depot.html&quot;>here&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Comprehensive programs and services tailored for service providers&lt;br>&#xa; HPE is committed to providing flexible, right-size programs and services that empower service providers to grow their business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;With more companies turning to Symmetry to deliver managed cloud hosting solutions for mission critical applications like SAP, there is an accelerating need to deliver greater performance, scalability, and operational efficiency for our customers,&amp;quot; said Jonathan Sharp, vice president, Product Management and Channel Strategy, Symmetry. &amp;quot;The HPE Partner Ready program streamlines a critical piece of the application management process -- ensuring our joint customers' cloud services are optimized with reliable HPE hardware and enabling us to better adapt to changing business demands.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE offers a comprehensive set of programs and services tailored to the specific needs of service providers, including: &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1247874&amp;amp;id=8669878&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fbusiness-services%2fit-services%2fdatacenter-service-providers.html&quot;>HPE Datacenter Care Services for Hyperscale&lt;/a>; &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1247874&amp;amp;id=8669881&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fbusiness-solutions%2fservice-provider%2fportfolio.html&quot;>HPE Service Provider Ready Solutions&lt;/a>, including the latest HPE Cloud Backup Service Ready Solution; and &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1247874&amp;amp;id=8669884&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsolutions%2fpartner-programs%2fpartners.html&quot;>HPE Partner Ready Program&lt;/a> for service providers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;At NTT Com, we deliver outcomes-driven cloud solutions based on integration of best of breed technologies within on our managed infrastructure to help our joint customers stay one step ahead of their competition,&amp;quot; said Jeffrey Bannister, Executive Vice President of Global Enterprise Services, NTT America. &amp;quot;The HPE Partner Ready program deepens our long-standing relationship with HPE, and allows us to combine our strengths to unlock hidden value, unleash innovation, ignite sales growth and capture opportunities in key customer segments and markets.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Pricing and Availability&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Cloudline CL5200 servers are now available for direct order worldwide. For details on ordering the CL5200, service providers should contact their HPE account manager.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Altoline 6900 Series network switches are now available worldwide. For details on ordering, service providers should contact their HPE account manager.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Helion Content Depot solution is available today both direct from HPE and through our channel partners and VARs.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Datacenter Care for Hyperscale is available worldwide. Pricing varies by individual customer requirements.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1247874&amp;amp;id=8669887&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.hpe.com%2f&quot;>Hewlett Packard Enterprise&lt;/a> is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;br>&#xa; This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>Source: 2016 Trends in Service Providers, 451 Research, Nov 2015&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nbf8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/cloud-28-background"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Cloud 28  Fact Sheet"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Cloud 28  Fact Sheet"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/A_View_From.jpg"/>
+                        </contentblock_nbf8>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_y753
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/10/hpe-radically-simplifies-application-deployment-in-manufacturing-plants"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Header.jpg"/>
+                        </contentblock_y753>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ijhe
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/hpe-synergy-gains-momentum-in-the-market-driving-efficiencies-and-creating-new-opportunities-for-customers"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_Meeting.jpg"/>
+                        </contentblock_ijhe>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-23T12:23:05.828Z"
+            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

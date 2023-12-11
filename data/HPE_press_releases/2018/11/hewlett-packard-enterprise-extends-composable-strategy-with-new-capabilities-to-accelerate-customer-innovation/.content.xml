@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:17:41.722Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-extends-composable-strategy-with-new-capabilities-to-accelerate-customer-innovation"
+        jcr:uuid="aade501e-3f77-418c-899a-c19d7379c603"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-11-26T09:00:34.000-08:00"
+        metaDescription="Hewlett Packard Enterprise extends composable strategy with new capabilities to accelerate customer innovation"
+        metaKeywords="Composable, hybrid cloud, hyperconverged, composability, composable fabric, software-defined, bare-metal-as-a-service, DevOps, enterprise, open stack, software stack"
+        navTitle="Hewlett Packard Enterprise extends composable strategy with new capabilities to accelerate customer innovation"
+        pageTitle="Hewlett Packard Enterprise extends composable strategy with new capabilities to accelerate customer innovation"
+        priority="(None)"
+        subtitle="Industrys first open hybrid cloud platform built on composability provides speed, scale, choice, and economics; Company also introduces HPE SimpliVity with Composable Fabric"
+        theme="dark"
+        UAID="cc8f8c55-ae1f-4aa1-9ed4-47ba2ae5eaa2"
+        UCID="9cb82cea-d8db-4fac-bb86-50f34a7d8557"
+        WPID="202229">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-22T18:52:34.667Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 26, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Hewlett-Packard-Enterprise-extends-composable-strategy-with-new-capabilities-to-accelerate-customer-innovation.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise extends composable strategy with new capabilities to accelerate customer innovation"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-21T11:42:09.128Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Composable Cloud for ProLiant DL is the first-of-its-kind integrated software stack that allows enterprises to benefit from choice of public and private clouds&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Composable Cloud for Synergy adds the flexibility and performance to address any workload within a private or hybrid cloud environment&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is enhancing its HPE SimpliVity hyperconverged solution with Composable Fabric. HPE SimpliVity sets a new standard for hyperconvergence with the integration of software-defined networking&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New updates to HPE OneSphere provide organizations the ability to provision bare-metal-as-a-service through HPE OneView automation, along with enhanced insights and governance features&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-21T11:42:55.786Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Industry's first open hybrid cloud platform built on composability provides speed, scale, choice, and economics; Company also introduces HPE SimpliVity with Composable Fabric&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_k41f
+                    jcr:lastModified="{Date}2019-01-21T11:45:30.542Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>MADRID, Spain Nov. 26, 2018&lt;/b> Hewlett Packard Enterprise (HPE) today unveiled the next phase of its composable strategy, which includes expanded delivery of cloud services through anopen hybrid cloud platform built on composability. Accelerating HPE's composable leadership, the first-of-its-kind integrated software stack allows enterprises to benefit from an unmatched choice of public and private clouds with the speed, efficiency, scale, and economics of public cloud providers. These benefits are enabled through enhanced capabilities, including built-in AI-driven operations with HPE InfoSight, additional new intelligent storage features, an innovative fabric built for composable environments, and new updates to &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2018/11/accelerate-app-deployment-with-containers-as-a-service-enhanced-visibility-and-governance-from-hpe-onesphere.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPE OneSphere&lt;/a>, the as-a-Service hybrid cloud management solution.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations of all sizes are adopting hybrid cloud models to create and deliver new services, improve time-to-market, and drive business growth. However, the transition to hybrid cloud environments can be hampered by the need for specialized skills to build and operate proprietary cloud stacks. Enterprises require a cohesive approach that spans people, technology and economics.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_lq62
+                    jcr:lastModified="{Date}2019-01-21T11:46:11.393Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Enterprises require a cohesive hybrid cloud approach that spans people, technology and economics&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T11:46:11.393Z"
+                        jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_lq62>
+                <textonlycomponent_ryov
+                    jcr:lastModified="{Date}2020-05-12T17:21:39.148Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>To simplify and accelerate this transition, HPE brings together IT automation, AI-driven operations, security and compliance to deliver a turnkey cloud platform ready to scale. The new cloud stack gives customers more choice across composable infrastructure building blocks - including, for the first time, rack servers through HPE Composable Cloud for ProLiant DL, or the industry-leading &lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/synergy.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPE Synergy&lt;/a> platform through HPE Composable Cloud for Synergy&amp;nbsp;- to compose any workload, any service and across any cloud, reducing infrastructure cost and complexity.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Our customers want to innovate faster, with greater automation and intelligence&amp;quot;, said Phil Davis President, Hybrid IT, Hewlett Packard Enterprise. &amp;quot;Building on our innovation in creating the composable category and industry-leading HPE Synergy offering, today's announcement of the HPE Composable Cloud for ProLiant DL and HPE Composable Cloud for Synergy delivers unprecedented customer choice and scale across all clouds. With our new open hybrid cloud platform, enterprises of all sizes can now manage, provision and deliver workloads and apps instantly and continuously to accelerate innovation.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>A unique feature of the new HPE open hybrid cloud platform is an innovative fabric built for composable environments and managed as a resource by HPE OneView, which radically simplifies the network, lowering costs and improving operational efficiency. Composable Fabric was first introduced inside HPE Synergy and is now available outside of a modular architecture and across the data center. This solution enables IT to operate like a hyperscale cloud provider without requiring network expertise. The new Composable Fabric feature on the HPE ProLiant DL server radically simplifies traditional data center networking by self-configuring the network and delivering dynamic workload balancing to improve performance and reduce over-provisioning, up to 70 percent.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_n8sd
+                    jcr:lastModified="{Date}2019-01-21T11:53:31.313Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE unveils the next phase of its composable strategy with expanded delivery of cloud services&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T11:53:31.313Z"
+                        jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_n8sd>
+                <textonlycomponent_udyl
+                    jcr:lastModified="{Date}2020-05-12T17:23:04.180Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE announced Composable Fabric will be available on HPE SimpliVity, further simplifying deployments and scalability.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Composable Cloud for ProLiant DL Servers: Introducing a Solution Optimized for Rack-Scale Virtual Machine, Container and Cloud-Native Environments&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With HPE Composable Cloud for ProLiant DL, IT professionals can scale the infrastructure in real-time without needing specialized networking skills, compose clouds and workloads in minutes, and manage on-premises and public cloud resource utilization and costs in a uniform way. The solution is optimized for cloud-native workloads and rack scale environments with template-driven automation, which streamlines the deployment of cloud stacks and automates the lifecycle, initially supporting Red Hat OpenShift and VMware workload deployments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The solution integrates the key components of HPEs leading software stack to provide the following benefits for customers:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Built-in artificial intelligence from&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/storage/infosight.html&quot; target=&quot;_blank&quot;>&lt;b>HPE InfoSight&lt;/b>&lt;/a>&amp;nbsp;software, offering predictive analytics and continuous learning to optimize the environment;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhanced data insights through additional&amp;nbsp;&lt;a href=&quot;https://news.hpe.com/hewlett-packard-enterprise-introduces-industry-leading-storage-intelligence-to-portfolio/&quot; target=&quot;_blank&quot;>&lt;b>intelligent storage&lt;/b>&lt;/a>&amp;nbsp;capabilities;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Simplified and automated networking from a software-defined&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/composable-fabric.html&quot; target=&quot;_blank&quot;>&lt;b>Composable Fabric&lt;/b>&lt;/a>&amp;nbsp;that enables non-disruptive scale across servers, racks and data centers;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Software-defined infrastructure management and workflow automation via&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/software.html&quot; target=&quot;_blank&quot;>&lt;b>HPE OneView&lt;/b>&lt;/a>, which enables IT to build and scale private clouds in minutes, as well as API integration and a broad partner ecosystem that enables organizations to easily integrate a collection of applications, containers, hypervisors, cloud stacks, and tools; and&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An as-a-Service hybrid cloud management solution across public and private clouds from&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/solutions/cloud/hybrid-it-management.html&quot; target=&quot;_blank&quot;>&lt;b>HPE OneSphere&lt;/b>&lt;/a>, providing cost and utilization visibility as well as policy compliance across all customers’ clouds. New&amp;nbsp;&lt;a href=&quot;https://news.hpe.com/accelerate-app-deployment-with-containers-as-a-service-enhanced-visibility-and-governance-from-hpe-onesphere/&quot; target=&quot;_blank&quot;>updates&lt;/a>&amp;nbsp;to HPE OneSphere provide organizations the ability to provision bare-metal-as-a-service through HPE OneView automation, along with enhanced insights and governance features.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Composable Cloud for Synergy: Enhanced for Any Workload&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Composable Cloud for Synergy adds the flexibility and performance to address any workload within a private or hybrid cloud environment. With more than 2,200 customers and growing, HPE Synergy is the industry's first and leading composable infrastructure platform, delivering speed, efficiency and a broad portfolio of partner tool integrations. Like HPE Composable Cloud for ProLiant DL, it includes a simple, automated management experience, but is designed to address general purpose workloads like SAP and Oracle, as well as cloud-native applications or mixed workloads.The modular architecture of HPE Synergy provides flexibility through a broad choice of network interconnects and storage options.In addition,the HPE Synergy Image Streamer makes it an ideal platform to accelerate customers' Dev/Ops initiatives, enabling IT to quickly provision infrastructure with a wide array of tools, like Chef, Ansible, Puppet, and VMware.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Composable Cloud Accelerates Innovation&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The open hybrid cloud platform is the engine for digital transformation, offering benefits that include:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Scalability:&lt;/b> Businesses can compose and grow infrastructure resources at cloud scale to meet ever-changing business needs.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Speed:&lt;/b> 90% faster deployment of new configurations enables IT organizations to gain the agility required to respond to the business needs, delivering apps and services to the market faster.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Efficiency:&lt;/b> 97% decrease in time for lifecycle operations and AI operations frees IT to focus on innovation.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Choice:&lt;/b> IT professionals can leverage the software stacks, tools and applications they already use or choose new ones.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Savings to fuel innovation: &lt;/b>Enterprises reduce the need for specialized skills, lower operational costs, and can take advantage of consumption-based IT to fast-track IT modernization and support digital innovation.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Organizations are demonstrating an ever-growing appetite for automation, scalability and openness to aggressively accelerate development and operations&amp;quot;, said Thomas Meyer, Group Vice President at IDC. &amp;quot;With composable cloud, HPE aims to deliver a foundational pillar with those attributes in mind to help customers accelerate their digital transformation in a hybrid cloud world.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With support and proven expertise from HPE Pointnext advisory and professional services, customers can determine the right mix of environments in their hybrid cloud - and with HPE GreenLake flexible consumption models and HPE Financial Services, customers can optimize economics and uncover business savings in their deployments. Enabled by these services, the open hybrid cloud platform uniquely provides customers with the people, technology and economics to drive transformation, and seamlessly build, run and optimize their hybrid clouds.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Introducing the First Hyperconverged Infrastructure Solution with Composable Fabric&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to integrating its Composable Fabric into HPE Composable Cloud for ProLiant DL, HPE is enhancing its HPE SimpliVity hyperconverged solution with Composable Fabric. HPE SimpliVity sets a new standard for hyperconvergence with the integration of software-defined networking to improve the performance and management needs of distributed applications. The new HPE SimpliVity with Composable Fabric is a comprehensive hyperconverged offering specifically designed to provide end-to-end software-defined automation for compute, storage and networking - all managed via a familiar single user interface. The solution brings cloud agility, scalability and simplicity to the enterprise data center - in a single building block.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;span style=&quot;font-size: inherit;&quot;>HPE SimpliVity with Composable Fabric features automation, visibility, intelligence, and scalability, providing IT organizations with:&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Operational agility&lt;/b>: Simple and automated operations from a single user interface eliminate the need for specialized network and storage management skills, empowering VM administrators with self-service autonomy.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Broad scale:&lt;/b> By pooling network resources and scaling within and between racks, organizations can achieve accelerated DevOps velocity and application time-to-value without disrupting operations.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Optimized performance:&lt;/b> New Composable Fabric tightens the connection between networks and workloads, making it easier to optimize workloads across infrastructure.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cost savings&lt;/b>: Its mesh fabric is more cost-efficient than alternative architectures, lowering costs and improving efficiency.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Product availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Composable Cloud for ProLiant DL rack servers will initially roll out in the United States, United Kingdom, Ireland, France, Germany, and Australia starting in Q1 2019.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE SimpliVity with Composable Fabric will be available December 2018 in the United States, United Kingdom, Ireland, France, Germany, and Australia.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE OneSphere is currently available in the United States, United Kingdom and Ireland, with additional geographies targeted in the coming year.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_lyog
+                            jcr:lastModified="{Date}2020-05-12T17:23:22.252Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/11/accelerate-app-deployment-with-containers-as-a-service-enhanced-visibility-and-governance-from-hpe-onesphere"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            header="Accelerate app deployment with containers-as-a-service, enhanced visibility and governance from HPE OneSphere"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Accelerate app deployment with containers-as-a-service, enhanced visibility and governance from HPE OneSphere"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:23:22.252Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Accelerate-app-deployment-with-containers-as-a-service-enhanced-visibil....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:23:22.252Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_lyog>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_37ba
+                            jcr:created="{Date}2019-01-21T12:20:09.552Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2020-05-12T17:23:30.164Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/from-kubernetes-to-docker-hpe-onesphere-is-supercharging-cloud-application-development"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            header="From Kubernetes to Docker – HPE OneSphere is supercharging cloud application development"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="From Kubernetes to Docker – HPE OneSphere is supercharging cloud application development"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:23:30.164Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/From-Kubernetes-to-Docker-HPE-OneSphere-is-supercharging-cloud-application-development-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:23:30.164Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_37ba>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_db1
+                            jcr:created="{Date}2019-01-21T12:27:45.138Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2020-05-12T17:23:37.524Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/06/hpe-reaches-one-million-oneview-licenses"
+                            description="&lt;p>News Advisory&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            header="HPE Reaches One Million OneView Licenses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Reaches One Million OneView Licenses"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:23:37.524Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Reaches-One-Million-OneView-Licenses.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:23:37.524Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_db1>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

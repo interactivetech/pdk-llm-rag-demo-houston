@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-10-07T15:27:57.558Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise introduces AI-driven hyperconverged infrastructure "
+        jcr:uuid="cf326ee1-8aa4-412d-9466-293ec1bf73cc"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise introduces AI-driven hyperconverged infrastructure "
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-10-28T05:00:00.000-07:00"
+        featured="true"
+        metaDescription="Advancements to HPE SimpliVity deliver an AI-driven experience, modernizes data protection and enhances usability"
+        metaKeywords="hyperconverged infrastructure, HPE SimpliVity,AI-driven.InfoSight"
+        metaOgImage="/content/dam/hpe/newsroom/2019/10/image-norend/hewlett-packard-enterprise-introduces-ai-driven-hyperconverged-infrastructure.jpg"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/10/hewlett-packard-enterprise-introduces-ai-driven-hyperconverged-infrastructure/jcr:content/main-par/body-par/textonlycomponent_db"
+        navTitle="Hewlett Packard Enterprise introduces AI-driven hyperconverged infrastructure "
+        pageTitle="Hewlett Packard Enterprise introduces AI-driven hyperconverged infrastructure "
+        priority="(None)"
+        socialDescription="Advancements to HPE SimpliVity deliver an AI-driven experience, modernizes data protection and enhances usability"
+        subtitle="Advancements to HPE SimpliVity deliver an AI-driven experience, modernizes data protection and enhances usability"
+        theme="dark"
+        UAID="a75c3f17-23b6-49b7-809d-cc96823f7d61"
+        UCID="49b70014-0c4e-4e6c-8581-93b1fe479739">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-10-25T18:24:50.070Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="OCTOBER 28, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T19:22:44.315Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/imageOnly/hewlett-packard-enterprise-introduces-ai-driven-hyperconverged-infrastructure.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T18:29:37.268Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is ushering in a new generation of hyperconverged infrastructure powered with artificial intelligence. &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Advancements to HPE SimpliVity, the company’s flagship hyperconverged infrastructure platform, include HPE InfoSight, one-click cluster upgrades, and the integration of HPE StoreOnce.&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight is now generally available for HPE SimpliVity customers, simplifying virtual machine management and freeing IT staff to focus on innovation.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_5f
+                    jcr:created="{Date}2019-10-25T18:30:17.404Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T18:30:37.389Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Advancements to HPE SimpliVity deliver an AI-driven experience, modernizes data protection and enhances usability&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-07-02T19:33:27.484Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SAN JOSE, Calif. – Oct. 28, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced advancements to &lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/hyper-converged.html&quot; target=&quot;_blank&quot;>HPE SimpliVity&lt;/a>, the company’s flagship &lt;a href=&quot;https://www.hpe.com/us/en/what-is/simplivity.html&quot; target=&quot;_blank&quot;>hyperconverged infrastructure&lt;/a> (HCI) platform, ushering in a new generation of HCI powered with artificial intelligence to simplify virtual machine (VM) management and free IT staff to focus on innovation. Building upon its software-defined architecture, HPE SimpliVity is enhancing its customer experience with HPE InfoSight, one-click cluster upgrades, and the integration of HPE StoreOnce.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Today’s enterprises are under relentless pressure to streamline operations and accelerate innovation, but in order to achieve this agility, they require an intelligent underlying architecture for virtualized environments that automatically speeds time to market and eliminates complexity. While HCI inherently accelerates service delivery and resource efficiency, traditional HCI offerings still require IT to react to unexpected disruptions and application delays, and make tradeoffs as enterprises scale their environments. HPE SimpliVity goes beyond software-defined, ushering in AI-driven infrastructure, infusing artificial intelligence to transform IT operations by predicting and preventing issues.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <pullquote_e283
+                    jcr:created="{Date}2019-10-25T18:32:26.418Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T19:10:36.479Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE SimpliVity goes beyond software-defined by using AI to transform IT operations&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-10-25T19:10:36.479Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_e283>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T22:35:02.237Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“The future of HCI is AI-driven, and HPE has the most advanced intelligence” said McLeod Glass, VP &amp;amp; General Manager, SimpliVity and Composable Software, Hewlett Packard Enterprise. “HCI makes life easy for enterprises, but unresolved complexities still occur. HPE has rethought HCI with HPE InfoSight at the heart. This global intelligence is truly a game changer for customers as they shift from first-generation HCI to intelligent HCI with HPE.”&lt;br>&#xa; &lt;br>&#xa; “The extra efficiency that HPE InfoSight brings to HPE SimpliVity is awesome,” states Warwick Brown, Infrastructure Architecture &amp;amp; Security Lead, Carlisle Homes. “InfoSight predicts and reports on metrics that my team cares about – where capacity is being used in clusters, hosts, even at the VM level, and when we might run out of space. That saves us lots of time.”&lt;br>&#xa; &lt;br>&#xa; HPE SimpliVity was founded to create an unparalleled experience for VM administrators through automation and efficiency. Over the past several years, HPE SimpliVity has helped thousands of customers worldwide simplify and optimize their infrastructure and eliminate waste. With today’s announcements, HPE SimpliVity is enabling a new experience for its customers.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T19:11:00.510Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE SimpliVity has helped thousands of customers simplify and optimize their infrastructure&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-10-25T19:11:00.510Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T18:53:25.451Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Intelligently simple&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE SimpliVity makes it simple for any VM administrator to deploy, manage, scale, and upgrade their infrastructure. As the industry’s most efficient all-in-one system, HPE SimpliVity eliminates more infrastructure and management silos than its competitors. HPE SimpliVity intelligently self-manages efficiency, performance, and resiliency without the need for manual tuning or configuration tradeoffs. Today’s advancements to HPE SimpliVity include:&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>The first release of HPE InfoSight&lt;/b> for HPE SimpliVity, enabling customers to gain predictive resource planning that takes the guesswork out of managing capacity. HPE InfoSight provides HPE SimpliVity customers global visibility and analytics into detailed system, performance, and capacity utilization insights, along with support automation with automatic alerts and signature detection into complex problems.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>One-click cluster upgrades&lt;/b> for HPE SimpliVity uniquely enable a seamless full-stack software upgrade that simplifies and removes risk. Customers now have the ability to upgrade firmware, hypervisor, and HPE SimpliVity software across the nodes in a HPE SimpliVity cluster in one click, delivering confidence to simply, and non-disruptively perform upgrades across sites.&lt;u>&lt;/u>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“I love the new InfoSight technology available on SimpliVity,” said Gerhardt Kruger, Senior Virtualization &amp;amp; HCI Engineer, King Price Insurance. “InfoSight is basically AI that is looking after my environment when I'm not. When InfoSight logs a call and is able to provide predictive support - that saves us time and helps my team focus on other things in the business.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_dc
+                    jcr:created="{Date}2019-10-25T18:47:13.078Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T19:12:36.588Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hyper-efficient&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE SimpliVity is hyper-efficient, uniquely combining compute, storage, and networking with powerful built-in backup and recovery, delivering consolidation and cost savings. HPE SimpliVity has industry-leading data efficiency with 90 percent storage capacity savings across primary VMs and backups. These savings are guaranteed with the &lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/simplivity-guarantee.html&quot; target=&quot;_blank&quot;>HPE SimpliVity HyperGuarantee&lt;/a>. Only HPE SimpliVity deduplicates, compresses, and optimizes all data inline, globally, enabling customers to save on expensive capacity resources, and enabling VM mobility.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Modernized data protection&lt;/b> &lt;b>with&lt;/b> &lt;b>HPE StoreOnce integration.&lt;/b> As HPE SimpliVity is accelerating into more enterprises, customers are looking to continually improve their data protection strategy. Today, HPE is announcing integration with HPE StoreOnce for HPE SimpliVity, enabling enhanced protection and data mobility across HPE storage. HPE StoreOnce integration with HPE SimpliVity enables an app-aware data protection solution with rapid recovery and policy-based automation for simple management and cost-effectiveness. This solution complements the HPE SimpliVity built-in backup and recovery capability for long-term retention and compliance.&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Edge optimized&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE SimpliVity customers gain space-optimized, intelligent HCI for multi-site deployments, enabling VMs to benefit from performance, efficiency and resiliency in the smallest possible footprint. For edge sites, zero administration is enabled by centralized, unified management across all sites, empowering customers to seamlessly manage workloads across distributed sites where staff resources are scarce. For superior business continuity, customers can rapidly failover virtually any number of edge sites in event of disaster, using single click edge-to-core VM mobility and recovery. Orchestration is fast and efficient, enabling all edge workloads to be recovered quickly, minimizing business downtime.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_40
+                    jcr:created="{Date}2019-10-25T18:48:31.345Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T19:12:52.984Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cloud connected&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Customers gain cloud connected capability via HPE GreenLake with the option to consume HPE SimpliVity as-a-Service. HPE has broad depth and expertise via HPE GreenLake, offering a wide variety of use cases including private cloud, public cloud and backup modernization. Additionally, HPE SimpliVity is available as an HPE Validated Design for Google Cloud’s Anthos, bringing a true hybrid cloud for containers in a consumption-based solution.&lt;br>&#xa; &lt;b>&lt;br>&#xa;Extending HCI to business-critical applications&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Announced in June 2019, HPE expanded its HCI portfolio with the introduction of &lt;a href=&quot;https://community.hpe.com/t5/Around-the-Storage-Block/Give-me-more-hyperconverged-please/ba-p/7050469&quot; target=&quot;_blank&quot;>HPE Nimble Storage dHCI&lt;/a>, a disaggregated HCI platform built with the simplicity of HCI and the flexibility of converged. Powered by HPE InfoSight, Nimble dHCI enables enterprises to deploy apps faster, support demanding workloads, and optimize time and resources. Customers benefit from the flexibility to independently scale resources, and management simplicity for organizations with demanding applications, such as business-critical database and data warehouse applications.&lt;br>&#xa; &lt;br>&#xa; “The system design, vCenter integration, and InfoSight support make HPE Nimble dHCI easier to manage than competitive off-the-shelf HCI configurations,” said Eric Burgener, Research Vice President, Enterprise Storage, IDC. “The fact that HPE uses Nimble Storage arrays for the storage layer brings considerable benefits that are not included with traditional HCI platforms.”&lt;br>&#xa; &lt;br>&#xa; Together, HPE SimpliVity and HPE &lt;a href=&quot;https://www.hpe.com/us/en/storage/nimble-storage-dhci.html?chatsrc=ot-en&amp;amp;jumpid=ps_jnb8tieg72_aid-510455007&amp;amp;gclid=CjwKCAjwusrtBRBmEiwAGBPgE4GyPO2RX_4AXYiA-yF8vpwj5lKv56ZCljywaYOWBT_V5Ei8tWy5pxoCY7QQAvD_BwE&amp;amp;gclsrc=aw.ds&quot; target=&quot;_blank&quot;>Nimble Storage dHCI&lt;/a> uniquely bring customers an intelligent hyperconverged experience for every virtual machine, from general-purpose workloads, edge, and ROBO apps with HPE SimpliVity, to performance-intensive and business-critical applications with HPE Nimble Storage dHCI.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_db
+                    jcr:created="{Date}2019-10-25T18:49:47.483Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2022-10-07T15:27:57.549Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight for HPE SimpliVity is available globally to all HPE SimpliVity customers and will be offered at no charge to HPE SimpliVity customers who have a current HPE service agreement.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE StoreOnce for HPE SimpliVity will be available H1 2020 to customers who have the latest respective software versions of HPE SimpliVity and HPE StoreOnce v3.x or v4.x.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Nimble Storage dHCI is now available globally.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Resources&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE SimpliVity &lt;a href=&quot;https://community.hpe.com/t5/Shifting-to-Software-Defined/Can-your-HCI-do-this-The-new-hyperconverged-infrastructure/ba-p/7067246&quot; target=&quot;_blank&quot;>blog&lt;/a>&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight for HPE SimpliVity&lt;b> &lt;/b>&lt;a href=&quot;https://www.youtube.com/watch?v=0AVzlt1mAhE&quot; target=&quot;_blank&quot;>Chalk Talk&lt;/a>&lt;/span>&lt;b>&lt;/b>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T18:52:40.104Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-10-25T18:57:03.408Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hewlett-packard-enterprise-redefines-mission-critical-storage-with-new-platform-designed-for-the-intelligence-era"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-10-25T18:57:03.408Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hewlett-packard-enterprise-unveils-new-mission-critical-storage-for-the-....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-10-25T18:57:03.408Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-10-25T19:02:00.834Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hpe-advances-hybrid-cloud-strategy-by-extending-ai-composability-and-partnerships-across-portfolio"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-10-25T19:02:00.834Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hpe-advances-hybrid-cloud-strategy-by-extending-ai-composability-and-par....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-10-25T19:02:00.834Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-10-25T19:08:55.874Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/09/hewlett-packard-enterprise-new-h3c-gains-market-share-and-delivers-double-digit-growth-in-second-quarter-of-2019-idc-worldwide-enterprise-storage-systems-tracker"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise / New H3C gains market share and delivers double digit growth in second quarter of 2019 IDC worldwide enterprise storage systems tracker"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise / New H3C gains market share and delivers double digit growth in second quarter of 2019 IDC worldwide enterprise storage systems tracker"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-10-25T19:08:55.874Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/new-h3c-gains-market-share-and-delivers-double-digit-growth-in-second-quarter-of-2019-idc-worldwide-enterprise-storage-systems-tracker.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-10-25T19:08:55.874Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-10-28T16:26:23.923Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

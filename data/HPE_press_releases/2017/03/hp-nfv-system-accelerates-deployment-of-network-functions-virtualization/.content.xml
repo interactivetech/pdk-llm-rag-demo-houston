@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:36:14.920Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/hpe-telco-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-nfv-system-accelerates-deployment-of-network-functions-virtualization"
+        jcr:uuid="4364761e-1a72-4eec-a4a2-5a9dc1d48308"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:23.000-07:00"
+        metaDescription="HP NFV System Accelerates Deployment of Network Functions Virtualization"
+        navTitle="HP NFV System Accelerates Deployment of Network Functions Virtualization"
+        pageTitle="HP NFV System Accelerates Deployment of Network Functions Virtualization"
+        priority="(None)"
+        subtitle="New Pre-Integrated Hardware, Software and Services Platform Provides CSPs With Carrier Grade Reliability, Scalability and Performance"
+        theme="dark"
+        UAID="1d62015b-c16f-4b71-a8b1-eb0253050e17"
+        UCID="985752c4-fc56-4439-8b95-d1c640975aed"
+        WPID="1525">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-26T07:44:52.376Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 5, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Pre-Integrated Hardware, Software and Services Platform Provides CSPs With Carrier Grade Reliability, Scalability and Performance&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_9u97
+                    jcr:lastModified="{Date}2018-10-26T07:48:50.115Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - May 5, 2015) - HP (NYSE: HPQ) today announced HP NFV System, a pre-integrated network functions virtualization (NFV) platform designed to enable communications service providers (CSPs) to accelerate production NFV deployments. HP NFV System is pre-integrated with HP Helion OpenStack Carrier Grade, providing an open source based cloud platform to support CSPs reliability, scalability and performance requirements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP also introduced NFV Director 3.0, providing management and orchestration capabilities that enhance the flexibility and scalability of CSPs current operations support systems (OSS), as well as new analytics capabilities to help harness NFV data to enhance real-time decision making. In addition, HP unveiled new services to help CSPs transform their infrastructure for NFV.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>NFV offers a new way for CSPs to design, deploy, and manage networking services. By decoupling the network functions from proprietary hardware appliances, CSPs can accelerate the introduction of new, compelling services quickly and cost-effectively.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As the telecommunications industry shifts from successful NFV proof-of-concepts towards production deployments, CSPs, network equipment providers (NEPs) and their software and services partners require stability, high performance and carrier grade reliability at every layer of the NFV architecture. This requires platform infrastructure vendors to provide end-to-end systems design, validation and support to ensure continuous availability of critical network functions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Production ready NFV solutions&lt;br>&#xa; &lt;/b>HP NFV System brings together HP hardware and software to create a pre-integrated solution bundle optimized for NFV workloads. HP NFV System kits are built based on HP's extensive NFV proof-of-concept experience and are designed to handle a variety of NFV use cases. The kits are designed with an optimal mix of hardware and software to simplify and accelerate NFV deployments, providing customers a simplified end-to-end experience from ordering, deployment, operations, lifecycle management and services. Kits are designed as building blocks that will allow customers the flexibility to start small and scale out as requirements increase. HP NFV System consists of:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>HP NFV Starter Kit&lt;/u> - An all-in-one kit comprised of compute nodes with carrier grade performance, control nodes in high availability configuration running virtual infrastructure management (VIM) software -- HP Helion OpenStack Carrier Grade, as well as physical infrastructure management (PIM) software and storage nodes. HP NFV Starter Kit is a complete turnkey solution designed to help CSPs quickly and effectively deploy NFV clouds.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>HP NFV Compute Kit&lt;/u> - Comprised of server nodes that run virtual network functions (VNF) workloads, combined with carrier grade capabilities that enable fast packet processing required in telecommunications applications. HP NFV Compute kit can be added to the HP NFV Starter kit to augment its workload processing capacity, providing customers a flexible scale out path.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>HP NFV Control Kit&lt;/u> - Consists of HP Helion OpenStack Carrier Grade VIM software and PIM software, including HP OneView, HP Intelligent Management Center and HP Central Management Console. HP NFV Control Kit is designed for customers running custom, limited trials reusing existing infrastructure elements with minimal CAPEX spend.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>HP NFV Storage Kit&lt;/u> - A pre-configured solution that can be integrated with HP NFV Starter Kit to provide additional capacity for storage intensive applications like content delivery networks (CDN). HP NFV Storage Kit simplifies integration with existing HP NFV System environments, reducing time to roll-out new services, minimizing OPEX spend.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Many telcos and suppliers have done NFV proof-of-concepts and are now ready to move to production. To do that, they need solutions that are open, carrier grade, and easy to deploy,&amp;quot; said Saar Gillai, senior vice president and general manager, Network Functions Virtualization and global lead, Telecommunications, HP. &amp;quot;HP NFV System provides an integrated, pre-tested, deployment-ready NFV hardware and software platform to get customers up-and-running quickly and confidently.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>OpenStack technology to meet carrier grade requirements&lt;br>&#xa; &lt;/b>HP Helion OpenStack Carrier Grade builds on HP Helion OpenStack to provide CSPs and NEPs with a highly available, high performance open source cloud platform capable of running the most demanding VNFs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Pairing HP's OpenStack technology expertise with proven carrier grade technologies from &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/hp-news/press-release.html?id=1830185&quot;>Wind River&lt;/a>, HP Helion OpenStack Carrier Grade enables CSPs to accelerate the deployment of VNFs by providing unmatched performance in virtualization and virtual switching, and market leading latency and failover characteristics. It concurrently provides the benefits of a cloud deployment, provisioning and lifecycle management model for applications using standard OpenStack software APIs and interfaces.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Helion OpenStack Carrier Grade is available pre-loaded in HP NFV System or separately.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enhanced NFV orchestration and real time analytics&lt;br>&#xa; &lt;/b>HP NFV Director 3.0 provides enhanced management and orchestration (MANO) capabilities that streamline bridging of NFV and telecommunications resources, as well as enable faster VNF on-boarding. It combines operations support systems (OSS) and IT management capabilities in a comprehensive, multi-vendor NFV orchestration solution that automate service and infrastructure management to enhance the flexibility and scalability of CSPs current OSS systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>New HP NFV analytics capabilities in HP NFV Director 3.0 are powered by &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.vertica.com/hp-vertica-products/dragline/&quot;>HP Vertica&lt;/a>, providing CSPs the ability to make decisions in real time using NFV data to improve uptime, traffic steering, resource, application and network usage. Predictive analytics gives CSPs critical insights on trending as well as historical capacity usage and threshold crossing warnings (alarms).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP NFV Director 3.0 with optional HP NFV Analytics is available fully integrated with NFV System and HP OpenStack Carrier Grade or separately.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Technology Services that help guide a CSPs transition to NFV&lt;br>&#xa; &lt;/b>HP Technology Services now offers consulting services for CSPs to help ensure that the underlying infrastructure is ready and optimized for NFV. HP Trusted NFV Platform Transformation services span strategy, proof-of-concept, assessment, validated active design, integration, solution support and comprehensive program management.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition HP Technology Services provides environment-wide support coverage that CSPs require for their NFV journey. HP has decades of experience providing an enhanced and proactive support experience to CSP's through dedicated call handling and access to highly experienced technical specialists who understand Telco applications and infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability &lt;br>&#xa; &lt;/b>Availability for the HP NFV System Starter Kit, HP Helion OpenStack Carrier Grade, HP NFV Director 3.0 with HP NFV Analytics and HP Trusted NFV Platform Transformation services is targeted for the third quarter of calendar year 2015.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional information on HP NFV visit &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/nfv&quot;>www.hp.com/go/nfv&lt;/a> or follow @hpnfv on Twitter.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The OpenStack Word Mark and OpenStack Logo are either registered trademarks/service marks or trademarks/service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission. We are not affiliated with, endorsed or sponsored by the OpenStack Foundation, or the OpenStack community.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ks7d
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                        </contentblock_ks7d>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_z4zr
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-launches-virtualized-management-to-increase-telecom-services-quality-and-agility"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate02.jpg"/>
+                        </contentblock_z4zr>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_1hwn
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-and-red-hat-join-forces-to-give-customers-greater-choice-for-nfv-deployments"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Red Hat Join Forces to Give Customers Greater Choice for NFV Deployments"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Aug11.jpg"/>
+                        </contentblock_1hwn>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

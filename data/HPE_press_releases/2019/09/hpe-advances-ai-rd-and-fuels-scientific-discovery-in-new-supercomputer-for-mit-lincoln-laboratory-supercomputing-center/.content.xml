@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:36:46.337Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/company---customers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE advances AI R&amp;D and fuels scientific discovery in new supercomputer for MIT Lincoln Laboratory Supercomputing Center"
+        jcr:uuid="6beb8417-2148-4516-bb55-4f83450f8ff1"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE advances AI R&amp;D and fuels scientific discovery in new supercomputer for MIT Lincoln Laboratory Supercomputing Center"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-09-26T05:00:00.000-07:00"
+        featured="true"
+        metaDescription="MIT Lincoln Laboratory Supercomputing Center gets HPE-built supercomputer to power complex AI  applications and accelerate medical and scientific research"
+        metaKeywords="HPE, Hewlett Packard Enterprise, supercomputer, HPC, high-performance computing, AI, artificial intelligence, NVIDIA, GPU, Intel, Intel Xeon, data center, research, science, deep neural networks, machine learning"
+        metaOgImage="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-advances-ai-rd-and-fuels-scientific-discovery-in-new-supercomputer-for-mit-lincoln-laboratory-supercomputing-center.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE advances AI R&amp;D and fuels scientific discovery in new supercomputer for MIT Lincoln Laboratory Supercomputing Center"
+        pageTitle="HPE advances AI R&amp;D and fuels scientific discovery in new supercomputer for MIT Lincoln Laboratory Supercomputing Center"
+        priority="(None)"
+        socialDescription="MIT Lincoln Laboratory Supercomputing Center gets HPE-built supercomputer to power complex AI  applications and accelerate medical and scientific research"
+        subtitle="MIT Lincoln Laboratory Supercomputing Center gets HPE-built supercomputer to power complex AI  applications and accelerate medical and scientific research"
+        theme="dark"
+        UAID="75b1e4de-4cd2-4497-afe6-fa6dac6b0cb8"
+        UCID="40a4eaf3-8c68-4270-b28d-3789b92b64b8">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-09-26T12:51:14.489Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="SEPTEMBER 26, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T13:21:27.679Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-advances-ai-rd-and-fuels-scientific-discovery-in-new-supercomputer-for-mit-lincoln-laboratory-supercomputing-center.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T12:55:14.104Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New supercomputer, which MIT Lincoln Supercomputing Center has named TX-GAIA (Green AI Accelerator), will perform complex deep neural networks (DNN) and other machine learning training&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>MIT Lincoln Supercomputing Center’s TX-GAIA will fuel innovation in weather forecasting, medical data analysis, autonomous systems, synthetic DNA design, and new materials and devices&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_8e
+                    jcr:created="{Date}2019-09-26T12:55:31.624Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T12:55:53.381Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>MIT Lincoln Laboratory Supercomputing Center gets HPE-built supercomputer to power complex AI&amp;nbsp;applications and accelerate medical and scientific research&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T12:57:22.724Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>San Jose, Calif. – Sept. 26, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) announced today it had built a new supercomputer for the Massachusetts Institute of Technology (MIT) Lincoln Laboratory Supercomputing Center, to power compute-intensive AI applications and bolster research across engineering, science, and medicine.&lt;br>&#xa;&lt;br>&#xa;The new supercomputer, which the MIT Lincoln Laboratory Supercomputing Center has named TX-GAIA (Green AI Accelerator), converges high-performance computing (HPC) and AI to support workloads such as modeling and simulation and perform complex deep neural networks (DNN) and other machine learning training. It is based on the &lt;a href=&quot;https://buy.hpe.com/us/en/servers/apollo-systems/apollo-2000-system/apollo-2000-system/hpe-apollo-2000-system/p/1010192759&quot; target=&quot;_blank&quot;>HPE Apollo 2000 system&lt;/a>, which is purpose-built for HPC and optimized for AI, by integrating the latest Intel® Xeon® Scalable processors and NVIDIA GPU accelerators.&lt;br>&#xa;&lt;br>&#xa;The new supercomputer has a measured performance of 4.725 petaFLOPS&lt;sup>1&lt;/sup> and will be used to support research projects that will fuel innovation in weather forecasting, medical data analysis, autonomous systems, synthetic DNA design, and new materials and devices.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_597e
+                    jcr:created="{Date}2019-09-26T12:57:39.738Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T12:58:02.914Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is delivering significant AI performance to power deep neural networks faster &lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-09-26T12:58:02.914Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_597e>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T12:59:05.116Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additionally, the MIT Lincoln Laboratory Supercomputing Center’s new system gets an AI performance boost, as measured by the computing speed required to perform DNNs, of a peak performance of 100 AI petaFLOPS&lt;sup>2&lt;/sup>. This will greatly accelerate the processing of deep neural networks and other compute-intensive AI workloads in order to improve training in areas such as image recognition, speech and natural language processing and computer vision.&lt;br>&#xa; &lt;br>&#xa; The new system is housed in a modular data center facility, co-developed with HPE and designed to speed deployment and reduce overall IT resources. It is located in Holyoke, Massachusetts, where it is powered by abundant green energy, and will go into production in the fall of 2019.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T12:59:55.582Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>MIT Lincoln Laboratory Supercomputing Center and HPE extend HPC tech to boost AI R&amp;amp;D and discovery&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-09-26T12:59:55.582Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T15:43:07.263Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“We’ve seen strong industry demand for scalable performance to train higher volumes of AI that will advance science and engineering, and make breakthroughs across industries,” said Bill Mannel, vice president and general manager, HPC and AI at HPE. “Our continued partnership with MIT Lincoln Laboratory Supercomputing Center extends the power of our HPC technologies to boost AI R&amp;amp;D and create new experiences.”&lt;br>&#xa; &lt;br>&#xa; “At the MIT Lincoln Laboratory Supercomputing Center, our mission is to solve the nation’s hardest technical challenges by advancing computationally intensive science, engineering, and medicine,” said Jeremy Kepner, head and founder, at MIT Lincoln Laboratory Supercomputing Center (LLSC). “By collaborating with HPC leaders like HPE, we are expanding technical capabilities to run emerging AI workloads in our supercomputer and accelerate innovation.”&lt;br>&#xa; &lt;br>&#xa; The MIT Lincoln Laboratory Supercomputing Center’s TX-GAIA comprises of 448 nodes, 896 2&lt;sup>nd&lt;/sup> Generation Intel® Xeon® Scalable processor CPUs with a total of 17,920 cores, 896 NVIDIA 32GB V100 GPUs and 172,000GB of memory.&amp;nbsp;Read more about the new system: &lt;a href=&quot;https://www.ll.mit.edu/news/lincoln-laboratorys-new-ai-supercomputer-most-powerful-university&quot; target=&quot;_blank&quot;>Lincoln Laboratory's new AI supercomputer is the most powerful at a university&lt;/a>&lt;br>&#xa; &lt;br>&#xa; To learn more about HPE’s HPC solutions and key industry collaborations across government, academic and commercial sectors, please visit &lt;a href=&quot;https://www.hpe.com/us/en/solutions/hpc-high-performance-computing.html&quot; target=&quot;_blank&quot;>https://www.hpe.com/us/en/solutions/hpc-high-performance-computing.html&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-26T13:02:49.106Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Calculation is based on Rmax which is the maximal LINPACK performance achieved for the largest problem run on a machine: &lt;a href=&quot;http://www.netlib.org/utk/people/JackDongarra/PAPERS/146_2003_the-linpack-benchmark-past-present-and-future.pdf&quot; target=&quot;_blank&quot;>http://www.netlib.org/utk/people/JackDongarra/PAPERS/146_2003_the-linpack-benchmark-past-present-and-future.pdf&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> Calculation for 100 AI petaFLOPS in TX-GAIA:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>448 nodes * 2&amp;nbsp; = 896 (V100 GPU’s)&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>896 * 112 (V100 Tensor Performance in teraFLOPS) = 100,352&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-09-26T13:05:24.772Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-unveils-the-worlds-most-secure-industry-standard-servers"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE unveils the world’s most secure industry standard servers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE unveils the world’s most secure industry standard servers"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-26T13:05:24.772Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-26T13:05:24.772Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-09-26T13:07:10.078Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/security-from-edge-to-cloud-balancing-innovation-security-in-a-shifting-threat-landscape"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Security from edge to cloud: Balancing innovation &amp; security in a shifting threat landscape"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Security from edge to cloud: Balancing innovation &amp; security in a shifting threat landscape"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-26T13:07:10.078Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/security-from-edge-to-cloud-balancing-innovation-security-in-a-shifting-threat-landscape.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-26T13:07:10.078Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-09-26T13:10:35.697Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/08/hpe-builds-nasa-new-supercomputer-to-support-future-human-mission-to-moon"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE builds NASA new supercomputer to support future human mission to moon"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE builds NASA new supercomputer to support future human mission to moon"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-26T13:10:35.697Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2019/08/image-norend/hpe-builds-nasa-new-supercomputer-to-support-future-human-mission-to-moon.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-26T13:10:35.697Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-10-22T14:12:23.999Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

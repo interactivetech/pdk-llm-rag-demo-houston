@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:09:27.796Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-delivers-cloud-based-ai-driven-operations-for-hpe-proliant-apollo-and-synergy-servers"
+        jcr:uuid="53881cec-5bcb-4a52-b866-fbf822c5d03c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-11-15T04:45:35.000-08:00"
+        metaDescription="HPE delivers cloud-based AI-driven operations for HPE ProLiant, Apollo and Synergy servers"
+        metaKeywords="HPE, data center, artificial intelligence, AI, server, storage, predictive analytics"
+        navTitle="HPE delivers cloud-based AI-driven operations for HPE ProLiant, Apollo and Synergy servers"
+        pageTitle="HPE delivers cloud-based AI-driven operations for HPE ProLiant, Apollo and Synergy servers"
+        priority="(None)"
+        subtitle="HPE InfoSight extends select predictive analytics and recommendation capabilities to HPE servers, enabling smarter, self-monitoring infrastructure"
+        theme="dark"
+        UAID="145b2f88-168f-4ff4-a0b5-a399673c32d8"
+        UCID="3161e9bf-1279-4b46-a40e-b0555cbd8345"
+        WPID="202132">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 15, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE-Delivers-Cloud-Based-AI-Driven-Operations-for-HPE-ProLiant-Apollo-and-Synergy-Servers.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE delivers cloud-based AI-driven operations for HPE ProLiant, Apollo and Synergy servers"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-04-13T19:36:30.654Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight automatically predicts and resolves 86 percent of issues before a problem is identified&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>AI-driven operations enable customers to gain higher efficiency and reliability with smarter, easy-to-manage infrastructures&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE InfoSight extends select predictive analytics and recommendation capabilities to HPE servers, enabling smarter, self-monitoring infrastructure&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_f1zn
+                    jcr:lastModified="{Date}2020-04-13T19:33:01.047Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise (HPE)&lt;/a> today announced it is extending HPE InfoSight, an industry-leading cloud-based artificial intelligence (AI) management tool, to &lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/servers/apollo-systems.hits-12.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPE ProLiant servers&lt;/a>, &lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/synergy/synergy-compute.hits-12.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPE Synergy compute modules&lt;/a> and &lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/servers/apollo-systems.hits-12.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPE Apollo systems&lt;/a>.&lt;sup>1&lt;/sup>&amp;nbsp;With global learning and predictive analytics capabilities based on real-world operational data, HPE InfoSight drives down operating costs, closes disruptive performance gaps and frees IT staff to innovate.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>At the pace of modern business, where access to real-time data and insights has become an imperative, IT organizations cannot afford to waste time or resources on problems that could have been prevented, especially those that impact productivity and the bottom line. HPE InfoSight can solve this challenge, constantly monitoring infrastructure, identifying potential problems and providing insights to resolution.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_qunf
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>InfoSight capabilities offer a single AI-driven framework to monitor, collect and analyze data&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_hptg
+                    jcr:lastModified="{Date}2020-07-02T19:23:43.999Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/solutions/infosight.html&quot; target=&quot;_blank&quot;>HPE InfoSight&lt;/a> gathers operational intelligence from this infrastructure by analyzing millions of sensors across a globally-connected installed base, and using behavioral data provides trend insights, forecasting and recommendations, to predict and prevent problems. The result is higher efficiency and reliability, creating a smarter, easier-to-manage infrastructure for customers.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_tk9u
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>86 percent of issues are automatically predicted and resolved before a problem occurs&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_5959
+                    jcr:lastModified="{Date}2020-04-13T19:36:59.088Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE storage customers are already enjoying the benefits of HPE InfoSight with operational costs decreased by as much as 79 percent, trouble tickets resolved in 85 percent less time, and 86 percent of issues automatically predicted and resolved before a problem is identified.&lt;sup>2&amp;nbsp;&lt;/sup>Extending InfoSight capabilities to servers provides a single AI-driven framework to monitor, collect and analyze rich data telemetry from across the entire infrastructure, on- or off-premises.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today is the first milestone in extending HPE InfoSight to ProLiant servers, Synergy compute modules and Apollo systems, delivering a foundational set of capabilities that will augment over time:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Global Visibility into the Server Infrastructure&lt;/b>&lt;/span>&lt;p>&lt;span class=&quot;body-copy-large&quot;>In a wellness monitoring dashboard, customers gain a consolidated view of the health and status of their server infrastructure, including system information, server warranty and support entitlement. HPE InfoSight combines its AI capabilities with the &lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/detail/pip.5219983.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Active Health System (AHS)&lt;/a> and HPE Integrated Lights Out (iLO) technology for proactive health monitoring and server management, optimizing overall performance and preventing critical issues.&lt;/span>&lt;/p>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Predictive Analytics &lt;/b>&lt;/span>&lt;p>&lt;span class=&quot;body-copy-large&quot;>By bringing predictive analytics to monitoring servers, InfoSight provides insight on select parts failures enabling IT managers to make necessary maintenance requests for replacement to reduce downtime. Additionally, the predictive analytics capabilities alert managers to server security concerns such as rogue login attempts, protecting servers against costly server threats.&lt;/span>&lt;/p>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Recommendation Engine &lt;/b>&lt;/span>&lt;p>&lt;span class=&quot;body-copy-large&quot;>Using insights from the predictive analytics, InfoSight provides recommendations based on patterns or signs of abnormality to eliminate performance bottlenecks on servers.&lt;/span>&lt;/p>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Infosight improves the customers infrastructure management experience and combined with HPE OneView it can simplify the on-premises experience. HPE OneView provides compute lifecycle management and template driven infrastructure deployment that transforms the infrastructure to software-defined, allowing customers to deploy infrastructure faster, simplify lifecycle operations and increase productivity.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Our customers want to unlock the value of digital transformation faster than ever before. This requires evolving their data centers to deliver a hybrid cloud environment that is automated, self-healing and addresses issues in real-time so IT staff can focus on driving transformation, rather than managing hardware downtime and policy exceptions, said Justin Hotard, General Manager, Hybrid IT Volume Global Business Unit, HPE. We are helping customers improve the productivity and performance of their operations and free their staff to drive innovation from edge to cloud.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight will be available worldwide for HPE ProLiant servers, HPE Synergy compute modules and HPE Apollo systems in January 2019.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional insight into HPEs InfoSight offerings, please visit &lt;a href=&quot;http://www.hpe.com/info/infosight&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>http://www.hpe.com/info/infosight&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>&amp;nbsp;Available on servers with iLO 4 and iLO 5&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup>&amp;nbsp;ESG: Assessing the Financial Impact of HPE InfoSight Predictive Analytics, September 2017&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_e4f5
+                            jcr:created="{Date}2019-01-22T13:26:46.734Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2020-07-02T19:23:55.337Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-brings-artificial-intelligence-to-the-data-center"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Brings Artificial Intelligence to the Data Center"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Brings Artificial Intelligence to the Data Center"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:23:55.337Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Brings-Artificial-Intelligence-to-the-Data-Center.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:23:55.337Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_e4f5>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7621
+                            jcr:created="{Date}2019-01-22T13:27:15.368Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2020-07-02T19:24:01.463Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/07/hpe-advances-intelligent-storage-capabilities-with-ai-and-cloud-automation-for-hpe-3par"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:24:01.463Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Press-release_1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:24:01.463Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7621>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_54cc
+                            jcr:created="{Date}2019-01-22T13:27:17.319Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2020-07-02T19:24:12.015Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/blog-post/2017/11/the-future-of-the-data-center-is-autonomous-powered-by-hpe-infosight.html"
+                            description="&lt;p>Blog Spot&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="The Future of the Data Center is Autonomous: Powered by HPE InfoSight"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Future of the Data Center is Autonomous: Powered by HPE InfoSight"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:24:12.015Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/The-Future-of-the-Data-Center-is-Autonomous-Powered-by-HPE-InfoSight.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:24:12.015Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_54cc>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

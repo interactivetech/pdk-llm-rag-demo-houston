@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:44:46.442Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Cray announces Shasta software to power the Exascale Era"
+        jcr:uuid="2684a365-7d73-42bd-8bdd-c9e5ee49322c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Cray announces Shasta software to power the Exascale Era"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-08-13T13:59:00.000-07:00"
+        metaDescription="Every enterprise can harness the performance and scalability of Cray supercomputing with the ease of the cloud"
+        metaKeywords="Cray, HPE Cray, supercomputing, exascale, exascale era, Slingshot interconnect, Shasta software, newsroom"
+        metaOgImage="/content/dam/hpe/newsroom/2019/08/image-norend/cray-announces-shasta-software-to-power-the-exascale-era.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Cray announces Shasta software to power the Exascale Era"
+        pageTitle="Cray announces Shasta software to power the Exascale Era"
+        priority="(None)"
+        socialDescription="Every enterprise can harness the performance and scalability of Cray supercomputing with the ease of the cloud"
+        subtitle="Every enterprise can harness the performance and scalability of Cray supercomputing with the ease of the cloud"
+        theme="dark"
+        UAID="a9886d10-d954-4f4e-9a56-91d0e07520b4"
+        UCID="4799726a-3c5b-43c1-9e09-2230614d177d">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-09-10T20:45:26.140Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="AUGUST 13, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:45:37.218Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/08/image-norend/cray-announces-shasta-software-to-power-the-exascale-era.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:46:27.467Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New, open and extensible software platform addresses the growing need for supercomputing across government and private industries&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>What was the domain of a few is becoming a necessity for every enterprise—modern applications are creating the need for applying supercomputing capability to a new class of digital transformation problems&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Shasta software fuses supercomputing performance and capability with the modularity, composability and ease-of-use of cloud computing&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent
+                    jcr:created="{Date}2020-09-10T20:46:37.325Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:46:50.149Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomMargin="0"
+                    bottomPadding="0"
+                    leftMargin="0"
+                    leftPadding="0"
+                    rightMargin="0"
+                    rightPadding="0"
+                    textIsRich="true"
+                    textOnly="&lt;h2>Every enterprise can harness the performance and scalability of Cray supercomputing with the ease of the cloud&lt;/h2>&#xd;&#xa;"
+                    topMargin="0"
+                    topPadding="0"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:47:28.379Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Global supercomputer leader&amp;nbsp;Cray today announced an entirely new, open and extensible software platform to address the growing need for supercomputing across government and private industries. As advanced simulation, artificial intelligence (AI) and digital transformation create new, data intensive workloads, the need for performance at scale is growing rapidly. Recognizing the challenges presented by the Exascale Era, Cray’s software fuses supercomputing performance and capability with the modularity, composability and ease-of-use of cloud computing. In a separate press release issued today, the&amp;nbsp;Department of Energy&amp;nbsp;(DOE),&amp;nbsp;National Nuclear Security Administration&amp;nbsp;(NNSA) and&amp;nbsp;Lawrence Livermore National Laboratory&amp;nbsp;(LLNL) announced that Cray has been awarded a third U.S. exascale system contract. The system, dubbed “El Capitan,” will be sited at LLNL. Cray now has&amp;nbsp;$1.5 billion&amp;nbsp;in business for Shasta supercomputing systems and the new software platform.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;“The Shasta software used with the El Capitan system expands traditional supercomputing to support the complex workflows and numerous 3D studies necessary to unlock the full potential of exascale computing,” said&amp;nbsp;Bill Goldstein, lab director at LLNL. “The flexibility and extensibility of El Capitan’s software and hardware environment will enable the NNSA laboratories to explore and develop capabilities that leverage the combination of AI and machine learning with modeling and simulation to accelerate time-to-solution for our national security codes. These technologies could apply equally well to multi-physics codes employed outside of the national security domain.”&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;Cray has a rich history of developing the most performant, scalable and reliable software in supercomputing. This is validated by the vast majority of global weather centers that rely on Cray to deliver time critical numerical weather forecasts. These weather centers are at the forefront of the convergence of HPC, AI and IoT workloads that operate at immense scale.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;Cray’s new software platform improves performance and reliability by including new key capabilities:&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:48:33.690Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Extends traditional HPC batch workflow scheduling for modeling and simulation with new Kubernetes container orchestration to enable converged HPC and AI workflows.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Adds support for multi-tenancy between HPC and AI partitions and sub-partitioning within AI jobs to enable workflow isolation.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Provides highly resilient containerized services with separate compute and management planes to minimize planned and unplanned downtime.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Creates an open supercomputing platform by including standardized and supported APIs for integration, data access and software ecosystem extensibility and interoperability.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Delivers a new and fully integrated telemetry for the system as well as user application level monitoring to quickly correlate and remediate issues.&lt;br>&#xd;&#xa;&amp;nbsp;&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“As we enter the Exascale Era, modern applications are creating the need for applying supercomputing capability to a new class of digital transformation problems. What is the domain of a few national laboratories today is fast becoming a necessity for every enterprise,” said&amp;nbsp;Peter Ungaro, president and CEO,&amp;nbsp;Cray, Inc.&amp;nbsp;“With our new software platform, Cray is delivering a fully featured, extensible software and tools environment that performs like a supercomputer and runs like a cloud. The same Cray technology that powers exascale systems can be delivered in a single, low-cost rack and ready to integrate into any data center environment.”&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:49:53.905Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>With this next generation supercomputing software platform, Cray has addressed key requirements:&lt;br>&#xd;&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Application development and portability&lt;/b>: Developers can easily compose converged modeling, simulation, analytics and AI workflows using modern microservices and a robust suite of tools and compilers that support a broad spectrum of processors and accelerators. Applications can easily move from laptop to supercomputer for maximum scalability of code with minimal refactoring.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Management and&amp;nbsp;monitoring&lt;/b>: IT administrators employ a unified systems management and telemetry framework to ensure production reliability for job execution and support high system availability.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Interoperability:&lt;/b>&amp;nbsp;IT managers and administrators can deploy Cray technology with the assurance that both current and future requirements are covered with broad data center systems and software interoperability with the addition of documented APIs for automation and data access, and support for industry standard protocols.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Investment protection:&lt;/b>&amp;nbsp;CXOs and business owners benefit from a multi-user and multipurpose platform with support for heterogeneous processor architectures (x86, AMD, ARM,&amp;nbsp;NVIDIA, FPGAs and other accelerators) and the scalability to meet their rapidly growing analytics and AI initiatives.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:50:43.393Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span&#xd;&#xa;      class=&quot;body-copy-large&quot;>“Shasta is designed to support extremely heterogeneous workloads not just from science and engineering, but also from the growing contingent of enterprises that acquire supercomputers to outcompete their rivals in the new era of digital transformation and AI,” said Steve Conway, COO and senior vice president of research at Hyperion Research. “Cray Shasta supercomputers aim to move leading enterprises beyond proof-of-concept to production, and to operate on premises or in the cloud. By integrating extremely heterogeneous requirements into the new Shasta system hardware and software, Cray has substantially expanded its addressable market to include enterprise analytics, AI and cloud computing.”&lt;br />&#xd;&#xa;&lt;b style=&quot;&quot;>&lt;br />&#xd;&#xa;Supporting Quotes&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;&lt;/b>“The Department of Energy is the world leader in supercomputing and El Capitan is a critical addition to our next generation systems,” said U.S. Energy Secretary Rick Perry. “El Capitan’s advanced capabilities for modeling, simulation and artificial intelligence will help push America’s competitive edge in energy and national security, allow us to ask tougher questions, solve greater challenges and develop better solutions for generations to come.”&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;“NNSA is modernizing the Nuclear Security Enterprise to face 21st century threats,” said Lisa E. Gordon-Hagerty, DOE Under Secretary for Nuclear Security and NNSA Administrator. “El Capitan will allow us to be more responsive, innovative and forward-thinking when it comes to maintaining a nuclear deterrent that is second to none in a rapidly-evolving threat environment.”&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T20:51:19.968Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit:&amp;nbsp;&lt;a href=&quot;http://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;i>This press release originally published on cray.com and has been updated and published here in HPE’s Newsroom.&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T20:54:44.041Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/03/hpe-and-amd-power-complex-scientific-discovery-in-worlds-fastest-supercomputer-for-us-department-of-energys-doe-national-nuclear-security-administration-nnsa"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE and AMD power complex scientific discovery in world’s fastest supercomputer for U.S. Department of Energy’s (DOE) National Nuclear Security Administration (NNSA)"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and AMD power complex scientific discovery in world’s fastest supercomputer for U.S. Department of Energy’s (DOE) National Nuclear Security Administration (NNSA)"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T20:54:44.041Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2020/03/image-norend/hpe-and-amd-power-complex-scientific-discovery-in-worlds-fastest-supercomputer.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T20:54:44.041Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T20:56:16.433Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/10/this-is-why-we-celebrate-exascale-day"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="This is why we celebrate Exascale Day"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="This is why we celebrate Exascale Day"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T20:56:16.433Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/10/image-norend/This-Is-Why-We-Celebrate-Exascale-Day.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T20:56:16.433Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T20:58:10.776Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/07/hewlett-packard-enterprise-powers-the-university-of-edinburghs-international-data-facility-with-software-hpc-and-ai-solutions"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Hewlett Packard Enterprise powers the University of Edinburgh’s International Data Facility with software, HPC and AI solutions"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise powers the University of Edinburgh’s International Data Facility with software, HPC and AI solutions"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T20:58:10.776Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2020/07/image-norend/hpe-powers-the-university-of-edinburghs-international-data-facility-with-software-hpc-and-ai-solutions.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T20:58:10.776Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-09-05T17:38:02.066Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

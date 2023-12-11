@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:03:22.553Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/storage]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-announces-antonio-neri-to-succeed-meg-whitman-as-chief-executive-officer"
+        jcr:uuid="e863f9c0-af5c-49b0-a0d7-b8062011fae4"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-21T13:10:07.000-08:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Kate Holderness, HPE"
+        metaDescription="Hewlett Packard Enterprise Announces Antonio Neri to Succeed Meg Whitman as Chief Executive Officer"
+        navTitle="Hewlett Packard Enterprise Announces Antonio Neri to Succeed Meg Whitman as Chief Executive Officer"
+        pageTitle="Hewlett Packard Enterprise Announces Antonio Neri to Succeed Meg Whitman as Chief Executive Officer"
+        priority="(None)"
+        subtitle="Antonio Neri, current President of HPE, will become President and Chief Executive Officer effective February 1, 2018"
+        theme="dark"
+        UAID="8582127c-2684-450e-a438-b963cbc15f50"
+        UCID="78d53b95-2340-4f0d-b3a6-ae343da465b4"
+        WPID="199544">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 21, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-16T20:25:20.371Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Option-2.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-16T20:28:30.035Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Meg Whitman, current Chief Executive Officer, will remain on the HPE Board of Directors&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Since Whitman was appointed President and CEO in September 2011, she has executed against a five-year turnaround strategy that has repositioned the company to better compete and win in today's environment&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Neri joined HP in 1995 as a customer service engineer and went on to hold various leadership roles before being appointed President of HPE in June 2017&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Antonio Neri, current President of HPE, will become President and Chief Executive Officer effective February 1, 2018&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_mpml
+                    jcr:lastModified="{Date}2018-10-16T20:30:32.178Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., Nov. 21, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (NYSE:&lt;a href=&quot;https://globenewswire.com/News/Listing?symbol=HPE&amp;amp;exchange=4&quot;>HPE&lt;/a>) today announced that, effective February 1, 2018, Antonio Neri, current President of HPE, will become President and Chief Executive Officer, and will join the HPE Board of Directors. Meg Whitman, current Chief Executive Officer, will remain on the HPE Board of Directors.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;I'm incredibly proud of all we've accomplished since I joined HP in 2011. Today, Hewlett Packard moves forward as four industry-leading companies that are each well positioned to win in their respective markets,&amp;quot; said Meg Whitman, CEO of HPE. &amp;quot;Now is the right time for Antonio and a new generation of leaders to take the reins of HPE. I have tremendous confidence that they will continue to build a great company that will thrive well into the future.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_x34r
+                    jcr:lastModified="{Date}2018-10-16T20:30:29.112Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Now is the right time for Antonio and a new generation of leaders to take the reins of HPE&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T20:30:29.112Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_x34r>
+                <textonlycomponent_qi1e
+                    jcr:lastModified="{Date}2018-10-16T20:42:24.285Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Meg Whitman was appointed President and CEO of HP in September 2011. Since then, she has executed against a five-year turnaround strategy that has repositioned the company to better compete and win in today's environment. Under her leadership, the company rebuilt its balance sheet, reignited innovation, strengthened operations and improved customer and partner satisfaction. It also made strategic moves to focus and strengthen its portfolio, most notably its separation from HP Inc., which was the largest corporate separation in history. She also led the subsequent spin off and mergers of HPE's Enterprise Services and Software businesses, as well as strategic acquisitions including Aruba, SGI, SimpliVity and Nimble Storage.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Under Whitman's leadership, significant shareholder value has been created, including nearly $18 billion in share repurchases and dividends. Since the birth of HPE on November 2, 2015, the company has delivered a total shareholder return of 89 percent, which is more than three times that of the S&amp;amp;P 500.&lt;br>&#xa; &lt;br>&#xa; &lt;br>&#xa; &amp;quot;During the past six years, Meg has worked tirelessly to bring stability, strength and resiliency back to an iconic company,&amp;quot; said Pat Russo, Chairman of HPE's Board of Directors. &amp;quot;Antonio is an HPE veteran with a passion for the company's customers, partners, employees and culture. He has worked at Meg's side and is the right person to deliver on the vision the company has laid out.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Neri, 50, joined HP in 1995 as a customer service engineer in the EMEA call center. He went on to hold various roles in HP's Printing business and then to run customer service for HP's Personal Systems unit. In 2011, Neri began running the company's Technology Services business, then its Server and Networking business units, before running all of Enterprise Group beginning in 2015. As the leader for HPE's largest business segment, comprising server, storage, networking and services solutions, Neri was responsible for setting the R&amp;amp;D agenda, bringing innovations to market, and go-to-market strategy and execution. Neri was appointed President of HPE in June 2017. In addition to leading the company's four primary lines of business, as President, Neri has been responsible for HPE Next, a program to accelerate the company's core performance and competitiveness.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;The world of technology is changing fast, and we've architected HPE to take advantage of where we see the markets heading,&amp;quot; said Antonio Neri, President of HPE. &amp;quot;HPE is in a tremendous position to win, and we remain focused on executing our strategy, driving our innovation agenda, and delivering the next wave of shareholder value.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE's strategy is based on three pillars. First, making Hybrid IT simple through its offerings in the traditional data center, software-defined infrastructure, systems software, private cloud and through cloud partnerships. Second, powering the Intelligent Edge through offerings from Aruba in Campus and Branch networking, and the Industrial Internet of Things (IoT) with products like Edgeline and its Universal IoT software platform. Third, providing the services that are critical to customers today, including Advisory, Professional and Operational Services.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterpriseis an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the core data center to the cloud to the intelligent edge, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Forward-looking statements&lt;/b>&lt;br>&#xa; This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.secure.&lt;/span>&lt;/p>&#xa;&lt;h3>&lt;b>&lt;br>&#xa;MEDIA CONTACTS&lt;/b>&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Kate Holderness, HPE&lt;br>&#xa; Email: &lt;a href=&quot;mailto:corpmediarelations@hpe.com&quot;>corpmediarelations@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3gt8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-reports-fiscal-2017-full-year-and-fourth-quarter-results"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Reports Fiscal 2017 Full-Year and Fourth Quarter Results"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Reports Fiscal 2017 Full-Year and Fourth Quarter Results"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Option-1.jpg"/>
+                        </contentblock_3gt8>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_e8xd
+                            jcr:lastModified="{Date}2018-10-16T20:37:01.326Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/hpes-top-5-things-you-shouldnt-miss-from-q4"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPEs Top 5 Things You Shouldn't Miss From Q4"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPEs Top 5 Things You Shouldnt Miss From Q4"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-16T20:37:01.326Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HeroImage.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-16T20:37:01.326Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_e8xd>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_xfbn
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/board-of-directors-named-for-new-company-to-be-formed-by-the-proposed-merger-of-csc-and-the-enterprise-services-business-of-hewlett-packard-enterprise"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/BoardOfDirectors_web.jpg"/>
+                        </contentblock_xfbn>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

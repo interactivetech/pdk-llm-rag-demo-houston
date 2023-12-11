@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T07:03:12.999Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry---telcom-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="multi-vendor-solution-outlines-nfv-path-for-telcos"
+        jcr:uuid="cb5d008f-f5b7-4bf1-85a3-6e28b25e6c4a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:51.000-07:00"
+        mediaContactEmail="erik.denny"
+        mediaContactName="Erik Denny, HP"
+        metaDescription="Multi-vendor Solution Outlines NFV Path for Telcos"
+        navTitle="Multi-vendor Solution Outlines NFV Path for Telcos"
+        pageTitle="Multi-vendor Solution Outlines NFV Path for Telcos"
+        priority="(None)"
+        subtitle="HP, F5 Networks and Nuage Networks team up with Telstra to produce ETSI-certified Network Functions Virtualization proof of concept"
+        theme="dark"
+        UAID="74b6c835-c475-430a-8e36-c2e700e8232f"
+        UCID="85e487a5-d897-47aa-b5ce-f8b2965fa602"
+        WPID="1485">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T18:46:45.825Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="Oct 12, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP, F5 Networks and Nuage Networks team up with Telstra to produce ETSI-certified Network Functions Virtualization proof of concept&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_azi9
+                    jcr:lastModified="{Date}2018-10-18T18:55:49.190Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., October 12, 2015 Today HP announced it has joined with NFV ecosystem partners,&amp;nbsp;&lt;a href=&quot;https://f5.com/&quot;>F5 Networks&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;http://www.nuagenetworks.net/&quot;>Nuage Networks&lt;/a>, and&amp;nbsp;&lt;a href=&quot;https://www.telstra.com.au/&quot;>Telstra&lt;/a>, Australia's leading telecommunications and information services company, to develop a Networks Functions Virtualization (NFV) proof of concept (PoC) solution. This multi-vendor solution has been certified by the&amp;nbsp;&lt;a href=&quot;http://www.etsi.org/&quot;>European Telecommunications Standards Institute&lt;/a>(ETSI), providing communications service providers (CSPs) with a documented, repeatable framework that can be referenced in deploying NFV technologies.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>NFV offers a new way for CSPs to design, deploy, and manage networking services. By decoupling the network functions from proprietary hardware appliances, CSPs can accelerate the introduction of new, compelling services quickly and cost-effectively.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>ETSI PoC #38 will be showcased at the ETSI NFV PoC ZONE at the&amp;nbsp;&lt;a href=&quot;http://www.layer123.com/sdn&quot;>SDN &amp;amp; OpenFlow World Congress&lt;/a>, October 12-16, 2015 in Dsseldorf, Germany. ETSI PoC #38 showcases:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Full ISO 7-layer stack fulfillment, activation and orchestration of virtual network functions in carrier networks.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>How NFV and SDN technologies can be complimentary in providing compelling value proposition to the carriers to be able to deploy services faster and also to be able scale capacity elastically on demand.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>18 specific use cases highlighting the advantages of deploying F5 virtualized network functions in a multi-vendor environment.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Integration of F5&amp;nbsp;&lt;a href=&quot;https://f5.com/products/big-ip&quot;>BIG-IP&lt;/a>&amp;nbsp;technologies with HP NFV Director and HP Helion CloudSystem for the comprehensive end-to-end lifecycle management of virtualized network functions, including VNF instantiation, provisioning, orchestration and service assurance.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Integration of F5 virtualized network functions with Nuage Networks&amp;nbsp;&lt;a href=&quot;http://www.nuagenetworks.net/products/virtualized-services-platform/&quot;>Virtual Services Platform&lt;/a>(VSP) to enable service insertion and traffic toward the appropriate services independent of their location. VSP ensures data paths between VNFs have consistent communications and security policy enforcement throughout the infrastructure.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>By participating in the PoC (ETSI PoC #38), Telstra sought to increase its knowledge and experience using software defined networking (SDN) in NFV architecture, test methodology for NFV and end-to-end fault correlation. The PoC provided Telstra with key insight into developing the skills and assessing underlying NFV technologies along with understanding the network/product implications of NFV.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP OpenNFV platform An end-to-end virtualization framework built around openness&lt;/b>&lt;br>&#xa; The HP approach to NFV is built around adherence to openness and standards, a key benefit of which is the ability to enable other telco ecosystem vendors to introduce new innovations on top of the HP OpenNFV platform, including network equipment providers (NEPs), independent software vendors (ISVs), and systems integrators (SIs). This allows CSPs to choose different components from the vendors that best meet their needs, accelerating NFV deployments and providing customers a simplified end-to-end experience from ordering, to deployment, operations, lifecycle management and services.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional information on HP NFV visit&amp;nbsp;&lt;a href=&quot;http://www.hp.com/go/nfv&quot;>www.hp.com/go/nfv&lt;/a>&amp;nbsp;or follow @hpnfv on Twitter.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Supporting Quotes&lt;/b>&lt;br>&#xa; &lt;i>&amp;quot;Communications service providers place great importance on moving from a proprietary monolithic appliance architecture to an open one. By working with HP OpenNFV ecosystem partners, such as F5 Networks, Nuage Networks and Telstra, our open platform approach supports the multi-vendor environment communication service providers require, helping them progress from proof-of-concept to implementation.&amp;quot; Werner Schaefer, vice president, Network Functions Virtualization, HP&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;No one vendor can provide all the necessary components of NFV. Service providers are looking for vendors that take leadership roles within emerging NFV ecosystems by partnering with other technology companies and standards bodies. F5 is committed to integration and interoperability efforts to promote the growing capabilities of virtual network functions. As service providers look to ETSI and similar organizations to help solidify product requirements for NFV architectures and upcoming deployments, they will find a number of powerful use cases that speak to the advantages of including F5 technologies.&amp;quot; Dr. Mallik Tatipamula, vice president, Service Provider and Cloud Solutions, F5 Networks&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;We are impressed with Telstras leadership in developing a comprehensive multi-vendor solution for implementing virtualized networking functions. With the adoption of NFV technologies, Telstra will be very well positioned to launch new services quickly and to leverage an optimized significantly improved infrastructure base.&amp;quot; Charles Ferland, vice president, Business Development, Nuage Networks&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Telstra has a strong working relationship with HP and other organizations, with the goal of furthering our NFV strategies and programs through proof of concepts and field trials. Partnering with multiple vendors helps us to deliver impactful virtualization and orchestration capabilities within a flexible architectural framework. As service providers look to build seamless Application Delivery Networks, vendors that have qualified their technologies with the industry's standardization groups are seen as more attractive to customers.&amp;quot; David Robertson, Director, Transport &amp;amp; Routing Engineering, Networks, Telstra Operations&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_dbyh
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-launches-virtualized-management-to-increase-telecom-services-quality-and-agility"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate02.jpg"/>
+                        </contentblock_dbyh>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_w6a3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                        </contentblock_w6a3>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_u4z8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/gartner-names-hpe-a-leader-in-magic-quadrant-for-operations-support-systems"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Gartner-Names-HPE-a-Leader-in-Magic-Quadrant-for-Operations-Support-Systems.jpg"/>
+                        </contentblock_u4z8>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

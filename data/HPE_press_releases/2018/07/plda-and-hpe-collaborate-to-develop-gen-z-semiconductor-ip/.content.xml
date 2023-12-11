@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:31:35.465Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners,hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="plda-and-hpe-collaborate-to-develop-gen-z-semiconductor-ip"
+        jcr:uuid="3f19c511-b92d-4ee5-a0f7-e8836fee4f20"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-07-25T16:52:40.000-07:00"
+        mediaContactEmail="lindsey.berryhill@hpe.com"
+        mediaContactName="Lindsey Berryhill"
+        metaDescription="PLDA and HPE collaborate to develop Gen-Z semiconductor IP"
+        navTitle="PLDA and HPE collaborate to develop Gen-Z semiconductor IP"
+        pageTitle="PLDA and HPE collaborate to develop Gen-Z semiconductor IP"
+        priority="(None)"
+        subtitle="PLDA and HPE collaborate on Gen-Z silicon IP to enable a robust ecosystem of Gen-Z component providers to power memory-driven systems and solutions "
+        theme="dark"
+        UAID="ba354552-c95b-40fa-82d1-caa8b3fc04b0"
+        UCID="a50bfdab-58b9-4506-8a59-c638c30fac26"
+        webSectionId="R11989"
+        WPID="201315">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-15T13:23:32.998Z"
+                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="July 26, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/GenZAnnoucement.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="PLDA and HPE collaborate to develop Gen-Z semiconductor IP"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T13:24:14.047Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and PLDA are working together to develop Gen-Z semiconductor IP designed to the Gen-Z Core Specification 1.0.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>This will enable an open ecosystem of Gen-Z building blocks for a variety of solutions from the intelligent edge to the cloud.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>By enabling technologists to collaborate and contribute to an open and competitive ecosystem, Gen-Z will help the industry fundamentally change how the world thinks about computing.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>PLDA and HPE collaborate on Gen-Z silicon IP to enable a robust ecosystem of Gen-Z component providers to power memory-driven systems and solutions &lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_bs3d
+                    jcr:lastModified="{Date}2018-10-15T13:32:59.698Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Palo Alto, Calif., July 26, 2018&lt;/b> Hewlett Packard Enterprise (HPE) and PLDA, an industry leader in high-speed interconnect IP, today announced a joint collaboration to meet the challenges of next-generation connectivity for advanced workloads. Gen-Z is a new open interconnect protocol and connector developed by the &lt;a href=&quot;https://genzconsortium.org/&quot;>Gen-Z Consortium&lt;/a> to solve the challenges associated with processing and analyzing huge amounts of data in real time. HPE and PLDA are working together to develop Gen-Z semiconductor IP designed to the Gen-Z Core Specification 1.0.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Announced in February 2018, the Core Specification 1.0 enables the industry to begin the development of products that incorporate the Gen-Z interconnect protocol.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Creating one standard interconnect is important because it allows any component processing, memory, accelerators, networking to talk to any other component as if it were communicating with its own local memory using simple commands. PLDAs Gen-Z IP will provide the building blocks to create high performance low latency solutions where every device in the system is connected at the speed of memory.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;PLDA is proud to collaborate with HPE to provide comprehensive design IP to silicon providers to enable volume production of Gen-Z compatible components and to enable system vendors to utilize the Gen-Z silicon components to build network, storage and compute systems and solutions, said Arnaud Schleich, CEO, at PLDA. This will enable an open ecosystem of Gen-Z building blocks for a variety of solutions from the intelligent edge to the cloud.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With Gen-Z, the industry can simultaneously support memory, I/O, storage and different forms of compute on a common disaggregated, composable or memory-semantic fabric (or interconnect).&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Gen-Z reflects a broader industry trend that recognizes the importance and role of open standards in providing a level playing field to promote adoption, innovation and choice. By enabling technologists to collaborate and contribute to an open and competitive ecosystem, Gen-Z will help the industry fundamentally change how the world thinks about computing.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;At HPE, we recognize the need to partner in the development of new architectures and technologies that can effectively meet the needs of our customers, said Mark Potter, CTO, HPE and Director, Hewlett Packard Labs. HPE is committed to supporting open standards and working collaboratively to develop this new interconnect. The collaboration with PLDA is a demonstration of HPEs commitment to the development and industry-wide proliferation of Gen-Z, an important technology in meeting the demands of the modern data center and in creating a &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2017/03/gen-z-looks-to-ignite-it-innovation-with-open-high-performance-interconnect-technology.html&quot;>Memory-Driven Computing architecture&lt;/a>.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With Gen-Z, the industry can combine fast persistent memory, DRAM and task-specific processing and accelerators on a fast memory fabric without legacy constraints or device hierarchies. This approach optimizes and simplifies system configurations to deliver optimal performance tailored to specific user demands simply and efficiently with better performance at reduced cost.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About PLDA&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>PLDA is a leading developer and licensor of Semiconductor Intellectual Property (SIP) specializing in high-speed interconnect protocol standards. Since 2001, PLDA focuses on implementation of the PCI Express protocol (maintained by the PCI-SIG Industry Consortium), and has established itself as a leader in that space with over 3,000 customers and 6,200 licenses in over 60 countries. PLDA is a global technology company with offices in Silicon Valley, France, Bulgaria, Taiwan, and China. For more information visit &lt;a href=&quot;http://www.plda.com&quot;>http://www.plda.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial Contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>Lindsey Berryhill&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:lindsey.berryhill@hpe.com&quot;>lindsey.berryhill@hpe.c&lt;/a>&lt;a href=&quot;mailto:lindsey.berryhill@hpe.com&quot;>o&lt;/a>&lt;/span>&lt;/b>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:lindsey.berryhill@hpe.com&quot;>&lt;b>m&lt;/b>&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_2yx5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/gen-z-looks-to-ignite-it-innovation-with-open-high-performance-interconnect-technology"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gen-Z Looks to Ignite IT innovation With Open, High-Performance Interconnect Technology"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gen-Z Looks to Ignite IT innovation With Open, High-Performance Interconnect Technology"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Sept72016_B1_1x1_MobileMarquee_Template_1536_image_centers_9x6.jpg"/>
+                        </contentblock_2yx5>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ykg3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/02/gen-z-reaches-critical-milestone-in-enabling-open-ecosystem-in-computing"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gen-Z reaches critical milestone in enabling open ecosystem in computing"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gen-Z reaches critical milestone in enabling open ecosystem in computing"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/Gen-Z-core-spec.png"/>
+                        </contentblock_ykg3>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_p3eh
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/behind-the-scenes-of-the-machine-research-project"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Behind the Scenes of The Machine Research Project"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Behind the Scenes of The Machine Research Project"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Machinehero.jpg"/>
+                        </contentblock_p3eh>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

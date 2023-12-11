@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-10-04T19:53:57.320Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data,hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE announces plans to offer entire portfolio as a Service by 2022"
+        jcr:uuid="98076cc1-7327-4142-a574-9128fe30d83f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE announces plans to offer entire portfolio as a Service by 2022"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-06-18T05:00:00.000-07:00"
+        metaDescription="HPE will offer entire portfolio through a range of subscription, pay-per-use and consumption-driven offerings, in next three years HPE extends HPE GreenLake with new solutions for the mid-market and the edge, introduces new co-location offerings through CyrusOne and Equinix"
+        metaKeywords=" HPE, Pointnext, channel, partners, aaS, as a Service, consumption, CyrusOne, Equinix, midmarket, SMB"
+        metaOgImage="/content/dam/hpe/newsroom/2019/06/image-norend/HPE-Announces-Plans-to-Offer-Entire-Portfolio-as -a-Service-by-2022.jpg"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hpe-announces-plans-to-offer-entire-portfolio-as-a-service-by-2022/jcr:content/main-par/body-par/textonlycomponent_5d"
+        navTitle="HPE announces plans to offer entire portfolio as a Service by 2022"
+        pageTitle="HPE announces plans to offer entire portfolio as a Service by 2022"
+        priority="(None)"
+        socialDescription="HPE will offer entire portfolio through a range of subscription, pay-per-use and consumption-driven offerings, in next three years HPE extends HPE GreenLake with new solutions for the mid-market and the edge, introduces new co-location offerings through CyrusOne and Equinix"
+        subtitle="HPE will offer entire portfolio through a range of subscription, pay-per-use and consumption-driven offerings, in next three years HPE extends HPE GreenLake with new solutions for the mid-market and the edge, introduces new co-location offerings through CyrusOne and Equinix"
+        theme="dark"
+        UAID="72bf4bfe-6eb8-4548-870d-4fdfe92604b3"
+        UCID="e31af57d-e7f1-48ee-8592-e06400873cef">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-06-17T13:27:41.792Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-17T13:33:21.096Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/HPE-Announces-Plans-to-Offer-Entire-Portfolio-as -a-Service-by-2022.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-19T13:34:33.300Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Building on a decade of leadership in pioneering a new model for delivering on-premise IT as a Service, HPE GreenLake will scale to reach new market segments and new use cases&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake re-sets the digital opportunity for customers by providing a robust as a Service portfolio that&amp;nbsp;provides flexibility and speed to market&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake is now the fastest-growing business in HPE, with over $2.8 billion in total contract value, and over 600 customers&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE’s unique approach to as a Service, which empowers customers with choice, flexibility, and control, is driving HPE GreenLake’s tremendous success&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e7
+                    jcr:created="{Date}2019-06-17T13:29:33.876Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-17T20:52:31.904Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE will offer entire portfolio through a range of subscription, pay-per-use and consumption-driven offerings, in next three years&lt;/h2>&#xa;"/>
+                <textonlycomponent_a6
+                    jcr:created="{Date}2019-06-17T13:59:08.860Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-17T21:19:39.682Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE extends HPE GreenLake with new solutions for the mid-market and the edge, introduces new offerings through CyrusOne and Equinix, and expands strategic partnership with Google Cloud&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-10-04T19:53:15.539Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS, June 18, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced plans to transition HPE into an as a Service company over time. This includes a commitment to provide its customers choice by offering its entire portfolio, through a range of subscription based, pay-per-use and as a Service offerings, by 2022. HPE will also continue to provide its hardware and software in a capital expenditure and license-based model, ultimately giving customers choice in consuming HPE products and services in a traditional or as a Service offering.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Building on over a decade of leadership in pioneering a new model for delivering on-premise IT as a Service, HPE will continue to scale &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/services/it-consumption.html?pp=false&amp;amp;jumpid=ps_jk4h6izbpr_aid-510455007&amp;amp;gclid=CjwKCAjwwZrmBRA7EiwA4iMzBKFbJ1JquadFFxoyqxV3FB1uh8CO472UU1uLRRDdw_e8l7DsMw6ZiBoCN98QAvD_BwE&amp;amp;gclsrc=aw.ds&quot; target=&quot;_blank&quot;>HPE GreenLake&lt;/a>&lt;/u> to reach new market segments, new use cases, and leverage its world class partner ecosystem to accelerate growth. This includes new HPE GreenLake offerings for the mid-market, new services for the edge, and new and expanded partnerships with CyrusOne, Equinix, and Google Cloud. In addition, HPE continues to invest and innovate in the company’s suite of software delivered via a subscription model, including &lt;u>&lt;a href=&quot;https://www.arubanetworks.com/products/networking/management/central/&quot; target=&quot;_self&quot;>HPE Aruba Central&lt;/a>&lt;/u>, &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/solutions/bluedata.html&quot; target=&quot;_blank&quot;>HPE BlueData&lt;/a>&lt;/u>, &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/storage/cloud-volumes.html&quot; target=&quot;_blank&quot;>HPE Cloud Volumes&lt;/a>&lt;/u>, &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/storage/infosight.html&quot; target=&quot;_blank&quot;>HPE InfoSight&lt;/a>&lt;/u>, and &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/what-is/oneview.html&quot; target=&quot;_blank&quot;>HPE OneView&lt;/a>&lt;/u>.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Companies today have a tremendous opportunity to embrace digital transformation in order to create new and compelling customer experiences, differentiate their business, and grow revenue. In order to do so, organizations demand a consistent cloud experience for managing all their apps and workloads, the ability to innovate at high velocity, and the freedom to choose the combination of technologies that best meet their needs. Unfortunately, the current paradigm for enterprise technology underserves the market – customers are forced to accept an inconsistent experience between the data center and the cloud; inflexible, expensive, and proprietary stacks that prohibit choice; and limited in-house IT skills, budgets, and options for financing.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; HPE GreenLake re-sets the digital opportunity for customers by providing a robust as a Service portfolio that provides flexibility and speed to market. HPE GreenLake gives customers a choice of subscription-based, pay-per-use, and managed IT as a Service offerings that provides customers with a consistent cloud experience for managing all their workloads. The HPE GreenLake portfolio spans a wide range of purpose built solutions, from HPE and HPE’s partners, giving customers choice in building the right digital foundation. In addition, HPE GreenLake’s powerful metering and governance capabilities allow businesses to monitor and adjust usage to ensure initiatives stay within budget and compliance.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Today, the HPE GreenLake portfolio is generating powerful outcomes for customers. HPE GreenLake has a 99 percent renewal rate, and NPS scores of 86 percent, putting HPE GreenLake in the top 1 percent for scores in IT service delivery, across the market. According to a HPE commissioned Forrester report on the total economic impact of HPE GreenLake, customers benefit from a 30 percent Capex savings due to eliminated need for overprovisioning, and a 90 percent reduction in support and professional services costs, and 65 percent reduction in time to deploy IT projects.&lt;sup>1&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/sup>This unique approach to enabling digital transformation resonates with the market. HPE GreenLake is now the fastest-growing business in HPE, with over $2.8 billion in total contract value, and over 600 customers. HPE is also deploying its industry-leading channel partner ecosystem to expand the reach of HPE GreenLake. Today, over 400 partners sell the as a Service portfolio, and the HPE GreenLake channel business has grown over 275% year over year.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <pullquote_3bcf
+                    jcr:created="{Date}2019-06-17T13:36:53.224Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2022-10-04T19:53:26.115Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We will invest aggressively and deliver our entire portfolio from edge to cloud under the HPE GreenLake portfolio&lt;b>&lt;/b>&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2022-10-04T19:53:26.115Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_3bcf>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-17T20:56:39.181Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“We are at an inflection point in the market,” said Antonio Neri, President and CEO, HPE. “Everyone recognizes that customers want technology delivered as a Service, but they also want it on their terms. HPE’s unique approach to as a Service, which empowers customers with choice, flexibility, and control, is driving HPE GreenLake’s tremendous success. We will continue to invest aggressively in this opportunity, to capitalize on our market leadership, leverage our world-class channel and partner ecosystem, and deliver our entire portfolio, from edge to cloud, under the HPE GreenLake portfolio. As a result, we will reshape HPE and transform the market, with a new and better way to deliver as a Service.”&lt;br>&#xa;&lt;b>&lt;br>&#xa;Adding Targeted Offerings, Partnerships, and Tools for the Channel to Accelerate HPE GreenLake Growth in the Mid-market&lt;br>&#xa;&lt;br>&#xa;&lt;/b>Many medium sized businesses do not have their own data center facility or lack IT staff to set up and manage infrastructure, applications, and workloads. Today, HPE is introducing several new offerings specifically designed to help mid-market companies overcome these barriers and accelerate their path to digital transformation. These include new right-sized offerings and services for the mid-market, new partnerships with data center and interconnection providers Equinix and CyrusOne, and new tools and investments to further simplify and speed the selling process for HPE channel partners.&lt;br>&#xa;&lt;br>&#xa;HPE now offers five new HPE GreenLake offerings that provide mid-market customers with pre-configured as a Service workloads – for compute, database, private cloud, storage, and virtualization. These workload optimized solutions eliminate time spent on designing configurations, building solutions and testing technology.&lt;br>&#xa;&lt;br>&#xa;For customers that wish to leverage an external data center facility for their HPE GreenLake applications, HPE has signed strategic partnerships with CyrusOne and Equinix. Customers can take advantage of state-of-the-art data centers to quickly turn on HPE GreenLake services.&lt;br>&#xa;&lt;br>&#xa;HPE first made HPE GreenLake available via the channel over a year ago, and today this business is driving significant customer demand worldwide, with HPE signing up 50 new channel partners to sell the service every month. HPE is now making it easier and faster for partners to order and onboard HPE GreenLake for their customers with two new tools:&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-10-04T19:53:42.242Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake Quick Quote: &lt;/b>User-guided, automated quoting tool that starts with the customers’ workload needs and delivers fast quoting and transparent pricing. Partners can easily adjust the workloads for cost or performance needs with the click of a button.  HPE GreenLake Quick Quote cuts HPE GreenLake time to generate a proposal to just a few minutes.&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake Chatbot: &lt;/b>An Artificial Intelligence-driven, automated chatbot that quickly answers partners’ HPE GreenLake inquiries. The chatbot eliminates time spent searching for resources, delivers faster answers and routes partners to HPE GreenLake sales support if it cannot answer a question right away.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="20"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-10-04T19:53:57.310Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We will reshape HPE and transform the market, with a new and better way to deliver as a Service&lt;b>&lt;/b>&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2022-10-04T19:53:57.310Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-17T20:59:25.944Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Announcing HPE GreenLake for Aruba – Delivering Intelligent and Secure Networking as a Service&lt;br>&#xa;&lt;br>&#xa;&lt;/b>HPE is now extending the HPE GreenLake portfolio to the edge, by today announcing a new Network as a Service (NaaS) offering from Aruba, a Hewlett Packard Enterprise company.&lt;br>&#xa;&lt;br>&#xa;The new offering incorporates the breadth of Aruba networking offerings that includes enterprise Wi-Fi, edge switching, security, end-user analytics, end-user experience validation and other tools. HPE GreenLake for Aruba provides customers with new procurement and consumption options that deliver more flexibility and choice in how they obtain and support their network infrastructure.&lt;br>&#xa;&lt;br>&#xa;HPE GreenLake for Aruba is available directly from Aruba and its global network of channel partners.&lt;br>&#xa;&lt;b>&lt;br>&#xa;HPE and Google Cloud Expand Strategic Partnership to Deliver True Hybrid Cloud for Containers&lt;br>&#xa;&lt;br>&#xa;&lt;/b>HPE and Google Cloud have expanded their strategic partnership to provide customers with hybrid cloud solutions. Building on the HPE Validated Designs that were &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/04/hpe-and-google-cloud-partner-to-simplify-hybrid-cloud.html&quot; target=&quot;_blank&quot;>announced&lt;/a>&lt;/u> in April 2019, HPE and Google Cloud are unveiling a collaboration to deliver a true hybrid cloud for containers – with choice for as a Service delivery through HPE GreenLake. In addition, HPE will offer advisory and professional services to accelerate hybrid cloud adoption.&lt;br>&#xa;&lt;br>&#xa;The true hybrid cloud solution features Google Cloud’s Anthos in combination with HPE’s on-premises infrastructure, HPE Cloud Data Services, and HPE GreenLake. The combined offering brings together Google Cloud’s Anthos with HPE ProLiant and HPE Nimble Storage on-premises. And, coming in Q3FY19, HPE Cloud Volumes to provide a storage service for Google Cloud Platform and other public clouds. HPE plans to offer HPE GreenLake for Google Cloud’s Anthos to provide the entire hybrid cloud, as-a-Service.&lt;br>&#xa;&lt;b>&lt;br>&#xa;Availability&lt;br>&#xa;&lt;br>&#xa;&lt;/b>The HPE GreenLake offerings for the mid-market, HPE GreenLake offerings through co-location partners CyrusOne and Equinix, and HPE GreenLake for Aruba are available now.&lt;br>&#xa;&lt;br>&#xa;For more information, please visit &lt;u>&lt;a href=&quot;http://www.hpe.com/greenlake&quot; target=&quot;_blank&quot;>www.hpe.com/greenlake&lt;/a>&lt;/u>.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-17T20:59:58.232Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> The Total Economic Impact of HPE GreenLake Flex Capacity, Forrester, May 2018&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-17T13:45:47.608Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/05/a-customer-centric-and-consumption-driven-future-why-pay-per-use-models-are-the-future-of-it-solutions"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="A customer-centric and consumption-driven future: Why pay-per-use models are the future of IT solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A customer-centric and consumption-driven future: Why pay-per-use models are the future of IT solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-17T13:45:47.608Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/a-customer-centric-and-consumption-driven-future-why-pay-per-use-models-are-the-future-of-it-solutions.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-17T13:45:47.608Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-17T13:47:23.270Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/04/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-17T13:47:23.270Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-17T13:47:23.270Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-06-17T13:49:25.979Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-introduces-industry-first-services-to-optimize-public-and-private-cloud-consumption"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Introduces Industry-first Service to Optimize Public, Private and Hybrid Cloud Consumption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Industry-first Service to Optimize Public, Private and Hybrid Cloud Consumption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-17T13:49:25.979Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-GreenLake.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-17T13:49:25.979Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-06-17T13:32:56.816Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

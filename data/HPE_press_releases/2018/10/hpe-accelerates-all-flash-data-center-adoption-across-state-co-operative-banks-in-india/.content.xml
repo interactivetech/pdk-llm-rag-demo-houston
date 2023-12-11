@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:21:41.559Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/customers-and-partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-accelerates-all-flash-data-center-adoption-across-state-co-operative-banks-in-india"
+        jcr:uuid="29fc9cac-2c70-4716-b3fe-e3c62069c775"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-10-15T01:30:27.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        metaDescription="HPE Accelerates All-Flash Data Center Adoption Across State Co-operative Banks in India"
+        metaKeywords="HPE 3PAR, HPE Storage, HPE InfoSight, All Flash Storage"
+        navTitle="HPE Accelerates All-Flash Data Center Adoption Across State Co-operative Banks in India"
+        pageTitle="HPE Accelerates All-Flash Data Center Adoption Across State Co-operative Banks in India"
+        priority="(None)"
+        subtitle="HPE 3PAR platform enables two India state banks to run applications seamlessly, enabling smooth banking transactions"
+        theme="dark"
+        UAID="37008339-9f38-4e1d-82bc-4c23d01b706d"
+        UCID="50261df2-02fe-4ee9-8944-a51b5bf05c8b"
+        webSectionId="R11989"
+        WPID="201842">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 15, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-29T23:15:15.130Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/10/image-norend/2.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Accelerates All-Flash Data Center Adoption Across State Co-operative Banks in India"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-30T17:42:20.286Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE migrates Andhra Pradesh State Co-operative Bank and Telangana State Co-operative Apex Bank to HPE 3PAR infrastructure&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Both banks wanted to deliver smoother and faster online transactions for customers&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE 3PAR enabled better utilization of rack space and applications to be run with minimum downtime&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE 3PAR platform enables two India state banks to run applications seamlessly, enabling smooth banking transactions&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_h7dr
+                    jcr:lastModified="{Date}2018-10-30T17:42:16.451Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Hyderabad / Vijayawada – Oct 15 2018&lt;/b>&amp;nbsp;– Hewlett Packard Enterprise (HPE) today announced that it has successfully migrated Andhra Pradesh State Co-operative Bank Limited (APCOB) and Telangana State Co-operative Apex Bank Limited (TSCAB) from their traditional storage infrastructure to the HPE 3PAR platform. This will enable customers to experience faster and seamless transactions through the banks’ Internet and mobile banking applications.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;APCOB and TSCAB are scheduled banks committed to rural and agriculture development through their vast network of cooperatives across the states of Andhra Pradesh and Telangana respectively.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Recently, as part of their hardware refresh process, both APCOB and TSCAB decided to replace their Unix-based systems with x86-based HPE servers to ensure predictable performance and easier hardware management. Additionally, the banks were exploring storage solutions, which could enable them to better utilize rack space in their respective data centers and run applications seamlessly with minimum downtime to deliver smoother and faster online transactions to customers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;After evaluating multiple options, APCOB and TSCAB selected HPE 3PAR StoreServ 8450 to modernize their data centers. These storage systems which guarantee six-nines data availability, are designed to handle unpredictable workloads effortlessly. Moreover, the recently introduced predictive support automation for HPE 3PAR with HPE InfoSight, the industry’s most experienced AI for the data center, enables prediction and prevention of infrastructure problems before they happen, thereby driving even higher levels of application availability for HPE 3PAR environments.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_c2kc
+                    jcr:lastModified="{Date}2018-10-29T23:17:00.257Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE 3PAR offers financial institutes a flexible storage to meet growing business demands&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-29T23:17:00.257Z"
+                        jcr:lastModifiedBy="esparza@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_c2kc>
+                <textonlycomponent_mbo0
+                    jcr:lastModified="{Date}2018-10-30T17:42:12.246Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Resilience, security and agility are absolutely essential for banks to ensure they are able to offer an exceptional customer experience,” said Som Satsangi, Managing Director, HPE India. “HPE 3PAR offers financial institutes like APCOB and TSCAB a flexible storage platform with the agility needed to keep pace with their growing business demands and high standards. The newly announced AI functionality of HPE InfoSight means 3PAR solutions will be equipped to drive even higher levels of application availability, and application automation in on-premise infrastructure for increased productivity and efficiency. For APCOB and TSCAB we’ve been able to deliver significant flexibility and performance to their data center infrastructure through HPE 3PAR.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The HPE 3PAR StoreServ 8000 family delivers the performance advantages of a purpose-built, flash-optimized architecture without compromising resiliency, data services, or data mobility. It also enables the organizations to reduce their data center footprint.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;“With HPE 3PAR StoreServ 8450, we are able to build a data management infrastructure to enable a storage economy of scale that transforms analytical workloads and makes cognitive computing initiatives possible,” said Rajasekhar Chowdary, Head, IT Infrastructure &amp;amp; InfoSec, Telangana State Cooperative Apex Bank Limited. “In our current database architecture environment, deduplication in HPE 3PAR is extremely efficient from both a performance and capacity perspective. The solution improves the endurance of flash media as the written data doesn’t cross multiple internal pages, resulting in very efficient use of flash pages and thereby significantly reducing our data center's footprint and cost.”&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_frs2
+                    jcr:lastModified="{Date}2018-10-30T17:42:07.724Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE 3PAR is extremely efficient from both a performance and capacity perspective&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-30T17:42:07.724Z"
+                        jcr:lastModifiedBy="nagle@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_frs2>
+                <textonlycomponent_j6a4
+                    jcr:lastModified="{Date}2018-11-07T12:14:40.221Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“The HPE 3PAR StoreServ solution has optimized our data storage systems and modernized our data center,” said Srinivas Muppaneni, Group CIO, Andhra Pradesh State Cooperative Bank Limited. “We are now able to handle unpredictable workloads effortlessly. By avoiding inessential data reads and writes, the HPE 3PAR Adaptive Optimization with read and write technology has reduced latency, enhanced the backend performance, and extended the flash media lifespan, thereby lowering our total cost of ownership for storage.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE 3PAR features a highly virtualized design that abstracts physical media, whether it’s spinning disks or flash media, from the data layer. This allows it to take an unprecedented approach to storage where the architecture isn’t designed around specific types of storage medium, allowing it to adapt to any type of underlying storage.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;To learn more about HPE 3PAR storage, please visit:&amp;nbsp;&lt;a href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot;>https://www.hpe.com/storage/3par&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more about HPE InfoSight, please visit:&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/in/en/storage/infosight.html&quot;>https://www.hpe.com/in/en/storage/infosight.html&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_rc12
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/07/hpe-advances-intelligent-storage-capabilities-with-ai-and-cloud-automation-for-hpe-3par"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Press-release_1.jpg"/>
+                        </contentblock_rc12>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_11my
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/10/hpe-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-hpe-nimble-storage-and-hpe-3par"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE simplifies hybrid cloud data protection with new solutions for HPE Nimble Storage and HPE 3PAR"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/10/image-norend/HPE-simplifies-hybrid-cloud-data-protection-with-new-solutions-for-HPE-Nimble-Storage-and-HPE-3PAR.jpg"/>
+                        </contentblock_11my>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_bgbb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-unveils-most-significant-3par-flash-storage-innovations-to-date"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE20160923076v2.jpg"/>
+                        </contentblock_bgbb>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

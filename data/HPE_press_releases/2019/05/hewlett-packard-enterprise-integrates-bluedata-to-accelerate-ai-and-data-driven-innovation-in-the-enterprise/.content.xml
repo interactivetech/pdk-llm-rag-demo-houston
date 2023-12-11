@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:42:17.629Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise integrates BlueData to accelerate Artificial Intelligence and data-driven innovation in the enterprise"
+        jcr:uuid="697ac4a5-a4af-43e8-aba5-b1c968901999"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise integrates BlueData to accelerate Artificial Intelligence and data-driven innovation in the enterprise"
+        changefreq="daily"
+        contentType="Blog Post"
+        displayDate="{Date}2019-05-07T05:00:00.000-07:00"
+        metaDescription="Integrated HPE and BlueData solution radically simplifies and speeds deployment of AI, machine learning, and analytic applications"
+        metaKeywords="hpe, hpe news, hpe newsroom, AI, BlueData, HPE Pointnext, machine learning, analytic applications"
+        metaOgImage="/content/dam/hpe/newsroom/2019/05/image-norend/Hewlett-Packard-Enterprise-integrates-BlueData-to-accelerate-Artificial-Intelligence-and-data-driven-innovation-in-the-enterprise.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise integrates BlueData to accelerate Artificial Intelligence and data-driven innovation in the enterprise"
+        pageTitle="Hewlett Packard Enterprise integrates BlueData to accelerate Artificial Intelligence and data-driven innovation in the enterprise"
+        priority="(None)"
+        socialDescription="Integrated HPE and BlueData solution radically simplifies and speeds deployment of AI, machine learning, and analytic applications"
+        subtitle="Integrated HPE and BlueData solution radically simplifies and speeds deployment of AI, machine learning, and analytic applications"
+        theme="dark"
+        UAID="467b88e8-87ac-4db6-81e3-d2b752a77344"
+        UCID="ce6ffbb0-1b49-4ead-800f-f99bb13ffdfd">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-05-07T10:21:21.678Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MAY 7, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T11:44:39.994Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/05/image-norend/Hewlett-Packard-Enterprise-integrates-BlueData-to-accelerate-Artificial-Intelligence-and-data-driven-innovation-in-the-enterprise.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:24:11.432Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The BlueData software platform provides customers with simple deployment for their AI and analytics tools of choice &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The combination of BlueData with HPE Pointnext services and HPE Apollo is ideal for enterprises with large-scale initiatives underway for AI/ML and analytics&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_86
+                    jcr:created="{Date}2019-05-07T10:21:51.277Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:23:13.089Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Integrated HPE and BlueData solution radically simplifies and speeds deployment of AI, machine learning, and analytic applications&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:25:15.860Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SAN JOSE, Calif. – May 7, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced a new integrated offering that combines the HPE BlueData software platform with HPE Apollo systems and HPE Pointnext services, to provide customers with a powerful solution for AI and data-driven business innovation.&lt;br>&#xa;&lt;br>&#xa;Today’s announcement builds on HPE’s acquisition of BlueData in &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/11/hpe-to-acquire-bluedata.html&quot; target=&quot;_blank&quot;>November 2018&lt;/a>, and represents an important milestone in HPE’s ongoing strategy for the AI and analytics market. BlueData is now available as a standalone HPE software solution, and customers can continue to run BlueData software on any infrastructure. With BlueData, HPE offers customers an as-a-service experience for artificial intelligence/machine learning (AI/ML) and analytics running on multi-vendor infrastructure and public cloud services – leveraging the portability of containers across on-premises, hybrid cloud, and multi-cloud environments. The result is dramatically faster deployments down from months, to minutes, with the agility and flexibility that data science teams need to deliver business value.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_f94
+                    jcr:created="{Date}2019-05-07T10:25:39.002Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:26:16.978Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>With BlueData, HPE offers customers an as-a-service experience for artificial intelligence/machine learning (AI/ML) and analytics running on multi-vendor infrastructure and public cloud services – leveraging the portability of containers across on-premises, hybrid cloud, and multi-cloud environments&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-05-07T10:26:16.978Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_f94>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:35:54.839Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enterprise adoption of AI is accelerating rapidly. The number of enterprises implementing AI grew 270% in the past four years, according to Gartner’s recent 2019 CIO Survey&lt;sup>1&lt;/sup>.&amp;nbsp;However, organizations face many challenges in executing a successful AI strategy, including deployment complexity for distributed AI and analytics, as well as the shortage of skilled data scientists and AI/ML developers.&lt;br>&#xa; &lt;br>&#xa; The container-based BlueData software platform provides customers with simple, one-click automated deployment for their AI and analytics tools of choice – and enables enterprise-grade security, scalability and performance. Data science teams and AI/ML developers can focus on what they do best, with greater productivity and efficiency. These teams can rapidly build models and develop data pipelines to drive business innovation – without worrying about the underlying infrastructure.&lt;br>&#xa; &lt;i>&lt;br>&#xa;“To stay a step ahead of the competition, enterprise organizations in every industry are embarking on AI-enabled and data-driven digital transformation initiatives,” said Milan Shetti, SVP and General Manager, HPE Storage. “Together, HPE and BlueData will make it easier, faster, and more cost-effective for these customers to deploy distributed AI, machine learning, and analytics – whether on-premises, in the public cloud, or in a hybrid architecture. It’s a game-changer.”&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:29:23.270Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The number of enterprises implementing AI grew 270% in the past four years&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-05-07T10:29:23.270Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:30:12.741Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The combination of BlueData with HPE Pointnext services and HPE Apollo infrastructure is ideal for enterprises with large-scale initiatives underway for AI/ML and analytics, particularly for those with an on-premises or hybrid cloud deployment. This includes existing HPE customers in financial services, life sciences, healthcare, manufacturing, retail, and other industries. Example use cases range from fraud detection and credit risk analysis, to genomics research and precision medicine, to improved customer experience, and more.&lt;br>&#xa;&lt;i>&lt;br>&#xa;“As a healthcare company, we have vast amounts of data, but it’s been difficult for data science teams to get access to that data and operationalize their analytics and machine learning pipelines,” said Ramesh Thyagarajan, executive director at The Advisory Board Company (Optum). “BlueData has helped us to address these challenges with their containerized solution that has delivered faster time-to-insights, reduced our costs, and freed up our staff to innovate. It’s paying big dividends for our organization, and we look forward to continuing our journey together.”&lt;br>&#xa;&lt;br>&#xa;&lt;/i>Customers can leverage the following capabilities and services from HPE and BlueData to accelerate their AI initiatives:&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_a0
+                    jcr:created="{Date}2019-05-07T10:31:06.639Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:32:32.431Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>BlueData software subscriptions can be ordered together with HPE Apollo server and storage infrastructure. New bundled solutions with BlueData and HPE infrastructure will be made available in a variety of different configurations.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New HPE Pointnext services offerings are now available for BlueData, building on the deep AI/ML and big data analytics expertise and use case deployments from HPE Pointnext. These services help to streamline the software implementation and ongoing support operations, enabling success and faster time-to-value for AI and data-driven initiatives.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The BlueData team is developing new innovations for the use of Kubernetes in large-scale AI and analytics deployments, with ongoing contributions to the Kubernetes open source community.&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>A new HPE reference configuration is now available, providing guidance and best practices for deploying BlueData software on the HPE Elastic Platform for Analytics (EPA), a modular infrastructure foundation for scalable multi-tenant deployments with building blocks from HPE for compute, storage and networking.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE plans to deliver new BlueData-based reference architectures for a variety of different AI/ML and analytics use cases and ecosystem tools, including Apache Kafka, Apache Spark, Cloudera, H2O, and TensorFlow. These reference architectures include in-depth testing and validation from HPE engineering to determine the workload-optimized configuration for high performance and greater efficiency.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_99
+                    jcr:created="{Date}2019-05-07T10:33:20.156Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T11:50:23.239Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional insight into the BlueData software platform, please visit &lt;a href=&quot;http://www.hpe.com/info/bluedata&quot; target=&quot;_blank&quot;>http://www.hpe.com/info/bluedata&lt;/a>.&lt;br>&#xa; &lt;br>&#xa; &lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Standalone software subscriptions and bundled offerings with HPE Apollo hardware, together with HPE Pointnext deployment services and customer support, are now available in the US, UK, Germany, France and Singapore.&lt;br>&#xa; &lt;br>&#xa; &lt;b>Additional Resources&lt;/b>&lt;br>&#xa; &lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_c8
+                    jcr:created="{Date}2019-05-07T11:27:13.873Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T12:12:28.898Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>For insights into the impact for customers, visit: &lt;a href=&quot;https://community.hpe.com/t5/Infrastructure-Insights/HPE-BlueData-Accelerating-time-to-value-with-AI-and-Analytics/ba-p/7045113&quot; target=&quot;_blank&quot;>HPE and BlueData: Accelerating Time-to-Value with AI and Analytics&lt;/a>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Find out more about the strategy for HPE and BlueData: &lt;a href=&quot;https://www.bluedata.com/blog/2019/05/hybrid-it-for-ai-ml-and-analytics-in-the-enterprise&quot; target=&quot;_blank&quot;>A New Hybrid IT Vision for AI / ML and Analytics in the Enterprise&lt;/a>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Pointnext Services blog post: &lt;a href=&quot;https://community.hpe.com/t5/Transforming-IT/Kick-AI-and-Big-Data-into-High-Gear-with-New-HPE-Pointnext/ba-p/7045139&quot; target=&quot;_blank&quot;>Kick AI and Big Data into High Gear with HPE BlueData EPIC and New HPE Pointnext Services&lt;/a>&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Join a live virtual event today May 7 at 10am PT / 1pm ET: “&lt;a href=&quot;https://www.crowdchat.net/EnterpriseAI&quot; target=&quot;_blank&quot;>Deploying AI in the Enterprise&lt;/a>”&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-07T10:37:05.865Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa;&lt;br>&#xa;&lt;sup>1&lt;/sup> &lt;a href=&quot;https://www.gartner.com/document/3897266?ref=clientFriendlyURL&quot; target=&quot;_blank&quot;>https://www.gartner.com/document/3897266?ref=clientFriendlyURL&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-05-07T11:32:45.400Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/11/hpe-to-acquire-bluedata"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE to acquire BlueData"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE to acquire BlueData"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-07T11:32:45.400Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE-to-Acquire-BlueData.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-07T11:32:45.400Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-05-07T12:18:45.112Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="https://community.hpe.com/t5/Infrastructure-Insights/HPE-BlueData-Accelerating-time-to-value-with-AI-and-Analytics/ba-p/7045113"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE and BlueData: Accelerating Time-to-Value with AI and Analytics"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and BlueData: Accelerating Time-to-Value with AI and Analytics"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-07T12:18:45.112Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/shared-publishing/images-norend/9xx/941338190-16-9.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-07T12:18:45.112Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:lastModifiedBy="nagle@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            topPadding="30px|30px|30px|30px|30px"/>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-05-07T11:48:57.670Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

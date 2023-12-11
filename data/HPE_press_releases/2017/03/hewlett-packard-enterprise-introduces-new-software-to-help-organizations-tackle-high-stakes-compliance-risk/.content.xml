@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:26:25.532Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-introduces-new-software-to-help-organizations-tackle-high-stakes-compliance-risk"
+        jcr:uuid="4389962a-d743-47e1-9229-026e9f0c4b73"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:59:27.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="Hewlett Packard Enterprise Introduces New Software to Help Organizations Tackle High-Stakes Compliance Risk"
+        navTitle="Hewlett Packard Enterprise Introduces New Software to Help Organizations Tackle High-Stakes Compliance Risk"
+        pageTitle="Hewlett Packard Enterprise Introduces New Software to Help Organizations Tackle High-Stakes Compliance Risk"
+        priority="(None)"
+        subtitle="HPE Investigative Analytics Leverages Breakthrough Machine-Learning and Archiving Software to Help Financial Services Institutions Identify and Stop Fraudulent Behavior"
+        theme="dark"
+        UAID="4e40cef4-9ed4-4059-92e6-19ce1037fc1b"
+        UCID="ff1755ae-54b2-4bfa-8f95-e0dac13d9bf7"
+        WPID="1411">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T08:45:56.644Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="February 2, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Investigative Analytics Leverages Breakthrough Machine-Learning and Archiving Software to Help Financial Services Institutions Identify and Stop Fraudulent Behavior&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_7ten
+                    jcr:lastModified="{Date}2018-10-23T08:54:05.488Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>NEW YORK, NY--(Marketwired - Feb 2, 2016) - LegalTech Conference -- Hewlett Packard Enterprise (NYSE: HPE) today announced the availability of &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356690&amp;amp;type=1&amp;amp;url=http%3a%2f%2fhpe.com%2fsoftware%2finvestigative-analytics&quot;>HPE Investigative Analytics&lt;/a>, a new hosted software solution that enables financial institutions and other highly regulated organizations to identify and analyze risk events, and take action to prevent them.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Financial institutions are under more regulatory pressure than ever before. According to a 2015 Morgan Stanley report, global financial institutions have paid $260 billion in fines since 2009.Regulators are now on high-alert and new compliance guidelines and directives are being imposed on organizations every day. Failure to meet these regulations can result in significant material damage to the firm, in the form of multi-billion dollar fines and potential criminal prosecution.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>However, meeting compliance requirements and stopping fraud is no small task for today's global organizations. Financial institutions process billions of transactions and communications daily, producing massive volumes of information that lives in silos throughout the company. Legacy analytics software is incapable of understanding and recognizing irregularities in data that is scattered across multiple data types.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help protect organizations from this growing compliance crisis, HPE is introducing breakthrough technology that is purpose-built to help identify and stop fraudulent and non-compliant behavior. HPE Investigative Analytics leverages HPE's unique software assets in archiving, compliance, and machine learning to automatically detect patterns and anomalies in structured and unstructured data, in order for an organization to shut down bad behavior before it becomes an issue.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;An ever-increasing amount of enterprise data combined with escalating fines and sanctions is creating a risk threshold that organizations are no longer able to ignore, particularly in highly regulated industries,&amp;quot; said Laura DuBois, Group Vice President, Enterprise Storage, Servers and Infrastructure Software at IDC.&lt;/i> &lt;i>&amp;quot;A software solution like the one from Hewlett Packard Enterprise, which delivers insight into both structured and unstructured data -- to not only identify and analyze risk events, but also take action to prevent them -- is quickly becoming an industry mandate.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Keeping ahead of unethical and illegal activity is imperative for organizations of all sizes today in order to protect themselves from fines, sanctions and negative publicity that can materially affect shareholder value,&amp;quot; said David Jones, Senior Vice President and General Manager, Information Management &amp;amp; Governance, Hewlett Packard Enterprise. &amp;quot;With HPE Investigative Analytics, we have built on our strong heritage in compliance and analytics software to deliver a solution that analyzes more data at a deeper level than alternatives to deliver the greatest amount of insurance possible to our customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE's Investigative Analytics is a complete surveillance and analytics solution that casts a wide net across enterprise information and has a 200x greater hit rate on identifying potentially risky information compared to other compliance and risk management systems. The key capabilities of HPE Investigative Analytics are as follows:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Unique Assets in Archiving, Big Data, Compliance, and Machine Learning Software:&lt;/b> HPE Investigative Analytics brings together &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356693&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2fdigital-safe-cloud-archiving%2f&quot;>HPE Digital Safe&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356696&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2femployee-monitoring-software%2findex.html&quot;>HPE Supervisor&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356699&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2finformation-data-analytics-idol%2f&quot;>HPE IDOL&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356702&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.vertica.com%2f&quot;>HPE Vertica&lt;/a> to automatically detect patterns and anomalies by analyzing both structured (e.g. trading systems, risk systems, pricing systems, directories, HR systems, etc.) and unstructured data (e.g. voice, chat, email).&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Curated Data Lake&lt;/b>: Enriches information from disparate data sources (i.e. email, IM and voice archives, etc.) as well as structured data from trading, risk, market, and surveillance systems to provide a single view across both structured and unstructured information -- regardless of source.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Machine Learning-Based Analytics&lt;/b>: Leverages investigative analytic human behavior models to measure risks and flag potential problems identified by connecting to business and market activity feeds and scores information against these events using a series of Key Risk Indicators (KRIs).&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Secure Access with Rationalized Results&lt;/b>: Secures, audits and streamlines access to every drop of the data lake while utilizing the capabilities of HPE IDOL and HPE Vertica to synthesize, analyze and produce actionable insights.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Models Human Behavior to Measure Risk &amp;amp; Raise Alerts&lt;/b>: Connects to business and market activity feeds, such as trade alerts, market events, or research publications, and retroactively scores content against these events using a series of Key Risk Indicators (KRIs). HPE Investigative Analytics uses a variety of out-of-the-box or user-defined Key Risk Indicators (KRIs), which vary from a lexical analysis of terms such as mentions of the company near opinions derived from sentiment analysis -- &amp;quot;I'm bullish on the bond market&amp;quot; -- to more complex language models looking for potentially manipulative language.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Reliability and Performance - &lt;/b>Built upon HPE hardware, software, and cloud infrastructure, HPE Investigative Analytics is a hosted offering designed to deliver proven performance, interoperability, and reliability across organizations.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Investigative Analytics is available directly from Hewlett Packard Enterprise, and also with select partners, who provide added value.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Following recent high-profile allegations and fines, many of our clients are seeking a comprehensive analytical solution to improve their ability to identify non-compliant or fraudulent activities,&amp;quot; said Tom Lewis, UK Head of Data Analytics at PwC.&amp;quot;With Hewlett Packard Enterprise, we are leveraging their communication-centric analytics platform to help clients deploy a framework of sophisticated analytical and investigative applications and processes.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Investigate Analytics is part of HPE's &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356705&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fsoftware-solutions%2finformation-governance%2findex.html&quot;>Information Management and Governance&lt;/a> portfolio, and also a core component of HPE's &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356708&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fsolutions%2fprotect-digital.html&quot;>Protect the Digital Enterprise&lt;/a> transformational strategy.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability and Additional Information&lt;br>&#xa; &lt;/b>HPE Investigative Analytics is available now and for more information, visit the HPE Booth (#114) at LegalTech or click &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356711&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.hpe.com%2fevents%2fLegalTech.&quot;>here&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HPE Software on &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356714&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.linkedin.com%2fcompany%2fhpe-software&quot;>LinkedIn&lt;/a> and follow &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356717&amp;amp;type=1&amp;amp;url=https%3a%2f%2ftwitter.com%2fhpe_software&quot;>@HPE_Software&lt;/a> and&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1241808&amp;amp;id=8356720&amp;amp;type=1&amp;amp;url=https%3a%2f%2ftwitter.com%2fhpe_bigdata&quot;> @HPE_BigData&lt;/a> on Twitter.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_luvu
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/a-federal-grand-jury-returns-criminal-indictment-against-former-autonomy-exec-hpe-comments"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="A Federal Grand Jury Returns Criminal Indictment against former Autonomy Exec; HPE Comments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A Federal Grand Jury Returns Criminal Indictment against former Autonomy Exec; HPE Comments"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/GlossHero.jpg"/>
+                        </contentblock_luvu>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_i54s
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/get-ready-for-the-gdpr-with-hpe"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Get Ready for the GDPR with HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Get Ready for the GDPR with HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Get-ready-for-the-GDPR-with-HPE.jpg"/>
+                        </contentblock_i54s>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0ycl
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/04/how-blockchain-can-solve-your-business-challenges"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="How Blockchain Can Solve Your Business Challenges"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How Blockchain Can Solve Your Business Challenges"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/Blockchain-IDC-option.jpg"/>
+                        </contentblock_0ycl>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

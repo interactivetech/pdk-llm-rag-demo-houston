@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:45:00.923Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/customers-and-partners,hpe-newsroom:categories/services,hpe-newsroom:categories/compute]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="$11M gift from Hewlett Packard Enterprise creates new computing engineering center at Texas A"
+        jcr:uuid="8da28462-cf90-4c78-8362-c8eebed27822"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="$11M gift from Hewlett Packard Enterprise creates new computing engineering center at Texas A&amp;M System"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-05-28T05:00:00.000-07:00"
+        metaDescription="Donation will fund TEES Hewlett Packard Enterprise Center for Computer Architecture Research"
+        metaKeywords="Texas A&amp;M, university, engineering, STEM, nanotechnology, cleanroom, big data, analytics, research, photonics "
+        metaOgImage="/content/dam/hpe/newsroom/2019/05/image-norend/11M-gift-from-Hewlett-Packard-Enterprise-creates-new-computing-engineeri....jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="$11M gift from Hewlett Packard Enterprise creates new computing engineering center at Texas A&amp;M System"
+        pageTitle="$11M gift from Hewlett Packard Enterprise creates new computing engineering center at Texas A&amp;M System"
+        priority="(None)"
+        socialDescription="Donation will fund TEES Hewlett Packard Enterprise Center for Computer Architecture Research"
+        subtitle="Donation will fund TEES Hewlett Packard Enterprise Center for Computer Architecture Research"
+        theme="dark"
+        UAID="9a0825b0-7c79-40f0-b302-e99b16e39b72"
+        UCID="504788ef-ca52-46a2-b0f3-27a77ce72b78">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-05-23T17:08:30.779Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MAY 28, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T17:09:02.708Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/05/image-norend/11M-gift-from-Hewlett-Packard-Enterprise-creates-new-computing-engineeri....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T17:10:51.163Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Through a donation from HPE, engineering students at Texas A&amp;amp;M have access to advanced research equipment through the new Hewlett Packard Enterprise Center for Computer Architecture Research&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The center’s mission is to lead the way into a new world of data-driven computing architectures through academic-industry collaboration&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>No other cleanroom in the state of Texas that has all five of the high-end instruments HPE donated&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The new center will be led by&#xa;nanotechnology pioneer R. Stanley Williams.&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_b7
+                    jcr:created="{Date}2019-05-23T17:11:10.484Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T17:11:45.513Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Donation will fund TEES Hewlett Packard Enterprise Center for Computer Architecture Research&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-23T15:18:03.349Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>San Jose, Calif., May 28, 2019 &lt;/b>– The Texas A&amp;amp;M Engineering Experiment Station (TEES), a member of The Texas A&amp;amp;M University System, announced the creation of the new Hewlett Packard Enterprise Center for Computer Architecture Research, made possible with a donation from &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (NYSE:HPE). R. Stanley Williams, former HPE Senior Fellow and nanotechnology pioneer, will lead the TEES HPE Center, as well as serve as the Hewlett Packard Enterprise Chair professor in the Department of Electrical and Computer Engineering at Texas A&amp;amp;M University.&lt;br>&#xa; &lt;br>&#xa; The ongoing rise of &lt;a href=&quot;https://www.hpe.com/us/en/solutions/data-analytics.html&quot; target=&quot;_blank&quot;>big data solutions&lt;/a> and the development of powerful analytical techniques that can efficiently evaluate the data will dramatically transform the way we live and work. Unlocking the value of this data will require computer architectures that are flexible and not bound by traditional designs.&lt;br>&#xa; &lt;br>&#xa; The center’s mission is to lead the way into this new world of data-driven computing architectures through academic-industry collaboration.&lt;br>&#xa; &lt;br>&#xa; HPE donated research equipment valued at $10.5 million. HPE also funded a $1 million endowed chair position which Texas A&amp;amp;M will match with a $500,000 contribution. These gifts will establish a leading-edge research capability and partnership with TEES dedicated to the study of advanced materials and photonics for innovative computer architectures.&lt;br>&#xa; &lt;br>&#xa; “This is an extremely significant gift of equipment and the hiring of Stan Williams places us at the forefront of next generation discovery in computation, non-linear dynamical electronics and materials,” said Texas A&amp;amp;M University System Chancellor John Sharp. “There is no other cleanroom in the state of Texas that has all five of the high-end instruments HPE is donating, and we plan to become a regional hub for next-generation nano- and micro-engineering. We owe tremendous appreciation to HPE CTO Mark Potter, whose vision for leveraging our joint assets will build a world class laboratory and attract preeminent talent in the broad area of materials.”&lt;br>&#xa; &lt;br>&#xa; Initially, the center will focus on advanced materials fabrication and characterization, future electronic devices, advanced photonics and novel computer architectures. Research will aim to achieve results that both expand knowledge and motivate the next generation of computer scientists and architects for the benefit of society.&lt;br>&#xa; &lt;br>&#xa; “Looking ahead, the ability to make sense of the massive amounts of data generated in academic, public and private sector settings will change not only how we do business, but also how we live,” said Mark Potter, CTO, HPE, Director, Hewlett Packard Labs. “Our success at evaluating the world around us and making breakthroughs we never thought possible hinges on our ability to apply technology.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <htmlblockcomponent_d
+                    jcr:created="{Date}2019-05-23T17:14:15.514Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-28T20:20:52.024Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/htmlBlockComponent"
+                    htmlBlock="&lt;center>&lt;p>&lt;iframe src=&quot;https://www.youtube.com/embed/hwY0GlV8nY4&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot;>&lt;/iframe>&lt;/p>&lt;/center>"/>
+                <pullquote_4085
+                    jcr:created="{Date}2019-05-23T17:15:20.214Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T17:15:47.741Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>This is the ideal environment to do something completely new in computing, untethered from legacy notions&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-05-23T17:15:47.741Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_4085>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T21:38:29.332Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Texas A&amp;amp;M University has great traditions coupled with visionary leadership,” said Stan Williams, TEES Hewlett Packard Enterprise Center for Computer Architecture Research Director and Hewlett Packard Enterprise Company Chair Professor. “There are already world-class faculty in place who are contributing to the advancement of neuromorphic materials and new computing paradigms. The students who come here are inspired by generations of successful Aggie alumni and expect to work hard. This is the ideal environment to do something completely new in computing, untethered from legacy notions, and I am excited by the opportunities that I see.”&lt;br>&#xa; &lt;br>&#xa; The center occupies 25,000 square feet of space in the Giesecke Engineering Research Building (GERB). TEES also has contributed approximately $2 million for renovations to GERB to support the new equipment and will hire three faculty in this area.&lt;/span>&lt;br>&#xa;&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa; Among the equipment donated is a Clustex, used to deposit material layers on a wafer, a Titan Cubed Themis TEM Microscope, Helios SEM/FIB dual beam system, an ASM Atomic Layer Deposition tool, and a NanoLab 460F1 electron microscope.&lt;br>&#xa; &lt;br>&#xa; “Researchers can now develop next-generation computer chips for more powerful but energy-efficient computing, integrated photonic devices and microsensors for biosensing/medical applications or better autonomous vehicles, or flexible electronic devices and micro/nanofluidic systems for continuous health monitoring or point of care diagnosis in remote settings,” said Dr. Arum Han, director of the AggieFab Nanofabrication Facility at Texas A&amp;amp;M and professor in the department of electrical and computer engineering.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T17:17:19.327Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Having five high-end instruments coming to our cleanroom facility simultaneously is unheard of for any university&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-05-23T17:17:19.327Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T17:18:34.964Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“It typically takes three to four years of intensive effort and institutional support to acquire even one instrument that HPE just donated,” explains Han. “Having five such high-end instruments coming to our cleanroom facility simultaneously is just absolutely amazing and is unheard of for any university cleanroom.”&amp;nbsp;&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-05-23T17:25:18.525Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About the Texas A&amp;amp;M Engineering Experiment Station&lt;br>&#xa; &lt;br>&#xa; &lt;/b>As an engineering research agency of Texas, TEES performs quality research driven by world problems; strengthens and expands the state’s workforce through educational partnerships and training; and develops and transfers technology to industry. TEES collaborates with academic institutions, governmental agencies, industries and communities to solve problems to help improve the quality of life, promote economic development and enhance educational systems. TEES, a member of The Texas A&amp;amp;M University System has been engineering solutions for more than 100 years.&lt;/span>&lt;br>&#xa;&lt;b>&lt;br>&#xa; &lt;/b>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About the Texas A&amp;amp;M University College of Engineering&lt;/b>&lt;/span>&lt;b>&lt;br>&#xa; &lt;br>&#xa; &lt;/b>&lt;span class=&quot;body-copy-large&quot;>With more than 600 tenured/tenure-track faculty members and more than 20,000 students, the Texas A&amp;amp;M University College of Engineering is the largest engineering school in the country. The college is ranked seventh in graduate studies, eighth in undergraduate programs, and second in research expenditures among public institutions as ranked by U.S. News &amp;amp; World Report, with seven of the college's 14 departments ranked in the Top 10.&lt;b>&lt;br>&#xa; &lt;br>&#xa; About Hewlett Packard Enterprise&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-05-23T17:50:24.763Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/press-release/2018/11/uh-data-science-institute-receives-10-million-boost-from-hewlett-packard-enterprise.html"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="UH Data Science Institute receives $10 million boost from Hewlett Packard Enterprise"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="UH Data Science Institute receives $10 million boost from Hewlett Packard Enterprise"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-23T17:50:24.763Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/UH-Data-Science-Institute-receives-10-million-boost-from-Hewlett-Packard-Enterprise.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-23T17:50:24.763Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-05-23T17:50:59.466Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/press-release/2018/04/ku-leuven-and-hewlett-packard-enterprise-advance-ai-capabilities-through-new-supercomputer.html"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-23T17:50:59.466Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/KUL-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-23T17:50:59.466Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-05-23T17:51:26.886Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/blog-post/2019/01/the-role-of-technology-in-the-evolution-of-education.html"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="The role of technology in the evolution of education"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The role of technology in the evolution of education"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-05-23T17:51:26.886Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/01/image-norend/The-Role-of-Technology-in-the-Evolution-of-Education.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-05-23T17:51:26.886Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-05-23T17:07:59.445Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

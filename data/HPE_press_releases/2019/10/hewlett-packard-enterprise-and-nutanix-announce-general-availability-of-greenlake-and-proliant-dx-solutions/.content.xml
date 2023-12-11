@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:32:33.175Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners,hpe-newsroom:categories/big-data,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise and Nutanix announce general availability of GreenLake and ProLiant DX solutions"
+        jcr:uuid="e94b5535-11e9-439b-91a7-c851270dd83d"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise and Nutanix announce general availability of GreenLake and ProLiant DX solutions"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-10-09T04:00:00.000-07:00"
+        featured="true"
+        metaDescription="HPE GreenLake for Nutanix and ProLiant DX solutions increase business agility, lower costs and provide greater choice for customers"
+        metaKeywords="HPE, HPE GreenLake, Nutanix, Proliant, aaS, as a Service, partnership, GA"
+        metaOgImage="/content/dam/hpe/newsroom/2019/10/image-norend/hewlett-packard-enterprise-and-nutanix-announce-general-availability-of-greenlake-and-proliant-dx-solutions.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise and Nutanix announce general availability of GreenLake and ProLiant DX solutions"
+        pageTitle="Hewlett Packard Enterprise and Nutanix announce general availability of GreenLake and ProLiant DX solutions"
+        priority="(None)"
+        socialDescription="HPE GreenLake for Nutanix and ProLiant DX solutions increase business agility, lower costs and provide greater choice for customers"
+        subtitle="HPE GreenLake for Nutanix and ProLiant DX solutions increase business agility, lower costs and provide greater choice for customers"
+        theme="dark"
+        UAID="ddc1076c-8bfa-459b-907f-4b7f7a680e55"
+        UCID="ff43f534-8acc-4688-88ac-4dbec83dfdc7">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-10-08T16:49:11.155Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="OCTOBER 9, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T19:00:25.460Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/imageOnly/hewlett-packard-enterprise-and-nutanix-announce-general-availability-of-greenlake-and-proliant-dx-solutions.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T16:52:39.758Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HPE GreenLake solution leverages Nutanix’s Enterprise Cloud OS software to deliver a fully HPE-managed private cloud that dramatically lowers total cost of ownership &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>With HPE GreenLake businesses can design IT solutions with their chosen technologies, consume them easily and speed time to value for their critical IT projects&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_18
+                    jcr:created="{Date}2019-10-08T16:53:40.228Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T16:53:57.470Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE GreenLake for Nutanix and ProLiant DX solutions increase business agility, lower costs and provide greater choice for customers&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T16:58:13.701Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Copenhagen, Denmark — .NEXT conference, October 9, 2019&lt;/b> — &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/hyper-converged.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a>&lt;/u> (HPE) and &lt;u>&lt;a href=&quot;https://www.nutanix.com/en&quot; target=&quot;_blank&quot;>Nutanix&lt;/a>&lt;/u> (NASDAQ: NTNX) today announced the general availability of HPE’s integrated hybrid cloud as a service (aaS) offering, HPE GreenLake for Nutanix, and the HPE ProLiant DX solution.&amp;nbsp; Today’s news delivers on the &lt;u>&lt;a href=&quot;https://www.nutanix.com/press-releases/2019/hpe-nutanix-sign-global-agreement-deliver-hybrid-cloud-service&quot; target=&quot;_blank&quot;>partnership announced &lt;/a>&lt;/u>between the two companies in April, through which&amp;nbsp; HPE and Nutanix are providing customers and partners greater freedom of choice for building their hybrid cloud strategy.&lt;br>&#xa;&lt;br>&#xa;“Hybrid cloud today offers a strategic advantage for organizations by granting them the flexibility to store data where they want it, maintain the level of control they desire and scale workloads more efficiently, to provide the level of service their customers expect,” said Pradeep Kumar, Senior Vice President and General Manager of HPE Pointnext Services. “Through our combined offering with Nutanix, we’re helping customers deliver cloud capabilities with greater agility, flexibility, control and choice, so that they can focus on driving digital initiatives that allow them to innovate and move their business forward.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote
+                    jcr:created="{Date}2019-10-08T20:08:55.730Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T20:09:43.137Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE and Nutanix’s partnership results in a highly scalable, easily upgradeable solution for customers&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-10-08T20:09:43.137Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T20:10:01.231Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Companies around the world know that hybrid cloud is the ideal IT model and they need solutions that make it easier to deploy,” said Monica Kumar, Senior Vice President of Product and Solutions Marketing of Nutanix. “Our goal is to make the underlying cloud infrastructure invisible so leaders can focus on what matters most to their businesses: their applications. By partnering with HPE, we’re paving pathways for more enterprises to easily find the right hybrid cloud solution and focus on what moves the needle to scale.”&lt;br>&#xa; &lt;br>&#xa; The HPE GreenLake solution leverages Nutanix’s Enterprise Cloud OS software, including its built-in AHV hypervisor, to deliver a fully HPE-managed private cloud that dramatically lowers total cost of ownership and accelerates time to value, while allowing customers to pay for the service based on actual consumption. With HPE GreenLake businesses can design IT solutions with their chosen technologies and consume them easily, reduce CapEx up to 30 percent due to reduced overprovisioning, increase IT resource utilization by 40 percent by lowering the support load on IT operations staff, and as a result speed time to value for their critical IT projects.&lt;sup>1&lt;/sup> The as a service solution is now available to order across the 50+ countries where HPE GreenLake is offered. The HPE GreenLake for Nutanix offering will be initially focused on simplifying customer deployments of End User Computing initiatives, databases and private clouds.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T16:59:32.963Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE ProLiant DX solution is built on HPE ProLiant and Apollo servers with Nutanix software pre-installed and shipped from HPE factories. HPE ProLiant DX brings together industry-leading Nutanix software and server technology into a turnkey solution, enabling enterprises to accelerate the adoption of modernized datacenter architectures.&lt;br>&#xa;&lt;br>&#xa;HPE and Nutanix will showcase their combined offerings at the Nutanix .NEXT Conference in Copenhagen, Denmark on October 8-10, 2019. As part of its platinum sponsorship at .NEXT, HPE will lead several presentations and other engagement activities with joint customers and partners at the conference.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T20:10:32.694Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The opportunity to sell Nutanix software with HPE technology as a service is good for business&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-10-08T20:10:32.694Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-08T19:03:53.170Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information, please go to&amp;nbsp;&lt;a href=&quot;https://www.nutanix.com/hpe&quot; target=&quot;_blank&quot;>www.nutanix.com/hpe&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/services/flexible-capacity.html&quot; target=&quot;_blank&quot;>www.hpe.com/greenlake&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1 &lt;/sup>The Total Economic Impact of HPE GreenLake Flex Capacity, Forrester, May 2018&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-09T15:34:38.967Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Customer and Partner Quotes&lt;br>&#xa; &lt;br>&#xa; &lt;/u>&lt;/b>&amp;quot;Nutanix Enterprise Cloud Software running on HPE ProLiant systems has proven to be an easy-to-deploy, flexible and reliable solution for my IT team,&amp;quot; said Herman Brown, CIO for the San Francisco District Attorney's Office. &amp;quot;Since putting it into production, my team has been able to focus more time bringing online new applications and services and much less time managing underlying infrastructure.&amp;quot;&lt;br>&#xa; &lt;br>&#xa; “As a partner of both HPE and Nutanix, PQR has been waiting for the day that the Nutanix proposition and the HPE proposition would come together. Now that it has, we are especially pleased to see that the joint proposition is also available as a Service through HPE GreenLake,” said Marco Lesmeister. Commercial Director of PQR. “PQR as a company is always looking for a simple and understandable offering to our customers. In taking the responsibility to manage all of the IT infrastructure for our customers and then bill them on a usage basis, the GreenLake proposition gives us the opportunity to do just that. We can scale up and down easily, without any financial risks for PQR or our customers.”&lt;br>&#xa; &lt;br>&#xa; &amp;quot;We are very excited about the partnership between HPE and Nutanix. The combination of Nutanix Enterprise Cloud software and HPE hardware results in a highly scalable and easily upgradeable solution for our customers,&amp;quot; said Jon Lankert, Principal Partner with Summit Partners LLC. &amp;quot;The opportunity to sell Nutanix software with HPE technology as a service through HPE GreenLake has been very good for our business. With this partnership, our customers receive the benefits of HPE with Nutanix, while just paying for what they use each month with no payment upfront.&amp;quot;&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-10-08T17:08:59.485Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/04/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-10-08T17:08:59.485Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-10-08T17:08:59.485Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-10-08T17:11:44.075Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hpe-announces-plans-to-offer-entire-portfolio-as-a-service-by-2022"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE announces plans to offer entire portfolio as a Service by 2022"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE announces plans to offer entire portfolio as a Service by 2022"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-10-08T17:11:44.075Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/HPE-Announces-Plans-to-Offer-Entire-Portfolio-as -a-Service-by-2022.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-10-08T17:11:44.075Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-10-08T18:51:01.507Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/05/a-customer-centric-and-consumption-driven-future-why-pay-per-use-models-are-the-future-of-it-solutions"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="A customer-centric and consumption-driven future: Why pay-per-use models are the future of IT solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A customer-centric and consumption-driven future: Why pay-per-use models are the future of IT solutions"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-10-08T18:51:01.507Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/a-customer-centric-and-consumption-driven-future-why-pay-per-use-models-are-the-future-of-it-solutions.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-10-08T18:51:01.507Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-10-08T20:26:58.837Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

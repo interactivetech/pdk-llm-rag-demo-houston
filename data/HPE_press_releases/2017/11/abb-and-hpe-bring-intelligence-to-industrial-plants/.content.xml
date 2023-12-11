@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:03:42.177Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data,hpe-newsroom:categories/industry--manufacturing]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="abb-and-hpe-bring-intelligence-to-industrial-plants"
+        jcr:uuid="e2b4735e-96e4-4fd9-8dcd-afe27b8cfb11"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-28T07:00:54.000-08:00"
+        mediaContactEmail="patrik.edlund@hpe.com"
+        mediaContactName="Patrik Edlund "
+        metaDescription="ABB and HPE Bring Intelligence to Industrial Plants"
+        navTitle="ABB and HPE Bring Intelligence to Industrial Plants"
+        pageTitle="ABB and HPE Bring Intelligence to Industrial Plants"
+        priority="(None)"
+        subtitle="Partnership to provide actionable insights across industrial plants, cloud and on-premises data centers for higher productivity and innovation"
+        theme="dark"
+        UAID="f8bfa211-1aa5-4f4d-9109-e15684b405d3"
+        UCID="ecb55d28-ba51-4e5c-ac24-9127e07df0f8"
+        WPID="199628">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 28, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/busy-factory_small.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="ABB and HPE Bring Intelligence to Industrial Plants"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-16T20:07:50.830Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>ABB and HPE today announced a strategic global partnership that combines ABBs digital offerings, ABB Ability&lt;sup>TM&lt;/sup>, with HPE's hybrid IT solutions&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>ABB and HPE will deliver joint industry solutions that combine cloud platforms with IT systems running in corporate datacenters and at the edge of the network&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Employing the right mix of IT platforms will accelerate data processing in industrial plants and at the same time enable effective control of industrial processes across locations&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Partnership to provide actionable insights across industrial plants, cloud and on-premises data centers for higher productivity and innovation&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_zzyg
+                    jcr:lastModified="{Date}2018-10-16T20:07:46.653Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>ABB and &lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced a strategic global partnership that combines ABBs industry-leading digital offerings, ABB Ability&lt;sup>TM&lt;/sup>, with HPE's innovative hybrid information technology (IT) solutions. The partnership will provide customers with solutions that generate actionable insights from vast amounts of industrial data to increase the efficiency and flexibility of their operations and create competitive advantage.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Customers will benefit from ABB's deep domain expertise in operations technologies (OT) and HPE's leadership in information technologies (IT). ABB and HPE will deliver joint industry solutions that merge OT and IT to turn industrial data into insights and automatic action, combining widely-adopted cloud platforms like Microsoft Azure with IT systems running in corporate data centers and at the edge of the network. Employing the right mix of IT platforms will accelerate data processing in industrial plants and at the same time enable effective control of industrial processes across locations.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_b32v
+                    jcr:lastModified="{Date}2018-10-16T20:09:52.579Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;ABB and HPE will deliver solutions that span from the edge to the cloud to the core&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T20:09:52.579Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_b32v>
+                <textonlycomponent_zn9z
+                    jcr:lastModified="{Date}2018-10-16T20:09:49.544Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;This strategic partnership marks the next level of the digital industrial transformation. Together, we will bring intelligence from cloud-based solutions to on-premises deployments in industrial plants and datacenters for greater uptime, speed and yield,&amp;quot; said ABB CEO Ulrich Spiesshofer. &amp;quot;ABB and HPE will deliver solutions that span the entire range of computing required by enterprises today, from the edge to the cloud to the core.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;With an installed base of 70 million connected devices, 70,000 digital control systems and 6,000 enterprise software solutions, ABB is a trusted leader in the industrial space, and has a four-decade-long history of creating digital solutions for customers. HPE in turn is a global leader in helping customers optimize their IT environments with secure, software-defined technologies that seamlessly integrate across traditional IT, multiple public and private clouds and the intelligent edge to drive key business outcomes.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_611t
+                    jcr:lastModified="{Date}2018-10-16T20:09:59.033Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Together with ABB, we will shape a digital industrial future where everything computes&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T20:09:59.033Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_611t>
+                <textonlycomponent_2gwi
+                    jcr:lastModified="{Date}2018-10-16T20:45:29.485Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;This alliance between two global leaders is unprecedented in terms of breadth and depth, and it will be ground-breaking for the progress of the Industrial Internet of Things,&amp;quot; said Meg Whitman, CEO, HPE. &amp;quot;Together with ABB, we will shape a digital industrial future where everything computes, equipping machines with intelligence to collaborate, allowing plants to flexibly adapt to changing demands, and enabling global supply chains to instantaneously react to incidents. This partnership will create exciting business opportunities for our joint customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;To provide a true end-to-end experience for customers, the ABB-HPE partnership will include co-innovation, co-development, joint go to market and service.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Research firm IDC forecasts that worldwide spending on the Internet of Things (IoT) will grow to $1.4 trillion in 2021 from an expected $800 billion in 2017. The largest investments are being made in areas such as manufacturing, transportation and utilities. (1) To tap into the opportunities of the IoT, companies are investing in new solutions that digitize their industrial equipment and integrate it with their broader IT environments. By joining forces, ABB and HPE are bringing together the capabilities needed to accelerate this transformation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Computing where it is required&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Running data acquisition, analytics and control processes near industrial equipment helps customers avoid the latency, security and reliability issues associated with data communication through remote IT systems. ABB and HPE will jointly develop, market and service digital industrial solutions that help customers:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Create deep insights and automatic action from industrial data&amp;nbsp;–&amp;nbsp;&lt;/b>by running ABB Ability&lt;sup>TM&lt;/sup> applications on enterprise-grade IT systems close to the industrial equipment to accelerate the processing of vast amounts of data; and&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Manage and control industrial processes across the supply chain&amp;nbsp;–&amp;nbsp;&lt;/b>by leveraging hybrid IT to provide a seamless experience from edge to cloud to core, making critical data available across locations.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The partnership will enable ABB Ability&lt;sup>TM&lt;/sup> solutions to run on hybrid platforms such as &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2017/09/availability-of-hpe-proliant-for-microsoft-azure-stack-accelerates-hybrid-cloud-deployments.html&quot; rel=&quot;noopener&quot;>HPE ProLiant for Microsoft Azure Stack&lt;/a>, enabling customers to deploy applications to their preferred location&amp;nbsp;–&amp;nbsp;on HPE infrastructure in industrial plants and data centers or in the Microsoft Azure public cloud&amp;nbsp;–&amp;nbsp;to meet the specific requirements regarding performance, security or cross-site collaboration.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;ABB and HPE will also deliver joint solutions for data centers, including&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Data center automation&amp;nbsp;–&amp;nbsp;&lt;/b>to enable data center power, cooling and building systems automatically adapt to changing IT demands or incidents. To that end, ABB and HPE will integrate ABB Ability Data Center Automation, which controls, monitors and optimizes mission-critical datacenter facilities infrastructure, with &lt;a href=&quot;/content/hpe/base/blueprint/products/integrated-systems/management-software.html&quot;>HPE OneView&lt;/a>, HPE's IT infrastructure automation software.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Secure edge data center&amp;nbsp;–&amp;nbsp;&lt;/b>specifically designed to run in harsh industrial environments, bringing enterprise-grade IT capacity closer to the point of data collection and machine control. This solution is being developed in collaboration between ABB, HPE and Rittal, the world's largest manufacturer of IT racks, and will be an off-the-shelf ready IT data center solution for industrial customers enabling real-time insight and action.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The partnership was announced today at the &lt;a href=&quot;https://www.hpe.com/events/discover/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPE Discover conference&lt;/a> in Madrid, where both companies demonstrated their first jointly developed solutions and prototypes.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About ABB&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;ABB (ABBN: SIX Swiss Ex) is a pioneering technology leader in electrification products, robotics and motion, industrial automation and power grids, serving customers in utilities, industry and transport &amp;amp; infrastructure globally. Continuing a more than 125-year history of innovation, ABB today is writing the future of industrial digitalization and driving the Energy and Fourth Industrial Revolutions. ABB operates in more than 100 countries with about 136,000 employees. www.abb.com&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Footnote:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;(1) IDC Worldwide Semiannual Internet of Things Spending Guide, see https://www.idc.com/getdoc.jsp?containerId=prUS42799917&lt;/span>&lt;/p>&#xa;&lt;h3>&lt;br>&#xa;MEDIA CONTACTS&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Patrik Edlund&lt;br>&#xa; Email: &lt;a href=&quot;mailto:patrik.edlund@hpe.com&quot;>patrik.edlund@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wson
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/10/hpe-radically-simplifies-application-deployment-in-manufacturing-plants"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Header.jpg"/>
+                        </contentblock_wson>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_tdsb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/10/factories-of-the-future-will-depend-on-this"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Factories of the Future Will Depend on This"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Factories of the Future Will Depend on This"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/10/image-norend/Manufacturing1-002.jpg"/>
+                        </contentblock_tdsb>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_8k84
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/09/industrial-iot-must-move-from-optimization-to-transformation"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Industrial IoT Must Move from Optimization to Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Industrial IoT Must Move from Optimization to Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Header.jpg"/>
+                        </contentblock_8k84>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

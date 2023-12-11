@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:33:28.632Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-protects-the-digital-enterprise-with-new-security-analytics"
+        jcr:uuid="048ac3ec-cab2-4e0b-acc8-d0ffb07850b9"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:51.000-07:00"
+        metaDescription="HP Protects the Digital Enterprise With New Security Analytics"
+        navTitle="HP Protects the Digital Enterprise With New Security Analytics"
+        pageTitle="HP Protects the Digital Enterprise With New Security Analytics"
+        priority="(None)"
+        subtitle="New Solutions Rapidly Identify High-Risk Threats and Indicators of Compromise to Help Protect Interactions Among Users, Applications and Data"
+        theme="dark"
+        UAID="ef8e63c7-8d86-4a82-8153-d20129939cf7"
+        UCID="75e486f9-cca4-4e05-a863-abb3da171b1c"
+        WPID="1498">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T12:07:30.275Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="Sep 2, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Solutions Rapidly Identify High-Risk Threats and Indicators of Compromise to Help Protect Interactions Among Users, Applications and Data&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_hh2a
+                    jcr:lastModified="{Date}2018-10-19T12:08:13.356Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>NATIONAL HARBOR, MD--(Marketwired - Sep 2, 2015) - Today at &lt;a rel=&quot;nofollow&quot; href=&quot;http://h71056.www7.hp.com/hp-protect/overview.html&quot;>HP Protect&lt;/a>, the company's annual &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/enterprise-security.html&quot;>enterprise security&lt;/a> user conference, HP (NYSE: HPQ) is unveiling new solutions centered on &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/software/security-analytics&quot;>security analytics&lt;/a> and designed to help organizations shift from legacy security methods to a modern approach that focuses on protecting the interactions among users, applications and data to help protect enterprises' most valuable assets.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations are inundated with security data on a daily basis and face the challenge of translating this data into meaningful insights to proactively manage threats that pose legitimate risk. With the growing volume and complexity of data, an intelligent security platform is critical -- one that harnesses the power of world-class &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/siem-security-information-event-management/index.html&quot;>Security Information and Event Management&lt;/a> (&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/siem-security-information-event-management/index.html&quot;>SIEM&lt;/a>) capabilities for active monitoring with use-case driven &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/siem-big-data-security-analytics/&quot;>security analytics&lt;/a> that derive actionable intelligence.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Breach detection is top of mind for security buyers and the field of security technologies claiming to find breaches or detect advanced attacks is at an all-time noise level,&amp;quot; said&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.gartner.com/analyst/40943&quot;>Eric Ahlm&lt;/a>, research director at Gartner, in a recent Gartner &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.gartner.com/newsroom/id/3030818&quot;>press release&lt;/a>. &amp;quot;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/siem-big-data-security-analytics/&quot;>Security analytics&lt;/a> platforms endeavor to bring situational awareness to security events by gathering and analyzing a broader set of data, such that the events that pose the greatest harm to an organization are found and prioritized with greater accuracy&lt;sup>1&lt;/sup>.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Leveraging Security Analytics to Automate Threat Data Analysis&lt;br>&#xa; &lt;/b>Organizations receive an average of 17,000 malware alerts per week, and spend an average of $1.27 million annually in time and resources responding to inaccurate and erroneous threat intelligence&lt;sup>2&lt;/sup>. Due to the volume of data that &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/enterprise-security.html&quot;>enterprise security&lt;/a> professionals must monitor, approximately four percent of all malware alerts are actually investigated&lt;sup>2&lt;/sup>, leaving a significant gap in security coverage. Additionally, traditional endpoint security solutions and manual intervention are not intercepting all critical malware infections, leaving organizations further exposed.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help organizations automate the analysis of threat data, HP is introducing &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/arcsightanalytics&quot;>HP DNS Malware Analytics (DMA)&lt;/a>, a unique solution designed to identify infected hosts by inspecting an enterprise's DNS traffic. Developed in partnership with HP Labs, HP's central research organization, and HP's internal Cyber Defense Center, this clientless, algorithmic-driven service uncovers infected hosts without endpoint agents, helping customers to quickly detect high-risk threats, reduce data breach impact and enhance overall security posture.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Organizations today are faced with growing volumes of security data and without the ability to separate the signal from the noise they can fall victim to undetected malware attacks, which can have serious financial and operational impact,&amp;quot; said Sue Barsamian, senior vice president and general manager, Enterprise Security Products, HP. &amp;quot;The new HP DNS Malware Analytics solution effectively puts the data science necessary to derive malware detection from voluminous DNS server events into a simple, highly efficient package for customers large and small, and when combined with the powerful HP ArcSight SIEM platform, provides next-generation SIEM capabilities to better protect the enterprise.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/arcsightanalytics&quot;>HP DMA&lt;/a> rapidly identifies malware-infected hosts such as servers, desktops and mobile devices so that they can be contained before gaining a foothold in the network. The solution uses a one-of-a-kind, algorithmic engine -- as opposed to the more common rules-based approach -- to analyze the high volume of DNS records. This enables the detection of new, unknown malware while simultaneously reducing false positives by a factor of 20 over other malware detection systems&lt;sup>3&lt;/sup>. This saves valuable IT time and resources, enabling customers to prioritize and remediate based on the highest risk devices.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With simple set-up and cloud reporting, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/arcsightanalytics&quot;>HP DMA&lt;/a> can be rapidly deployed to offer continuous threat vigilance. The solution seamlessly integrates with the HP ArcSight &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/siem-security-information-event-management/index.html&quot;>SIEM&lt;/a> platform, enabling customers to harness the power of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/siem-security-information-event-management/index.html&quot;>SIEM&lt;/a> and leverage their HP ArcSight &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/arcsight-esm-enterprise-security-management/&quot;>Enterprise Security Management&lt;/a> (&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/arcsight-esm-enterprise-security-management/&quot;>ESM&lt;/a>) deployments to correlate with other contextual data, issue alerts and signal appropriate remediation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Integrating Application Security Data for Enhanced Intelligence&lt;br>&#xa; &lt;/b>To further support HP's focus on data-driven security, HP also &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/hp-news/press-release.html?id=2064758&quot;>introduced&lt;/a> &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/application-security/&quot;>HP Fortify scan analytics&lt;/a>, a first-of-its kind machine-learning technology that harnesses the power of an organization's application security data to improve accuracy and efficiency of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/application-security/&quot;>application security&lt;/a> solutions. Processing an organization's growing collection of historical application security scan results to reduce the number of issues that require an auditor's review, the solution enables customers to focus resources on fewer, higher priority tasks. This analytics technology integrates seamlessly into existing application security testing workflows, which helps to increase both the efficiency of the application security audit process and the relevancy of findings.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Leveraging Predictive Analytics to Accelerate Detection of Insider Threats&lt;br>&#xa; &lt;/b>The new HP DMA and Fortify scan analytics offerings bolster HP's existing analytics capabilities announced earlier this year around user behavior analytics. &lt;a rel=&quot;nofollow&quot; href=&quot;http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA5-8223ENW&quot;>HP User Behavior Analytics (UBA)&lt;/a> provides customers visibility into user behavior to detect malicious or negligent users, or external attacks that compromise user accounts across the enterprise. Ranking detected anomalies and the associated risk, HP UBA allows customers to focus efforts and resources on the activities, users and applications that pose the greatest risk to the enterprise.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/arcsightanalytics&quot;>HPDNS Malware Analytics&lt;/a> will be available on September 15, 2015.One-year subscriptions start at $80,000 to analyze up to 5 million DNSpackets per day.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/application-security/&quot;>HPFortify scan analytics&lt;/a> is currently available as part of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/application-security-testing/index.html&quot;>HPFortify on Demand&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA5-8223ENW&quot;>HP UserBehavior Analytics&lt;/a> is currently available, with version 1.1 of thesolution, UBA Premium, released on August 30, 2015. HP UBA Premium ispackaged according to base identities, starting at $250 per identity anddecreasing with larger deployments.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information about HP's security analytics solutions can be found at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/software/security-analytics&quot;>www.hp.com/software/security-analytics&lt;/a>. More information about the full portfolio of HP Enterprise Security Products can be found at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/esp&quot;>www.hp.com/go/esp&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's annual&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/enterprise-security.html&quot;>enterprise security&lt;/a>user conference,&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/protect&quot;>HP Protect&lt;/a>, is taking place this week from Sept. 1-4 in National Harbor, Maryland. Follow HP Security on Twitter&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsecurity&quot;>@HPsecurity&lt;/a>, and keep up with event happenings by following the event hashtag,&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/search?f=realtime&amp;amp;q=%23hpprotect&amp;amp;src=typd&quot;>#HPProtect&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP Security&lt;br>&#xa; &lt;/b>HP enables organizations to take a proactive approach to &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-solutions/security-overview.html&quot;>IT security&lt;/a>, disrupting the life cycle of an attack through prevention and real-time threat detection. With market-leading &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/enterprise-security.html&quot;>products&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/enterprise/security&quot;>services&lt;/a> and innovative &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/security-research/index.html&quot;>security research&lt;/a>, HP Security brings a global network of security operations centers and more than 5,000 &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-solutions/security-overview.html&quot;>IT security&lt;/a> experts to help customers strengthen their security posture to minimize risk and incident impact.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>JoinHP Softwareon &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.linkedin.com/company/hp-software&quot;>Linkedin&lt;/a> and follow&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsoftware&quot;>@HPSoftware&lt;/a>on Twitter. To learn more about HP Enterprise Security products and services on Twitter, please follow&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsecurity&quot;>@HPSecurity&lt;/a> and join HP Enterprise Security on &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.linkedin.com/company/hp-enterprise-security?trk=company_name&quot;>Linkedin&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HPis available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>Gartner Press Release, Gartner Says Security Analytics May Be Key in Breach Detection, April 2015,&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.gartner.com/newsroom/id/3030818&quot;>http://www.gartner.com/newsroom/id/3030818&lt;/a>&lt;br>&#xa;&lt;sup>2&lt;/sup>Ponemon Institute Study: &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.ponemon.org/library/the-cost-of-malware-containment&quot;>The Cost of Malware Containment&lt;/a>, January 2015&lt;br>&#xa;&lt;sup>3&lt;/sup>Based on internal testing with production data.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, includingbut not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_mhaj
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-arcsight-data-platform-adp-achieves-record-customer-growth"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE ArcSight Data Platform (ADP) Achieves Record Customer Growth"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE ArcSight Data Platform (ADP) Achieves Record Customer Growth"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/07/image-norend/analytics.jpg"/>
+                        </contentblock_mhaj>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_uqkz
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-first-to-market-data-centric-iot-security"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE_Discover16_LV_14978.jpg"/>
+                        </contentblock_uqkz>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_umd4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-security-arcsight-wins-trust-award-for-best-siem-security-solution-at-sc-awards-2017"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Glow.jpg"/>
+                        </contentblock_umd4>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

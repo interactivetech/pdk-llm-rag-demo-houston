@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:32:05.930Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-reinvents-data-backup-with-predictive-social-enabled-data-protection"
+        jcr:uuid="1c1a914b-5063-457a-98bd-208c6c8ea0ce"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:33.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Reinvents Data Backup With Predictive, Social-Enabled Data Protection"
+        navTitle="HP Reinvents Data Backup With Predictive, Social-Enabled Data Protection"
+        pageTitle="HP Reinvents Data Backup With Predictive, Social-Enabled Data Protection"
+        priority="(None)"
+        subtitle="Industry's First Adaptive Backup Offering Improves Resource Allocation, Increases Business Continuity and Lowers Costs"
+        theme="dark"
+        UAID="aefc9b68-00ef-43fb-9c59-f85e8064f56d"
+        UCID="de65ab0e-bc57-4987-83dc-d8faca934c8e"
+        WPID="1608">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-16T11:37:17.563Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 14, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Industry's First Adaptive Backup Offering Improves Resource Allocation, Increases Business Continuity and Lowers Costs&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_d7fp
+                    jcr:lastModified="{Date}2018-10-16T11:40:28.035Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - May 14, 2014) - &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/&quot;>HP Autonomy&lt;/a> (NYSE: HPQ) today announced several groundbreaking innovations to its lineup of Adaptive Backup and Recovery solutions, designed to meet the dynamic demands of the modern enterprise.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The three new solutions -- a unique predictive analytics application called &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/adaptivebackup/backup-navigator&quot;>HP Backup Navigator&lt;/a>, a new &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/products/data-protector&quot;>HP Data Protector Management Pack&lt;/a> and breakthrough performance updates to &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/products/data-protector&quot;>HP Data Protector 9.0&lt;/a> -- deliver insights that enable IT administrators to optimize the allocation of backup resources, resulting in reduced errors, recovery time and overall costs, and greatly improved business continuity.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The predictive analytics capability in HP Backup Navigator gives us the ability to easily perform capacity planning and improve device utilization in our HP Data Protector environment,&amp;quot; said Ryan C. Burgess, manager, Information Technology Services, BlueShore Financial. &amp;quot;This enables us to take the guesswork out of the planning process and significantly reduce operational cost.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today's data centers are under siege. With unprecedented data volumes, diverse data formats, mobile workforces, and increasing adoption of cloud and virtualization, yesterday's backup and recovery models have been rendered obsolete. It is simply becoming too costly, ineffective and risky to rely on static legacy systems to protect an organization's vital enterprise information.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Autonomy, the industry leader in data protection with &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.autonomy.com/work/news/details/ho65btle&quot;>more than 60,000 customers&lt;/a>, is pursuing a new and divergent path to bring the backup industry into the modern era. Based on the premise that backup should be adaptive, dynamic and self-aware, HP Autonomy Adaptive Backup and Recovery solutions empower organizations to overcome complexity with simple, intuitive, collaborative and real-time data protection.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Backup Navigator -- connect, collaborate and share analytical insights&lt;br>&#xa; &lt;/b>HP Backup Navigator is the first data protection tool based on in-depth operational analytics that allow for effective navigation of an organization's backup landscape. Key features include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Dynamic, interactive &amp;quot;drill down&amp;quot; graphical dashboard powered by real-time operational analytics deliver actionable insight to historical, current and future performance.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Collaborative, enhanced social media capabilities and automated report creation and sharing allows different teams of data center administrators within an organization to automatically share their backup policies and analytics dashboards. Other team members can then respond by marking as a favorite or sharing other related dashboards and reports.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Real-time, predictive analytics enable businesses to anticipate issues.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Extensive backward compatibility for previous versions of HP Data Protector means this tool can be immediately leveraged across the HP Data Protector global customer base.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Data Protector 9.0 -- a new class of data protection for the enterprise &lt;br>&#xa; &lt;/b>HP Data Protector 9.0 offers enhancements that build upon HP's flagship adaptive, self-aware backup and recovery solution to:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Support the integration with HP Storage and the next-generation federated deduplication capabilities of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/products/data-storage/data-storage-products.html?compURI=1225909&quot;>HP StoreOnce Backup Systems&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Offer rapid recovery of VMware vSphere virtual disks through the new SmartCache feature, saving time and resources and improving administration agility.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Secure backup workloads in dynamic environments through encryption, protecting deduped data in flight and at rest.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Support EMC's family of storage offerings with native support for EMC Data Domain Boost.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Data Protector Management Pack -- active alerting and event management &lt;br>&#xa; &lt;/b>HP Data Protector Management Pack with plug-in support for Microsoft System Center Operations Manager enables organizations to centrally monitor and report on the health, performance and availability of the entire HP Data Protector environment. This product enables IT administrators to:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Perform discovery and topology presentation of the entire HP Data Protector infrastructure.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Visually check the status of all the clients and devices within the environment.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Get alerts and notifications and proactively take actions to resolve issues in the backup environment.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Traditional approaches to data protection are no longer a fit for today's data centers,&amp;quot; said David Jones, general manager, Enterprise Data Protection, HP Autonomy. &amp;quot;HP Autonomy is reinventing the data protection market by putting to work our strengths -- including deep analytics, collaboration, enterprise, cloud and mobility capabilities -- resulting in a backup offering that transforms the data center from a reactive to a proactive operation.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Backup Navigator and HP Data Protector Management Pack are available now.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Data Protector 9.0 is expected to be available next month.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.adaptive-backup.com/&quot;>www.adaptive-backup.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Microsoft is U.S. registered trademark(s) of the Microsoft Group of companies.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>©2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_o7ac
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-software-boosts-security-in-its-backup-suite-to-guard-against-growing-threats"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Digital-TransformationWeb.jpg"/>
+                        </contentblock_o7ac>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nr18
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-unveils-most-significant-3par-flash-storage-innovations-to-date"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE20160923076v2.jpg"/>
+                        </contentblock_nr18>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_9ea9
+                            jcr:created="{Date}2018-10-16T12:45:53.194Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-16T12:59:20.277Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/industrial-companies-see-the-massive-value-of-ai-in-the-coming-decade.html"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Industrial companies see the massive value of AI in the coming decade"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Industrial companies see the massive value of AI in the coming decade"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-16T12:59:20.277Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/1fc.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-16T12:59:20.277Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_9ea9>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

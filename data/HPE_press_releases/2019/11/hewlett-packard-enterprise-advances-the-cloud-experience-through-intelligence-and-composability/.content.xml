@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:29:26.253Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise advances the cloud experience through intelligence and composability"
+        jcr:uuid="c7fbb559-61f5-4f52-8c2b-ddd03acfcde3"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise advances the cloud experience through intelligence and composability"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-11-04T05:00:00.000-08:00"
+        featured="true"
+        metaDescription="Offerings enable enterprises to support mixed workloads with greater speed, extreme data resiliency and ease of scale"
+        metaKeywords="intelligence,composability,HPE Composable Rack,HPE Synergy,HPE Primera,AI,artificial intelligence"
+        metaOgImage="/content/dam/hpe/newsroom/2019/11/image-norend/hewlett-packard-enterprise-advances-the-cloud-experience-through-intelligence-and-composability.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise advances the cloud experience through intelligence and composability"
+        pageTitle="Hewlett Packard Enterprise advances the cloud experience through intelligence and composability"
+        priority="(None)"
+        socialDescription="Offerings enable enterprises to support mixed workloads with greater speed, extreme data resiliency and ease of scale"
+        subtitle="Offerings enable enterprises to support mixed workloads with greater speed, extreme data resiliency and ease of scale"
+        theme="dark"
+        UAID="9a79bdde-cc3c-4f99-bbb7-fb4ee75a42e9"
+        UCID="3fa2ac26-f095-44be-a535-94ed4dba585b">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-11-01T22:16:47.520Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 4, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T22:52:48.374Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/hewlett-packard-enterprise-advances-the-cloud-experience-through-intelligence-and-composability.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T22:21:30.638Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE announced expanded intelligence and composability offerings by integrating HPE Primera storage HPE Synergy and HPE Composable Rack&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Composable Rack now supports VMware Cloud Foundation for hybrid cloud deployments&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is enabling customers to deliver services on an intelligent cloud platform, offering the flexibility to support any application and service level agreement with cloud-like agility&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_32
+                    jcr:created="{Date}2019-11-01T22:21:45.032Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T22:22:03.403Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Offerings enable enterprises to support mixed workloads with greater speed, extreme data resiliency and ease of scale&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T22:25:50.608Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SAN JOSE, Calif. – Nov. 4, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced combined intelligence and composability offerings by integrating its artificial intelligence (AI) and machine learning-driven &lt;a href=&quot;https://www.hpe.com/us/en/storage/hpe-primera.html?chatsrc=ot-en&amp;amp;jumpid=ps_6bzx8wvt7c_aid-510455007&amp;amp;gclid=CjwKCAjwxt_tBRAXEiwAENY8hd2OH_lqCmOZMXtAN3DLV9plAuVQ4R3nRDtBRYnseydA9aS1OLJOlRoCBPUQAvD_BwE&amp;amp;gclsrc=aw.ds&quot; target=&quot;_blank&quot;>HPE Primera&lt;/a> storage platform with the composability in &lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/synergy.html&quot; target=&quot;_blank&quot;>HPE Synergy&lt;/a> and &lt;a href=&quot;https://www.hpe.com/us/en/solutions/cloud/composable-rack.html&quot; target=&quot;_blank&quot;>HPE Composable Rack&lt;/a>&lt;sup>1&lt;/sup>, helping customers rapidly deliver new apps and innovations to propel their businesses forward. This unique combination allows customers to deliver services on an intelligent cloud platform, offering the flexibility to support any application and service level agreement (SLA) with cloud-like agility, extreme resiliency, and seamless scalability.&lt;br>&#xa; &lt;br>&#xa; Additionally, expanding on the recent introduction of &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/08/hpe-brings-hybrid-cloud-as-a-service-to-vmware-customers.html&quot; target=&quot;_blank&quot;>HPE Synergy&lt;/a> support for VMware Cloud Foundation (VCF), HPE Composable Rack, the HPE composable rack-scale solution, now supports VCF for hybrid cloud deployments. This new offering provides cloud management services to run enterprise applications in both private and public environments with a resilient and operationally efficient approach.&lt;br>&#xa; &lt;br>&#xa; Enterprises today want to accelerate everything – their apps, data, and innovation. This requires the ability to more efficiently manage traditional bare-metal and virtualization applications, while also supporting containerized applications and cloud stacks with software-driven automation, and a fluid pool of resources that they can flexibly custom fit to the specific needs of applications. And, as organizations transition from a software-defined data center to an autonomous one, IT teams need to put the insights gathered about the infrastructure and workloads into action to ensure an environment that is always-fast and always-on.&lt;br>&#xa; &lt;br>&#xa; “Customers want more than table stakes software-driven automation, and only HPE offers the combination of software- and intelligence-driven automation in a composable solution, transforming on-premises infrastructure to be more cloudlike,” said Mat Mathews, VP and GM, Composable Networking, HPE. “And, as customers leverage VCF to provide integrated software-defined data center and cloud management services for their applications, it becomes critical to rely on an underlying platform that has matching characteristics. Only HPE’s intelligent and composable infrastructure delivers the automation and flexibility needed for today’s changing workload demands.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T23:07:35.530Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Composable Infrastructure&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE is a pioneer in composability, initially introducing composable infrastructure in HPE Synergy, a bladed, modular architecture. With disaggregated compute, storage, and fabric, HPE composable infrastructure provides independent scaling of resources and on-demand provisioning to support any workload, and any SLA – all while delivering CapEx savings. Its software-defined automation improves IT efficiency and reduces OpEx costs, while its unified API allows developers to integrate infrastructure commands directly into development and deployment processes, as well as easily integrate with third-party applications and tools. Similarly, HPE Composable Rack provides disaggregated compute, storage and fabric resources in a rack form factor, supporting bare metal, containerization, virtualization, and private and hybrid clouds.&lt;br>&#xa; &lt;br>&#xa; “Combined, HPE Synergy and our current storage solution, HPE 3PAR, have created a formidable capability for us to deliver industry leading services on composable and reliable infrastructure with a few clicks,” said Christopher Horvat, VP of Information Technology, Skyview Networks. “We can virtualize all our audio in digital format without the traditional analog-to-digital latency and without a single physical backplane connection. Using this technology has made our organization more agile in delivering premier services to our long list of clients, so I look forward to the impact HPE Primera combined with HPE Synergy will have for mission-critical apps.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T23:06:36.789Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE Primera leverages the industry’s most advanced AI platform for operations, HPE InfoSight&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-11-01T23:06:36.789Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T23:31:29.539Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Intelligent Infrastructure&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE Primera leverages the industry’s most advanced AI platform for operations, HPE InfoSight, to deliver significant breakthroughs – including 93% less time spent on managing storage&lt;sup>2&lt;/sup>, the ability to predict and prevent issues, and accelerate application performance. HPE Primera lets organizations innovate without compromise, with the resiliency and performance businesses need combined with the agility of the cloud.&lt;br>&#xa; &lt;br>&#xa; The integration of HPE Primera in the composable portfolio allows HPE Synergy and HPE Composable Rack customers to benefit from:&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Agility and faster time-to-market&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Develop and deploy applications faster with infrastructure as code to automate and streamline resource management, including reduced time to deploy for Oracle databases by 89 percent&lt;sup>3&lt;/sup>.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Eliminate disruptions and wasted time reacting to problems with the AI-driven full-stack intelligence.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enable self-sufficiency and eliminate lag time with provisioning requests.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <textonlycomponent_f0
+                    jcr:created="{Date}2019-11-01T22:30:42.052Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T22:32:21.667Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Extreme resiliency&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Through cloud-based machine learning and AI, HPE InfoSight in HPE ProLiant servers, HPE Synergy, and HPE Primera storage, predicts and prevents problems before they occur.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Mission-critical reliability is built into HPE Primera, which is architected for high availability with its multi-node design, transparent business continuity with HPE Peer Persistence, and data replication—backed by the HPE Primera 100 percent data availability &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/06/hewlett-packard-enterprise-redefines-mission-critical-storage-with-new-platform-designed-for-the-intelligence-era.html&quot; target=&quot;_blank&quot;>guarantee&lt;/a>.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE further protects systems against service disruption and risk, with its silicon root of trust that prevents system boots with compromised firmware; and Cyber Catalyst designation that provides enhanced terms and conditions on cyber insurance policies.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Seamless dynamic scaling&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE composable offerings allow organizations to compose disaggregated resources on demand and non-disruptively.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The seamless auto-discover and -configuration capabilities enable incremental scale and integration of resources.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The instant visibility into how resources are consumed by applications improves insights for capacity planning.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <pullquote
+                    jcr:created="{Date}2019-11-01T23:07:13.347Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T23:08:03.100Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Through the unique combination of intelligence and composability, HPE provides an intelligent cloud foundation&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-11-01T23:08:03.100Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote>
+                <textonlycomponent_64
+                    jcr:created="{Date}2019-11-01T22:32:50.729Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T23:32:34.694Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through the unique combination of intelligence and composability, HPE provides an intelligent cloud foundation that unites the IT environment with a common software-defined and AI-driven operating model that can be optionally delivered as a Service via HPE GreenLake to align costs with consumption.&lt;br>&#xa; &lt;b>&lt;br>&#xa;Pricing and Availability&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE Synergy and HPE Composable Rack integration with HPE Primera; and support for VMware Cloud Foundation on HPE Composable Rack will be available in November 2019.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Resources&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Visit this &lt;a href=&quot;https://community.hpe.com/t5/Shifting-to-Software-Defined/Just-Announced-New-Capabilities-to-HPE-Composability-Offerings/ba-p/7068115&quot; target=&quot;_blank&quot;>blog&lt;/a> to read more about the new HPE composable capabilities announced today, and how they enhance the cloud experience on premises&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>For a look at how composability and intelligence are accelerating the self-driving data center, read more &lt;a href=&quot;https://community.hpe.com/t5/Shifting-to-Software-Defined/Composability-and-intelligence-are-accelerating-the-self-driving/ba-p/7068113&quot; target=&quot;_blank&quot;>here&lt;/a>&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>To learn more about how HPE Primera is advancing the cloud experience, visit this &lt;a href=&quot;https://community.hpe.com/t5/Around-the-Storage-Block/HPE-Primera-now-advancing-the-cloud-experience/ba-p/7068334&quot; target=&quot;_blank&quot;>blog&lt;/a>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;b>&amp;nbsp;&lt;/b>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-01T23:30:21.345Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;sup>1&lt;/sup> &lt;span class=&quot;body-copy-large&quot;>HPE Composable Rack was formerly known as HPE Composable Cloud for ProLiant DL&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> Based on HPE internal testing, compared to previous generation storage arrays&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>3&lt;/sup>&amp;nbsp;&lt;sup>&amp;nbsp;&lt;/sup>Compared to traditional deployment of database instances. HPE internal &amp;nbsp;&amp;nbsp;testing, June 2019&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Natassia Culp, HPE Global Communications&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:natassia.culp@hpe.com&quot; target=&quot;_blank&quot;>natassia.culp@hpe.com&lt;/a>&lt;b> &lt;/b>&lt;/span>&lt;br _rte_temp_br=&quot;brEOB&quot;>&#xa;&lt;b>&lt;/b>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-01T22:38:49.063Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/08/hpe-brings-hybrid-cloud-as-a-service-to-vmware-customers"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE brings hybrid cloud as a Service to VMware customers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE brings hybrid cloud as a Service to VMware customers"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-01T22:38:49.063Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/08/image-norend/hpe-brings-hybrid-cloud-as-a-service-to-vmware-customers.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-01T22:38:49.063Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-01T22:40:49.684Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hewlett-packard-enterprise-redefines-mission-critical-storage-with-new-platform-designed-for-the-intelligence-era"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise redefines mission-critical storage with new platform designed for the intelligence era"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-01T22:40:49.684Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hewlett-packard-enterprise-unveils-new-mission-critical-storage-for-the-....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-01T22:40:49.684Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-11-01T22:45:00.776Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hpe-advances-hybrid-cloud-strategy-by-extending-ai-composability-and-partnerships-across-portfolio"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-01T22:45:00.776Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hpe-advances-hybrid-cloud-strategy-by-extending-ai-composability-and-par....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-01T22:45:00.776Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-11-05T02:22:43.463Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

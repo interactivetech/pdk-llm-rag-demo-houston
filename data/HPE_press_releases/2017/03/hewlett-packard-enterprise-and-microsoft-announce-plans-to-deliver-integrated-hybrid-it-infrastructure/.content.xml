@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:48:40.626Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners,hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-and-microsoft-announce-plans-to-deliver-integrated-hybrid-it-infrastructure"
+        jcr:uuid="576e8bf3-7c49-4cac-8806-842f1d308b03"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:59:55.000-07:00"
+        metaDescription="Hewlett Packard Enterprise and Microsoft Announce Plans to Deliver Integrated Hybrid IT Infrastructure"
+        navTitle="Hewlett Packard Enterprise and Microsoft Announce Plans to Deliver Integrated Hybrid IT Infrastructure"
+        pageTitle="Hewlett Packard Enterprise and Microsoft Announce Plans to Deliver Integrated Hybrid IT Infrastructure"
+        priority="(None)"
+        subtitle="New Innovation and Programs Will Connect Microsoft Azure With Hewlett Packard Enterprise Infrastructure and Advance Cloud-Computing Benefits for Customers"
+        theme="dark"
+        UAID="809daec4-cd0b-4656-879e-21cc3d2704ab"
+        UCID="7972c265-b882-4c45-b6be-bf3ea5464a35"
+        WPID="1453">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-22T15:12:20.070Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="December 1, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Innovation and Programs Will Connect Microsoft Azure With Hewlett Packard Enterprise Infrastructure and Advance Cloud-Computing Benefits for Customers&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_tgwc
+                    jcr:lastModified="{Date}2018-10-22T15:14:59.660Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LONDON, UNITED KINGDOM--(Marketwired - Dec 1, 2015) - Today at Hewlett Packard Enterprise Discover, HPE (NYSE: HPE) and Microsoft announced new innovation in Hybrid Cloud computing through Microsoft Azure, HPE infrastructure and services, and new program offerings. The extended partnership appoints Microsoft Azure as a preferred public cloud partner for HPE customers while HPE will serve as a preferred partner in providing infrastructure and services for Microsoft's hybrid cloud offerings.&amp;quot;Hewlett Packard Enterprise is committed to helping businesses transform to hybrid cloud environments in order to drive growth and value,&amp;quot; said Meg Whitman, President and CEO, Hewlett Packard Enterprise. &amp;quot;Public cloud services, like those Azure provides, are an important aspect of a hybrid cloud strategy and Microsoft Azure blends perfectly with HPE solutions to deliver what our customers need most. &amp;quot;The partnering companies will collaborate across engineering and services to integrate innovative compute platforms that help customers optimize their IT environment, leverage new consumption models and accelerate their business further, faster. &amp;quot;Our mission to empower every organization on the planet is a driving force behind our broad partnership with Hewlett Packard Enterprise that spans Microsoft Azure, Office 365 and Windows 10,&amp;quot; said Satya Nadella, CEO, Microsoft. &amp;quot;We are now extending our longstanding partnership by blending the power of Azure with HPE's leading infrastructure, support and services to and make the cloud more accessible to enterprises around the globe. &amp;quot;&lt;b>Product Integration and Collaboration&lt;/b>HPE and Microsoft are introducing the first hyper-converged system with true hybrid cloud capabilities, the HPE&amp;nbsp;&lt;a href=&quot;http://www.hp.com/us/en/hpe-news/press-release.html?id=2132163&quot; rel=&quot;nofollow&quot;>Hyper-Converged 250&lt;/a> for Microsoft Cloud Platform System Standard. Bringing together industry leading HPE ProLiant technology and Microsoft Azure innovation, the jointly engineered solution brings Azure services to customers' datacenters, empowering users to choose where and how they want to leverage the cloud. An Azure management portal enables business users to self-deploy Windows and Linux workloads, while ensuring IT has central oversight. Azure services provide reliable backup and disaster recovery, and with HPE OneView for Microsoft System Center, customers get an integrated management experience across all system components. HPE offers hardware and software support, installation and startup services to customers to speed deployment to just a matter of hours, lower risk and decrease total cost of ownership. The CS 250 is available to order today.As part of the expanded partnership, HPE will enable Azure consumption and services on every HPE server, which allows customers to rapidly realize the benefits of hybrid cloud.Building on the success of HPE Quality Center and HPE LoadRunner on the Azure Marketplace, HPE and Microsoft will work together to make select HPE industry-leading application lifecycle management, big data and security software products available on the Azure Public Cloud.&amp;nbsp;&lt;b>Extended Support and Services to Simplify Cloud&amp;nbsp;&lt;/b>HPE and Microsoft will create HPE Azure Centers of Excellence in Palo Alto, Calif. and Houston, Texas, to ensure customers have a seamless hybrid cloud experience when leveraging Azure across HPE infrastructure, software and services. Through the work at these centers, both companies will invest in continuing advancements in Hybrid IT and Composable Infrastructure.Because Azure is a preferred provider of public cloud for HPE customers, HPE also plans to certify an additional 5,000 Azure Cloud Architects through its Global Services Practice.This will extend its Enterprise Services offerings to bring customers an open, agile, more secure hybrid cloud that integrates with Azure.&lt;b>Partner Program Collaboration&lt;/b>Microsoft will join the HPE Composable Infrastructure Partner Program to accelerate innovation for the next-generation infrastructure and advance the automation and integration of Microsoft System Center and HPE OneView orchestration tools with today's infrastructure.Likewise, HPE joined two Microsoft programs that help customers accelerate their hybrid cloud journey through end-to-end cloud, mobility, identity and productivity solutions. As a participant in Microsoft's Cloud Solution Provider program, HPE will sell Microsoft cloud solutions across Azure, the Microsoft Enterprise Mobility Suite (EMS) and Office 365.For more details about the partnership between Microsoft and HPE, visit &lt;u>the &lt;/u>&lt;a href=&quot;http://blogs.technet.com/b/server-cloud/archive/2015/12/01/microsoft-and-hpe-deepen-partnership-to-extend-the-power-of-hybrid-cloud.aspx&quot; rel=&quot;nofollow&quot;>Microsoft Server &amp;amp; Cloud blog&lt;/a>&lt;u> or &lt;/u>the &lt;a href=&quot;/&quot; rel=&quot;nofollow&quot;>HPE Newsroom&lt;/a>.&amp;nbsp;&lt;b>About Hewlett Packard Enterprise&lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&amp;nbsp;&lt;b>About Microsoft&lt;/b>Microsoft (NASDAQ: MSFT) (@microsoft) is the leading platform and productivity company for the mobile-first, cloud-first world, and its mission is to empower every person and every organization on the planet to achieve more.&amp;nbsp;&lt;b>Forward-Looking Statement&lt;/b>The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_djj0
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpe-and-microsoft-advance-their-collaboration-around-microsoft-azure-to-accelerate-hybrid-cloud-adoption"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE and Microsoft Advance Their Collaboration Around Microsoft Azure to Accelerate Hybrid Cloud Adoption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Microsoft Advance Their Collaboration Around Microsoft Azure to Accelerate Hybrid Cloud Adoption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE_And_Microsoft.jpg"/>
+                        </contentblock_djj0>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_694i
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/09/availability-of-hpe-proliant-for-microsoft-azure-stack-accelerates-hybrid-cloud-deployments"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Availability of HPE ProLiant for Microsoft Azure Stack Accelerates Hybrid Cloud Deployments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Availability of HPE ProLiant for Microsoft Azure Stack Accelerates Hybrid Cloud Deployments"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/HPE-Helps-Customers-Accelerate-Microsoft-Hybrid-Cloud-Deployments.jpg"/>
+                        </contentblock_694i>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_j2dt
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/abb-and-hpe-bring-intelligence-to-industrial-plants"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="ABB and HPE Bring Intelligence to Industrial Plants"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="ABB and HPE Bring Intelligence to Industrial Plants"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/busy-factory_small.jpg"/>
+                        </contentblock_j2dt>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

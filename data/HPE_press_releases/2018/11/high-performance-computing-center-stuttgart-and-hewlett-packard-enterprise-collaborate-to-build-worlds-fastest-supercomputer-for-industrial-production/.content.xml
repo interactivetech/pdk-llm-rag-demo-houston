@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-06-10T14:51:17.646Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/company---customers,hpe-newsroom:categories/industry--manufacturing]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="High-Performance Computing Center Stuttgart and Hewlett Packard Enterprise collaborate to build world's fastest supercomputer for industrial production"
+        jcr:uuid="30bf38cd-d695-42e7-b62f-a2319dec3315"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-11-13T06:08:00.000-08:00"
+        mediaContactName="Nahren Khizeran"
+        metaDescription="High-Performance Computing Center Stuttgart and Hewlett Packard Enterprise collaborate to build world's fastest supercomputer for industrial production"
+        metaKeywords="HPE, high performance computing, HPC, supercomputing, Top500, supercomputing conference, SC 18"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2018/11/high-performance-computing-center-stuttgart-and-hewlett-packard-enterprise-collaborate-to-build-worlds-fastest-supercomputer-for-industrial-production/jcr:content/main-par/body-par/textonlycomponent_w9k8"
+        navTitle="High-Performance Computing Center Stuttgart and Hewlett Packard Enterprise collaborate to build world's fastest supercomputer for industrial production"
+        pageTitle="High-Performance Computing Center Stuttgart and Hewlett Packard Enterprise collaborate to build world's fastest supercomputer for industrial production"
+        priority="(None)"
+        subtitle="Latest supercomputing development delivers powerful performance requirements for advanced industrial and science research"
+        theme="dark"
+        UAID="f9157f20-d6e2-4826-a7a5-531489926ba6"
+        UCID="522aea47-8211-4069-b068-b57a3765dd74"
+        WPID="202101">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-22T12:45:38.472Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 13, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-02-08T00:57:18.900Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    disableCaptionUnderline="false"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/high-performance-computing-center-stuttgart.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    isVideo="false"
+                    isZoom="false"
+                    textIsRich="true"
+                    topMargin="60"
+                    useNativeAspectRatio="false"
+                    videoSource="video"
+                    videoType="youtube"
+                    zoomBackground="white"
+                    zoomLevel="1"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-21T03:22:55.633Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE collaborates with &lt;a href=&quot;https://www.hpe.com/us/en/solutions/hpc-high-performance-computing.html&quot; target=&quot;_blank&quot;>High-Performance Computing&lt;/a> Center Stuttgart (HLRS) to build fastest supercomputer for industrial production&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New supercomputer, called Hawk, is based on HPEs next-generation high-performance computing (HPC) platform running the new AMD EPYC processor code named Rome&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Hawk is nearly 3.5 times faster than the existing HLRS system, with theoretical peak performance of 24 petaFLOPs&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Latest supercomputing development delivers powerful performance requirements for advanced industrial and science research&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_mkrd
+                    jcr:lastModified="{Date}2022-06-10T14:49:41.415Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PALO ALTO, Calif., Nov. 13, 2018&lt;/b> -- The High-Performance Computing Center of the University of Stuttgart (HLRS) and Hewlett Packard Enterprise (NYSE:HPE), the number one market leader in high-performance computing (HPC)&lt;sup>1&lt;/sup>, today announced a joint collaboration to build and deliver for HLRS a next-generation supercomputer, 3.5 times faster than its current system&lt;sup>2&lt;/sup>. The upcoming system, which HLRS has named Hawk, will be the worlds fastest supercomputer for industrial production&lt;sup>3&lt;/sup>, powering computational engineering and research across science and industrial fields to advance applications in energy, climate, mobility and health.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_3jw6
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p align=&quot;justify&quot;>New Hawk gains powerful performance, advancing research for science and industrial applications&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_x9w7
+                    jcr:lastModified="{Date}2019-01-22T12:56:11.976Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hawk, based on HPEs next-generation high-performance computing (HPC) platform running a next generation AMD (Nasdaq:AMD) EPYC processor code named Rome, will have a theoretical peak performance of 24 petaFLOPs, and consist of a 5,000-node cluster.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>We are excited that Hawk constitutes a sizable increase in the performance of our flagship supercomputing system, said Prof. Dr. Michael M. Resch, Director of HLRS. But the real winners will be our user community of computational engineers in academic research and industry who will benefit from the ability to run much more complex simulations.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Construction of Hawk is projected to cost 38 million. Funding will be provided under the auspices of the Gauss Centre for Supercomputing (GCS), the alliance of Germany's three national supercomputing centers. Half of this funding will be provided by the State of Baden-Wrttemberg's Ministry of Science, Research and Art, and the second half supplied by the German Federal Ministry of Education and Research (BMBF).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To keep our science and economy at the leading edge of international competition, we are making strong investments in a first-class IT infrastructure for high-performance computing, said Theresia Bauer, Science Minister of Baden-Wrttemberg. Cutting-edge research is unthinkable today without simulation and HPC, and is the foundation for innovative products and processes that constitute key areas of our economy. With Hawk, scientists from all research disciplines will be able to undertake new kinds of scientific investigation that are essential for addressing some of our greatest problems as a society.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Building on the recent rollout of next-generation supercomputers at the Leibniz Supercomputing Centre (LRZ) and Jlich Supercomputing Centre (JSC) HLRS's partners in GCS the new HLRS HPC system constitutes the next step in Germanys strategy to move toward exascale computing.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The use of next generation AMD EPYC processors will complement the use of competing processors at the other two GCS centers, supporting GCSs goal of offering its users a diverse set of computing architectures. Moreover, these AMD EPYC processors utilize a memory subsystem that makes them particularly well suited for efficiently running applications used for simulation in fields such as computational fluid dynamics, molecular dynamics and other research areas in which HLRS's users are engaged. Providing such a powerful tool will open new opportunities for innovation in these and other fields.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_eh69
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p align=&quot;justify&quot;>HPE continues to power diverse sets of architectures for next-generation supercomputers&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_w9k8
+                    jcr:lastModified="{Date}2022-06-10T14:51:17.635Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>As part of our strong collaboration with HLRS, we are supplying brand new, state-of-the-art HPC technologies to design and power its supercomputer that meets specific research needs and accelerates the path to exascale, said Bill Mannel, Vice President and General Manager, HPC and AI, HPE. Our next-generation, purpose-built HPC system is dramatically increasing speed and performance for Hawk, advancing research and accelerating innovation for future science and industrial applications.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to HPE addressing new hardware design for HLRS, the contract between HLRS and HPE specifies a four-year collaboration focusing on user application, technical support and enabling data analytics and machine learning. This joint effort also supports HLRS's mission to empower researchers in the coming years in basic and applied science, scaling their applications to the increasingly massive parallel supercomputing systems currently on the horizon.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>We are thrilled to partner with HPE to power the future HLRS Hawk supercomputer, said Forrest Norrod, Senior Vice President and General Manager, AMD Datacenter and Embedded Systems Group. AMD has a rich history in high performance computing and the EPYC processors excel in leadership floating point performance. This means better and faster outcomes by researchers using the Hawk supercomputer on HPC workloads like simulation, computational fluid dynamics and machine learning.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xd;&#xa; Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About the High-Performance Computing Center Stuttgart&lt;/b>&lt;br>&#xd;&#xa; The High-Performance Computing Center Stuttgart (HLRS) was established in 1996 as the first German national high-performance computing (HPC) center. As a research institution affiliated with the University of Stuttgart and a founding member of the Gauss Centre for Supercomputing, HLRS provides HPC services to academic users and industry. We operate leading-edge HPC systems, provide training in HPC programming and simulation, and conduct research to address key problems facing the future of supercomputing. Among our areas of expertise are parallel programming, numerical methods for HPC, visualization, grid and cloud computing concepts, and data analytics. In addition, our program in the Philosophy of Science and Technology of Computer Simulation investigates how high-performance computing is changing science, technology development, society, and politics.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>________________________&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>&amp;nbsp;Hyperion Market Update: Decent Growth Led by HPE; AI Transparency a Risk Issue: &lt;a href=&quot;https://www.hpcwire.com/2018/09/27/hpe-no-1-ibm-surges-in-bucking-bronco-high-performance-server-market/&quot; target=&quot;_blank&quot;>https://www.hpcwire.com/2018/09/27/hpe-no-1-ibm-surges-in-bucking-bronco-high-performance-server-market/ &lt;/a>&lt;br>&#xd;&#xa;&lt;sup>2&lt;/sup>&amp;nbsp;The current HLRS system, Hazel Hen, is 7.42 petaFLOPS.&amp;nbsp;&lt;br>&#xd;&#xa;&lt;sup>3&lt;/sup>&amp;nbsp;Based on November 2018 Top500 list: &lt;a href=&quot;https://www.top500.org/lists/2018/11/&quot; target=&quot;_blank&quot;>https://www.top500.org/lists/2018/11/&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_f6d8
+                            jcr:created="{Date}2019-01-22T12:49:26.304Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2022-02-08T01:09:35.366Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/08/hpe-triples-performance-and-enhances-energy-efficiency-in-new-supercomputer-for-national-renewable-energy-laboratory-nrel"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-02-08T01:09:35.366Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/HPE-Triples-Performance-and-Enhances-Energy-Efficiency-in-New-Supercomputer-for-National-Renewable-Energy-Laboratory-NREL.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-02-08T01:09:35.366Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_f6d8>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_fe75
+                            jcr:created="{Date}2019-01-22T12:48:07.037Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2022-02-08T01:14:28.747Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/11/hpe-delivers-first-above-the-cloud-supercomputing-services-for-astronauts-to-advance-space-exploration"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE delivers first above-the-cloud supercomputing services for astronauts to advance space exploration"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE delivers first above-the-cloud supercomputing services for astronauts to advance space exploration"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-02-08T01:14:28.747Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE delivers first above-the-cloud supercomputing services for astronaut....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-02-08T01:14:28.747Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_fe75>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d403
+                            jcr:created="{Date}2019-01-22T12:52:06.571Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2022-02-08T01:11:05.760Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-delivers-worlds-largest-arm-supercomputer-for-u-s-department-of-energy-doe"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Delivers World’s Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers World’s Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-02-08T01:11:05.760Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-World-Largest-Arm-Supercomputer-for-US-Department-of-Energy-DOE.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-02-08T01:11:05.760Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_d403>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-02-08T22:30:42.746Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

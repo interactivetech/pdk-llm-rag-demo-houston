@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T01:49:00.062Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---earnings]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-announces-fiscal-year-2017-outlook"
+        jcr:uuid="6efce2b1-4d09-4f29-9d10-6cf8838acc6c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:54:34.000-07:00"
+        metaDescription="HPE Announces Fiscal Year 2017 Outlook"
+        navTitle="HPE Announces Fiscal Year 2017 Outlook"
+        pageTitle="HPE Announces Fiscal Year 2017 Outlook"
+        priority="(None)"
+        theme="dark"
+        UAID="f03d0b78-b00b-49e4-b300-ec9fb21f6938"
+        UCID="2add56db-906b-4228-8be8-0876b9fa95d2"
+        WPID="1205">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-24T09:30:36.234Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="OCTOBER 18, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_6lhv
+                    jcr:lastModified="{Date}2018-10-24T09:33:06.378Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN FRANCISCO, CA--(Marketwired - Oct 18, 2016) - Hewlett Packard Enterprise (NYSE: HPE)&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reaffirms FY16 non-GAAP EPS outlook of $1.90-$1.95 &lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Provides FY17 combined company non-GAAP EPS outlook of $2.00-$2.10 &lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Commits to returning $3 billion to shareholders in FY17 &lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Anticipates ending FY17 with an operating company net cash balance of approximately $8 billion &lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Expects normalized free cash flow for the future HPE to be $2.1-$2.4 billion &lt;br>&#xa; &lt;br>&#xa; &lt;/b>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, at Hewlett Packard Enterprise's (HPE) 2016 Securities Analyst Meeting, the company's leadership team provided a strategy update and the financial outlook for fiscal year 2017.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Meg Whitman, President and CEO of HPE, reiterated HPE's vision of being the industry's leading provider of hybrid IT, built on the secure, next-generation, software-defined infrastructure that will run customers' data centers today, bridge them to multi-cloud environments tomorrow, and power the emerging Intelligent Edge that will run campus, branch and Industrial IoT applications for decades to come. All of this is delivered through a world-class services capability.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Following a number of strategic portfolio moves, including the spin-offs and mergers of the Enterprise Services and Software businesses, the future HPE will have the right assets to achieve this vision, including core software and services capabilities that differentiate HPE from its competitors and deliver the company's infrastructure solutions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Market Opportunity for the Future HPE&lt;br>&#xa; &lt;/b>The company will be well-positioned to address a market of more than $250 billion that is growing at 2-3% annually.This market opportunity includes:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Data Center and Cloud, representing a $100 billion opportunity growing at 1-2% CAGR, with areas of high growth like High Performance Compute, Private Cloud, all-flash arrays and hyperconverged.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Intelligent Edge, including the $23 billion campus and branch market, growing at 2-4% each year, and a new category called Converged Infrastructure for the Edge, which will power the emerging $14B market of Industrial IoT applications, growing at around 15% per year.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Services, which represents a $116 billion opportunity growing at 3-4% each year, driven by growing customer needs for consulting and support across hybrid infrastructure and demand for flexible IT consumption models.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Hewlett Packard Enterprise is in a strong position,&amp;quot; said Whitman in her remarks.&amp;quot;We have a clear strategy, aligned to the market opportunity, and will be more focused than ever on how we innovate in our business models, our products, our solutions and our go-to-market.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Financial Update&lt;br>&#xa; &lt;/b>Tim Stonesifer, Executive Vice President and CFO of HPE, provided a financial update, including an outlook for FY17.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reaffirms FY16 Financial Outlook&lt;br>&#xa; &lt;/b>HPE reaffirmed its FY16 outlook.Revenue is expected to grow 1-2% year-over-year when adjusted for recent divestitures and currency.FY16 non-GAAP EPS is expected to be approximately $1.90 to $1.95, which is at the high end of the original outlook for the year.As communicated on HPE's third quarter earnings call, the company expects to deliver free cash flow of $1.7 to $1.9 billion in FY16, and to return over $3 billion of cash to shareholders this year, in the form of share repurchases and dividends.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Three Views of FY17 Financial Outlook&lt;br>&#xa; &lt;/b>Given two pending transactions -- the spin-merge of Enterprise Services with CSC in early April and the spin-merge of Software with Micro Focus in the second half of FY17 -- Stonesifer provided three different views of HPE's FY17 financial outlook:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An outlook for the company as it stands today, with a full year contribution from ES and Software, which is comparable to current estimates for FY17;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An outlook as the financial results will actually be reported, with partial year contributions from both ES and Software;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An outlook for the future HPE, excluding the partial year contributions from both ES and Software in FY17, which gives a more comparable view for FY18.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Combined Company Outlook&lt;br>&#xa; &lt;/b>First, as HPE is structured today, including a full year of ES and Software contribution, HPE expects revenue to be flat to down 1% when adjusted for divestitures and currency.HPE expects non-GAAP EPS to be $2.00 to $2.10 and GAAP EPS to be $0.72 to $0.82.On a normalized basis, excluding the impact from restructuring and separation costs, free cash flow is expected to be approximately $3.6 billion to $3.9 billion.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>As Reported Outlook&lt;br>&#xa; &lt;/b>When adjusted for the lower EPS contribution and expenses associated with the ES and Software transactions, HPE expects reported non-GAAP EPS to be approximately $1.45 to $1.55 and GAAP EPS to be $0.29 - $0.39.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>FY17 reported free cash flow will also be reduced from the normalized level due to the partial year contribution from ES and Software, previously announced restructuring and separation payments, and a $2.5 billion payment to fund the ES pension associated with the spin-merge.Given these factors, HPE expects to deliver negative free cash flow of approximately $1.8 billion in FY17.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>While HPE's FY17 free cash flow will be negative due to the pension funding payment, the operating company's net cash level on its balance sheet is expected to increase from approximately $7 billion at the end of FY16 to approximately $11 billion in FY17, primarily due to the ES and Software transactions and the underlying strength of HPE's normalized free cash flow engine.With this in mind, the company is committed to returning approximately $3 billion in total to shareholders in FY17, and will end the year with an operating company net cash balance of approximately $8 billion.In addition, the company expects cash flow to approach normalized levels in FY18.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;In FY17, we will maintain our disciplined capital allocation framework, with a bias towards share repurchases,&amp;quot; said Stonesifer in his remarks.&amp;quot;Given our strong cash position today, the cash we will receive from the ES and Software transactions, and the underlying strength of our normalized free cash flow engine, we are committed to returning approximately $3 billion in total to shareholders in FY17.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Future HPE Outlook&lt;br>&#xa; &lt;/b>Stonesifer also discussed how HPE's financial profile will be improved following the completion of the ES and Software transactions, and provided an outlook for the future HPE, excluding ES and Software for the full year.The future HPE is expected to see modest revenue growth in FY17.Non-GAAP EPS would be approximately $1.25 to $1.35 in FY17 with GAAP EPS of $0.29 to $0.39.On a normalized basis, the company expects free cash flow to be approximately $2.1 to $2.4 billion.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;HPE's financial profile will be improved following the ES and Software transactions,&amp;quot; Stonesifer continued.&amp;quot;HPE will be a faster growing, higher margin company, with strong cash flow in FY18 and beyond.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Business Updates&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enterprise Group&lt;br>&#xa; &lt;/b>In his presentation, Antonio Neri, EVP and GM of the Enterprise Group, recapped EG's solid performance to date in FY16, outlined a clear strategy aligned to market opportunities and customer needs, and described the steps the business is taking to optimize its operating model and deliver strong profitability.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enterprise Services&lt;br>&#xa; &lt;/b>In his presentation, Mike Nefkens, EVP and GM of Enterprise Services, provided highlights of the three-year turnaround of the business, specifically its stabilized revenue, higher win rates and doubled margins since FY13. He also discussed the upcoming &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1281814&amp;amp;id=9953620&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fnewsroom%2fnews-archive%2fpress-release%2f2016%2f05%2f2062989-hewlett-packard-enterprise-announces-plans-for-tax-free-spin-off-and-merger-of-enterprise-services-business-with-csc.html&quot;>spin-off and merger with CSC&lt;/a>, which creates significant value for HPE shareholders and allows ES to accelerate its journey. The new combined CSC-ES will be the number one, independent, end-to-end IT services firm in the world.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Software&lt;br>&#xa; &lt;/b>In his presentation, Chris Hsu, EVP and General Manager of Software, said HPE is on track to complete the &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1281814&amp;amp;id=9953623&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fnewsroom%2fnews-archive%2fpress-release%2f2016%2f09%2f1276021-hpe-accelerates-strategy-with-spin-off-and-merger-of-non-core-software-assets-with-micro-focus.html&quot;>spin-merge of its Software business with Micro Focus&lt;/a> in the second half of fiscal year 2017.Ahead of the close of the transaction, HPE is focused on delivering on its financial commitments and making sure the Software business is set up for a smooth integration with Micro Focus.The combined entity will be one of the world's largest pure-play software companies with a broad portfolio of products and services to address the challenges IT and business leaders are facing.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Webcast details&lt;br>&#xa; &lt;/b>A webcast of today's event, along with management presentations and other materials, is available on the Investor Relations website at &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1281814&amp;amp;id=9953626&amp;amp;type=1&amp;amp;url=http%3a%2f%2finvestors.hpe.com%2f%23sam-2016-securities-analyst-meeting&quot;>investors.hpe.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains only a summary of some of the information being presented at today's event and should be read in conjunction with the management presentations and other materials made available on that website.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Use of non-GAAP financial information&lt;br>&#xa; &lt;/b>To supplement Hewlett Packard Enterprise's financial information presented on a generally accepted accounting principles (GAAP) basis, Hewlett Packard Enterprise provides forecasts of revenue adjusted for divestitures and currency, as well as non-GAAP operating margin, non-GAAP measure of earnings/loss from equity interests, non-GAAP income tax rate, non-GAAP diluted net earnings per share, free cash flow and normalized free cash flow financial measures. Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measures are included in the slides presented at the 2016 Securities Analyst Meeting, which will be available for a period of one year thereafter at &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1281814&amp;amp;id=9953629&amp;amp;type=1&amp;amp;url=http%3a%2f%2fhpe.com%2finvestor%2fsam2016&quot;>http://hpe.com/investor/sam2016&lt;/a>.In addition, an explanation of the ways in which Hewlett Packard Enterprise's management uses these non-GAAP measures to evaluate its business, the substance behind Hewlett Packard Enterprise's decision to use these non-GAAP measures, the material limitations associated with the use of these non-GAAP measures, the manner in which Hewlett Packard Enterprise's management compensates for those limitations, and the substantive reasons why Hewlett Packard Enterprise's management believes that these non-GAAP measures provide useful information to investors is included under &amp;quot;Use of non-GAAP financial measures&amp;quot; further below. This additional non-GAAP financial information is not meant to be considered in isolation or as a substitute for revenue, operating margin, diluted net earnings per share, cash flow from operations in accordance with GAAP.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Use and economic substance of non-GAAP financial measures used by Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise's management uses these non-GAAP financial measures for purposes of evaluating Hewlett Packard Enterprise's historical and prospective financial performance, as well as Hewlett Packard Enterprise's performance relative to its competitors. Hewlett Packard Enterprise's management also uses these non-GAAP measures to further its own understanding of Hewlett Packard Enterprise's segment operating performance. Hewlett Packard Enterprise believes that excluding the items mentioned above from these non-GAAP financial measures allows Hewlett Packard Enterprise's management to better understand Hewlett Packard Enterprise's consolidated financial performance in relation to the operating results of Hewlett Packard Enterprise's segments, as Hewlett Packard Enterprise's management does not believe that the excluded items are reflective of ongoing operating results.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Material limitations associated with use of non-GAAP financial measures&lt;br>&#xa; &lt;/b>These non-GAAP financial measures have limitations as analytical tools, and these measures should not be considered in isolation or as a substitute for analysis of Hewlett Packard Enterprise's results as reported under GAAP&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Compensation for limitations associated with use of non-GAAP financial measures&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise compensates for the limitations on its use of non-GAAP financial measures by relying primarily on its GAAP results and using non-GAAP financial measures only as supplement. Hewlett Packard Enterprise also provides a reconciliation of certain non-GAAP financial measure to its most directly comparable GAAP measure in other written materials that include these non-GAAP financial measures accompanying this news release, and Hewlett Packard Enterprise encourages investors to review carefully those reconciliations.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Usefulness of non-GAAP financial measures to investors&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise believes that providing forecasts of revenue adjusted for divestitures and currency, non-GAAP operating margin, non-GAAP measure of earnings/loss from equity interests, non-GAAP income tax rate, non-GAAP diluted net earnings per share, free cash flow and normalized free cash flow financial measures to investors in addition to certain related GAAP measures provides investors with greater transparency to the information used by Hewlett Packard Enterprise's management in its financial and operational decision making and allows investors to see Hewlett Packard Enterprise's results &amp;quot;through the eyes&amp;quot; of management. Hewlett Packard Enterprise further believes that providing this information better enables Hewlett Packard Enterprise's investors to understand Hewlett Packard Enterprise's operating performance and to evaluate the efficacy of the methodology and information used by Hewlett Packard Enterprise's management to evaluate and measure such performance. Disclosure of these non-GAAP financial measures also facilitates comparisons of Hewlett Packard Enterprise's operating performance with the performance of other companies in Hewlett Packard Enterprise's industry that supplement their GAAP results with non-GAAP financial measures that may be calculated in a similar manner.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward Looking Statements&lt;br>&#xa; &lt;/b>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any projections of revenue, margins, expenses, effective tax rates, net earnings, net earnings per share, cash flows, benefit plan funding, share repurchases, currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring charges; any statements of the plans, strategies and objectives of management for future operations, including the recently announced transactions involving Hewlett Packard Enterprise's Enterprise Services business and non-core software assets (the &amp;quot;Transactions&amp;quot;), the anticipated timing, value, and benefits of the Transactions, including future financial and operating results, and whether the Transactions will be tax-free for Hewlett Packard Enterprise and its stockholders for U.S. federal income tax purposes, the plans, objectives, expectations and intentions of the combined companies resulting from the transactions, the execution of restructuring plans and any resulting cost savings or revenue or profitability improvements; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on Hewlett Packard Enterprise and its financial performance; any statements regarding pending investigations, claims or disputes; any statements of expectation or belief; and any statements or assumptions underlying any of the foregoing.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of Hewlett Packard Enterprise's products and the delivery of Hewlett Packard Enterprise's services effectively; the protection of Hewlett Packard Enterprise's intellectual property assets, including intellectual property licensed from third parties; risks associated with Hewlett Packard Enterprise's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions, the ability of the parties to complete the Transactions on the anticipated terms and schedule, including the ability to obtain applicable shareholder and regulatory approvals and the anticipated tax treatment of the Transactions and related transactions; risks relating to any unforeseen changes to or effects on liabilities, future capital expenditures, revenues, expenses, earnings, synergies, indebtedness, financial condition, losses and future prospects; the ability of the parties to integrate the acquired businesses successfully after the closing of the Transactions and to achieve anticipated synergies; the risk that disruptions from the Transactions will harm Hewlett Packard Enterprise's business; the resolution of pending investigations, claims and disputes; and other risks that are described in Hewlett Packard Enterprise's Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7t2a
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/10/hewlett-packard-enterprise-announces-fy18-outlook"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Announces FY18 Outlook"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces FY18 Outlook"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_7t2a>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_dt4u
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/q2-results-summary"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Q2 Results Summary"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Q2 Results Summary"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/How_HPE_Leading.jpg"/>
+                        </contentblock_dt4u>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d502
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/hewlett-packard-enterprise-completes-spin-off-and-merger-of-its-enterprise-services-business-with-csc"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Hewlett-Packard-Enterprise-Completes-Spin-off-and-Merger.jpg"/>
+                        </contentblock_d502>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

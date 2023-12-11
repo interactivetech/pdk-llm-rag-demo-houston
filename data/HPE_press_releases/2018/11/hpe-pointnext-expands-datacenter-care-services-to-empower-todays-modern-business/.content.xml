@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:09:59.637Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/other]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE Pointnext expands Datacenter Care Services to empower today's modern business"
+        jcr:uuid="3a2f3b99-9c2d-4574-a3f8-fb432436ee3e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-11-13T04:45:00.000-08:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Angela Chatzidimitriou"
+        metaDescription="HPE Pointnext expands Datacenter Care Services to empower today's modern business"
+        metaKeywords="Datacenter, datacenter care, IT, operations, optimization, performance, Azure, edge, cloud, EDB Postgres, automation, services"
+        navTitle="HPE Pointnext expands Datacenter Care Services to empower today's modern business"
+        pageTitle="HPE Pointnext expands Datacenter Care Services to empower today's modern business"
+        priority="(None)"
+        subtitle="New expertise and tools modernize IT operations and increase IT management efficiency by 25 percent"
+        theme="dark"
+        UAID="6adaf905-c4da-4923-bbf4-0100a96fce79"
+        UCID="9a6a1242-adae-4c63-857d-0db6319eb6c0"
+        WPID="202010">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 13, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-08T22:31:43.080Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE-Pointnext-expands-Datacenter-Care-Services-to-empower-todays-modern-business.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:39.916Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3> &lt;ul>&lt;li>HPE introduced new operational capabilities to the HPE Datacenter Care services experience designed to transform and optimize customers IT environments from the edge to the cloud&lt;/li>&lt;li>HPE Datacenter Care is the industry-leading IT environment-wide approach to help customers address their IT challenges and evolve to their desired state of IT&lt;/li>&lt;li>HPE Datacenter Care helps businesses run their IT operations by optimizing day-to-day tasks, integrating technology management and streamlining to a more agile cloud-like model&lt;/li>&lt;/ul>"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New expertise and tools modernize IT operations and increase IT management efficiency by 25 percent&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_48b9
+                    jcr:lastModified="{Date}2019-01-22T12:08:41.833Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif. November 13, 2018 Today, &lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) introduced new operational capabilities to the HPE Datacenter Care services experience designed to transform and optimize customers IT environments from the edge to the cloud. The new capabilities, delivered by HPE Pointnext, will help businesses simplify complex IT environments and free up resources to focus on innovation and desired outcomes.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Todays CIOs and IT executives are looking for solutions and services which deliver agile IT operations and the organizational levers that help them optimize their customers experiences and remain competitive. They need to move fast, but are dealing with IT environments which are multi-vendor and multi-cloud consisting of a broad set of critical applications. Managing this complexity end to end is resource-intensive and challenging for IT departments who spend more time addressing problems and updates, instead of focusing on modernization and innovation.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_l09e
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE Datacenter Care is a leading environment-wide approach to help customers address IT challenges&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_e7hd
+                    jcr:lastModified="{Date}2019-01-22T12:09:21.631Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Managing over 4,000 datacenters today, HPE Datacenter Care is the industry-leading IT environment-wide approach to help customers address their IT challenges and evolve to their desired state of IT. HPE Datacenter Care helps businesses run their IT operations by optimizing day-to-day tasks, integrating technology management and streamlining to a more agile cloud-like model. HPE Pointnext experts work with customers to advise on and provide recommendations on a modernization plan which is designed to help mitigate risk and drive IT operational efficiency so the staff can focus on key IT innovation projects. HPE Datacenter Care addresses a wide array of routine tasks, from stabilizing and automating customers IT environments to streamlining service delivery. To monitor and track the measurable results delivered with this service, HPE commissioned an IDC analysis of customers in 2018, which showed that customers gained significant benefits including 25 percent more efficient IT management; 70 percent fewer unplanned outages; and five months to payback&lt;sup>&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>[1]&lt;/a>&lt;/sup>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Working closely with its customers, HPE is expanding the Datacenter Care experience to include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Backup analysis and data loss prevention&lt;/b>: The new capabilities help businesses evaluate their data backup processes and procedures by carrying out business impact, backup impact and efficiency analyses. By making specific recommendations, HPE helps customers prevent data losses and avoid significant fiscal, customer loyalty and brand reputation issues.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SAP HANA migration and business alignment&lt;/b>: HPE Datacenter Care for SAP HANA environments is now expanded with the addition of new proactive capabilities, which help customers plan for SAP HANA migrations and improve optimal availability and performance.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Microsoft Azure configuration and management: &lt;/b>Building on HPE Pointnexts capabilities to build, manage and deploy in Microsoft Azure environments both on-premises and in the Azure public cloud, HPE will now provide ongoing monitoring and operational support of the hybrid environment through HPE Datacenter Care.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Performance optimization&lt;/b>: HPE Datacenter Care can also help IT teams operate at peak performance from edge to cloud, by identifying the source of performance bottlenecks and suggesting specific actions to help address and better optimize workflows.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Business risk reduction and advanced security&lt;/b>: These new capabilities are designed to help customers IT departments identify security risks and mitigation strategies with the new vulnerability analysis services that HPE Datacenter Care offers.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Automation for routine IT tasks: &lt;/b>IT is complex with technology silos, legacy tools, and workloads on-premises in the cloud and at the edge. HPE Datacenter Cares IT automation tools and services help simplify day-to-day routine tasks, maintenance, and provisioning of infrastructure and applications.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Open source advantages with EnterpriseDB Postgres: &lt;/b>HPE has extensive experience in migrating and consulting on Open Source Postgres databases in mission critical environments. HPE Datacenter Cares new capabilities provide customers with a robust set of features and technical support for EnterpriseDB products. By leveraging the HPE experienced migration teams and tools, customers can cut migration expense, as opposed to doing this work in-house.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Datacenter Cares enhanced capabilities can be tailored to meet the specific needs of each organization and optimize customers desired outcomes.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_wo1l
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>With HPEs critical skills and tools, customers can shift their focus to accelerating innovation&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_pena
+                    jcr:lastModified="{Date}2019-01-22T12:11:35.219Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPEs goal is to accelerate customers digital transformation by modernizing IT operations and offering best-in-class solutions. HPE Datacenter Care is built on the vast expertise and IP available from our in-country and global teams, who become extended members of the customers IT organization, said Gerry Nolan, Worldwide Senior Director for Operational Services, HPE Pointnext. With todays announcement, we are providing customers with critical skills and tools to help them shift their focus to accelerating innovation.&lt;i> &lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE Datacenter Care enhancements have started rolling out in some markets globally, and more will be available to customers and partners at the end of 2018 and early 2019. More information is available at &lt;a href=&quot;https://www.hpe.com/us/en/services/datacenter-hybrid-services.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>https://www.hpe.com/us/en/services/datacenter-hybrid-services.html&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;a href=&quot;#_ftnref1&quot; name=&quot;_ftn1&quot;>[1]&lt;/a>&lt;/sup> IDC White Paper, sponsored by HPE, &lt;a href=&quot;https://www.hpe.com/us/en/pdfViewer.html?resource=/content/hpe/country/us/en/resources/services/analyst-report/idc-choose-a-comprehensive&amp;amp;parentPage=/us/en/services/datacenter-hybrid-services&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>The Business Value of HPE Datacenter Care, February 2018&lt;/a>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_dcd5
+                            jcr:created="{Date}2019-01-22T12:13:17.000Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2019-01-22T12:15:29.821Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://h20195.www2.hpe.com/v2/GetPDF.aspx/4AA4-0459ENW.pdf"
+                            description="&lt;p>Data Sheet&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Datacenter Care Service"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Datacenter Care Service"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T12:15:29.821Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE-Datacenter-Care-Service.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T12:15:29.821Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_dcd5>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7701
+                            jcr:created="{Date}2019-01-22T12:13:36.334Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2019-01-22T12:20:01.852Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/pdfViewer.html?resource=/content/hpe/country/us/en/resources/services/analyst-report/idc-choose-a-comprehensive&amp;parentPage=/us/en/services/datacenter-hybrid-services"
+                            description="&lt;p>White Paper&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="The Business Value of HPE Datacenter Care"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Business Value of HPE Datacenter Care"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T12:20:01.852Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/The-Business-Value-of-HPE-Datacenter-Care.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T12:20:01.852Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7701>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_c5a3
+                            jcr:created="{Date}2019-01-22T12:13:37.870Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2019-01-22T12:25:11.782Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-unveils-industrys-first-saas-based-multi-cloud-management-solution-for-on-premises-and-public-clouds"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Unveils Industry’s First SaaS-Based Multi-Cloud Management Solution for On-Premises and Public Clouds"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Unveils Industry’s First SaaS-Based Multi-Cloud Management Solution for On-Premises and Public Clouds"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T12:25:11.782Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE-Unveils-Industry’s-First-SaaS-Based-Multi-Cloud-Management-Solution-for-On-Premises-and-Public-Clouds.png"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T12:25:11.782Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_c5a3>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-02-08T22:31:22.005Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

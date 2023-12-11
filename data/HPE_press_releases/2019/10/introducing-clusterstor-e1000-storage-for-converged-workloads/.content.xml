@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:27:51.650Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Introducing ClusterStor E1000 storage for converged workloads"
+        jcr:uuid="56904cd8-51ef-4eaf-995a-e46b0ccd48ef"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Introducing ClusterStor E1000 storage for converged workloads"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-10-30T13:02:00.000-07:00"
+        metaDescription="New HPC parallel storage system delivers massive scalability and performance to power data-driven workloads"
+        metaKeywords="Cray, HPE, ClusterStor, ClusterStor E1000, exascale, exascale era, high performance storage, Shasta supercomputer, Slingshot interconnect, parallel file system"
+        metaOgImage="/content/dam/hpe/newsroom/2019/10/image-norend/introducing-clusterstor-e1000-storage-for-converged-workloads.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Introducing ClusterStor E1000 storage for converged workloads"
+        pageTitle="Introducing ClusterStor E1000 storage for converged workloads"
+        priority="(None)"
+        socialDescription="New HPC parallel storage system delivers massive scalability and performance to power data-driven workloads"
+        subtitle="New HPC parallel storage system delivers massive scalability and performance to power data-driven workloads"
+        theme="dark"
+        UAID="795c88d4-89c8-4aa7-927e-76f460d88f1a"
+        UCID="540727d7-caec-4d6d-8db7-8cb7c00851b6">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-09-09T19:46:58.648Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="OCTOBER 30, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-09T19:49:20.313Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/10/image-norend/introducing-clusterstor-e1000-storage-for-converged-workloads.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-09T19:50:27.867Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Cray ClusterStor E1000 system is an entirely new parallel storage platform for the Exascale Era&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Addresses explosive data growth and the need to access it at unprecedented speed, with an optimal balance of storage performance, efficiency, and scalability&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Chosen by the DOE for the first three US exascale systems&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent
+                    jcr:created="{Date}2020-09-09T19:50:36.762Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2020-09-09T19:50:53.205Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomMargin="0"
+                    bottomPadding="0"
+                    leftMargin="0"
+                    leftPadding="0"
+                    rightMargin="0"
+                    rightPadding="0"
+                    textIsRich="true"
+                    textOnly="&lt;h2>New HPC parallel storage system delivers massive scalability and performance to power data-driven workloads&lt;/h2>&#xd;&#xa;"
+                    topMargin="0"
+                    topPadding="0"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-09T19:51:40.444Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Global supercomputer leader Cray, a Hewlett Packard Enterprise company (NYSE: HPE), today unveiled its Cray ClusterStor E1000 system, an entirely new parallel storage platform for the Exascale Era. ClusterStor E1000 addresses the explosive growth of data from converged workloads and the need to access that data at unprecedented speed, by offering an optimal balance of storage performance, efficiency and scalability, effectively eliminating job pipeline congestion caused by I/O bottlenecks. The next-generation global file storage system has already been selected by the US Department of Energy (DOE) for use at the Argonne Leadership Computing Facility, Oak Ridge National Laboratory and Lawrence Livermore National Laboratory, where the first three US exascale supercomputers will be housed (respectively Aurora, Frontier and El Capitan). With the introduction of the ClusterStor E1000 storage system, Cray has completed the re-architecture of its end-to-end infrastructure portfolio, which encompasses Cray Shasta supercomputers, Cray Slingshot interconnect, and the Cray software platform. With Cray’s next-generation end-to-end supercomputing architecture, available for any data center environment, customers around the world can unleash the full potential of their data.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;“To handle the massive growth in data that corporations worldwide are dealing with in their digital transformations, a completely new approach to storage is required,” said Peter Ungaro, president and CEO of Cray, a Hewlett Packard Enterprise company. “Cray’s new storage platform is a comprehensive rethinking of what high performance storage means for the Exascale Era. The intelligent software and hardware design of ClusterStor E1000 orchestrates the data flow with the workflow – that’s something no other solution on the market can do.”&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;As the external high performance storage system for the first three U.S. exascale systems, Cray ClusterStor E1000 will total over 1.3 exabytes of storage for all three systems combined. The National Energy Research Scientific Computing Center (NERSC) also selected ClusterStor E1000, which will be the industry’s first all NVMe parallel file system at a scale of 30 petabytes of usable capacity.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;“NERSC will deploy the new ClusterStor E1000 on Perlmutter as our fast all flash storage tier, which will be capable of over four terabytes per second write bandwidth. This architecture will support our diverse workloads and research disciplines,&amp;quot; said NERSC Director Sudip Dosanjh. “Because this file system will be the first all-NVMe file system deployed at a scale of 30 petabytes usable capacity, extensive quantitative analysis was undertaken by NERSC to determine the optimal architecture to support the workflows our researchers and scientists use across biology, environment, chemistry, nuclear physics, fusion energy, plasma physics and computing research.”&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-09T19:52:33.816Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Recognizing the data access challenges presented by the Exascale Era, Cray’s ClusterStor E1000 enables organizations to achieve their research missions and business objectives faster by offering:&lt;br>&#xd;&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Unprecedented storage performance:&amp;nbsp;&lt;/b>ClusterStor E1000 systems can deliver up to 1.6 terabytes per second and up to 50 million I/O operations per second per rack – more than double compared to other parallel storage systems in the market today.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Maximum performance efficiency:&lt;/b>&amp;nbsp;New purpose-engineered end-to-end PCIe 4.0 storage controllers serve the maximum performance of the underlying storage media to the compute nodes and new intelligent Cray software, ClusterStor Data Services, allows customers to align the data flow with their specific workflow, meaning they can place the application data at the right time on the right storage media (SSD pool or HDD pool) in the file system.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Massive scalability:&lt;/b>&amp;nbsp;An entry-level system starts at 30 gigabytes per second and at less than 60 terabytes usable capacity. Customers can start at the size dictated by their current needs and scale as those needs grow,&amp;nbsp;with maximum architectural headroom for future growth. The ClusterStor E1000 storage system can connect to any HPC compute system that supports high speed networks like&amp;nbsp;200 Gbps&amp;nbsp;Cray Slingshot, Infiniband&amp;nbsp;EDR/HDR and&amp;nbsp;100/200 Gbps&amp;nbsp;Ethernet.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;“Cray’s Shasta architecture substantially expands the company’s addressable market to include HPC simulation, AI, enterprise analytics and cloud computing. ClusterStor E1000 is an integral part of this strategy,” said Steve Conway, senior vice president of research at Hyperion Research. “This new edition of the proven ClusterStor solution is designed to enable leading enterprises to consolidate their AI, HPC and High Performance Data Analysis stacks, efficiently and easily. The fast-growing contingent of enterprises that are adopting HPC now have the cost-effective option to acquire a unified Cray Shasta-Slingshot-ClusterStor infrastructure.”&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-09T19:53:45.370Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&lt;p>&lt;span&#xd;&#xa;      class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a&#xd;&#xa;      href=&quot;http://www.hpe.com/&quot;&#xd;&#xa;      target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;br />&#xd;&#xa;&lt;i style=&quot;&quot;>&lt;br />&#xd;&#xa;This press release originally published on cray.com and has been updated and published here in HPE’s Newsroom.&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-09T19:55:31.202Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/11/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Cray unveil comprehensive, next-generation HPC and AI solutions optimized for the Exascale Era"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-09T19:55:31.202Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/HPE-and-Cray-unveil-comprehensive-next-generation-HPC-and-AI-solutions-optimized-for-the-Exascale-Era.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-09T19:55:31.202Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-09T19:57:55.030Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/01/us-department-of-energys-argonne-leadership-computing-facility-alcf-and-hpe-expand-high-performance-computing-hpc-storage-capacity-for-exascale"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="U.S. Department of Energy’s Argonne Leadership Computing Facility (ALCF) and HPE expand High-Performance Computing (HPC) storage capacity for Exascale"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="U.S. Department of Energy’s Argonne Leadership Computing Facility (ALCF) and HPE expand High-Performance Computing (HPC) storage capacity for Exascale"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-09T19:57:55.030Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2020/01/image-norend/us-department-of-energys-argonne-leadership-computing-facility-alcf-and-hpe-expand-high-performance-computing-hpc-storage-capacity-for-exascale.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-09T19:57:55.030Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2020-09-09T19:59:29.548Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/01/alcf-and-hpe-expand-hpc-storage-capacity-for-exascale"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="ALCF and HPE expand HPC storage capacity for exascale"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="ALCF and HPE expand HPC storage capacity for exascale"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-09T19:59:29.548Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2020/01/image-norend/alcf-and-hpe-expand-hpc-storage-capacity-for-exascale.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-09T19:59:29.548Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-09-05T17:38:02.066Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

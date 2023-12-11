@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-09-12T15:55:45.124Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training"
+        jcr:uuid="781771c6-efc8-4435-8972-e43b4b18b37e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-03-19T11:27:59.000-07:00"
+        metaDescription="HPE Launches Vertical AI Solutions, Dramatically Accelerates Deep Learning Training"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2018/03/hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training/jcr:content/main-par/body-par/columncontainercompo/column_2/contentblock_t259"
+        navTitle="HPE Launches Vertical AI Solutions, Dramatically Accelerates Deep Learning Training"
+        pageTitle="HPE Launches Vertical AI Solutions, Dramatically Accelerates Deep Learning Training"
+        priority="(None)"
+        subtitle="New, purpose-built solutions help customers create competitive advantage by adopting artificial intelligence in their enterprise"
+        theme="dark"
+        UAID="5fc6a3a2-720e-4937-ba8d-c9ce2514e2d8"
+        UCID="debc5b78-f3fa-4136-8e26-be2c36b01163"
+        webSectionId="R11989"
+        WPID="200158">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2021-05-21T15:53:54.036Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="March 21, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/AI-option-2.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Launches Vertical AI Solutions, Dramatically Accelerates Deep Learning Training"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T19:27:24.703Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New HPE offerings help customers deploy AI across business functions to drive outcomes such as better demand forecasting, improved operational efficiency and increased sales&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Digital Prescriptive Maintenance Services uses AI to automate problem prevention and increase productivity of industrial equipment&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Artificial Intelligence Transformation Workshop helps accelerate the AI exploration phase towards a set of AI use case implementations&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Apollo 6500 Gen10 System delivers a 3x faster deep learning model training than previous generations&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New, purpose-built solutions help customers create competitive advantage by adopting artificial intelligence in their enterprise&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_vxqy
+                    jcr:lastModified="{Date}2022-09-12T15:53:26.408Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a>&amp;nbsp;(HPE) today announced new offerings to help customers ramp up, optimize and scale artificial intelligence (AI) usage across business functions to drive outcomes such as better demand forecasting, improved operational efficiency and increased sales. The new offerings include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Digital Prescriptive Maintenance Services, the first in a series of AI-enabled industry offerings from HPE Pointnext, which automates problem prevention and increases productivity of industrial equipment&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Artificial Intelligence Transformation Workshop, providing consulting expertise from HPE Pointnext to help customers get started with AI, evolve their strategic data and analytics initiatives and prioritize AI use cases&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://buy.hpe.com/us/en/servers/apollo-systems/apollo-6500-system/apollo-6500-system/hpe-apollo-6500-gen10-system/p/1010742495&quot; target=&quot;_blank&quot;>HPE Apollo 6500 Gen10 System&lt;/a>, a next-generation high performance computing system purpose-built for deep learning that delivers a 3x faster model training than previous generations&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/03/hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training.html#ft1&quot;>(1)&lt;/a>&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE has also extended its AI partner ecosystem through a&amp;nbsp;reseller agreement with WekaIO&amp;nbsp;to deliver optimized storage performance in AI environments&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>PricewaterhouseCoopers predicts the global GDP to grow 14 percent the equivalent of $15.7 trillion by 2030 as a result of AI, with increased labor productivity and consumer demand being the most impactful business outcomes.&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/03/hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training.html#ft2&quot;>(2)&lt;/a>&amp;nbsp;However, while AI holds great promise, current adoption rates are low. According to Gartners 2018 CIO Agenda Survey, four percent of CIOs globally have implemented AI, while a further 46 percent have developed plans to do so.&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/03/hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training.html#ft3&quot;>(3)&lt;/a>&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;i>&amp;quot;Global tech giants are investing heavily in AI, but the majority of enterprises are struggling both with finding viable AI use cases and with building technology environments that support their AI workloads. As a result, the gap between leaders and laggards is widening, said Beena Ammanath, Global Vice President, Artificial Intelligence, HPE Pointnext. HPE is best positioned to help customers make AI work for their enterprise, regardless of where they are in their AI adoption. While others provide AI components, we provide complete AI solutions from strategic advisory to purpose-built technology, operational support and a strong AI partner ecosystem to tailor the right AI solution for each organization.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_yuko
+                    jcr:lastModified="{Date}2018-10-15T19:28:54.305Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is best positioned to help customers make AI work for their enterprise, regardless of where they are in their AI adoption&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T19:28:54.305Z"
+                        jcr:lastModifiedBy="velazquez@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_yuko>
+                <textonlycomponent_56nr
+                    jcr:lastModified="{Date}2022-09-12T15:54:16.540Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>AI advances maintenance from predictive to prescriptive&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>The new HPE offerings enable customers to explore, evolve and expand AI applications aligned to their business and industry needs, accelerating time to value. HPE is introducing a series of AI industry solutions for predefined use cases, starting with&amp;nbsp;HPE Digital Prescriptive Maintenance Services, delivered by HPE Pointnext. While&amp;nbsp;&lt;i>predictive&lt;/i>&amp;nbsp;maintenance detects when an industrial equipment is likely to fail,&amp;nbsp;&lt;i>prescriptive&lt;/i>&amp;nbsp;maintenance predicts, suggests and automates the right action to fix the problem before it causes harm. According to McKinsey Global Institute, AI-enabled asset maintenance can lead to up to 20 percent EBIT improvement in industries like electric utilities by increasing capital productivity.&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/03/hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training.html#ft4&quot;>(4)&lt;/a>&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; HPE Digital Prescriptive Maintenance combines services from HPE Pointnext such as consulting, proof of value and implementation with technologies and reference architectures from HPE and select partners. The solution captures all relevant data sources in the enterprise, including real-time and batch data from IoT devices, data centers and the cloud. Based on both supervised learning for failure prediction and unsupervised learning for anomaly detection, HPE Digital Prescriptive Maintenance prescribes and automates actions to prevent industrial equipment failure and optimize its productivity.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; HPE also introduced the new&amp;nbsp;HPE Artificial Intelligence Transformation Workshop&amp;nbsp;that helps enterprises get started rapidly with the identification of AI use cases aligned to their business priorities. In this highly interactive one-day workshop, HPE Pointnext AI experts work with the customers business and technology decision makers to assess their data and advanced analytics needs and create a tailored high-level plan to accelerate the AI exploration phase towards a set of AI use case implementations.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>HPE Apollo 6500 Gen10 dramatically accelerates time to value with deep learning applications&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>HPEs solutions and consulting services are backed by powerful purpose-built technology to enable customers AI deployments. Training a deep learning model is an iterative process that requires high performance GPU accelerators running in parallel architectures that handle multiple tasks simultaneously. The new&amp;nbsp;&lt;a href=&quot;https://buy.hpe.com/us/en/servers/apollo-systems/apollo-6500-system/apollo-6500-system/hpe-apollo-6500-gen10-system/p/1010742495&quot; target=&quot;_blank&quot;>HPE Apollo 6500 Gen10&amp;nbsp;System&lt;/a>&amp;nbsp;with support for eight NVIDIA Tesla V100 GPUs delivers dramatic increases in application performance, enabling a 3x faster model training than previous generations. As a result, enterprises can realize deep learning business outcomes faster.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; HPE closely collaborated with NVIDIA to embed the high-bandwidth, energy-efficient NVIDIA NVLink interconnect into HPE Apollo 6500 Gen10, enabling ultra-fast communication between GPUs. This technology allows data sharing at rates of up to 10x faster than the traditional PCIe Gen3 interconnect.&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/03/hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training.html#ft5&quot;>(5)&lt;/a>&amp;nbsp;The innovative systems design of the HPE Apollo 6500 Gen10 allows for a high degree of flexibility with a range of configuration and topology options to match each workload.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_vs53
+                    jcr:lastModified="{Date}2018-10-15T19:43:33.621Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The HPE Apollo 6500 Gen10 System is purpose-built to realize the benefits of deep learning faster than ever before&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T19:43:33.621Z"
+                        jcr:lastModifiedBy="velazquez@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_vs53>
+                <textonlycomponent_wgko
+                    jcr:lastModified="{Date}2021-05-21T15:51:21.443Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>To increase flexibility and choice for customers, HPE is extending its broad ecosystem of AI solution partners by entering an agreement with WekaIO to resell its file storage software &lt;b>WekaIO MATRIX&lt;/b>, complementing HPEs Lustre-based storage solutions. WekaIO MATRIX helps customers meet the demanding data read/write requirements on the storage and data management components of high-performance data analytics and AI environments. WekaIO MATRIX is qualified for HPE Apollo 2000 Gen10 and HPE ProLiant DL360 Gen10.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;i>&amp;quot;Deep learning relies on high performance computing to identify patterns and relationships within massive amounts of data however, traditional high performance systems are unable to keep pace with these requirements, said Pankaj Goyal, Vice President, Hybrid IT Strategy and AI, HPE. The HPE Apollo 6500 Gen10 System is purpose-built to enable organizations of all sizes realize the benefits of deep learning faster than ever before. And with WekaIO's flash-optimized parallel file system, HPE now provides the required throughput for compute-intensive low-latency workloads.&amp;quot;&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/i>&lt;b>HPE Deep Learning Performance Guide recommends optimal hardware/software stacks for deep learning workloads&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/b>HPE last year introduced the &lt;b>HPE Deep Learning Cookbook&lt;/b>, a set of tools and recommendations to help customers choose the right technology and configuration for their deep learning tasks. It now includes the &lt;b>HPE Deep Learning Performance Guide&lt;/b> which uses a massive knowledge base of benchmarking results and measurements in the customers environment to guide technology selection and configuration. By combining real measurements with analytical performance models, the HPE Deep Learning Performance Guide estimates the performance of any workload and makes recommendations for the optimal hardware and software stack for that workload. Additionally, it can detect bottlenecks in existing hardware and guide the design of future systems for AI and deep learning.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;i>Customers pursuing deep learning projects face a variety of challenges including a lack of mature use case and technology capabilities that can compromise time to value, performance and efficiency, said Steve Conway, senior vice president, Hyperion Research. HPEs domain expertise, services, technologies and engineering ties to ecosystem partners promise to play an important role in driving AI adoption into enterprises in the next few years.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;&lt;/i>HPE will showcase these new offerings along with its HPC and AI portfolio at &lt;a href=&quot;https://www.nvidia.com/en-us/gtc/&quot; target=&quot;_blank&quot;>NVIDIAs GPU Technology Conference&lt;/a>, March 26 to 29 in San Jose, Calif.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;HPE is also hosting an AI event in collaboration with The Economist on Thursday, March 22, in Chicago, that will bring together leading thinkers and practitioners to explore Promise or Peril: Glimpses of an AI-Enabled Future. A livestream of the panel discussion with Kirk Bresniker, Chief Architect at Hewlett Packard Labs, will be available at 6:10 a.m. PT on March 22 &lt;a href=&quot;https://www.facebook.com/EconomistEvents/videos/1869130849787242/?notif_id=1521485450183577&amp;amp;notif_t=live_video_schedule_broadcaster&quot; target=&quot;_blank&quot;>here&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Digital Prescriptive Maintenance Services are now available in Europe and will be globally available in June 2018 via HPE Pointnext. The HPE Artificial Intelligence Transformation Workshop is globally available via HPE Pointnext. The HPE Apollo 6500 Gen10 will be available from HPE and its channel partners in May 2018. WekaIO MATRIX will be globally available from HPE and its channel partners in May 2018.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Footnotes&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a id=&quot;ft1&quot; href=&quot;#refft1&quot;>(1)&lt;/a> Benchmark tests conducted by HPE in Houston in February 2018, using industry standard TensorFlow and Caffe2 frameworks and the models inception3, resnet50 and vgg16, showed that HPE Apollo 6500 Gen10 is on average 3.12 times faster than HPE Apollo 6500 Gen9.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a id=&quot;ft2&quot; href=&quot;#refft2&quot;>(2) &lt;/a>&lt;a href=&quot;https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf&quot; target=&quot;_blank&quot;>Sizing the prize. Whats the real value of AI for your business and how can you capitalise?, PwC, June 2017&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a id=&quot;ft3&quot; href=&quot;#refft3&quot;>(3) &lt;/a>2018 Gartner CIO Agenda Survey, see this Gartner press release from February 13, 2018: &lt;a href=&quot;https://www.gartner.com/newsroom/id/3856163&quot; target=&quot;_blank&quot;>https://www.gartner.com/newsroom/id/3856163&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a id=&quot;ft4&quot; href=&quot;#refft4&quot;>(4) &lt;/a>&lt;a href=&quot;https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx&quot; target=&quot;_blank&quot;>Artificial Intelligence The Next Digital Frontier?, McKinsey Global Institute, June 2017&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a id=&quot;ft5&quot; href=&quot;#refft5&quot;>(5) &lt;/a>PCIe Gen3: 32GB/sec., NVLink: up to 300GB/sec.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_r5gp
+                            jcr:lastModified="{Date}2022-09-12T15:55:25.290Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-brings-artificial-intelligence-to-the-data-center"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Brings Artificial Intelligence to the Data Center"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Brings Artificial Intelligence to the Data Center"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-12T15:55:25.290Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Brings-Artificial-Intelligence-to-the-Data-Center.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-12T15:55:25.290Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_r5gp>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_79tg
+                            jcr:lastModified="{Date}2022-09-12T15:55:35.732Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/11/hpe-helps-businesses-capitalize-on-hpc-and-ai-applications-with-new-high-density-compute-and-storage"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-12T15:55:35.732Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Helps-Businesses-Capitalize-on-HPC-and-AI-Applications-with-New-High-Density-Compute-and-Storage.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-12T15:55:35.732Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_79tg>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_t259
+                            jcr:lastModified="{Date}2022-09-12T15:55:45.103Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/10/hpe-introduces-new-set-of-artificial-intelligence-platforms-and-services"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Introduces New Set of Artificial Intelligence Platforms and Services"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces New Set of Artificial Intelligence Platforms and Services"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-12T15:55:45.103Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/placeholder.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-12T15:55:45.103Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_t259>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

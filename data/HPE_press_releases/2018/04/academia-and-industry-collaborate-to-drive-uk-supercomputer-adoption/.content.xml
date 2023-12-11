@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:50:40.271Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/compute,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption"
+        jcr:uuid="621b2ecc-5c42-47d5-b402-d5ac5be3b8f5"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-04-16T04:45:39.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Clare Loxley"
+        metaDescription="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+        navTitle="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+        pageTitle="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+        priority="(None)"
+        subtitle="HPE, Arm, SUSE, and three leading UK universities establish one of the largest Arm-based supercomputer deployments in the world to advance digitisation of UK economy"
+        theme="dark"
+        UAID="ca879338-2b8b-4162-8750-0af098adf859"
+        UCID="55e7d25d-238a-4341-874e-9ad42b65e0da"
+        webSectionId="R11989"
+        WPID="200379">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 16, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4623.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T11:57:55.965Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The partners will jointly develop and deploy one of the largest Arm-based high performance computing (HPC) installations in the world – used by both academia and industry&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Catalyst UK will propel Arm HPC ecosystem and exascale computing in the UK to help companies gain intelligent and actionable insights from their data&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Close cooperation with UK industry to jointly develop applications and workflows to best exploit the Arm system capabilities&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE, Arm, SUSE, and three leading UK universities establish one of the largest Arm-based supercomputer deployments in the world to advance digitisation of UK economy&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_ryek
+                    jcr:lastModified="{Date}2018-10-17T11:58:58.376Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LONDON – April 16, 2018&amp;nbsp;–&lt;/b>&amp;nbsp;Hewlett Packard Enterprise (NYSE:HPE) today announced a collaboration with Arm, SUSE, and three leading UK universities to accelerate the adoption of supercomputer applications in the UK. The partners will jointly develop and deploy one of the largest Arm-based high performance computing (HPC) installations in the world, available to both industry and academia, to build applications that drive economic growth and productivity as outlined in the UK government’s Industrial Strategy.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_cwtj
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Catalyst UK to harness the power of innovation in supercomputing and AI&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_0ge6
+                    jcr:lastModified="{Date}2018-10-31T09:33:57.293Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Designed, built and supported by HPE, the deployment will be spread across three sites at Edinburgh Parallel Computing Centre (EPCC) at the University of Edinburgh, the University of Bristol, and the University of Leicester. The installation is due to be completed in summer 2018 and is part of a project known as Catalyst UK which will run for three years.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Supercomputers increasingly play a crucial role in digital transformation due to their capability of simulating the physical world and generating actionable insights from vast amounts of data. The economic benefits that can be realised through applications such as artificial intelligence (AI)&amp;nbsp;– for which HPC is a foundational technology&amp;nbsp;– are significant. &lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>[1]&lt;/a> According to a Hyperion Research estimate, every dollar invested in HPC technology is associated with an average $551 in additional revenue and $52 in added profit for private-sector firms.&lt;a href=&quot;#_ftn2&quot; name=&quot;_ftnref2&quot;>[2]&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Catalyst UK to propel Arm HPC ecosystem and exascale computing in the UK&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To further drive supercomputer adoption in the UK in general, and in the commercial sector in particular, the Catalyst UK programme will cooperate with the UK industry to jointly develop critical applications and workflows to best exploit the Arm system capabilities. The programme will also provide training for researchers, equipping them with the knowledge and skills required to successfully and productively work with Arm-based systems in the future – with a specific focus on exascale computing, i.e. computers that can execute a billion billion calculations per second&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Today’s announcement marks a major step forward in boosting collaboration between the government and business to harness the power of innovation in supercomputing and AI,”&amp;nbsp;&lt;b>said Sam Gyimah MP, Science Minister.&lt;/b>&amp;nbsp;“Through our modern Industrial Strategy, AI Grand Challenge and upcoming Sector Deal, the UK will lead the AI and data revolution. Doing so has the potential to increase the UK’s competitiveness in emerging industries around the world, grow our economy and create the high value jobs we need to build a Britain fit for the future.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The key focus of the Catalyst UK programme is to investigate and showcase the potential of Arm-based HPC installations. This is one of the current approaches to overcome the limitations of traditional computer architectures and offer a better price-performance ratio for modern workloads and applications. This includes AI, which needs to process large amounts of data and requires extremely high memory bandwidth, and exascale computing, which requires HPC systems to be hundreds of times faster and more efficient than today’s fastest supercomputers.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The three supercomputer clusters at EPCC, University of Bristol and University of Leicester will in total run more than 12,000 Arm-based cores, hosted by HPE Apollo 70 HPC systems. The clusters at each university will be largely identical, consisting of 64 HPE Apollo 70 systems, each equipped with two 32 core Cavium ThunderX2 processors, 128GB of memory composed of 16 DDR4 DIMMs with Mellanox InfiniBand interconnects. The operating system is SUSE Linux Enterprise Server for HPC. Each cluster is expected to occupy two computer racks and consume a total of approximately 30KW of power.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Mike Vildibill, VP, Advanced Technologies Group at Hewlett Packard Enterprise said:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“We are currently seeing an insatiable demand for compute performance, as companies seek to gain intelligent and actionable insights from their data. As we embark on the global race towards more powerful and eventually exascale systems, new approaches and technologies are needed to tackle some of the key challenges in achieving these levels of performance, such as rising energy consumption.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_xxnd
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>New approaches and technologies are needed to tackle the demands for increased compute performance&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_p055
+                    jcr:lastModified="{Date}2018-10-31T09:41:12.277Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“HPE is excited to work with Arm, SUSE, and other key partners to offer the HPC community a fresh alternative for high performance computing which we believe will stimulate the industry to develop increasingly performant and efficient supercomputing solutions.&amp;nbsp; By investing in this deployment through the Catalyst UK programme, HPE and our partners will drive both digital transformation and sustainable economic growth through new innovation and scientific discovery.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Drew Henry,&amp;nbsp;senior vice president and general manager, Infrastructure Business Unit,&amp;nbsp;Arm&amp;nbsp;said:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Arm has a long history of close collaboration with industry and academia that has resulted in some very innovative new ideas and technologies. We’re particularly excited now to provide UK researchers and many others greater access to Arm high-performance server technology. The unmatched scalability, high performance, and low-energy consumption of these solutions directly addresses the challenges of large-scale computing and will fuel innovation in cloud, HPC, and AI applications.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Dr. Thomas Di Giacomo, CTO at SUSE said:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“The open, non-proprietary, and highly collaborative approach to the Catalyst UK programme, enabled by the SUSE Linux operating system and SUSE Enterprise Storage, will be a key factor in the project’s success. Increasing the exposure of open source operating systems and tools to student and other real-world users and workloads will significantly improve and enhance the software available on Arm-based architectures. By building a broad ecosystem with HPE, Arm, and Cavium, that caters to the specific needs important to the UK market, we can help deliver the required knowledge, skills and capabilities that will shape the adoption of HPC and AI technologies in the UK.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to core to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <imageonlycomponent_8
+                    jcr:created="{Date}2018-10-31T09:38:19.046Z"
+                    jcr:createdBy="adrian.popescu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:40:11.932Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4449.jpg"
+                    imageAlignment="hpe-image-left"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_b0
+                    jcr:created="{Date}2018-10-31T09:38:44.996Z"
+                    jcr:createdBy="adrian.popescu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:39:25.133Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Notes To Editors:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Marc Waters, Managing Director UK &amp;amp; Ireland, Hewlett Packard Enterprise:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“The UK’s ambitions to become the best place to start and grow a digital business and be a world leader in AI are bold, but achievable. To accelerate AI adoption, investment in projects that increase access to the right infrastructure is needed to ensure that the UK has the optimal combination of knowledge, skills, and technology, to realise that ambition. At Hewlett Packard Enterprise we’re delighted to be a part of the Catalyst UK programme that aims to widen the access to high-performance computing technologies to ensure British businesses can benefit from the huge potential of AI, now and in the future.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Prof. Simon&amp;nbsp;McIntosh-Smith, Head of the HPC Research Group, University of Bristol:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Bristol’s early experience with Arm via the EPSRC-funded GW4 Isambard project, and the European FP7-funded Mont-Blanc 2 project, gave us the confidence to explore deploying Arm-based supercomputers for real workloads in a production environment. Bristol has a wealth of experience porting and optimising HPC applications for the Arm architecture in general, and Cavium ThunderX2 processors in particular. Through this new Catalyst UK programme, the HPE Apollo 70 HPC systems will, for the first time, enable us to apply that experience to explore scaling across InfiniBand. We expect these results to be of great interest to our industrial and academic partners.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Prof. Mark Parsons, Director, EPCC, University of Edinburgh:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“EPCC is really pleased to be involved in the Catalyst UK programme. We already host two national HPC services using HPE technology and this will be our first large-scale Arm-based supercomputer. If Arm processors are to be successful as a supercomputing technology we need to build a strong software eco-system and EPCC will port many of the UK’s key scientific applications to our HPE Apollo 70 system. We already work closely with the other Universities involved and see this as a great opportunity to build on these relationships. The system will also form part of the Edinburgh City Region’s World Class Data Infrastructure which focusses on “data driven innovation” for the regional economy.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Dr. Mark Wilkinson, Director STFC DiRAC HPC Facility, University of Leicester:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“The&amp;nbsp;long experience of the DiRAC Facility and the University of Leicester in co-designing innovative HPC systems has demonstrated the productivity gains of matching HPC hardware to research problems. HPC systems are the research instruments of computational science and the best science is delivered when researchers have access to the most appropriate tools. The Catalyst UK initiative will give us the exciting opportunity to explore the potential of Arm-based systems to support a broad spectrum of HPC workflows including simulations of gravitational waves and planet formation, earth observation science models and fundamental particle physics calculations. By including an Arm-based cluster in our training portfolio, we will ensure that the next generation of UK HPC experts, both in industry and academia, have the necessary skills to exploit the most appropriate and cost-effective hardware when solving the most complex research problems.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;/i>&lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2018/04/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption.html?cq_ck=1540978641604#_ftnref1&quot; name=&quot;_ftn1&quot;>[1]&lt;/a>&amp;nbsp;&lt;a href=&quot;https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf&quot;>Sizing the prize. Whats the real value of AI for your business and how can you capitalise?, PwC, June 2017&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2018/04/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption.html?cq_ck=1540978641604#_ftnref2&quot; name=&quot;_ftn2&quot;>[2]&lt;/a>&amp;nbsp;Hyperion Research: Study of HPC ROI, June 2017&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7504
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/11/hpe-helps-businesses-capitalize-on-hpc-and-ai-applications-with-new-high-density-compute-and-storage"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Helps-Businesses-Capitalize-on-HPC-and-AI-Applications-with-New-High-Density-Compute-and-Storage.jpg"/>
+                        </contentblock_7504>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_f0r6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/03/hpe-launches-vertical-ai-solutions-dramatically-accelerates-deep-learning-training"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Launches Vertical AI Solutions, Dramatically Accelerates Deep Learning Training"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Vertical AI Solutions, Dramatically Accelerates Deep Learning Training"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/AI-option-2.jpg"/>
+                        </contentblock_f0r6>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_v2gh
+                            jcr:lastModified="{Date}2018-10-17T12:35:40.475Z"
+                            jcr:lastModifiedBy="hpe.publishers"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-partners-with-stephen-hawkings-cosmos-research-group-and-the-cambridge-faculty-of-mathematics"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE partners with Stephen Hawkings COSMOS Research Group and the Cambridge Faculty of Mathematics"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE partners with Stephen Hawkings COSMOS Research Group and the Cambridge Faculty of Mathematics"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T12:35:40.475Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/COSMOS-Release-Galaxy-320x180.png"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T12:35:40.475Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_v2gh>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

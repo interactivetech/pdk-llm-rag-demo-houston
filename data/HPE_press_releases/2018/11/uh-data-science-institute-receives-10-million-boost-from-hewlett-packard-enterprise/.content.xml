@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:08:24.703Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services,hpe-newsroom:categories/compute]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="UH Data Science Institute receives $10 million boost from Hewlett Packard Enterprise"
+        jcr:uuid="a29b89c0-a388-4b1d-a77e-8ea1583504b1"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        navTitle="Navigation title here "
+        pageTitle="UH Data Science Institute receives $10 million boost from Hewlett Packard Enterprise"
+        priority="(None)"
+        theme="dark"
+        webSectionId="R11989">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-11-06T21:51:39.314Z"
+                jcr:lastModifiedBy="cseales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 2, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T18:25:23.770Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/UH Data Science Institute receives $10 million boost from Hewlett Packar....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T21:52:24.997Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE’s donation will benefit the University’s Data Science Institute and include funding for a scholarship endowment and equipment to enhance data science research activities.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Data science is the key to unlocking breakthroughs and critical as companies undergo digital transformation.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE’s collaboration with the University is part of a larger movement focused on accelerating the development of Houston’s innovation economy.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_40
+                    jcr:created="{Date}2018-11-07T22:24:42.399Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2018-11-07T22:25:27.955Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Collaboration includes research opportunities for faculty and students&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-22T21:21:51.635Z"
+                    jcr:lastModifiedBy="jose.brambila@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HOUSTON, Nov. 2, 2018 – The University of Houston announced a new collaboration with &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) on Friday, including a $10 million gift from HPE to the University. The gift from HPE will benefit the University’s Data Science Institute and include funding for a scholarship endowment, as well as both funding and equipment to enhance data science research activities.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“At HPE, we have a robust presence in Houston and a long history of partnership with the University of Houston. In fact, a significant portion of our workforce here are alumni, so we are thrilled to have an opportunity to drive innovation in data science and shape the future workforce in that area,” said Mark Potter, Chief Technology Officer, HPE, and Director, Hewlett Packard Labs. “We look forward to continuing to expand the partnership over time and tackling meaningful research that will accelerate discoveries for the industry.”&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In today’s information age, the data being created is only as valuable as the insights that are gleaned from it. The secrets to scientific breakthroughs and industry-changing innovations hide in plain sight behind mountains of data. Data science is the key to unlocking these breakthroughs and critical as companies undergo digital transformation.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_7340
+                    jcr:created="{Date}2018-11-06T21:54:10.824Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T21:55:09.659Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>“Data being created is only as valuable as the insights that are gleaned from it”&lt;/p>&#xa;&lt;p>&lt;i>&lt;/i> &lt;i>&lt;/i> &lt;/p>&#xa;">
+                    <image
+                        jcr:lastModified="{Date}2018-11-06T21:55:09.659Z"
+                        jcr:lastModifiedBy="cseales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_7340>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T21:57:09.613Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Amr Elnashai, vice president for research and technology transfer at UH, said the alliance with HPE will expand the University’s ability to respond to some of the biggest challenges facing the region.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“This partnership will enhance our capacity to deploy data science tools to address challenges in the healthcare, energy and smart materials sectors in the Houston area, from health data mining to data-enabled oil and gas exploration,” he said.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_1432
+                    jcr:created="{Date}2018-11-06T21:56:03.990Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T21:56:42.973Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>“HPE's partnership will enhance UH's capacity to deploy data science tools to address challenges”&lt;/p>&#xa;&lt;p>&lt;i>&lt;/i> &lt;i>&lt;/i> &lt;/p>&#xa;">
+                    <image
+                        jcr:lastModified="{Date}2018-11-06T21:56:42.973Z"
+                        jcr:lastModifiedBy="cseales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_1432>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-22T21:24:24.251Z"
+                    jcr:lastModifiedBy="jose.brambila@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE’s collaboration with the University is part of a larger movement focused on accelerating the development of Houston’s innovation economy, led by organizations like &lt;a href=&quot;http://houstonexponential.org/&quot; target=&quot;_blank&quot;>Houston Exponential&lt;/a>. Gina Luna, chair of Houston Exponential, which is charged with accelerating development of the regional digital tech ecosystem, said enhancing Houston’s position as a leader in data sciences is an important piece of that plan.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“HPE’s commitment to this program at UH is exciting for Houston,” she said. “As our core industries digitize, leveraging the power of data is critical to that transformation, and collaborations between industry and academia are a key component. This partnership, along with many others, is essential to accelerating our progress as a global leader in this area.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_5bd3
+                    jcr:created="{Date}2018-11-06T21:57:54.989Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T21:58:16.852Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>“As core industries digitize, leveraging the power of data is critical to transformation”&lt;/p>&#xa;&lt;p>&lt;i>&lt;/i> &lt;i>&lt;/i> &lt;/p>&#xa;">
+                    <image
+                        jcr:lastModified="{Date}2018-11-06T21:58:16.852Z"
+                        jcr:lastModifiedBy="cseales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_5bd3>
+                <textonlycomponent_75
+                    jcr:created="{Date}2018-11-06T17:45:32.789Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2019-01-22T21:23:59.700Z"
+                    jcr:lastModifiedBy="jose.brambila@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The collaboration between HPE and UH will go beyond funding, with HPE leaders serving as lecturers for UH classes and UH researchers helping to solve complex problems for HPE customers. Students will work on research areas suggested by HPE, part of an effort to ensure students and faculty are focused on real-world problems.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>UH offers a number of certificate and &lt;a href=&quot;http://www.uh.edu/data-science-institute/education/&quot; target=&quot;_blank&quot;>degree programs&lt;/a> in data analytics, statistics and related fields, and researchers from a variety of disciplines use data science in work ranging from health care diagnostics and imaging to improving the safety of offshore drilling.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Paula Myrick Short, senior vice president for academic affairs and provost, said the gift will benefit students in a number of ways, from scholarships to opportunities to address some of society’s greatest challenges.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_143d
+                    jcr:created="{Date}2018-11-06T22:00:11.630Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T22:00:42.032Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>“Data science is profoundly changing society”&lt;/p>&#xa;&lt;p>&lt;i>&lt;/i> &lt;i>&lt;/i> &lt;/p>&#xa;">
+                    <image
+                        jcr:lastModified="{Date}2018-11-06T22:00:42.032Z"
+                        jcr:lastModifiedBy="cseales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_143d>
+                <textonlycomponent_8a
+                    jcr:created="{Date}2018-11-06T17:55:58.303Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2019-01-22T21:23:16.640Z"
+                    jcr:lastModifiedBy="jose.brambila@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Data science is profoundly changing society,” she said. “The enhanced educational opportunities available to UH students through this gift will translate to increased student engagement and a better prepared workforce.”&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The UH&amp;nbsp;&lt;a href=&quot;http://www.uh.edu/data-science-institute/&quot; target=&quot;_blank&quot;>Data Science Institute&lt;/a>&amp;nbsp;will be renamed the Hewlett Packard Enterprise Data Science Institute (HPE DSI) in recognition of the alliance. The HPE gift contributes to the University’s $1 billion “Here, We Go” Campaign, the first major fundraising campaign in more than 25 years, in support of major University initiatives.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T22:02:05.155Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About the University of Houston&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The University of Houston is a Carnegie-designated Tier One public research university recognized with a Phi Beta Kappa chapter for excellence in undergraduate education. UH serves the globally competitive Houston and Gulf Coast Region by providing world-class faculty, experiential learning and strategic industry partnerships. Located in the nation's fourth-largest city and one of the&amp;nbsp;most ethnically and culturally diverse regions in the country, UH&amp;nbsp;is a federally designated Hispanic- and Asian-American-Serving institution with enrollment of more than 46,000 students.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T18:08:59.430Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2018-11-06T22:23:38.810Z"
+                            jcr:lastModifiedBy="cseales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/ku-leuven-and-hewlett-packard-enterprise-advance-ai-capabilities-through-new-supercomputer/"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-11-06T22:23:38.810Z"
+                                jcr:lastModifiedBy="cseales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/KUL-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-11-06T22:23:38.810Z"
+                                jcr:lastModifiedBy="cseales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2018-11-06T22:24:33.928Z"
+                            jcr:lastModifiedBy="cseales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/hpe-enables-cquniversity-to-make-its-it-infrastructure-future-ready/"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Enables CQUniversity To Make Its IT Infrastructure Future Ready"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Enables CQUniversity To Make Its IT Infrastructure Future Ready"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-11-06T22:24:33.928Z"
+                                jcr:lastModifiedBy="cseales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/01/image-norend/cq-uni-news-advisory-.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-11-06T22:24:33.928Z"
+                                jcr:lastModifiedBy="cseales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2018-11-06T22:24:56.744Z"
+                            jcr:lastModifiedBy="cseales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption/"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Academia and Industry Collaborate to Drive UK Supercomputer "
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Academia and Industry Collaborate to Drive UK Supercomputer "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-11-06T22:24:56.744Z"
+                                jcr:lastModifiedBy="cseales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4623.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-11-06T22:24:56.744Z"
+                                jcr:lastModifiedBy="cseales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-11-06T18:11:48.631Z"
+            jcr:lastModifiedBy="cseales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

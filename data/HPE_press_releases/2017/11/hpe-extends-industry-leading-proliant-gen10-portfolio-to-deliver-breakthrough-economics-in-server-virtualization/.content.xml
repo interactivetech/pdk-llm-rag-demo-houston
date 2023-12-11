@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:56:44.403Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-extends-industry-leading-proliant-gen10-portfolio-to-deliver-breakthrough-economics-in-server-virtualization"
+        jcr:uuid="1d2dc26d-bb78-4a25-be0a-350dc800f7f3"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-20T04:45:41.000-08:00"
+        metaDescription="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+        metaKeywords="ProLiant, HPE, DL385, AMD EPYC, Virtualization, Flexible Consumption, Security"
+        navTitle="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+        pageTitle="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+        priority="(None)"
+        subtitle="HPE ProLiant DL385 with AMD EPYC processor provides unmatched security and unprecedented economic control"
+        theme="dark"
+        UAID="36723ffc-b65b-436a-8f12-649c1e99bbca"
+        UCID="da5fa7bf-e8af-46f6-9427-2e79de7c90be"
+        WPID="199427">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 20, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Extends-Industry-Leading-ProLiant-Gen10-Portfolio.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T19:27:37.526Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is extending the world's most secure industry standard server portfolio with the AMD EPYC processor to optimize performance and security&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The new HPE ProLiant DL385 offers up to 50 percent lower cost per virtual machine (VM) than traditional server solutions&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The new server is offered with flexible IT consumption models and special financial programs&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE ProLiant DL385 with AMD EPYC processor provides unmatched security and unprecedented economic control&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_93cv
+                    jcr:lastModified="{Date}2020-04-13T18:24:46.410Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA – November 20, 2017 –&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced the HPE ProLiant DL385 Gen10 server in partnership with AMD, offering up to 50 percent lower cost per virtual machine (VM) than traditional server solutions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Server virtualization continues to be an essential tool in improving agility in modern IT environments. In fact, 41 percent of new server shipments will be virtualized in 2020 up from 33 percent in 2015&lt;sup>1&lt;/sup>. Additionally, enterprises report savings of almost 20 percent from virtualizing their servers&lt;sup>2 &lt;/sup>and are constantly striving to lower the cost of virtualization. The new HPE ProLiant DL385 leverages the AMD EPYC&lt;sup>TM&lt;/sup> System on a Chip (SoC) to enable customers to achieve greater utilization and ROI while delivering unmatched security for virtualized workloads.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_emju
+                    jcr:lastModified="{Date}2018-10-17T19:29:59.529Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE is focused on bringing the most innovative technology to market, helping customers accelerate the delivery of new ideas, products and services&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T19:29:59.529Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_emju>
+                <textonlycomponent_ebf7
+                    jcr:lastModified="{Date}2018-10-17T19:33:55.470Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;HPE is focused on bringing to market the most innovative technology that delivers the best value for our customers so they can accelerate the delivery of new ideas, products and services,&amp;quot; said Justin Hotard, VP and GM, Volume Global Business Unit at Hewlett Packard Enterprise. &amp;quot;With the HPE ProLiant DL385, we are extending the world's most secure industry standard server portfolio with the AMD EPYC SoC to optimize performance and security that deliver a breakthrough in value and consumption options for customers running virtualized and memory-centric workloads.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The HPE ProLiant DL385 delivers unmatched security via the HPE Silicon Root of Trust, a unique link between the HPE Integrated Light Out (iLO) silicon and the iLO firmware to ensure servers do not execute compromised firmware code. The HPE Silicon Root of Trust is connected to the AMD Secure Processor in the AMD EPYC&lt;sup>TM&lt;/sup> SoC so that the AMD Secure Processor can validate the HPE firmware before the server is allowed to boot.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The HPE ProLiant DL385 and AMD Secure Processor also enable:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Secure Encrypted Memory&amp;nbsp;−&amp;nbsp;&lt;/b>all or a portion of the memory can be encrypted to protect data against memory hacks and scrapes.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Secure Encrypted Virtualization&amp;nbsp;−&amp;nbsp;&lt;/b>VMs and the hypervisor each have separate encryption keys, isolating the VMs from one another and from the hypervisor itself to protect access to data in shared guest data areas.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;&amp;quot;The AMD EPYC SoC delivers a better balance of cores, memory, and I/O to deliver optimal performance based upon todays workloads,&amp;quot; said Scott Aylor, Corporate VP and GM Enterprise Business Unit at Advanced Micro Devices. &amp;quot;EPYC allows the HPE ProLiant DL385 Gen10 to support more virtual machines per server, process more data in parallel, access more local storage, while providing unprecedented security.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE offers the HPE ProLiant DL385 with flexible IT consumption models and special financial programs. HPE Flexible Capacity enables customers to pay for IT as it is consumed, managing unpredictable demands and raising utilization levels. Ninety-day deferred payments, 0% financing and trade-in programs make the HPE ProLiant DL385 even more affordable.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Source&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;br>&#xa;1&lt;/sup>IDC Market Trends in Virtualization Infrastructure and Software, 2016: Market Survey Report, December 2016&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;br>&#xa;2&lt;/sup>IDC Market Trends in Virtualization Infrastructure and Software 2016&amp;nbsp;–&amp;nbsp; Market Share and Forecast Report, December 2016&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3fim
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/06/hpe-delivers-dual-processor-performance-with-single-processor-economics-in-new-hpe-proliant-dl325-gen10-server"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Dual-Processor Performance with Single-Processor Economics in New HPE ProLiant DL325 Gen10 Server"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-Dual-Processor-Performance-with-Single-Processor-Economics-in-New-HPE-ProLiant-DL325-Gen10-Server.jpg"/>
+                        </contentblock_3fim>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5ch3
+                            jcr:lastModified="{Date}2018-10-17T19:34:39.690Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-unveils-the-worlds-most-secure-industry-standard-servers"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Unveils the World's Most Secure Industry Standard Servers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Unveils the World's Most Secure Industry Standard Servers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T19:34:39.690Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T19:34:39.690Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_5ch3>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nx0v
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-partners-with-clearcenter-to-simplify-it-for-small-and-medium-businesses"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Partners with ClearCenter to Simplify IT for Small and Medium Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Partners with ClearCenter to Simplify IT for Small and Medium Businesses"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_nx0v>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

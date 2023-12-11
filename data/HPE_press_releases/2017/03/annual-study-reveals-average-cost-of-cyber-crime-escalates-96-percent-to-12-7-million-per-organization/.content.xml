@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:36:56.032Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="annual-study-reveals-average-cost-of-cyber-crime-escalates-96-percent-to-12-7-million-per-organization"
+        jcr:uuid="b4e1aee4-b4ba-4d35-baf9-971c01b68c1f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:00.000-07:00"
+        metaDescription="Annual Study Reveals Average Cost of Cyber Crime Escalates 96 Percent to "
+        navTitle="Annual Study Reveals Average Cost of Cyber Crime Escalates 96 Percent to $12.7 Million per Organization"
+        pageTitle="Annual Study Reveals Average Cost of Cyber Crime Escalates 96 Percent to $12.7 Million per Organization"
+        priority="(None)"
+        subtitle="HP Partners With Ponemon Institute for Fifth Annual Study; Reconfirms Security Intelligence Solutions Mitigate Impact, Saving on Average $5.3 Million Annually per Organization"
+        theme="dark"
+        UAID="8e9258d3-30c5-4ef7-8e2e-16584748e429"
+        UCID="689ac192-9feb-4d44-9f27-9cdd32c2f39e"
+        WPID="1563">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T18:51:50.463Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 15, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP Partners With Ponemon Institute for Fifth Annual Study; Reconfirms Security Intelligence Solutions Mitigate Impact, Saving on Average $5.3 Million Annually per Organization&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_06yx
+                    jcr:lastModified="{Date}2018-10-18T18:54:49.985Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Oct 15, 2014) - HP (NYSE: HPQ) today unveiled the results from its fifth annual study in partnership with the&amp;nbsp;&lt;a href=&quot;http://www.ponemon.org/index.php&quot; target=&quot;_blank&quot;>Ponemon Institute&lt;/a>&amp;nbsp;detailing the rising cost, frequency and time to resolve cyber attacks.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Conducted by the Ponemon Institute and sponsored by HP Enterprise Security, the&amp;nbsp;&lt;a href=&quot;http://www.hp.com/go/Ponemon&quot; target=&quot;_blank&quot;>2014 Cost of Cyber Crime Study&lt;/a>&amp;nbsp;found the average annualized cost of cyber crime incurred by a benchmark sample of U.S. organizations was $12.7 million,&lt;sup>1&lt;/sup>representing a 96 percent increase since the study was initiated five years ago.&lt;sup>2&lt;/sup>&amp;nbsp;The results also revealed the time it takes to resolve a cyber attack has increased by 33 percent during this same period, with the average cost incurred to resolve a single attack totaling more than $1.6 million.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>During the study period, significant cyber crimes occurred in the U.S. involving the theft of millions of payment cards, Internet credentials, intellectual property and online bank accounts. According to the 2014 Cost of Cyber Crime Study, advanced security intelligence tools such as Security Information and Event Management (SIEM) solutions, Intrusion Prevention Systems (IPS) with reputation feeds, network intelligence systems and big data analytics help organizations detect and contain cyber attacks resulting in significant reductions in the annualized cost of cyber crime.&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Adversaries only need to be successful once to gain access to your data, while their targets must be successful every time to stop the barrage of attacks their organizations face each day,&amp;quot; said Art Gilliland, Senior Vice President and general manager, Enterprise Security Products, HP. &amp;quot;No amount of investment can completely protect organizations from highly sophisticated cyber attacks, but improving and prioritizing your organization's ability to disrupt the adversary with actionable intelligence solutions such as SIEM, can significantly improve attack containment and reduce the overall financial impact.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Key findings from the 2014 Cost of Cyber Crime Study&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cyber crimes continue to be very costly:&lt;/b>&amp;nbsp;The average annualized cost of cyber crime incurred was $12.7 million, with a range of $1.6 million to $61 million; an increase of 9 percent or $1.1 million over the average cost reported in 2013.&lt;sup>2&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cyber crimes are intrusive and common:&lt;/b>&amp;nbsp;Organizations experienced a 176 percent increase in the number of cyber attacks, with an average of 138 successful attacks per week, compared to 50 attacks per week when the study was initially conducted in 2010.&lt;sup>2&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cyber crimes require more time to resolve:&amp;nbsp;&lt;/b>The average time to detect a malicious or criminal attack by a global study sample of organizations was 170 days. The longest average time segmented by type of attack was 259 days, and involved incidents concerning malicious insiders. The average time to resolve a cyber attack once detected was 45 days, while the average cost incurred during this period was $1,593,627 -- representing a 33-percent increase over last year's estimated average cost of $1,035,769 for a 32-day period.&lt;sup>2&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cyber crimes impact all industries:&lt;/b>&amp;nbsp;Of the 17 industries included in the study, all reported to have been impacted by cyber crime, and in the U.S., the highest annual cost per organization was reported in the Energy &amp;amp; Utilities and Defense industries. The average annualized cost per company in the Energy &amp;amp; Utilities, Technology and Retail sectors rose most significantly in the U.S. when compared to average annualized cost over the 5 years the study has been published. The retail sector alone has more than doubled when compared to average cost over the five year period.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;The most costly cyber crimes&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The most costly cyber crimes are those caused by denial of services, malicious insiders and malicious code. These account for more than 55 percent of all cyber crime costs per organization on an annual basis.&lt;sup>3&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Information theft continues to represent the highest external cost, followed by the costs associated with business disruption.&lt;sup>4&lt;/sup>&amp;nbsp;On an annual basis, information theft accounts for 40 percent of total external costs (down 2 percent from the five-year average), while costs associated with disruption to business or lost productivity account for 38 percent of external costs (up 7 percent from the five-year average).&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Recovery and detection are the most costly internal activities, accounting for 49 percent of the total annual internal activity cost with cash outlays and direct labor representing the majority of these costs.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Deployment of security intelligence solutions makes a difference&lt;br>&#xa;&lt;/b>Organizations using security intelligence technologies were more efficient in detecting and containing cyber attacks. For those having deployed a SIEM solution, the average cost savings was $5.3 million per year, a 32 percent increase in savings from last year. Organizations with technologies such as an Intrusion Prevention System (IPS) and Next-generation Firewall (NGFW) boasted a 15 percent ROI result.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Business disruption, information loss and the time it takes to detect a breach collectively represented the highest cost to organizations experiencing a breach,&amp;quot; said Dr. Larry Ponemon, chairman and founder, Ponemon Institute. &amp;quot;Based on more than 2,000 interviews, the annual Cost of Cyber Crime research continues to provide valuable insights into the rising cost of cyber attacks to help organizations across all industries understand the serious financial impact that can result if measures are not taken to put solutions, process and expertise in place to minimize risk.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to the fifth annual study of U.S. organizations, Ponemon conducted cyber cost studies for organizations in Australia, Germany, Japan, France and the United Kingdom. A study of Russian companies was conducted for the first time this year. Of the countries surveyed, the U.S. sample reported the highest total average cost of cyber crime at $12.7 million, while the Russian sample reported the lowest, at $3.3 million.&lt;sup>1&lt;/sup>&amp;nbsp;The global results are available in a separate report entitled,&amp;nbsp;2014 Global Report on the Cost of Cyber Crime.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Learn more about research findings&lt;br>&#xa;&lt;/b>Detailed findings from the&amp;nbsp;&lt;a href=&quot;http://www.hp.com/go/Ponemon&quot; target=&quot;_blank&quot;>2014 Cost of Cyber Crime Study&lt;/a>&amp;nbsp;are available via webcast. Details for the U.S. webinar can be found&amp;nbsp;&lt;a href=&quot;https://www.brighttalk.com/webcast/7477/125713&quot; target=&quot;_blank&quot;>here&lt;/a>. Details for the EMEA webinar can be found&amp;nbsp;&lt;a href=&quot;https://www.brighttalk.com/webcast/7477/125707&quot; target=&quot;_blank&quot;>here&lt;/a>&amp;nbsp;and the APJ webinar can be found&amp;nbsp;&lt;a href=&quot;https://www.brighttalk.com/webcast/7477/125711&quot; target=&quot;_blank&quot;>here&lt;/a>. For more information, including the reports and an assessment tool, visit&amp;nbsp;&lt;a href=&quot;http://www.hp.com/go/Ponemon&quot; target=&quot;_blank&quot;>www.hp.com/go/Ponemon&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information about HP Enterprise Security Products is available at&amp;nbsp;&lt;a href=&quot;http://www.hpenterprisesecurity.com/&quot; target=&quot;_blank&quot;>www.hpenterprisesecurity.com&lt;/a>&amp;nbsp;and HP Enterprise Security Services at&amp;nbsp;www.hp.com/enterprise/security.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's premier EMEA client event, HP Discover, takes place Dec. 2 - 4 in Barcelona, Spain.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About HP&lt;br>&#xa;&lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>&amp;nbsp;&amp;quot;2014 Cost of Cyber Crime Study: United States,&amp;quot; Ponemon Institute, October 2014.&lt;br>&#xa;&lt;sup>2&lt;/sup>&amp;nbsp;Based on internal analysis of the results from the 2010-2014 &amp;quot;Cost of Cyber Crime Study: United States&amp;quot; reports from Ponemon Institute.&lt;br>&#xa;&lt;sup>3&lt;/sup>&amp;nbsp;This year the category &amp;quot;malicious insider&amp;quot; includes the cost of stolen devices.&lt;br>&#xa;&lt;sup>4&lt;/sup>&amp;nbsp;In the context of this study, an external cost is one that is created by external factors such as fines, litigation, marketability of stolen intellectual properties and more.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_aec6
+                            jcr:created="{Date}2018-10-18T18:57:28.091Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T19:09:00.758Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/after-all-the-hard-work-why-do-security-gaps-still-exist"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="After all the hard work, why do security gaps still exist?"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="After all the hard work, why do security gaps still exist?"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T19:09:00.758Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/1-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T19:09:00.758Z"
+                                jcr:lastModifiedBy="esparza@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_aec6>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_fa93
+                            jcr:created="{Date}2018-10-18T18:57:02.774Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T18:57:02.774Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/09/aruba-modernizes-network-security-to-help-businesses-reduce-risk-in-the-era-of-mobile-cloud-and-iot"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Aruba-Modernizes-Network-Security-to-Help-Businesses-Reduce-Risk-in-the-Era-of-Mobile-Cloud-and-IoT-1.jpg"/>
+                        </contentblock_fa93>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_88f7
+                            jcr:created="{Date}2018-10-18T18:56:27.524Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T18:56:27.524Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-unveils-the-worlds-most-secure-industry-standard-servers"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"/>
+                        </contentblock_88f7>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-18T18:50:41.975Z"
+            jcr:lastModifiedBy="esparza@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

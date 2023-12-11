@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:16:38.933Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-expands-high-performance-computing-server-portfolio"
+        jcr:uuid="47219c4c-634d-4863-91b2-475bb4889540"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:58:30.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Expands High-Performance Computing Server Portfolio"
+        navTitle="Hewlett Packard Enterprise Expands High-Performance Computing Server Portfolio"
+        pageTitle="Hewlett Packard Enterprise Expands High-Performance Computing Server Portfolio"
+        priority="(None)"
+        subtitle="Workload Optimized Compute and Storage Platforms Deliver New Levels of Performance and Real-Time Insights for Deep Learning and Financial Services Applications"
+        theme="dark"
+        UAID="5b96e010-c372-4c9a-8756-131763a39f53"
+        UCID="1a150271-40a5-4e11-8557-da8a1accb6ef"
+        WPID="1371">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T14:53:39.451Z"
+                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 4, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Workload Optimized Compute and Storage Platforms Deliver New Levels of Performance and Real-Time Insights for Deep Learning and Financial Services Applications&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_q78d
+                    jcr:lastModified="{Date}2018-10-23T15:28:13.881Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Apr 4, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today announced new workload-optimized compute platforms and solutions to help customers accelerate innovation and time-to-value withdeep learning systems, high-performance computing (HPC) and financial services industry (FSI) applications.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations running complex HPC and big data workloads, such as modeling, simulation, high frequency trading and deep learning are now able to modernize their data centers with infrastructure solutions that are purpose-built and optimized to analyze, massive volumes of data with speed, scale and efficiency.IDC forecasts robust growth of the worldwide HPC market from $21 billion in 2015 to $31 billion in 2019.&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;As high performance and webscale applications become mainstream, HPE's continued focus on this market is yielding positive results for our customers,&amp;quot; said Bill Mannel, vice president and general manager, HPC, Big Data and IoT Servers, HPE. &amp;quot;Already, more than a third of the HPC market is using HPE compute platforms&lt;sup>2&lt;/sup> to enhance scientific and business innovation and gain a competitive edge. Today's announcement reinforces our commitment to delivering new infrastructure solutions that satisfy our customers' insatiable need for massive compute power to fuel new applications and unlock the value of their data.&lt;i>&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerate time to value for deep learning applications&lt;br>&#xa; &lt;/b>Deep learning algorithms are exploding in the industry as organizations are under competitive pressure to support the increasing sophistication of simulation and machine learning models.With up to eight high performance NVIDIA GPU cards designed for maximum transfer bandwidth, the &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687752&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fproducts%2fproliant-servers%2fproduct-detail.html%3foid%3d1008862555&quot;>&lt;b>HPE Apollo 6500 System&lt;/b>&lt;/a> is purpose-built for deep learning applications. Its high ratio of GPUs to CPUs, dense 4U form factor and efficient design enable organizations to run deep learning recommendation algorithms faster and more efficiently, significantly reducing model training time and accelerating the delivery of real-time results, all while controlling costs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>When used with comprehensive GPU computing platforms like &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687755&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.nvidia.com%2fobject%2fwhy-choose-tesla.html&quot;>the NVIDIA Tesla Accelerated Computing Platform&lt;/a>, the HPE Apollo 6500 provides maximum GPU processing capacity across a broad ecosystem of tools. The HPE Apollo 6500 is designed to support deep learning computing platforms and application programming interface models, such as &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687758&amp;amp;type=1&amp;amp;url=http%3a%2f%2fcaffe.berkeleyvision.org%2f&quot;>Caffe&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687761&amp;amp;type=1&amp;amp;url=https%3a%2f%2fdeveloper.nvidia.com%2fcuda-zone&quot;>CUDA&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687764&amp;amp;type=1&amp;amp;url=http%3a%2f%2ftorch.ch%2f&quot;>Torch&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687767&amp;amp;type=1&amp;amp;url=http%3a%2f%2fdeeplearning.net%2fsoftware%2ftheano&quot;>Theano&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687770&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.tensorflow.org%2f&quot;>Tensorflow&lt;/a>, the &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687773&amp;amp;type=1&amp;amp;url=https%3a%2f%2fnews.developer.nvidia.com%2fnvidia-deep-learning-sdk-now-available%2f&quot;>NVIDIA Deep Learning SDK&lt;/a>, and the newly announced &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687776&amp;amp;type=1&amp;amp;url=http%3a%2f%2flabs.hpe.com%2fresearch%2fnext-next%2fbrain%2f&quot;>Cognitive Computing Toolkit&lt;/a> from HPE.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;To handle the unprecedented demands of today's large, complex workloads, the HPC industry has turned to GPU acceleration to deliver the necessary computational performance. The high-density GPU design of the HPE Apollo 6500 maximizes the power of accelerated computing to drive the most computationally intensive deep learning, big data analytics and other HPC applications,&amp;quot; Ian Buck, vice president of Accelerated Computing at NVIDIA.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Lower total cost of ownership with new HPC storage server solution&lt;br>&#xa; &lt;/b>Most HPC-specific storage solutions on the market today are closed appliances, which limits flexibility for customers, drawing IT organizations into vendor lock-in. The &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687779&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fproducts%2fproliant-servers%2fproduct-detail.html%3foid%3d82618315&quot;>&lt;b>HPE Apollo 4520 System&lt;/b>&lt;/a> is designed to give customers the opportunity to implement reliable open and supported parallel file system architectures to address their HPC storage needs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Apollo 4520, a dual-node system with high performance fabrics and drive failover, is specifically designed to support Lustre implementations. In turn, customers who are looking to accelerate innovation have the choice to implement either an HPE supported Lustre solution, based on the Intel Enterprise Edition for Lustre* software or Open Source Lustre with community support. Through HPE's contributions to the Lustre community as well as tight integration with Open ZFS and Intel Enterprise Edition for Lustre* software, the Apollo 4520 solution delivers industry-leading resiliency and flexibility to meet customers' most demanding requirements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Workload-optimized storage is essential for organizations running high-performance systems to deliver smarter, data-driven decisions.With Intel Enterprise Edition of Lustre* on the Apollo 4520, customers are able to realize the flexibility of open-source software with the extreme density of HPE storage hardware. The innovative Apollo 4520 solution was made possible by the HPC alliance with HPE.We look forward to further collaborations to address customers' most complex HPC needs through the Intel Scalable System Framework.&amp;quot; Charles Wuischpard, vice president Datacenter Group, GM High Performance Computing Platform Group at Intel.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;From the validation of Lustre on Open ZFS for enhanced performance tuning, to the hardware support for our development of a S3 HSM copy tool for Lustre, HPE has constantly been at the forefront of innovations for the Lustre community,&amp;quot; said Frederick Lefebvre, HPC System Architect at Calcul Quebec, University Laval, Quebec City. &amp;quot;The new HPE Apollo 4520 is a highly flexible foundation for HPC storage innovation and enables Calcul Quebec to provide our users with an optimized solution that is highly scalable with a very compelling TCO.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Increasing trader productivity, trading performance and ensuring compliance for the financial services industry&lt;br>&#xa; &lt;/b>To help financial services customers boost business productivity, gain competitive differentiation in high-frequency trading performance, and manage increasing regulatory compliance needs, HPE is introducing a number of new industry solutions:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687782&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fproducts%2fservers%2fmoonshot%2fmobile.html&quot;>&lt;b>HPE Moonshot Trader&lt;/b>&lt;/a>&lt;b>&lt;u> Workstation Solution&lt;/u>: &lt;/b>Enhances financial trader experience and productivity using HPE Moonshot and Citrix solutions. This enables trading companies to deploy physical hosted desktop environments, providing a secure workstation experience with accelerated graphics and high compute performance to run online trading applications.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687785&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.hpe.com%2fservers%2ffsi-solutions&quot;>&lt;b>HPE Trade and Match Server Solution&lt;/b>&lt;/a>&lt;b>: &lt;/b>Leverages the density-optimized HPE Apollo 2000 server with frequency optimized single socket processors to consistently deliver up to 28 percent performance improvement&lt;sup>3&lt;/sup> on trade processing and minimizing system latency for increased competitive differentiation with lower total cost of ownership (TCO).&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687788&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fproducts%2fcs-solutions%2fproduct-detail.html%3foid%3d1008818636&quot;>&lt;b>HPE Risk Compliant Archive&lt;/b> &lt;b>Solution&lt;/b>&lt;/a>&lt;b>: &lt;/b>Enables organizations to keep up with the increasing number of complex, regulatory archiving compliance requirements efficiently and securely, without the need for disruptive and time-consuming data migrations. This solution, composed of iTernity iCAS software verified for data archiving standards and Scality RING file and object storage with HPE Apollo 4000 servers, provides a long-term, robust, and cost-effective platform for implementing compliant data archives combined with an ability to support multiple media formats, applications, and locations.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to these new industry solutions, HPE is releasing an innovative edition of Vertica for Hadoop-configured Apollo and Proliant platforms. The company will also be issuing reference architectures for optimizing &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687791&amp;amp;type=1&amp;amp;url=http%3a%2f%2fcommunity.hpe.com%2ft5%2fBig-Data%2fFive-often-overlooked-Big-Data-analytics-project-killers%2fba-p%2f6847261&quot;>HPE Vertica for SQL on Hadoop&lt;/a> to deliver fast, advanced analytics. This combined offering helps organizations tackle their largest analytics challenges to support any Hadoop distribution.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Enterprises across diverse industries are challenged by the demanding performance, scale and efficiency requirements of complex simulation, modeling and analytics problems,&amp;quot; said Steve Conway, IDC research vice president for high performance computing and data analysis. &amp;quot;HPE's new HPC solutions feature innovations in systems design, workload optimization, density optimization and open source software that are designed to accelerate time-to-value in areas such as deep learning, energy exploration and mechanical design, as well as financial trading and regulatory compliance.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help customers with their HPC environments, HPE offers skilled and experienced professionals to deliver a comprehensive range of design, deploy and management services. For more information on HPE's services, please visit: &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687794&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.hpe.com%2fservices&quot;>www.hpe.com/services&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The &lt;b>HPE Apollo 6500&lt;/b> will be available in Q3 2016.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The &lt;b>HPE Apollo 4520&lt;/b> will be available on April 18. The HPE Apollo 4520 chassis will start at $8500 USD.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>FSI solutions are available now and pricing will vary based on customer requirements.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information&lt;br>&#xa; &lt;/b>&amp;quot;&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687797&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpematter.com%2fissue-no-8-winter-2016%2fHigh-Performance-Computing-5-Trends&quot;>High Performance Computing: 5 Trends That Could Define This Year (and Beyond)&lt;/a>&amp;quot; by Bill Mannel&lt;br>&#xa;&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1252038&amp;amp;id=8687800&amp;amp;type=1&amp;amp;url=http%3a%2f%2fcommunity.hpe.com%2ft5%2fServers-The-Right-Compute%2fHPC-Market-Leader-Takes-Aim-at-Big-Compute-Big-Data-Convergence%2fba-p%2f6847245&quot;>HPC Market Leader Takes Aim at Big Compute-Big Data Convergence&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> IDC, Worldwide HPC Server 2015-2019 Forecast, Mar 2015, Doc #255147, Market Analysis&lt;br>&#xa;&lt;sup>2&lt;/sup> IDC HPC_WW IDCQView4Q20150320, Earl Joseph and Bob Sorensen; March 20, 2016&lt;br>&#xa;&lt;sup>3&lt;/sup> Based on HPE internal benchmarks&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0fut
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/11/hpe-helps-businesses-capitalize-on-hpc-and-ai-applications-with-new-high-density-compute-and-storage"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Helps-Businesses-Capitalize-on-HPC-and-AI-Applications-with-New-High-Density-Compute-and-Storage.jpg"/>
+                        </contentblock_0fut>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_c4as
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprisesgi-cheyenne-and-pleiades-systems-named-on-top500-list"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_c4as>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yonb
+                            jcr:lastModified="{Date}2018-10-23T15:27:37.505Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-delivers-faster-business-insights-and-industry-leading-security-with-new-high-performance-computing-solutions"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Faster Business Insights and Industry-Leading Security with New High Performance Computing Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T15:27:37.505Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Triples-Performance-and-Enhances-Energy-Efficiency-in-New-Supercomputer-for-National-Renewable-Energy-Laboratory-NREL-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T15:27:37.505Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_yonb>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

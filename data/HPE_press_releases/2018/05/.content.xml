@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2018-11-19T14:47:02.056Z"
+        cq:lastModifiedBy="cheryl.nagle"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="05"
+        jcr:uuid="d89feb75-648e-4fef-91f2-e901b941fdc5"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"
+        webSectionId="R11989"/>
+    <hpe-reports-fiscal-2018-second-quarter-results/>
+    <gatwick-airport-installs-next-generation-it-network-with-hpe/>
+    <hewlett-packard-enterprise-to-present-live-audio-webcast-of-second-quarter-earnings-conference-call-3/>
+    <hpe-guarantees-industrys-highest-all-flash-storage-capacity-efficiency/>
+    <hpe-announces-collaboration-with-red-hat-to-optimize-and-accelerate-containers-in-production/>
+</jcr:root>

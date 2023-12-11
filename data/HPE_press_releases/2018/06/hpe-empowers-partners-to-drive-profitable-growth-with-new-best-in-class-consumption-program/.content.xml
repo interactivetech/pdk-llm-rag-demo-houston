@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:40:31.250Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-empowers-partners-to-drive-profitable-growth-with-new-best-in-class-consumption-program"
+        jcr:uuid="0bb932a4-2fc9-460a-928b-2a70b0690e03"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-06-18T13:00:09.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Ella Hulbert"
+        metaDescription="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+        navTitle="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+        pageTitle="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+        priority="(None)"
+        subtitle="HPE unveils GreenLake Flex Capacity for partners and announces enhancements to HPE Partner Ready Digital Marketing Program"
+        theme="dark"
+        UAID="6eb48492-3770-4168-bb01-bb702d3242f9"
+        UCID="7859ea64-7e7e-4c04-bf57-a8d82ad75861"
+        webSectionId="R11989"
+        WPID="200839">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 18, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/General-Partners-Session-Release.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Empowers Partners to Drive Profitable Growth with New Best-in-Class Consumption Program"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:57:26.111Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>With HPE GreenLake Flex Capacity for partners, HPE is making it easier and more profitable for partners to sell HPE's leading on-premises consumption solution&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>This new offering will enable channel partners to capitalize on an estimated $16 billion in consumption opportunities&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is also announcing new education offerings and a personalized digital marketing assessment to help partners improve their marketing and sales effectiveness&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-31T09:56:44.077Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:57:27.084Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE unveils GreenLake Flex Capacity for partners and announces enhancements to HPE Partner Ready Digital Marketing Program&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_kdc6
+                    jcr:lastModified="{Date}2018-10-18T11:46:49.518Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS, Nevada - June 18, 2018 -&lt;/b> At its 2018 Global Partner Summit today, &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) announced HPE GreenLake Flex Capacity for partners, a new offering that makes it easier and more profitable for partners to sell HPE's leading on-premises consumption solution. HPE also introduced enhancements to its HPE Partner Ready Digital Marketing Program to help partners improve their marketing effectiveness and increase sales. These expanded programs and offerings uniquely enable partners to bring differentiated solutions to customers, addressing fundamental market transitions they face.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_8ij3
+                    jcr:lastModified="{Date}2018-10-18T11:48:08.516Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE is focused on bringing the best innovation to partners to help capitalize on market disruptions&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T11:48:08.516Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_8ij3>
+                <textonlycomponent_sm40
+                    jcr:lastModified="{Date}2018-10-31T09:58:05.779Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;At HPE, we are laser focused on bringing the best innovation to our partners so they can capitalize on market disruptions and grow profitably&amp;quot;. said Paul Hunter, Worldwide Head of Partner Sales, HPE. &amp;quot;Through our innovative product and services portfolio and leading channel programs, we will help partners succeed in today's fast-paced technology environment&amp;quot;.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enabling channel partners to capitalize on consumption opportunity HPE estimates to be $16 billion&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>According to IDC, by 2020, consumption-based procurement will account for as much as 40% of enterprises' IT infrastructure spending&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>&lt;sup>1&lt;/sup>&lt;/a>. Customers increasingly want to pay for the infrastructure they consume each month -- allowing flexibility to scale up or down as required, while avoiding capital expenses.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Recognizing this trend and market opportunity, HPE is introducing a new offering for channel partners to help customers adopt a pay-per-use model and access new on-premises technologies - such as &lt;a href=&quot;https://www.hpe.com/us/en/solutions/software-defined.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>software-defined infrastructure&lt;/a>, all-flash storage and private cloud without a significant upfront investment. The new HPE GreenLake Flex Capacity for partners offering enables system integrators, resellers and distributors to deliver HPE's differentiated, industry-leading GreenLake Flex Capacity directly to customers.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Launched with specific packages for seven of HPE's most popular products&lt;a href=&quot;#_ftn2&quot; name=&quot;_ftnref2&quot;>&lt;sup>2&lt;/sup>&lt;/a>, the offering features configurations that are pre-defined, pre-approved and price-banded, so they are easy to quote and sell. In addition, they are designed to empower partners to earn increased margin and can build an annuity revenue stream with a projected 25% year-over-year growth rate.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_5mzv
+                    jcr:lastModified="{Date}2018-10-18T12:05:13.753Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE's new channel partner offerings provide pre-defined, pre-approved and price-banded configurations&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T12:05:13.753Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_5mzv>
+                <textonlycomponent_k9bm
+                    jcr:lastModified="{Date}2018-10-31T09:58:50.347Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Helping partners generate more leads, pipeline and revenue&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through the new HPE Partner Ready Marketing Pro Academy, HPE is introducing educational resources to help partners improve their digital marketing proficiency and effectiveness in support of generating additional leads, pipeline, and revenue. Within the Marketing Pro Academy, HPE authorized partners will have full access to videos, whitepapers, presentations, and guides designed to educate them on the latest digital marketing topics and trends. Furthermore, an expansion of face-to-face Digital Marketing Workshops around the world will enable HPE to further engage and educate partners across many major metro areas.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE is introducing the HPE Digital Marketing Maturity Assessment, which enables partners to better understand their digital and social capabilities through a structured online survey and assessment framework to evaluate digital marketing maturity. The assessment provides personalized reports with steps and recommended actions for improvement across five key areas including Digital Identity, Organizational Commitment, Analytical Framework, Customer Relationship Management, and Campaign Planning &amp;amp; Execution.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref1&quot; name=&quot;_ftn1&quot;>1.&lt;/a>&amp;nbsp;IDC FutureScape: Worldwide Datacenter 2018 Predictions Nov 2017&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref2&quot; name=&quot;_ftn2&quot;>2&lt;/a>.&amp;nbsp;HPE ProLiant Microsoft Azure, HPE Synergy 480 Compute Modules, HPE SimpliVity 380, HPE ProLiant BL460c Server Blade, HPE 3PAR StoreServ 8200, HPE 3PAR StoreServ 9450, HPE StoreOnce 5100&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_tymv
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/congratulations-to-our-2018-hpe-partner-of-the-year-award-winners"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Congratulations to Our 2018 HPE Partner of the Year Award Winners"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Congratulations to Our 2018 HPE Partner of the Year Award Winners"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Screen-Shot-2018-06-07-at-2.20.55-PM.png"/>
+                        </contentblock_tymv>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_892h
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/new-hpe-presales-program-to-sharpen-partners-competitive-edge"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="New HPE Presales Program to Sharpen Partners' Competitive Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="New HPE Presales Program to Sharpen Partners' Competitive Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_Meeting.jpg"/>
+                        </contentblock_892h>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_eucv
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/join-us-in-congratulating-the-winners-of-the-2017-hpe-partner-of-the-year-awards"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Join Us in Congratulating the Winners of the 2017 HPE Partner of the Year Awards"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Join Us in Congratulating the Winners of the 2017 HPE Partner of the Year Awards"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NimbleWeb.jpg"/>
+                        </contentblock_eucv>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

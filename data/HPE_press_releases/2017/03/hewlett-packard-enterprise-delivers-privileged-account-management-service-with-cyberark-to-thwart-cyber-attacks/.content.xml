@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-24T18:25:55.624Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-delivers-privileged-account-management-service-with-cyberark-to-thwart-cyber-attacks"
+        jcr:uuid="c389d036-33b2-4723-9da4-2e9cca495482"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:56:45.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Delivers Privileged Account Management Service With CyberArk to Thwart Cyber Attacks"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-privileged-account-management-service-with-cyberark-to-thwart-cyber-attacks/jcr:content/main-par/body-par/columncontainercompo/column_2/contentblock_ae1d"
+        navTitle="Hewlett Packard Enterprise Delivers Privileged Account Management Service With CyberArk to Thwart Cyber Attacks"
+        pageTitle="Hewlett Packard Enterprise Delivers Privileged Account Management Service With CyberArk to Thwart Cyber Attacks"
+        priority="(None)"
+        subtitle="New HPE Security Services Offering Helps Organizations Prevent External Breaches and Insider Threats Targeting Privileged Accounts, as Well as Maintain Compliance"
+        theme="dark"
+        UAID="572dd666-4549-4db0-858c-350417927a8b"
+        UCID="711293fa-66a4-4fd7-abf2-eec2546ba46d"
+        WPID="1285">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T14:36:18.637Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JULY 26, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HPE Security Services Offering Helps Organizations Prevent External Breaches and Insider Threats Targeting Privileged Accounts, as Well as Maintain Compliance&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_6pw4
+                    jcr:lastModified="{Date}2023-03-24T18:23:20.190Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jul 26, 2016) - Hewlett Packard Enterprise (HPE) (NYSE: HPE) today announced the HPE Privileged Account Management (PAM) Service offering, an extension to its HPE Managed Security Services (MSS) portfolio. In partnership with privileged account security software leader CyberArk (NASDAQ: CYBR), this offering is designed to help customers more effectively mitigate the heightened risk associated with privileged accounts, enforce more consistent application of security policies, and reduce manual efforts and administrative costs.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>External attackers and malicious insiders are increasingly using the broader network permissions of privileged accounts to execute complex breaches and access sensitive information. In fact, 80 percent of all targeted attacks exploited privileged accounts during the attack process.&lt;sup>1&lt;/sup> These attacks are often able to take full control of an organization's IT infrastructure, disable its security controls, steal confidential information, commit financial fraud, and disrupt operations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE PAM Service leverages the ten global HPE Security Operations Centers (SOCs), offshore resources, and the CyberArk Privileged Account Security Solution to help organizations address some of the biggest security challenges including: advanced targeted attacks, insider threats, malware targeted at privileged accounts, regulation and failed audits, and the outsourcing of sensitive information, assets and infrastructure. The CyberArk Privileged Account Security Solution provides a comprehensive solution for operating systems, databases, applications, hypervisors, network devices, and security appliances. It can be deployed on-premise, in the hybrid cloud and OT/SCADA environments.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Threats targeting privileged accounts are increasing in frequency, complexity and scope, making it critical for organizations to gain control and visibility of this key user group's activity,&amp;quot; said Art Wong, senior vice president and general manager, HPE Security Services, Hewlett Packard Enterprise. &amp;quot;The full-service HPE Privileged Account Management offering backed by CyberArk technology provides organizations with the means to effectively mitigate their risks of both external and internal attacks on privileged accounts, as well as maintain compliance.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE PAM Service is integrated with the HPE Identity and Access Management (IAM) Service to address the growing challenges of IAM, thus improving efficiency and saving costs. In addition, as part of the C&lt;sup>3&lt;/sup> Alliance, HPE and CyberArk also offer proven and tested bi-directional integrations between the HPE ArcSight SIEM platform and the CyberArk Privileged Account Security and Privileged Threat Analytics solutions. The integration provides joint customers with detailed privileged account activity intelligence and actionable alerts on anomalous behavior in HPE ArcSight where it can be correlated with other indicators to quickly identify and disrupt the most critical in-progress attacks.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Privileged accounts provide tremendous access to sensitive information and infrastructure that can take down an entire organization if compromised by attackers,&amp;quot; &lt;i>said Adam Bosnian, executive vice president, global business development and head of the C&lt;sup>3&lt;/sup> Alliance, CyberArk. &amp;quot;This partnership combines CyberArk's proven, innovative Privileged Account Security Solution with HPE's comprehensive global Managed Security Services portfolio to proactively manage privileged user and account risk and combat this growing challenge.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Benefits &amp;amp; Impact&lt;br>&#xd;&#xa; &lt;/b>The newly introduced HPE PAM Service offering features numerous enterprise security benefits, including:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Protectionagainst cyber attacks&lt;/b> - Lock down privileged accounts and secure sessionsto prevent malware infection at the endpoint, lateral movement, and attackescalation to stop attack progression.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Visibility- &lt;/b>Controlof administrative access to a wide range of systems and infrastructures,from accounts on operating systems, databases, middleware andapplications, to network devices and SaaS applications.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>ComplianceSupport -&lt;/b>Fully auditable system that supports stringent needs of highly regulatedindustry sectors, such as providing auditors with detailed privilegedaccess reports. By 2017, analysts predict that more stringent regulations around control of privilegedaccess will lead to a rise of 40% in fines and penalties imposed byregulatory bodies on organizations with deficient PAM controls that havebeen breached.&lt;sup>2&lt;/sup>&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Consistency&amp;amp; Accountability - &lt;/b>Seamlessly enforcing consistent passwordpolicies across the enterprise. Anonymous use of credentials is eliminatedacross the enterprise and auditable controls tie people to their actions.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Efficiency- &lt;/b>Passwordpolicies enforcement and secured, centralized, and automated passwordmanagement for administrative, service, and application accounts.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;br>&#xd;&#xa; &lt;/b>The HPE PAM Service is currently available to customers as part of the HPE Managed Security Services (MSS) portfolio, which delivers an extensive security service management process and in-depth consulting expertise to define, implement and manage a resilient security program.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HPE Security&lt;br>&#xd;&#xa; &lt;/b>HPE Security helps organizations protect their business-critical digital assets by building security into the fabric of the enterprise, detecting and responding to advanced threats, and safeguarding continuity and compliance to effectively mitigate risk. With an integrated suite of market-leading products, services, threat intelligence and security research, HPE Security empowers organizations to balance protection with innovation to keep pace with today's idea economy. &amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xd;&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statements&lt;/b>&lt;br>&#xd;&#xa; This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended August 10, 2015, September 4, 2015, September 15, 2015, September 28, 2015 and October 7, 2015. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> CyberArk Threat Report, &amp;quot;Privileged Account Exploits Shift the Front Lines of Cyber Security,&amp;quot; November 2014.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> Gartner &amp;quot;Market Guide for Privileged Access Management,&amp;quot; May 2015.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_fig0
+                            jcr:lastModified="{Date}2023-03-24T18:23:45.280Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-acquires-niara-to-enhance-security-at-the-intelligent-edge"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-24T18:23:45.280Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Acquires-Niara.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-24T18:23:45.280Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_fig0>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_8758
+                            jcr:created="{Date}2018-10-23T14:39:50.335Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2023-03-24T18:25:34.523Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/after-all-the-hard-work-why-do-security-gaps-still-exist"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="After all the hard work, why do security gaps still exist?"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="After all the hard work, why do security gaps still exist?"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-24T18:25:34.523Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/1-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-24T18:25:34.523Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_8758>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ae1d
+                            jcr:created="{Date}2018-10-23T14:37:43.624Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2023-03-24T18:25:55.603Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-unveils-the-worlds-most-secure-industry-standard-servers"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-24T18:25:55.603Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-24T18:25:55.603Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_ae1d>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

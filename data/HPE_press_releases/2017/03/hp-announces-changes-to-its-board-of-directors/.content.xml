@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:21:35.911Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/storage]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-announces-changes-to-its-board-of-directors"
+        jcr:uuid="6831e811-0ccf-42ed-98e8-4e3b040cddb2"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:09.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Announces Changes to Its Board of Directors"
+        navTitle="HP Announces Changes to Its Board of Directors"
+        pageTitle="HP Announces Changes to Its Board of Directors"
+        priority="(None)"
+        subtitle="Meg Whitman Appointed Chairman of the Board; Pat Russo Appointed Lead Independent Director; Klaus Kleinfeld, Chief Executive Officer and Chairman of Alcoa, Joins Board"
+        theme="dark"
+        UAID="41d03802-d2b9-4d52-83f1-7f558aec3f75"
+        UCID="65d2e58f-95d7-4612-a7fd-c3c1867fe959"
+        WPID="1590">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-17T10:44:17.060Z"
+                jcr:lastModifiedBy="hpe.publishers"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="July 17, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Meg Whitman Appointed Chairman of the Board; Pat Russo Appointed Lead Independent Director; Klaus Kleinfeld, Chief Executive Officer and Chairman of Alcoa, Joins Board&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_g7xh
+                    jcr:lastModified="{Date}2018-10-17T10:46:33.509Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jul 17, 2014) - HP (NYSE: HPQ)today announced that Meg Whitman, HP president and chief executive officer, has been appointed chairman of the board of directors, and current director Pat Russo has been appointed lead independent director. Additionally, Klaus Kleinfeld, chief executive and chairman of Alcoa, has been appointed to the board, bringing the total number of board members to 12.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Whitman has been president and chief executive officer of HP since September 2011 and a member of the board since January 2011. Russo has been a director since 2011. She leads the HR and Compensation Committee and is a member of the Nominating, Governance and Social Responsibility Committee.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;I'm extremely pleased that the board has elected Meg its chairman and Pat lead independent director,&amp;quot; said Ralph Whitworth, departing chairman of HP's board. &amp;quot;Meg and Pat are unwavering in their commitment to the corporate governance, capital allocation and management incentive principles that drove our decisions these past three years. They will stick to and strengthen the critical practices and disciplines we've put in place. HP is in great hands.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Meg has been an outstanding leader since coming to HP, and we believe that as chairman she can most effectively drive the turnaround and continue to build value for our shareholders,&amp;quot; said Gary Reiner, chairman of the Nominating, Governance and Social Responsibility Committee.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Reiner added, &amp;quot;Throughout Pat's three years on the board, her deep operational and technology experience and her commitment to governance best practice have proved invaluable.She was the obvious choice to step in as lead independent director.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Klaus Kleinfeld Appointed to the Board&lt;br>&#xa; &lt;/b>Klaus Kleinfeld, 56, serves as chairman and chief executive officer of Alcoa, a global leader in lightweight metals technology, engineering and manufacturing. Under Kleinfeld's leadership, Alcoa has been pivoting from a commodities-focused company to a diversified lightweight metals enterprise for the automotive, aerospace, defense and commercial transportation industries.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Prior to Alcoa, Kleinfeld spent two decades at Siemens, rising to become the chief executive officer of the global electronics and industrial conglomerate. During his tenure, Kleinfeld presided over a dramatic transformation of the company, reshaping its portfolio around three high-growth areas, resulting in an increase of revenues and a near doubling of market capitalization.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As CEO of two global companies during major turnarounds, Klaus has a deep understanding of the challenges and opportunities facing HP today,&amp;quot; said Whitman. &amp;quot;Klaus's leadership, strategic vision and expertise in successfully leading these companies through times of change will be a positive addition to our already outstanding board. I look forward to working with him.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Kleinfeld will serve as a member of the Nominating, Governance and Social Responsibility Committee.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In an additional appointment, Robert Bennett has been appointed chairman of the Finance and Investment Committee.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Meg Whitman&lt;br>&#xa; &lt;/b>Meg Whitman has served as president and chief executive officer of HP since September 2011 and as a member of the Board since January 2011. From 1998 to 2008, Whitman served as president and chief executive officer of eBay Inc. Prior to joining eBay, Whitman held executive-level positions at Hasbro Inc., a toy company, FTD, Inc., The Stride Rite Corporation, The Walt Disney Company, and Bain &amp;amp; Company.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Whitman also serves as a director of The Procter &amp;amp; Gamble Company.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Pat Russo&lt;br>&#xa; &lt;/b>Pat Russo served as chief executive officer of Alcatel-Lucent, a communications company, from 2006 to September 2008. Previously, she served as chairman of Lucent Technologies Inc., a communications company, from 2003 to 2006, and chief executive officer and president of Lucent from 2002 to 2006.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Russo also is a director of Alcoa, Inc., General Motors Company and Merck &amp;amp; Co., Inc. In addition to her other public company directorships, she is a director of KKR Management LLC, the managing partner of KKR &amp;amp; Co., L.P. She served as a director of Schering-Plough Corporation from 1995 until its merger with Merck in 2009.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Klaus Kleinfeld&lt;br>&#xa; &lt;/b>Klaus Kleinfeld is chairman and chief executive officer of Alcoa, a global leader in lightweight metals technology, engineering and manufacturing solutions for the automotive, aerospace, defense and commercial transportation industries, as well as the building and construction, packaging, and oil and gas markets. Kleinfeld joined the company in 2007 as president and chief operating officer and seven months later assumed chief executive officer responsibilities. He has served on Alcoa's Board of Directors since 2003.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Previously, Kleinfeld spent 20 years with Siemens, the global electronics and industrial conglomerate, where he served as chief executive officer of Siemens AG starting in 2005. Prior to that, Kleinfeld was president and chief executive officer of the U.S. subsidiary, Siemens Corporation, which represents the company's largest region.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to serving on Alcoa's board, Kleinfeld is a member of the Board of Directors of Morgan Stanley and as a member of the supervisory board of Bayer AG.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Robert Bennett&lt;br>&#xa; &lt;/b>Robert Bennett is the former president and chief executive officer of Liberty Media Corporation. He served in those positions from April 1997 until August 2005. He was one of the founding executives of Liberty and served as its Principal Financial Officer from its inception in 1991 until 1997. He currently is Managing Director of Hilltop Investments, LLC, a family investment company. Bennett also served as president of Discovery Holding Company from March 2005 until September 2008 when it merged with Discovery Communications, Inc., creating a new public company. Prior to his tenure at Liberty, Bennett worked with Tele-Communications, Inc. in a variety of financial positions and with The Bank of New York. He currently serves on the boards of Liberty, Discovery Communications, Inc. and Sprint Corporation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1132067&amp;amp;id=4419280&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.hp.com%2f&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_81po
+                            jcr:lastModified="{Date}2018-10-17T10:45:20.052Z"
+                            jcr:lastModifiedBy="hpe.publishers"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hewlett-packard-enterprise-announces-antonio-neri-to-succeed-meg-whitman-as-chief-executive-officer"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Announces Antonio Neri to Succeed Meg Whitman as Chief Executive Officer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces Antonio Neri to Succeed Meg Whitman as Chief Executive Officer"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T10:45:20.052Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Option-2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T10:45:20.052Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_81po>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_6ly7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/board-of-directors-named-for-new-company-to-be-formed-by-the-proposed-merger-of-csc-and-the-enterprise-services-business-of-hewlett-packard-enterprise"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Board of Directors Named for New Company to be Formed by the Proposed Merger of CSC and the Enterprise Services Business of Hewlett Packard Enterprise"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/BoardOfDirectors_web.jpg"/>
+                        </contentblock_6ly7>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_k4dz
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hewlett-packard-enterprise-introduces-program-to-accelerate-singapore-tech-startups"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Introduces Program to Accelerate Singapore Tech Startups"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Introduces Program to Accelerate Singapore Tech Startups"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/SingaporeNewsAdvisory.jpg"/>
+                        </contentblock_k4dz>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

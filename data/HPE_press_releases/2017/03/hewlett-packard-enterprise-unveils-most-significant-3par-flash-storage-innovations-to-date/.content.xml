@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:44:46.997Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-unveils-most-significant-3par-flash-storage-innovations-to-date"
+        jcr:uuid="021d2b94-05f4-4726-94d6-89f99b61dbd5"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:51:06.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+        navTitle="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+        pageTitle="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+        priority="(None)"
+        subtitle="Next-generation 3PAR OS provides foundation for Hybrid IT as all-flash becomes the new normal"
+        theme="dark"
+        UAID="4c4f9910-d940-45ce-9dcb-878a0e14ab64"
+        UCID="675c9c4e-fa96-411c-b924-de1dc8264f7d"
+        WPID="1099">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T12:59:26.098Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="FEBRUARY 13, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE20160923076v2.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Unveils Most Significant 3PAR Flash Storage Innovations to Date"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Next-generation 3PAR OS provides foundation for Hybrid IT as all-flash becomes the new normal&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_0z9w
+                    jcr:lastModified="{Date}2020-04-13T17:01:44.268Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Feb 13, 2017) - Hewlett Packard Enterprise (HPE) (NYSE: HPE) announced its most significant set of 3PAR storage innovations to date, including a next-generation HPE 3PAR Operating System that provides a futureproof foundation for hybrid IT.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New &lt;b>3PAR Adaptive Data Reduction (ADR)&lt;/b> deliverscomprehensive data compaction to lower capacity costs.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Updates to &lt;b>3PAR Peer Persistence&lt;/b> mitigaterisks by enabling disaster recovery across greater distances.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Off-premises copy management with &lt;b>HPERecovery Manager Central (RMC)&lt;/b> extends data protection beyond thearray.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Expanded automation capabilities for &lt;b>3PARStoreServ Management Console (SSMC) &lt;/b>improve business agility.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As all-flash storage becomes the new normal, customers are realizing that pure-play all-flash systems cannot address the new requirements arising from this 'third wave' of flash evolution. These new demands go beyond the performance or cost of an individual flash array, meaning that all-flash storage vendors must also help customers simplify operations across the data center, mitigate risks from edge to core to cloud and support hybrid IT transformation. The &lt;a href=&quot;https://www-prod-auth-west.ext.hpe.com/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>HPE 3PAR&lt;/a> innovations announced today provide customers a futureproof solution for these third-wave demands with support for cloud-native applications, datacenter-wide orchestration, tier-1 resiliency and a seamless path to emerging technologies such as storage class memory (SCM) and NVM Express (NVMe).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Customers see all-flash storage as only one part of a hybrid IT strategy,&amp;quot; said Bill Philbin, senior vice president, Data Center Infrastructure Group, Hewlett Packard Enterprise. &amp;quot;3PAR is a best-in-class array but we go further to optimize the full stack and provide data mobility across systems -- an approach that has helped us grow faster than the market over the last 18 months.&amp;quot;&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Lower cost and boost performance while assuring a path to what's next &lt;br>&#xa; &lt;/b>Technology refresh cycles for storage are growing longer while at the same time flash media technology is changing faster than ever. This is why HPE engineers an enduring design into its 3PAR Architecture. One example is the recent tech preview of 3PAR 3D Cache for flash hyper-acceleration using SCM over NVMe, which showcases the ability to easily support new technologies.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Another example is the new 3PAR Adaptive Data Reduction (ADR) feature, which can reduce capacity needs by 75 percent&lt;sup>2&lt;/sup>. Spanning in-line deduplication and compression, ADR can be selectively applied and includes built-in intelligence to avoid wasting system resources. ADR also goes beyond compression with a unique 3PAR Data Packing algorithm that organizes data writes in a way that avoids the garbage-heavy processes that weigh down other flash storage arrays.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, the latest 3PAR OS enables customers to:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Accelerate applications running over iSCSI to reduce latency by up to 40 percent via 3PAR Express Writes optimization&lt;sup>3&lt;/sup>.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Better support cloud computing deployments with iSCSI updates that include expanded host connectivity and multi-tenant IP networking.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Serve more workloads with 3PAR File Persona updates that double scalability, automate provisioning and enable cross-protocol file sharing.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>These benefits are available at no extra charge as part of new, all-inclusive licensing that simplifies purchasing and reduces costs by up to 30 percent&lt;sup>4&lt;/sup>. Additionally, the &lt;a href=&quot;https://www.youtube.com/watch?v=BgtkzUdbsjg&amp;amp;feature=youtube&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>HPE 3PAR Flash Now&lt;/a> initiative enables acquisition of an upgraded 3PAR flash array plus networking and data protection for just pennies per usable gigabyte per month via a simple cloud-like consumption model.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Delivering a highly resilient all-flash data center from core to cloud to edge&lt;br>&#xa; &lt;/b>As critical workloads migrate to flash, risk mitigation is critical. HPE reduces risk in hybrid IT deployments, starting with transparent application and host failover at the core of the data center via HPE 3PAR Peer Persistence, which now has three-data center support for disaster recovery across greater distances.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For data protection beyond the array, &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/rmc-backup.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>HPE Recovery Manager Central (RMC) &lt;/a>provides seamless, application-managed snapshots and data movement from 3PAR to secondary &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/protection-retention-availability/store-once.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>HPE StoreOnce Systems&lt;/a>. The newest version of RMC delivers 23x faster backup&lt;sup>5&lt;/sup> and 7x faster restores than the leading backup ISV with 9x lower CPU consumption&lt;sup>6&lt;/sup> -- which minimizes backup impact on application servers. Due to all-inclusive licensing, RMC now comes at no additional charge with the 3PAR array. In addition, RMC can deliver as much as a half million dollar cost savings over a three-year period compared to traditional ISV backup process.&lt;sup>7&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As part of the right mix of on-prem and off-prem storage, data protected on HPE StoreOnce Systems can now be replicated to the cloud thanks to HPE StoreOnce VSA software in Microsoft Azure with support from HPE Recovery Manager Central, Data Protector and other leading backup applications.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Extending data protection to edge computing and software-defined storage (SDS), HPE also announced Peer Copy, a copy management feature within RMC that enables bi-directional movement of snapshot data between StoreVirtual VSA and 3PAR arrays. Customers can utilize Peer Copy with new StoreVirtual VSA Ready Node reference architectures based on HPE ProLiant servers to easily protect SDS in locations such as remote and branch offices.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Automation for agility from data center to data service&lt;br>&#xa; &lt;/b>As customers embrace hybrid IT to speed service delivery, HPE continues to embed automation and cloud-based analytic capabilities into 3PAR management tools that complement integration into HPE OneView and HPE Synergy.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE 3PAR StoreServ Management Console (SSMC) includes the ability to automate and schedule large-scale data migrations of up to twenty-four 3PAR or supported third-party storage systems. In addition, SSMC now features HPE Smart SAN integration for fully automated, one-click SAN zoning of Fibre Channel networks -- reducing fabric provisioning effort by 90 percent.&lt;sup>8&lt;/sup> Updates to the HPE StoreFront Remote cloud analytics portal provide 3PAR customers with best practice recommendations to proactively reduce risk, manage software updates and assist in capacity planning.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HPE 3PAR next-generation operating system (3PAR OS 3.3.1) is available worldwide in Q1 2017 at no additional charge for 3PAR customers with valid support contracts.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HPE StoreOnce VSA for Azure is available worldwide in Q1 2017 starting at $1400.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Peer Copy and HPE Recovery Manager Central are available in Q2 2017 worldwide at no additional charge for 3PAR and StoreVirtual VSA customers with valid support contracts.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;br>&#xa; The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Based on IDC Q3 2016 Disk Tracker&lt;br>&#xa; &lt;sup>2&lt;/sup> Based on terms and conditions as specified in the Get Thin Guarantee at &lt;a href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>https://www.hpe.com/us/en/resources/storage/get-thinner.html&lt;/a>&lt;br>&#xa; &lt;sup>3&lt;/sup> Based on HPE internal performance testing measuring iSCSI write latency before and after Express Writes&lt;br>&#xa; &lt;sup>4&lt;/sup> Based on moving to an all-inclusive licensing model and factoring in savings from compression and other adaptive data reduction technologies&lt;br>&#xa; &lt;sup>5&lt;/sup> Based on internal HPE testing of backup performance comparison between HPE Recovery Manager Central for VMware environments and traditional non-HPE backup software&lt;br>&#xa; &lt;sup>6&lt;/sup> Based on internal HPE testing of restore performance and CPU consumption comparison between HPE Recovery Manager Central for file systems and traditional non-HPE backup software.&lt;br>&#xa; &lt;sup>7&lt;/sup> License cost savings in 3 year period using HPE RMC compared to traditional non-HPE backup software&lt;br>&#xa; &lt;sup>8&lt;/sup> Based on tests performed by Demartek on Gen 6 Fibre Channel&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_r8lv
+                            jcr:lastModified="{Date}2018-10-23T13:22:22.029Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/the-third-wave-of-all-flash-arrays-hpe-launches-next-gen-3par-os-2"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="The &quot;Third Wave&quot; of All-Flash Arrays: HPE Launches Next-Gen 3PAR OS"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Third Wave of All-Flash Arrays: HPE Launches Next-Gen 3PAR OS"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T13:22:22.029Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/third_wave-Flash.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T13:22:22.029Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_r8lv>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_s03j
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_s03j>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_cut5
+                            jcr:lastModified="{Date}2018-10-23T13:23:15.013Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/05/hpe-guarantees-industrys-highest-all-flash-storage-capacity-efficiency"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Guarantees Industry's Highest All-Flash Storage Capacity Efficiency"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Guarantees Industrys Highest All-Flash Storage Capacity Efficiency"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T13:23:15.013Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Nimble-All-Flash-Arrays-Man.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T13:23:15.013Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_cut5>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

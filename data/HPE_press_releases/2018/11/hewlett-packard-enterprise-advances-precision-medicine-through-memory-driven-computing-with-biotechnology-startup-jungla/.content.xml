@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:18:27.084Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry--healthcare,hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-advances-precision-medicine-through-memory-driven-computing-with-biotechnology-startup-jungla"
+        jcr:uuid="a6c44ca0-1157-4910-a352-59be6032c83e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-11-27T02:00:54.000-08:00"
+        metaDescription="Hewlett Packard Enterprise advances precision medicine through Memory-Driven Computing with biotechnology startup Jungla"
+        metaKeywords="Jungla, Living Heart Project, DZNE, Memory-Driven Computing, medical testing, Tech Impact 2030, World Economic Forum, WEF, digital twins"
+        navTitle="Hewlett Packard Enterprise advances precision medicine through Memory-Driven Computing with biotechnology startup Jungla"
+        pageTitle="Hewlett Packard Enterprise advances precision medicine through Memory-Driven Computing with biotechnology startup Jungla"
+        priority="(None)"
+        subtitle="HPE and Jungla issue challenge to enable real-time, personalized medical care for patients under Tech Impact 2030"
+        theme="dark"
+        UAID="e6a4e271-cb3c-4204-8d00-50a37c77cd57"
+        UCID="ce50dea3-a7b3-43d1-a263-7f4dcd936b1f"
+        WPID="202252">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-22T19:15:49.677Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 27, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Hewlett-Packard-Enterprise-Memory-Driven-Computing-Speeds-Genomic-Data-Analysis-for-Precision-Medicine.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise advances precision medicine through Memory-Driven Computing with biotechnology startup Jungla"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-21T16:15:16.468Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>By applying HPE's Memory-Driven Computing Sandbox to Jungla's data sets, HPE will help Jungla accelerate the clarity and utility of clinical genetic and genomic tests&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Understanding this data is a critical step toward realizing the promise of affordable healthcare tailored to an individual patient's needs: precision medicine&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE also is collaborating with researchers in life sciences and clinical medicine from the Living Heart Project and DZNE to look beyond the inadequacy of traditional computational infrastructure&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Inspired by this work, HPE launched the second challenge under Tech Impact 2030 - to enable real-time, personalized medical care for patients&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE and Jungla issue challenge to enable real-time, personalized medical care for patients under Tech Impact 2030&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_v9mc
+                    jcr:lastModified="{Date}2019-01-22T19:16:59.417Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Madrid&amp;nbsp;- November 27, 2018&lt;/b>&amp;nbsp; - Hewlett Packard Enterprise (HPE) today announced a collaboration with biotechnology and artificial intelligence (AI) startup Jungla to enable real-time personalized medical care for patients. By applying the large-capacity and exponential performance scaling of HPE's Memory-Driven Computing Sandbox to Jungla's data sets, HPE will help Jungla accelerate the clarity and utility of clinical genetic and genomic tests.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Decoding the first human genome required $2.7 billion and took 15 years. Remarkable advances in sequencing technologies have brought the costs of genome sequencing to less than $1,000, making personal genomes a reality and opening a path for affordable, equitable access globally. This data provides the potential to gain insight and actionable guidance from patient genomic data in clinical settings, a critical step toward realizing the promise of affordable healthcare tailored to an individual patient's needs: precision medicine. It allows researchers to determine the answer to questions like:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>What is the connection between the three billion base pairs that comprise the human genome and human wellness?&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>How does variation in the genomes affect the likelihood of a patient developing cancer or heart disease?&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Humans' genetic uniqueness presents significant challenges to clinical care. Even within the parts of the genome whose disease-relevance is well established, less than one percent of the genetic variants in the population are clinically understood. Existing processes and standards to interpret this information within clinical laboratories are heavily reliant on manual pattern recognition and correlation. This barrier slows medical research and limits the scalability, utility and integration of genomic information in clinical workflows for real-time patient diagnosis and management.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We firmly believe that to realize the value of genomic data, we need to look beyond changes in the sequence of a patient's genome and into the changes induced to molecular and cellular function,&amp;quot; said Carlos L. Araya, CEO, Jungla Inc. &amp;quot;To do this, we've built computational and experimental systems that can provide unprecedented levels of insight to clinical teams. This has required massive increases in the scale of data and the processes to generate and analyze it.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Jungla's Molecular Evidence Platform (MEP) models the effects of variants on biological systems at scale and translate the insights into clinical practice. This integrated platform arms patients and healthcare providers with accurate, clear and transparent support for the interpretation of findings in genetic and genomic tests. As the MEP evolves, Jungla is integrating increasingly detailed, mechanistic approaches - including high-resolution molecular analyses - that can reveal how variations in the genome alter cells, such as DNA damage that can lead to cancer.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Traditional computational systems were making it impossible for Jungla to compare its data sets at scale,&amp;quot; said Michael Woodacre, HPE Fellow. &amp;quot;After systems analyzed the data, researchers still needed to manually review the data to identify patterns. But with its unprecedented capacity to process data at scale, Memory-Driven Computing has allowed Jungla to use its analysis platform as a scientific instrument, reducing the risk of human error and dramatically speeding time to results.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_byi0
+                    jcr:lastModified="{Date}2019-01-21T16:22:17.844Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Memory-Driven Computing has allowed Jungla to use its analysis platform as a scientific instrument&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T16:22:17.844Z"
+                        jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_byi0>
+                <textonlycomponent_8xp7
+                    jcr:lastModified="{Date}2019-01-21T16:25:17.666Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>To bring Jungla's vision for the creation of a genomic insights engine to life, HPE loaded one of Jungla's massive data sets onto its 48 TB&lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2018/06/new-hpe-pointnext-capabilities-accelerate-transition-to-memory-driven-computing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;> Memory-Driven Computing Sandbox&lt;/a>, an operating and development environment for customers introduced in June 2018. With the Memory-Driven Computing Sandbox, Jungla's MEP can deliver approximately 250x speed improvements in high-resolution molecular analyses, as compared to traditional hardware.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The complete genome sequence of a patient - describing hundreds of thousands of variants from thousands of genes - represents roughly five GB of information; however, the detailed data from Jungla's workflows can require processing more than 40 TB of information for a single gene.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_51z5
+                    jcr:lastModified="{Date}2019-01-21T16:26:13.389Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Our work with HPE represents a commitment to push the envelope and bring advances in science&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T16:26:13.389Z"
+                        jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_51z5>
+                <textonlycomponent_o4po
+                    jcr:lastModified="{Date}2020-07-02T19:17:33.314Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Our work with HPE represents a commitment to push the envelope and bring advances in science and engineering to bear on the clinical tests of individual patients,&amp;quot; said Araya. &amp;quot;Not only must we succeed at the science, we must build infrastructure and processes that can scale to translate scientific insights into clinical successes for patients. HPE's Memory-Driven Computing systems can allow us to consider new findings from a patient in the context of the molecular characteristics of &lt;i>all&lt;/i> clinically understood variants on demand. These developments don't happen overnight, but it's where we need to go if we want to enable both speed and accuracy in healthcare.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enable real-time, personalized medical care for patients&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to its work with Jungla, the team at HPE is collaborating with researchers in life sciences and clinical medicine from the &lt;a href=&quot;https://www.3ds.com/products-services/simulia/solutions/life-sciences/the-living-heart-project/&quot; target=&quot;_blank&quot;>Living Heart Project&lt;/a> and the &lt;a href=&quot;https://www.dzne.de/en/&quot; target=&quot;_blank&quot;>German Center for Neurodegenerative Diseases&lt;/a> (DZNE) to explore technologys potential to transform multiple areas of the &lt;a href=&quot;https://www.hpe.com/us/en/solutions/healthcare.html&quot; target=&quot;_blank&quot;>life sciences industry&lt;/a>. Each of these research communities is pioneering new approaches to health science to find answers hiding in plain sight and look beyond the silos of scientific disciplines and the inadequacy of traditional computational infrastructure to scale.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Precision medicine will not be possible without the most sophisticated compute infrastructures, stated Prof. Joachim Schultze, Director, PRECISE Platform for Single Cell Genomics and Epigenomics, DZNE and University of Bonn. To me, Memory-Driven Computing seems to be the ideal compute ecosystem for this enormous task.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Inspired by projects with these customers, the ability to disrupt conventional medical testing, and the potential impact of that disruption if scaled, HPE today introduced the second challenge under its &lt;a href=&quot;https://news.hpe.com/tech-impact-2030/&quot; target=&quot;_blank&quot;>Tech Impact 2030&lt;/a> collaboration with the World Economic Forum (the Forum) - to enable real-time, personalized medical care for patients. Under Tech Impact 2030, HPE and the Forum are bringing together experts across the public and private sectors to power meaningful change against a set of key societal challenges by the year 2030.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Looking forward, HPE envisions a fundamental shift for medical researchers who have access to simulations that are sophisticated enough that they include the emergent properties of complex biological systems. Not only will the technology enable them to conduct research faster and at a lower cost; it will empower them to change their relationship with their patients, their data and their science - evolving their roles from information gatherers to insight hunters.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;In a traditional setting, researchers begin with a simple model and add complexity to match what is observed. When something is observed that the model can't explain, the model is often thrown out,&amp;quot; said Kirk Bresniker, vice president, HPE Fellow and chief architect for Memory-Driven Computing. &amp;quot;But what if a researcher could start at the most basic level and assemble levels of modeling by stitching together the atoms to make molecules, molecules to make structures, then build into cells, organs, organisms and ecosystems. Now, researchers can visualize the invisible. They can capture a clear 'before and after' picture, which is critical in science.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Tech Impact 2030&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Earlier this year, HPE and the Forum announced the challenge to &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2018/09/hewlett-packard-enterprise-and-the-world-economic-forum-help-solve-world-hunger-by-2030.html&quot; target=&quot;_blank&quot;>Help Solve World Hunger&lt;/a> by 2030, inspired by results from Purdue University's 1,400-acre research farm and its application of precision agriculture to increase crop yields while drastically conserving resources. By leveraging massive amounts of data collected from connected platforms and devices and processing it at the edge, HPE is providing fast insights that can inform quicker decisions for farmers.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Over the next several months, HPE and the Forum will introduce additional challenges in key industries including financial services, transportation and manufacturing. Each challenge will pose a social, economic or environmental problem that could be tackled by convening experts and applying existing and innovative technology in disruptive ways.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Joining Tech Impact 2030&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE and the Forum believe that partnership is essential to achieving real change. Organizations interested in collaborating on the Tech Impact 2030 program can learn more at &lt;a href=&quot;https://news.hpe.com/tech-impact-2030/&quot; target=&quot;_blank&quot;>https://news.hpe.com/tech-impact-2030/&lt;/a> or reach out to &lt;a href=&quot;mailto:TechImpact2030@hpe.com&quot;>TechImpact2030@hpe.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"/>
+                <imageonlycomponent_1
+                    jcr:created="{Date}2019-01-21T16:37:22.436Z"
+                    jcr:createdBy="ioana.stoichici@hpe.com"
+                    jcr:lastModified="{Date}2019-01-21T16:48:04.252Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE_Tech_Impact_2030_Medical_Testing_Infographic_11222018.jpg"
+                    imageAlignment="hpe-image-center"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-17T18:49:10.374Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b6db
+                            jcr:created="{Date}2019-01-21T16:41:05.626Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2020-07-02T19:17:45.921Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/new-hpe-pointnext-capabilities-accelerate-transition-to-memory-driven-computing"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="New HPE Pointnext Capabilities Accelerate Transition to Memory-Driven Computing"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="New HPE Pointnext Capabilities Accelerate Transition to Memory-Driven Computing"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:17:45.921Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/New-HPE-Pointnext-Capabilities-Accelerate-Transition-to-Memory-Driven-Computing.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:17:45.921Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_b6db>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_96b
+                            jcr:created="{Date}2019-01-21T16:42:04.782Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2020-07-02T19:17:51.187Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/07/how-digital-twins-of-the-human-body-can-advance-healthcare"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="How Digital Twins of the Human Body Can Advance Healthcare"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How Digital Twins of the Human Body Can Advance Healthcare"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:17:51.187Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/BBP_simulation_of-_neural-activity_in_a_tissue_slice_1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:17:51.187Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_96b>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7477
+                            jcr:created="{Date}2019-01-21T16:45:24.307Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2020-07-02T19:17:56.307Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/hungry-for-solutions-hpe-and-the-world-economic-forum-tackle-todays-and-tomorrows-food-challenges"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Hungry for solutions: HPE and the World Economic Forum tackle today’s — and tomorrow’s — food challenges"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hungry for solutions: HPE and the World Economic Forum tackle today’s — and tomorrow’s — food challenges"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:17:56.307Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/disruptionBar/Hungry-for-solutions-HPE-the-World-Economic-Forum-tackle-feeding-the-world.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:17:56.307Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7477>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

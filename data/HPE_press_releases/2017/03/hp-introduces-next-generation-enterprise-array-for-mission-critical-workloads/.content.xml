@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:44:38.271Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-introduces-next-generation-enterprise-array-for-mission-critical-workloads"
+        jcr:uuid="35851bc6-a767-49fd-a590-3e4cfe500cd4"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:33.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="For all Worldwide Media Inquiries, please contact:"
+        metaDescription="HP Introduces Next-Generation Enterprise Array for Mission-Critical Workloads"
+        navTitle="HP Introduces Next-Generation Enterprise Array for Mission-Critical Workloads"
+        pageTitle="HP Introduces Next-Generation Enterprise Array for Mission-Critical Workloads"
+        priority="(None)"
+        subtitle="HP XP7 Storage Provides Ultra-High Performance and Always-On Disaster Recovery for Lower Risk, Greater Data Protection"
+        theme="dark"
+        UAID="90628ba8-c384-4327-b1b5-177dfc563c83"
+        UCID="a5716bac-16a8-4465-bc2a-ee63ff63e814"
+        WPID="1615">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-16T14:44:55.602Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 23, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP XP7 Storage Provides Ultra-High Performance and Always-On Disaster Recovery for Lower Risk, Greater Data Protection&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_1vks
+                    jcr:lastModified="{Date}2018-10-16T14:45:29.770Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Apr 23, 2014) - HP (NYSE: HPQ) today unveiled an enterprise-class storage disk array that provides customers with lower total cost of ownership (TCO) for traditional storage workloads in mission-critical environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Large enterprises rely on mission-critical applications to drive their businesses, which means that applications and data must remain available at all times, without exception. To ensure business continuity, enterprises require storage solutions that are designed to maintain high levels of data availability and continuous disaster recovery protection. To drive greater enterprise efficiency, storage systems that serve these mission-critical environments must also drive greater storage consolidation, deliver extremely high performance levels and offer the lowest possible TCO without compromising data availability or data protection.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.hp.com/go/xp7&quot; rel=&quot;nofollow&quot;>HP XP7 Storage&lt;/a>offers a combination of six 9s -- or 99.9999 percent -- uptime, which translates to less than 31.5 seconds of application downtime per year,&lt;sup>(1)&lt;/sup> as well as always-on disaster recovery protection, increased system density and ultra-high, flash-driven performance. Capable of delivering 3 million IOPS (I/O per second) with submillisecond response times, HP XP7 Storage is the highest performing, full-featured, enterprise-class disk array, delivering three times the performance of the previous generation of XP Storage.&lt;sup>(2)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Spectrum Health needed a storage solution that would enable us to store mission-critical data securely and allow for constant access to the information with no service disruption,&amp;quot; said Sean Henkel, director, Enterprise Infrastructure, Spectrum Health. &amp;quot;The HP XP7 Storage array safeguards our patient and member information, runs efficiently at a lower power consumption rate, and saves us data center costs while providing greater performance.&amp;quot; &lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Most productive traditional enterprise array&lt;sup>(2) &lt;br>&#xa;&lt;/sup>&lt;/b>The HP XP7's next-generation hardware provides the ability to increase system density, reduce power consumption and achieve low-cost performance, with the latest in host connectivity options and the broadest flash and spinning media choices on the market. These media choices include XP Flash Modules and solid-state drives as well as small and large form factor hard disk drives.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With consolidation of up to 4.5 PB of internal storage onto a single array, one HP XP7 Storage system is capable of delivering more IOPS than three EMC Symmetrix VMAX 40K storage arrays combined.&lt;sup>(3)&lt;/sup> Consolidating multiple EMC disk arrays onto a single HP XP7 Storage system reduces data center floor space requirements by a total of 130 square feet and storage-relatedcosts by more than $100,000 per year.&lt;sup>(3)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Advanced, always-on disaster recovery &lt;br>&#xa; &lt;/b>With the most critical data residing on enterprise-class storage platforms, organizations must keep data protected and recoverable at all times. HP XP7 Storage features a new disaster recovery capability with multiarray virtualization to prevent business disruption during or after online data migrations, without measurable performance impacts. Data remains protected using the customer's local or remote strategy with 100 percent uptime.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Today's mission-critical workloads cannot afford to forfeit performance or scalability for increased disaster recovery and data protection,&amp;quot; said David Scott, senior vice president and general manager, HP Storage. &amp;quot;With the introduction of HP XP7 Storage, we are supplying customers with a single system that is highly efficient, with features that can reduce the risk of data loss and provide nonstop data availability.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reduced data and business risk&lt;br>&#xa; &lt;/b>HP XP7 Storage features, including new user authentication and access control functions, increase administrative and resource segregation, enabling customers to manage more data more securely. This is particularly important for large enterprise environments where a single system may be used to drive multiple lines of business, serve thousands of internal and external customers, and be managed by several administrators.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To further address data security requirements, HP XP7 Storage secures data with Federal Information Processing Standard (FIPS) 140-2 encryption readiness.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Protection for storage investments&lt;br>&#xa; &lt;/b>Thorough testing and end-to-end solution certification ensures customers that their HP XP solutions will work as anticipated in their actual environments. &lt;a href=&quot;http://www8.hp.com/us/en/business-services/it-services.html?compURI=1079286#.U0cWXKhdWf4&quot; rel=&quot;nofollow&quot;>HP Technology Services&lt;/a> has a broad portfolio of services supporting HP XP Storage that provides the consulting expertise and support to boost performance in a converged infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HP Enterprise Services has integrated the product into &lt;a href=&quot;http://www8.hp.com/us/en/business-services/it-services.html?compURI=1079586#tab=TAB1&quot; rel=&quot;nofollow&quot;>HP Storage Management Services&lt;/a>, which offers world-class management services providing a selection of storage tiers for all business application needs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP is the only major storage vendor that offers proven enterprise-class systems for mission-critical enterprise applications with HP XP Storage, as well as purpose-built tier-1 solutions designed for unpredictable workloads such as virtualization and cloud computing with &lt;a href=&quot;http://www8.hp.com/us/en/products/data-storage/data-storage-products.html?compURI=1225854&quot; rel=&quot;nofollow&quot;>HP 3PAR StoreServ Storage&lt;/a>.&lt;sup>(2)&lt;/sup> This choice of high-end offerings guarantees that wherever customers are in their transition to a New Style of IT, they have a risk-free path to support their journey.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and availability&lt;sup>(4) &lt;br>&#xa;&lt;/sup>&lt;/b>HP XP7 Storage will be available in May 2014, starting at $462,000.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a href=&quot;http://www.hp.com/&quot; rel=&quot;nofollow&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1) As measured in the HP XP Installed base.&lt;br>&#xa;(2) Based on HP internal comparative analysis of publicly available data from major competitors, April 2014.&lt;br>&#xa;(3) Based on HP internal comparative analysis of publicly available data on EMC Symmetrix VMAX 40K, April 2014.&lt;br>&#xa;(4) Estimated U.S. list prices. Actual prices may vary.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, includingbut not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy; the impact of macroeconomic and geopolitical trends and events; the need to manage third party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Quarterly Report on Form 10-Q for the fiscal quarter ended April 30, 2013 and HP's other filings with the Securities and Exchange Commission, including HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_orkb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_orkb>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_43k7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hewlett-packard-enterprise-introduces-blockchain-as-a-service-solution-for-enterprises"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Introduces Blockchain as-a-Service Solution for Enterprises"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Introduces Blockchain as-a-Service Solution for Enterprises"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Hewlett-Packard-Enterprise-Introduces-Blockchain-as-a-Service-Solution-for-Enterprises.jpg"/>
+                        </contentblock_43k7>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_k2vn
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-software-boosts-security-in-its-backup-suite-to-guard-against-growing-threats"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Digital-TransformationWeb.jpg"/>
+                        </contentblock_k2vn>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

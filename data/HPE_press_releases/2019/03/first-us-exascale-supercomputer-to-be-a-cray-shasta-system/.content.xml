@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:59:43.400Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/csr,hpe-newsroom:categories/industry---energy,hpe-newsroom:categories/company---customers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="First US exascale supercomputer to be a Cray Shasta system"
+        jcr:uuid="840f62d3-fab6-47f4-bd5b-b733b6990193"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="First US exascale supercomputer to be a Cray Shasta system"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-03-18T09:33:00.000-07:00"
+        metaDescription="Cray to deliver supercomputer for the US Department of Energy’s Argonne National Labs in 2021 in partnership with Intel"
+        metaKeywords="Cray, Shasta supercomputer, Aurora supercomputer, exascale, exascale era, Slingshot interconnect, Argonne National Laboratory, US Department of Energy, DOE, high performance computing, supercomputing, HPC, Intel"
+        metaOgImage="/content/dam/hpe/newsroom/2019/03/image-norend/first-us-exascale-supercomputer-to-be-a-cray-shasta-system.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="First US exascale supercomputer to be a Cray Shasta system"
+        pageTitle="First US exascale supercomputer to be a Cray Shasta system"
+        priority="(None)"
+        socialDescription="Cray to deliver supercomputer for the US Department of Energy’s Argonne National Labs in 2021 in partnership with Intel"
+        subtitle="Cray to deliver supercomputer for the US Department of Energy’s Argonne National Labs in 2021 in partnership with Intel"
+        theme="dark"
+        UAID="54ab302e-cf2f-4613-a08a-2a335340550f"
+        UCID="faefd24e-9ad7-4754-9366-3d0f95eecfd8">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2020-09-10T16:20:44.358Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MARCH 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:20:51.684Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/03/image-norend/first-us-exascale-supercomputer-to-be-a-cray-shasta-system.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:21:34.781Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Cray was selected to deliver the U.S.’s first exascale system to the U.S. Department of Energy’s Argonne National Lab as a subcontractor to&amp;nbsp;Intel&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The system, named Aurora, will consist of more than 200 Shasta cabinets, the Slingshot interconnect, and next-gen Intel technology innovations&amp;nbsp;&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent
+                    jcr:created="{Date}2020-09-10T16:21:42.698Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:21:56.726Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomMargin="0"
+                    bottomPadding="0"
+                    leftMargin="0"
+                    leftPadding="0"
+                    rightMargin="0"
+                    rightPadding="0"
+                    textIsRich="true"
+                    textOnly="&lt;h2>Cray to deliver supercomputer for the US Department of Energy’s Argonne National Labs in 2021 in partnership with Intel&lt;/h2>&#xd;&#xa;"
+                    topMargin="0"
+                    topPadding="0"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-10-20T19:15:05.396Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Global supercomputer leader&amp;nbsp;Cray Inc.&amp;nbsp;today announced that a Cray Shasta system will be the first U.S. exascale supercomputer. Cray was selected to deliver the system, as a subcontractor to&amp;nbsp;Intel, to the&amp;nbsp;U.S. Department&amp;nbsp;of Energy’s&amp;nbsp;Argonne National Laboratory&amp;nbsp;in 2021. The program contract is valued at more than&amp;nbsp;$100 million&amp;nbsp;for Cray, one of the largest contracts in the company’s history. The Argonne system, named Aurora, will be comprised of more than 200 Shasta cabinets, Cray’s unique software stack optimized for&amp;nbsp;Intel&amp;nbsp;architectures and the Cray Slingshot interconnect, as well as next generation Intel technology innovations in compute processor, memory and storage technologies.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Announced in&amp;nbsp;October 2018, Shasta is an entirely new design and is set to be the technology to underpin the next era of supercomputing, characterized by exascale performance capability, new data-centric workloads, and heterogeneous computing. This is the second major win for Shasta systems in the last six months. NERSC, the National Energy Research Scientific Computing Center, chose a&amp;nbsp;Cray Shasta supercomputer for its pre-exascale system,&amp;nbsp;named “Perlmutter.”&amp;nbsp;That Cray contract was valued at&amp;nbsp;$146 million.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “Cray is honored to partner with&amp;nbsp;Intel&amp;nbsp;to build and deliver the first U.S. exascale supercomputer to Argonne,” said&amp;nbsp;Peter Ungaro, president and CEO of Cray. “It is an exciting testament to Shasta’s flexible design and unique system and software capabilities, along with our Slingshot interconnect, which will be the foundation for Argonne’s extreme-scale science endeavors and data-centric workloads. Shasta is designed for this transformative Exascale Era and the convergence of artificial intelligence, analytics and modeling and simulation—all at the same time on the same system—at incredible scale.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Shasta was designed to meet the demanding and evolving needs of the Exascale Era with the flexibility to support current and future processing architectures for years to come. Aurora will be powered by a range of next generation&amp;nbsp;Intel&amp;nbsp;technologies including a future generation of the Intel Xeon™ Scalable processor, Intel’s X&lt;sup>e&lt;/sup>&amp;nbsp;compute architecture, Intel® Optane™ DC Persistent Memory, and Intel’s One API software. Cray designed the Slingshot scalable interconnect to handle the complex processing and communication of HPC and AI applications to run on exascale systems. Slingshot is a complete rethinking of the interconnect for extreme scale and has added novel adaptive routing, quality-of-service, and congestion management features.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:26:04.122Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aurora will use a combination of&amp;nbsp;Intel&amp;nbsp;software components and new Cray System software designed for Shasta to enable modularity and extensibility of the system over time. By unifying the Shasta compute and Slingshot interconnect with a single management and software application development infrastructure, workloads on the Aurora system will run more optimally to deliver researchers more realized performance and accelerate their time to insight.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &amp;quot;It seems fitting that America's first exascale supercomputer, the country's initial entrant in the global exascale race, is a Cray, a name synonymous with the word supercomputer,&amp;quot; said&amp;nbsp;Steve Conway,&amp;nbsp;Hyperion Research&amp;nbsp;senior vice president of research. &amp;quot;This implementation of Cray's Shasta architecture was&amp;nbsp;developed in collaboration with&amp;nbsp;Intel&amp;nbsp;and closely matches the wish list that leading HPC users have for the Exascale Era, but didn't expect to see so soon.&amp;quot;&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The Aurora system is being designed to deliver sustained exascale speeds to meet the most intensive computing needs of researchers around the world including artificial intelligence workloads. &amp;nbsp;These researchers will use the system to push through former computational boundaries on a path to new discoveries. Aurora will also host research programs such as the Early Science Program (ESP). This first of its kind access to exascale-class compute capabilities will provide researchers the potential to make new breakthroughs in computational science.&amp;nbsp; The first area of focus for the ESP targets applications in the areas of Data and Learning and the convergence with modeling and simulation. This research hopes to unlock new discoveries through novel applications of data-centric analytics that were core to the design thinking of the Shasta architecture.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “Intel has had a longstanding relationship with Cray, and together we have developed some of the world’s most advanced supercomputers. We are excited to extend that record of success with the creation of the first exascale system in the U.S., furthering technology leadership,” said&amp;nbsp;Patricia Damkroger, vice president and general manager of the&amp;nbsp;Extreme Computing Organization, Intel.&amp;nbsp;“Our leading technologies—including innovations in processors, memory and software—will enable the Aurora system to tackle data-intensive artificial intelligence workloads at an unprecedented scale.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The Aurora system is expected to be delivered in 2021 and accepted in 2022.&amp;nbsp; Cray currently expects to complete and enter into modifications to its subcontract with&amp;nbsp;Intel&amp;nbsp;in mid-2019 covering delivery of the Aurora system.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; For more information about the work being done at DOE’s&amp;nbsp;Argonne National Laboratory&amp;nbsp;visit their website&amp;nbsp;&lt;a href=&quot;https://www.anl.gov/&quot; target=&quot;_blank&quot;>here.&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-09-10T16:24:46.417Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&lt;p>&lt;span&#xd;&#xa;      class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a&#xd;&#xa;      href=&quot;http://www.hpe.com/&quot;&#xd;&#xa;      target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;br />&#xd;&#xa;&lt;i style=&quot;&quot;>&lt;br />&#xd;&#xa;This press release originally published on cray.com and has been updated and published here in HPE’s Newsroom.&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T16:30:31.942Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/01/us-department-of-energys-argonne-leadership-computing-facility-alcf-and-hpe-expand-high-performance-computing-hpc-storage-capacity-for-exascale"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="U.S. Department of Energy’s Argonne Leadership Computing Facility (ALCF) and HPE expand High-Performance Computing (HPC) storage capacity for Exascale"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="U.S. Department of Energy’s Argonne Leadership Computing Facility (ALCF) and HPE expand High-Performance Computing (HPC) storage capacity for Exascale"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T16:30:31.942Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2020/01/image-norend/us-department-of-energys-argonne-leadership-computing-facility-alcf-and-hpe-expand-high-performance-computing-hpc-storage-capacity-for-exascale.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T16:30:31.942Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T16:31:50.014Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2020/01/alcf-and-hpe-expand-hpc-storage-capacity-for-exascale"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="ALCF and HPE expand HPC storage capacity for exascale"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="ALCF and HPE expand HPC storage capacity for exascale"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T16:31:50.014Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2020/01/image-norend/alcf-and-hpe-expand-hpc-storage-capacity-for-exascale.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T16:31:50.014Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2020-09-10T16:28:53.457Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2020/04/accelerating-vaccine-research-for-covid-19-with-high-performance-computing-and-artificial-intelligence"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Accelerating vaccine research for COVID-19 with high-performance computing and artificial intelligence"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Accelerating vaccine research for COVID-19 with high-performance computing and artificial intelligence"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-09-10T16:28:53.457Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2020/04/image-norend/accelerating-vaccine-research-for-covid-19-with-high-performance-computing-and-artificial-intelligence.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-09-10T16:28:53.457Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-09-05T17:38:02.066Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

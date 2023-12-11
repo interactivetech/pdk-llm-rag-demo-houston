@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-23T17:03:58.680Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HP introduces industrys first application self protection as-a-service solution"
+        jcr:uuid="99f7115c-08b3-4a75-aa12-26b56e780feb"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HP introduces industrys first application self protection as-a-service solution"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T19:01:52.000-04:00"
+        metaDescription="HP Introduces Industry"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-introduces-industrys-first-application-self-protection-as-a-service-solution/jcr:content/main-par/body-par/columncontainercompo/column_2/contentblock_7d37"
+        navTitle="HP introduces industrys first application self protection as-a-service solution"
+        pageTitle="HP introduces industrys first application self protection as-a-service solution"
+        priority="(None)"
+        subtitle="HP Application Defender Simplifies Application Security"
+        theme="dark"
+        UAID="6aac6bc3-2b3a-4554-a183-5b45194dfc8c"
+        UCID="10018777-a312-4777-ab7d-e9950f893321"
+        WPID="1577">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T22:18:13.740Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 9, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP Application Defender Simplifies Application Security&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_e3hy
+                    jcr:lastModified="{Date}2018-10-18T22:21:59.414Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>WASHINGTON, DC--(Marketwired - Sep 9, 2014) - HP (NYSE: HPQ) today introduced&amp;nbsp;HP Application Defender, the first cloud-managed&amp;nbsp;application self-protection&amp;nbsp;service managed that provides immediate visibility and actively defends production applications against attacks.&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As the number and complexity of enterprise applications grows, the attack surface for exploits increases exponentially, leaving enterprises even more exposed. Traditional methods of protecting applications can take significant time to implement and are focused on software that is in development -- they don't protect applications running in production. Additionally, with more than 80 percent of successful breaches occurring at the application layer,&lt;sup>(1)&lt;/sup>&amp;nbsp;it is clear that installing simple perimeter defense to protect production software lacks effectiveness.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To prevent attacks from within the application, HP Application Defender leverages runtime analysis technology to monitor activity in the runtime environment to detect and prevent real-time attacks. The introduction of the HP Application Defender as a Software-as-a-Service platform allows any size organization to protect applications against advanced threats without significant investment in security resources.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;With vulnerabilities like cross-site scripting and SQL injections affecting 53 percent of applications,&lt;/i>&lt;sup>(2)&lt;/sup>&lt;i>there has not been an easy and effective way to help enterprise applications protect themselves -- until now,&amp;quot; said Jason Schmitt, general manager, Fortify, Enterprise Security Products, HP. &amp;quot;Through a first-of-its-kind&amp;nbsp;application self-protection&amp;nbsp;service, HP Application Defender brings simplicity to application security, enabling organizations to automatically identify and protect against software vulnerabilities in real time -- stopping what no one else can even see.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Whether an organization has two applications or 2,000, HP Application Defender seamlessly scales to meet their security needs. By providing a simple installation process and a cloud-based management platform, HP Application Defender allows time- and resource-constrained security professionals to identify and stop attacks quickly and effectively, without changing code or installing another device on the network.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enabling users to efficiently manage and report security data in real time, HP Application Defender boasts easy-to-use interactive dashboards and alerts that give detailed information on the nature of an attack and where it occurred. HP Application Defender provides intelligence from inside the application runtime that helps developers fix the issue permanently in the source code, while it is virtually patched in the production environment.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;By 2017, 25 percent of application runtime environments will have built-in self-protection capabilities,&lt;/i>&amp;nbsp;&lt;i>up from less than 1 percent in 2012,&amp;quot;&lt;/i>&amp;nbsp;&lt;i>wrote Joseph Fieman, research vice president and Gartner fellow, Gartner Research. &amp;quot;Applications can be better protected when they possess self-protection capabilities built into their runtime environments, which have full insight into application logic, configuration, and data and event flows.&amp;quot;&lt;sup>(3)&lt;/sup>&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Pricing and availability&lt;br>&#xa;&lt;/b>HP Application Defender is available immediately worldwide. Pricing for the service is $79 per month per application instance.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information about HP Application Defender from HP Fortify is available at&amp;nbsp;www.hp-application-defender.com. Additional information about HP Enterprise Security Products can be found at&amp;nbsp;www.hp.com/go/esp.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's annual&amp;nbsp;enterprise security&amp;nbsp;user conference,&amp;nbsp;HP Protect, is taking place this week from September 8-11 in Washington, D.C. Follow HP Security on Twitter&amp;nbsp;@HPsecurity, and keep up with event happenings by following the event hashtag,&amp;nbsp;&lt;a href=&quot;https://twitter.com/search?f=realtime&amp;amp;q=%23hpprotect&amp;amp;src=typd&quot;>#HPProtect&lt;/a>.&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Related videos&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Demo video: See how HP Application Defender works within the application to identify activity and context inaccessible by network monitors, enabling users to simply stop attacks on production applications.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Animated video: This animated video explains how security exploits on production applications are difficult to stop without context from within the application. See why it's time for a new kind of defense.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About HP&lt;br>&#xa;&lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1)&amp;nbsp;HP Enterprise Security Products, Research.&amp;nbsp;&lt;br>&#xa;(2)&amp;nbsp;HP Security Research, &amp;quot;Cyber Risk Report 2013,&amp;quot; February 2014.&amp;nbsp;&lt;br>&#xa;(3)&amp;nbsp;Gartner, &amp;quot;Runtime Application Self-Protection: A Must-Have, Emerging Security Technology,&amp;quot; April 2012.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_bbs2
+                            jcr:lastModified="{Date}2023-03-23T17:03:25.748Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/after-all-the-hard-work-why-do-security-gaps-still-exist"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="After all the hard work, why do security gaps still exist?"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="After all the hard work, why do security gaps still exist?"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-23T17:03:25.748Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/1-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-23T17:03:25.748Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_bbs2>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_8db9
+                            jcr:created="{Date}2018-10-18T22:23:10.483Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2023-03-23T17:03:45.404Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-unveils-the-worlds-most-secure-industry-standard-servers"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-23T17:03:45.404Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-23T17:03:45.404Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_8db9>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7d37
+                            jcr:created="{Date}2018-10-18T22:22:34.312Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2023-03-23T17:03:58.659Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-arcsight-data-platform-adp-achieves-record-customer-growth"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="HPE ArcSight Data Platform (ADP) Achieves Record Customer Growth"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE ArcSight Data Platform (ADP) Achieves Record Customer Growth"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-23T17:03:58.659Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/07/image-norend/analytics.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-23T17:03:58.659Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_7d37>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

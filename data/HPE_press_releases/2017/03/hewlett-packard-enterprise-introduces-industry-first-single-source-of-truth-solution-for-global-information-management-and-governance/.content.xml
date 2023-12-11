@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:22:58.678Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-introduces-industry-first-single-source-of-truth-solution-for-global-information-management-and-governance"
+        jcr:uuid="316c772e-6623-4db8-b388-d026fa52104c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:55.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Introduces Industry-First "
+        navTitle="Hewlett Packard Enterprise Introduces Industry-First "
+        pageTitle="Hewlett Packard Enterprise Introduces Industry-First "
+        priority="(None)"
+        subtitle="HPE Verity Combines Industry-Leading Big Data Analytics With Information Archiving, Data Protection, eDiscovery and More, to Help Organizations Generate Value and Manage Risk"
+        theme="dark"
+        UAID="e46bd9bb-1b60-4a86-9c91-3b043ed519b7"
+        UCID="e9953cf6-508c-46a0-88fd-bee6534d8fc0"
+        WPID="1333">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T09:13:33.270Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 2, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Verity Combines Industry-Leading Big Data Analytics With Information Archiving, Data Protection, eDiscovery and More, to Help Organizations Generate Value and Manage Risk&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_7q7f
+                    jcr:lastModified="{Date}2018-10-23T09:23:15.598Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jun 2, 2016) - Hewlett Packard Enterprise (NYSE: HPE) today announced the launch of the HPE Verity suite, a modular, integrated set of applications and services to help businesses comprehensively manage, govern and extract actionable insights from enterprise information. In addition, HPE is announcing HPE Verity Information Archiving, the suite's first module to help organizations manage and control data in accordance with regulatory, legal and operational needs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enterprises today generate data at an explosive rate and organizations' attempts to manage and govern the diversity of data types -- from social media, instant messages, video, voice, and more -- have fallen short. Compounding matters, businesses have deployed siloed on-premise solutions that perform the wide variety of day-to-day tasks, including information archiving, backup, eDiscovery and content management. Without a unified view and set of policies for all of this data, organizations struggle to govern, manage, and dispose of information. This can result in regulatory fines and sanctions, increased and unnecessary data storage costs, diminished productivity and an inability to apply analytics across these silos to derive value.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Verity is unlike alternative approaches that attempt to combine traditionally disparate components of the information management and governance product spectrum, which generally result in multiple data indexes and user experiences that lead to a high level of complexity, manual processes and inefficiency. HPE Verity's &amp;quot;Single Source of Truth&amp;quot; solution is purpose-built to serve the full spectrum of information management and governance needs with a unified index and user experience. With a common data store and an ability to simply expose new functionality as needed, IT, compliance, legal and risk management professionals will attain an unprecedented level of visibility and control over enterprise information.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Hewlett Packard Enterprise's vision for the Verity family of products represents a contemporary approach to managing and governing information that will remain well aligned to evolving customer needs over the next 10-15 years,&amp;quot; said Sara Radicati of Radicati Research (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/radicatigroup&quot;>@RadicatiGroup&lt;/a>). &amp;quot;They are already a clear leader in the information archiving market; the ability to quickly deploy additional functionality for data protection, storage optimization, file analysis and records and content management with a common interface, services, and data framework will further differentiate them against point solution providers and deliver the nexus of risk mitigation, cost savings and value creation that our clients are looking for.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The market is cluttered with disparate solutions that manage business information, but rarely do these technologies work seamlessly with one another,&amp;quot; said David Jones (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/kawika2926&quot;>@kawika2926&lt;/a>), senior vice president and general manager, Information Management &amp;amp; Governance, Hewlett Packard Enterprise. &amp;quot;By delivering a single source of truth -- aligning directly to the Verity name -- we're providing customers with a single-index solution that will help them manage and extract value from a wide array of content, and will help position them to make more informed business decisions and compete at global scale.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Breaking Down Global Barriers to SaaS Adoption &lt;br>&#xa; &lt;/b>While the use of SaaS-based technologies for information management and governance has been widely adopted in the US, it has not seen the same level of acceptance worldwide, despite a high level of demand.The historical reason has been concern over data sovereignty -- organizations generally do not want to (and are often statutorily not to) have data leave their borders to reside in a data center in a different country.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Verity will resolve this concern with an open approach to deployment and hosting. Organizations can use HPE Verity to capture, manage, understand and protect information that can be hosted on a variety of global public and private cloud infrastructures including Amazon Web Services and HPE Helion/OpenStack. In addition, partners and managed service providers (MSPs) will be able to host the Verity solution in their in-country data centers.With so many hosting options now available in so many countries around the globe, data sovereignty -- starting with HPE Verity Information Archiving -- will no longer be a roadblock to organizations looking to deploy the best technology solution for their requirements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The global demand for a cloud-based archiving solution is at an all-time high, but historically many have been unable to meet demand due to the challenges of addressing data sovereignty sensitivities in many countries worldwide,&amp;quot; said Antoine Berthier of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.optrium.net/GB/index.html&quot;>Optrium&lt;/a> (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/OPTRIUM&quot;>@OPTRIUM&lt;/a>), a European-based specialist in electronic archiving, content management, governance and security of office data. &amp;quot;By taking an open approach to leverage a variety of economical private or public cloud infrastructures including OpenStack and Amazon Web Services, allowing both HPE and key partners to deliver this solution globally with virtually no geographical limitations, Verity Information Archiving will deliver cloud-based information governance to the rest of the world.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Unlocking Information Value with HPE Verity&lt;br>&#xa; &lt;/b>HPE Verity provides a fully unified framework of enterprise-grade applications built on an efficient, scalable infrastructure, with a common index and user interface. Combined with a robust analytics and visualization engine powered by HPE Vertica, organizations can streamline and improve virtually every activity they perform, yielding a wide variety of benefits including minimizing storage footprints, intelligent storage tiering, and streamlining backup and recovery.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, by bridging formerly distinct data silos, including email, text, voice, video, audio, and social media, users can now leverage interactive visualizations across all key data to gain a real-time understanding of enterprise information, identify patterns, synthesize and produce actionable insights from their information to address business and industry-specific challenges. This can result in improved insight into customer needs, identifying sources of knowledge within the enterprise, and identifying best practices that may drive top-line revenue.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Verity Information Archiving for the Mid-Market &lt;br>&#xa; &lt;/b>HPE Verity Information Archiving is a key module in the HPE Verity portfolio that enables organizations to govern information in accordance with compliance, legal, and operational needs.It is complimentary to Hewlett Packard Enterprise's Digital Safe solution, a market-leading archiving, supervision and eDiscovery solution that uniquely meets specific compliance needs for large enterprises in highly regulated industries, and which remains a critical part of the company's archiving product line.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Verity Information Archiving is most applicable to organizations in the mid-market that have challenges similar to large enterprises, but do not have the budget nor the resources to address these needs with their IT departments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE has already previewed this solution with several organizations in this category, and received very positive feedback for its ability to strike a balance between managing risk and cost, and its ability to deliver organizational value:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As a privately owned company, we have many of the same information management and governance challenges as large enterprises, but we don't have the resources to manage this in the same manner as larger enterprises,&amp;quot; said Tom Schneider, CEO of Vinotheque. &amp;quot;The Verity Information Archiving and Analytics solution delivered as a cloud based service, through a simple and intuitive interface, is an ideal solution to cost effectively manage information.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Suitable Technologies sells a technically advanced solution to a wide range of sophisticated buyers. We were initially attracted to Verity Information Archiving because it provided a common framework to help us control a wide variety of data types,&amp;quot; said Tom Wyatt, Vice President of Sales and Marketing at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.suitabletech.com/&quot;>Suitable Technologies&lt;/a> (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/suitabletech&quot;>@suitabletech&lt;/a>). &amp;quot;But as we dug deeper, the deep integration of data analytics and visualizations for understanding, organizing, and applying policy to information in a uniform and automated manner is what really stood out.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability and Additional Information&lt;br>&#xa; &lt;/b>HPE Verity can be deployed across global cloud infrastructures including Amazon Web Services and &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/solutions/cloud.html&quot;>HPE Helion/OpenStack&lt;/a>. HPE Verity Information Archiving is available now, as well as its enabling technology &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/endpoint-backup-protection/index.html&quot;>Connected MX&lt;/a>. Future versions of HPE Verity are expected to be delivered on premise, providing even greater flexibility to customers worldwide. Other modules are available in preview releases and will be commercially available later this year.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>A free trial of HPE Verity Information Archiving is available now.Contact &lt;a rel=&quot;nofollow&quot; href=&quot;mailto:VerityTrial@hpe.com&quot;>VerityTrial@hpe.com&lt;/a> for more information.To learn more about HPE Verity, click &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hpe.com/software/hpeverity&quot;>here&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HPE Software on &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.linkedin.com/company/hpe-software/&quot;>LinkedIn&lt;/a> and follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpe_software&quot;>@HPE_Software&lt;/a> on Twitter. To learn more about HPE Information Management and Governance solutions on Twitter, please follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPE_BackUp&quot;>@HPE_Backup&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPE_InfoGov&quot;>@HPE_InfoGov&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_c6co
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-continues-leadership-position-in-fourth-consecutive-nucleus-research-enterprise-content-management-value-matrix"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Continues Leadership Position in Fourth Consecutive Nucleus Research Enterprise Content Management Value Matrix"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Continues Leadership Position in Fourth Consecutive Nucleus Research Enterprise Content Management Value Matrix"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_c6co>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <textonlycomponent_eb
+                            jcr:created="{Date}2018-10-23T10:45:42.334Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T10:48:26.544Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                            textOnly="&lt;h4>HPE Software Continues to Dominate Radicati’s Information Archiving Market Quadrant 2017 with Digital Safe&lt;/h4>&#xa;&lt;p>News Advisory&lt;/p>&#xa;"
+                            topPadding="60"/>
+                        <buttonctaitemcompone
+                            jcr:created="{Date}2018-10-23T10:47:48.801Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T10:48:19.035Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                            ctaLinkStyle="default"
+                            ctaReferenceType="Link"
+                            ctaText="Read More"
+                            ctaType="Link"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-software-continues-to-dominate-radicatis-information-archiving-market-quadrant-2017-with-digital-safe"
+                            videoType="youtube"/>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_xl6m
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-software-boosts-security-in-its-backup-suite-to-guard-against-growing-threats"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Digital-TransformationWeb.jpg"/>
+                        </contentblock_xl6m>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

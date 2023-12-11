@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-20T23:02:52.727Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-extends-global-threat-intelligence-sharing-platform-through-alliance-with-hitachi"
+        jcr:uuid="ff48185e-6be0-45ff-bba7-bb01df4d6331"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:51.000-07:00"
+        metaDescription="HP Extends Global Threat Intelligence Sharing Platform Through Alliance With Hitachi"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-extends-global-threat-intelligence-sharing-platform-through-alliance-with-hitachi/jcr:content/main-par/body-par/textonlycomponent_ysf5"
+        navTitle="HP Extends Global Threat Intelligence Sharing Platform Through Alliance With Hitachi"
+        pageTitle="HP Extends Global Threat Intelligence Sharing Platform Through Alliance With Hitachi"
+        priority="(None)"
+        subtitle="HP Threat Central to Receive Japan-Specific Security Intelligence Feeds"
+        theme="dark"
+        UAID="f2a14589-6394-46b9-9992-b73608dec6ec"
+        UCID="d5da05b7-7b6d-424f-97c9-7a2a4f110e55"
+        WPID="1488">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T18:20:48.854Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="Oct 6, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP Threat Central to Receive Japan-Specific Security Intelligence Feeds&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_ysf5
+                    jcr:lastModified="{Date}2023-04-20T23:02:52.715Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Oct 6, 2015) - Extending the reach of its security intelligence sharing network, HP (NYSE: HPQ) has formed an alliance with Hitachi designed to capture and share Japan-specific threat information. This first-of-its-kind partnership significantly advances HP's efforts to foster a wider reach of international security information sharing, and is an extension of the 25-year alliance between Hitachi and HP.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through this partnership, Hitachi will join the HP Global Threat Intelligence Alliance and contribute threat intelligence to HP's existing security information sharing platform, HP Threat Central. The platform delivers automated and open sharing of information and contextual analysis that allows organizations to take action. This intelligence will also inform periodically published reports from HP Security Research.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Value of Global Information Sharing&lt;br>&#xd;&#xa; &lt;/b>To arm enterprises against an ever growing array of threats, HP Security Research created the HP Global Threat Intelligence Alliance to foster their collaboration. The alliance program provides members with access to private, value-added intelligence from leading industry researchers, analysis of underground forums, and threat actor profiles. In return, these participant enterprises contribute their own intelligence from the threats they face on a daily basis.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Targeted attacks are becoming more pervasive and the evolving nature of threats continues to be a top security challenge facing organizations around the world,&amp;quot; said Ted Ross, Director, Threat Intelligence, Security Research, HP. &amp;quot;Information sharing is fundamental to staying a step ahead of the adversaries, advancing security intelligence and quickly isolating threats to predict threats and protect our most valuable data.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cyber Crime on the Rise in Japan &amp;amp; Asia Pacific&lt;br>&#xd;&#xa; &lt;/b>With cyber attacks on the rise, and impacting Japanese enterprises across the financial services, technology, communications and automotive sectors, this alliance is particularly well timed. In fact, the financial impact of cyber crime continues to rise in Japan, as evidenced by a 68 percent net increase in the past four years, according to the 2015 Cost of Cyber Crime Study conducted by The Ponemon Institute.&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;In recent years, not only corporate IT systems but also critical social infrastructures are facing a growing risk of cyber attacks, with techniques becoming more complex and tenacious,&amp;quot; said Shuji Senoo, Senior Director, Advanced Security Technology Operations, Cloud Services Division at Hitachi. &amp;quot;With partnerships like this with HP, Hitachi will share cyber threat data to contribute to more sophisticated society-wide cyber security capabilities by enhancing methods to detect and prevent cyber attacks while minimizing impact on organizational activities.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This announcement comes on the heels of a &lt;a rel=&quot;nofollow&quot; href=&quot;http://thehill.com/policy/cybersecurity/240283-white-house-unveils-unprecedented-cyber-partnership-with-japan&quot;>Cybersecurity Alliance&lt;/a> signed between Japan and the United States in April 2015 that will contribute to the growth of international cyber norms. The alliance with Hitachi also builds on previously announced service intelligence feeds to HP Threat Central from a network of other companies, including &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.alienvault.com/?utm_medium=PR&quot;>AlienVault&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.crowdstrike.com/&quot;>Crowdstrike&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP Security&lt;br>&#xd;&#xa; &lt;/b>HP enables organizations to take a proactive approach to IT security, disrupting the life cycle of an attack through prevention and real-time threat detection. With market-leading products, services and innovative security research, HP Security brings a global network of security operations centers and more than 5,000 IT security experts to help customers strengthen their security posture to minimize risk and incident impact.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> &amp;quot;2015 Cost of Cyber Crime Study: Japan,&amp;quot; Ponemon Institute, October 2015.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_h66x
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/08/cloud28-community-launches-unified-cloud-catalogue-for-apj"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Cloud28  Community Launches Unified Cloud Catalogue for APJ"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Cloud28  Community Launches Unified Cloud Catalogue for APJ"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/Meeting.jpg"/>
+                        </contentblock_h66x>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_jany
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/congratulations-to-our-2018-hpe-partner-of-the-year-award-winners"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Congratulations to Our 2018 HPE Partner of the Year Award Winners"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Congratulations to Our 2018 HPE Partner of the Year Award Winners"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Screen-Shot-2018-06-07-at-2.20.55-PM.png"/>
+                        </contentblock_jany>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_u0v7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-security-arcsight-wins-trust-award-for-best-siem-security-solution-at-sc-awards-2017"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Security ArcSight Wins Trust Award for Best SIEM Security Solution at SC Awards 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Glow.jpg"/>
+                        </contentblock_u0v7>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

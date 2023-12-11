@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2018-10-12T20:16:56.730Z"
+        cq:lastModifiedBy="oscar.lopez-macias@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="08"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"/>
+    <hpe-to-deliver-the-industrys-first-composable-infrastructure-for-vmware-private-clouds/>
+    <hewlett-packard-enterprise-to-present-live-audio-webcast-of-third-quarter-earnings-conference-call-2/>
+    <hpe-announces-details-for-expected-completion-of-spin-off-and-merger-of-its-software-business/>
+</jcr:root>

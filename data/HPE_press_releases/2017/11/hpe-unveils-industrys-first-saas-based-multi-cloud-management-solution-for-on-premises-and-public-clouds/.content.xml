@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:55:34.633Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-unveils-industrys-first-saas-based-multi-cloud-management-solution-for-on-premises-and-public-clouds"
+        jcr:uuid="b5d41739-de0d-4262-b0ac-6b96bca32d20"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-28T05:00:00.000-08:00"
+        metaDescription="HPE Unveils Industrys First SaaS-Based Multi-Cloud Management Solution for On-Premises and Public Clouds"
+        metaKeywords="Hewlett Packard Enterprise, HPE, HPE OneSphere, multi-cloud management solution, multi-cloud, software-defined infrastructure, SaaS portal, developers, IT operations, devOps, HPE Pointnext"
+        navTitle="HPE Unveils Industry's First SaaS-Based Multi-Cloud Management Solution for On-Premises and Public Clouds"
+        pageTitle="HPE Unveils Industry's First SaaS-Based Multi-Cloud Management Solution for On-Premises and Public Clouds"
+        priority="(None)"
+        subtitle="New solution increases organizations speed, productivity, and efficiency through seamless deployment, operation, and optimization of resources and workloads"
+        theme="dark"
+        UAID="a1101a5f-4287-4d6c-8d2a-a760d6020ae5"
+        UCID="79775142-8a46-4011-b498-faefc594a1ba"
+        WPID="199404">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 28, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T23:30:35.207Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/shared-publishing/networking/imageOnly/Networking_SmallBusinessNetworking_2 Column 50 50_2x-md.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T23:28:25.519Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE OneSphere is the industry's first multi-cloud management solution that provides a unified experience across public clouds, on-premises private clouds and software-defined infrastructure&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Through its SaaS portal, HPE OneSphere provides customers access to a pool of IT resources that spans the public cloud services they subscribe to, as well as on-premises environments&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE OneSphere is designed for IT operations, developers, and business executives seeking to build clouds, deploy applications, and gain insights faster&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T23:32:44.250Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New solution increases organizations' speed, productivity, and efficiency through seamless deployment, operation, and optimization of resources and workloads&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bysx
+                    jcr:lastModified="{Date}2018-10-17T23:35:47.212Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>MADRID, SPAIN&amp;nbsp;–&amp;nbsp;November 28, 2017&amp;nbsp;–&amp;nbsp;Today, Hewlett Packard Enterprise (HPE) introduced HPE OneSphere, the industry's first multi-cloud management solution that provides a unified experience across public clouds, on-premises private clouds and software-defined infrastructure. Through its software-as-a-service (SaaS) portal, HPE OneSphere provides customers access to a pool of IT resources that spans the public cloud services they subscribe to, as well as their on-premises environments. HPE OneSphere is designed for IT operations, developers, and business executives seeking to build clouds, deploy applications, and gain insights faster.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_6dq5
+                    jcr:lastModified="{Date}2018-10-17T23:28:21.444Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE OneSphere is designed for IT operations, developers, and business executives seeking to build clouds, deploy applications, and gain insights faster&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T23:28:21.444Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_6dq5>
+                <textonlycomponent_am05
+                    jcr:lastModified="{Date}2018-10-17T23:39:34.400Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enterprises today are challenged to quickly capitalize on a relentless volume of information from applications to more effectively compete. These new applications are created differently&amp;nbsp;–&amp;nbsp;virtualized, containerized, built as microservices&amp;nbsp;–&amp;nbsp;and can straddle clouds and sites, creating complexity.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Managing multi-cloud environments today is complicated. Organizations may have multiple points of management, preventing an aggregate accounting of resource utilization and costs. Traditional cloud management platforms are difficult to set up and manage, and don't span public clouds and on-premises. These factors hinder IT organization's ability to make informed decisions, impacting digital transformation initiatives and operational agility.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE OneSphere's multi-cloud strategy&amp;nbsp;–&amp;nbsp;enabling the solution to be used with any public cloud provider&amp;nbsp;–&amp;nbsp;is designed to dramatically simplify operations. The solution works across virtual machines, containerized workloads, and bare metal applications, so internal stakeholders can compose hybrid clouds capable of supporting both traditional and cloud-native applications. Delivered as a service, HPE OneSphere provides users with a single point to access all their applications and data from anywhere. Through it, users can build private clouds and connect public cloud resources, resulting in a virtual resource pool.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;With its unified experience, HPE OneSphere streamlines DevOps and provides deep insights across an enterprise's public and on-premises environments to accelerate cycle times, improve productivity, and generate cost savings&amp;nbsp;–&amp;nbsp;increasing the speed of digital transformation.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_u0gu
+                    jcr:lastModified="{Date}2018-10-17T23:28:16.988Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;With its unified experience, HPE OneSphere streamlines DevOps and provides deep insights across an enterprises public and on-premises environments to accelerate cycle times, improve productivity, and generate cost savings&amp;nbsp;–&amp;nbsp;increasing the speed of digital transformation&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T23:28:16.988Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_u0gu>
+                <textonlycomponent_6yr4
+                    jcr:lastModified="{Date}2020-04-13T18:30:42.692Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Our customers need a radically new approach&amp;nbsp;–&amp;nbsp;one that's designed for the new hybrid IT reality,&amp;quot; stated Ric Lewis, senior vice president and general manager, Software-Defined and Cloud Group at HPE. &amp;quot;With HPE OneSphere, we're abstracting away the complexity of managing multi-cloud environments and applications so our customers can focus on what's important&amp;nbsp;–&amp;nbsp;accelerating digital transformation and driving business outcomes.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Through HPE Pointnext, HPE simplifies customers' end-to-end digital transformation, including helping them build their strategy, implement multi-cloud environments and simplify costs through consumption models. With the recent acquisition of CTP, which specializes in cloud consulting services, HPE brings expertise in migrating, developing, and managing cloud applications and infrastructures across public and private clouds. In addition, the HPE OneSphere pay-for-use subscription licensing model complements the HPE Flexible Capacity pay-for-use consumption model for customers' on-premises infrastructure. HPE makes it simple and affordable for customers to start with a single DevOps project or manage across a multi-cloud, multi-site enterprise.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;A solution to accelerate digital transformation&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE OneSphere is ideal for businesses that want to capitalize on digital disruption and enable a broad range of new customer experiences. Key benefits include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Improved speed and simplicity&amp;nbsp;– &lt;/b>To respond to developers faster, IT admins can build clouds and deploy virtual machines, containers, and bare metal in minutes. As projects grow, HPE OneSphere enables rapid dynamic provisioning across public cloud and on-premises environments.&lt;br>&#xa; &lt;b>&lt;br>&#xa;&lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerated application delivery&amp;nbsp;–&lt;/b> With unique multi-tenant workspaces called Projects, HPE streamlines and speeds application development and deployment with environments where developers can self-service provision and access catalogs containing templates, cloud-native tools, services and applications.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Greater cost efficiency&amp;nbsp;– &lt;/b>HPE OneSphere provides a single view of usage and aggregate costs across all public cloud and on-premises deployments, so CIOs can control and optimize resources and spending. This solution also has the unique ability to provide &amp;quot;showback&amp;quot; costs by cloud, site, line of business, application or subscriber, and enable real-time self-service cost reporting to designated users.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Key HPE OneSphere features include:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Multi-cloud architecture, supporting different combinations of public clouds, as well as on-premises environments&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Unified experience across clouds, sites, orchestration tools, platforms-as-a-service (PaaS) and containers, minimizing the need for specialized skills&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Built-in role-based collaboration Project workspaces designed for IT operations, business users and consumers of IT, such as developers, data scientists and researchers&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Software-defined and API-driven virtual resource pool&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Subscription consumption model&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional product information: &lt;a href=&quot;https://www-prod-auth-west.ext.hpe.com/content/hpe/base/blueprint/services/it-consumption.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>www.hpe.com/onesphere&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_lh3z
+                            jcr:lastModified="{Date}2018-10-18T16:30:10.594Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/02/hpes-top-5-things-you-shouldnt-miss-from-q1"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE's Top 5 Things You Shouldn't Miss From Q1"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE's Top 5 Things You Shouldn't Miss From Q1"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T16:30:10.594Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/HPE’s-Top-5-Moments-from-the-Third-Quarter-v2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T16:30:10.594Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_lh3z>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_kou1
+                            jcr:lastModified="{Date}2018-10-18T16:30:07.279Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/the-data-driven-digital-transformation-is-happening-right-now"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="The Data-Driven Digital Transformation is Happening...Right Now"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Data-Driven Digital Transformation is Happening...Right Now"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T16:30:07.279Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE_Discover16_LV_14741-media.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T16:30:07.279Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_kou1>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_qtkv
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/it-ops-developers-and-business-leaders-can-now-seamlessly-manage-their-hybrid-cloud-environment"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="IT Ops, Developers, and Business Leaders Can Now Seamlessly Manage Their Hybrid Cloud Environment"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="IT Ops, Developers, and Business Leaders Can Now Seamlessly Manage Their Hybrid Cloud Environment"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/IT-Ops-Developers-and-Business-Leaders-Can-Now-Seamlessly-Manage-Their-Hybrid-Cloud-Environment.jpg"/>
+                        </contentblock_qtkv>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-18T16:33:06.301Z"
+            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

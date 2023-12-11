@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:42:48.944Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data,hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE brings hybrid cloud as a Service to VMware customers"
+        jcr:uuid="3e142c36-2e5b-4065-b1fe-8d19593de374"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE brings hybrid cloud as a Service to VMware customers"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-08-26T05:00:00.000-07:00"
+        metaDescription="HPE and VMware Partner to Integrate HPE GreenLake and HPE Synergy with VMware Cloud Foundation"
+        metaKeywords="Hybrid cloud, data centers, as a Service, cloud experience, virtual machines, containers"
+        metaOgImage="/content/dam/hpe/newsroom/2019/08/image-norend/hpe-brings-hybrid-cloud-as-a-service-to-vmware-customers.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE brings hybrid cloud as a Service to VMware customers"
+        pageTitle="HPE brings hybrid cloud as a Service to VMware customers"
+        priority="(None)"
+        socialDescription="HPE and VMware Partner to Integrate HPE GreenLake and HPE Synergy with VMware Cloud Foundation"
+        subtitle="HPE and VMware Partner to Integrate HPE GreenLake and HPE Synergy with VMware Cloud Foundation"
+        theme="dark"
+        UAID="00a498e8-10a4-4ba8-996b-7740a8355c2d"
+        UCID="fd2fff15-009b-4fd0-8b5a-e83d34eca919">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-08-26T22:29:56.335Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="AUGUST 26, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-24T00:01:03.141Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/imageOnly/hpe-brings-hybrid-cloud-as-a-service-to-vmware-customers.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-23T13:01:44.750Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>VMware and HPE have a long history of co-innovation, and today we are enabling customers to bring the cloud experience to their data center&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Through the integration, the two companies allow mutual customers to keep all their applications, tools and data in-place, while achieving the benefits of cloud and composable infrastructure&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Through HPE GreenLake, mutual customers can benefit from a fully managed hybrid cloud environment in which they only pay for what they consume&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;span lang=&quot;EN-US&quot; style=&quot;text-indent: -0.25in;&quot;>This dramatically improves the value enterprise customers experience from&#xa;a hybrid cloud environment, &lt;/span>&lt;span style=&quot;text-indent: -0.25in;&quot;>including agility&#xa;and speed of composability&lt;/span>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_2b
+                    jcr:created="{Date}2019-08-23T12:58:06.995Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-08-26T11:56:20.842Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE and VMware Partner to integrate HPE GreenLake and HPE Synergy with VMware Cloud Foundation&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-23T13:07:55.535Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>VMworld, San Francisco, Calif., – August 26, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced the expansion of its partnership with VMware to offer VMware Cloud Foundation as a Service. Through the integration of &lt;a href=&quot;https://www.hpe.com/us/en/services/it-consumption.html&quot; target=&quot;_blank&quot;>HPE GreenLake&lt;/a> and &lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/synergy.html&quot; target=&quot;_blank&quot;>HPE Synergy&lt;/a> with &lt;a href=&quot;https://www.vmware.com/products/cloud-foundation.html&quot; target=&quot;_blank&quot;>VMware Cloud Foundation&lt;/a>, the two companies allow mutual customers to keep all their applications, tools and data in-place, while achieving the benefits of cloud and composable infrastructure.&lt;br>&#xa; &lt;br>&#xa; Through HPE GreenLake, mutual customers can benefit from a fully managed hybrid cloud environment in which they only pay for what they consume, lowering TCO by 30% and accelerating new IT project deployment by 65%.&lt;sup>1&lt;/sup> The solution is compatible across on and off premises data centers, simple to operate and supports VMs and containers. This dramatically improves the value enterprise customers experience from a hybrid cloud environment, including agility and speed of composability, ability to shift resources from managing infrastructure to innovation.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-23T13:07:32.690Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today’s partnership announcement provides customers with:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cloud Economics:&lt;/b> Management of VMware Cloud Foundation through HPE GreenLake enables enterprise IT to shift resources to meet changing business demands. Customers pay for what they use and plan capacity ahead of use, to avoid overprovisioning and save on TCO.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Speed and Agility&lt;/b>: The integration of HPE GreenLake and HPE Synergy with VMware Cloud Foundation enables companies to accelerate time to value. HPE Synergy allows customers to compose resources to dynamically configure them to meet the needs of VMware Cloud Foundation workloads and scale when needed – enabling IT and developers to spin up new resources for faster app provisioning. With HPE GreenLake metering and capacity management, the resources required for each workload are ready to deploy in minutes, not months, shortening time to deploy global IT projects by 65%.&lt;sup>2&lt;/sup>&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Control, Security, and Workload Optimization&lt;/b>: Customers can use the HPE Right Mix Advisor to identify which workloads and applications are ideal to move to public clouds, or keep in private clouds, and how to migrate those workloads to achieve the optimal mix of hybrid cloud. HPE Right Mix Advisor delivers data-driven guidance that allows customers to remain in control of IT operations, policies, and procedures, achieve increased performance and manage costs for each workload.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <pullquote_a563
+                    jcr:created="{Date}2019-08-23T13:08:19.927Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-08-23T13:08:47.413Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>VMware and HPE have a long history of co-innovation&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-08-23T13:08:47.413Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_a563>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-23T13:10:04.646Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Cloud has fundamentally changed customers’ expectations around IT. They seek an experience that allows them to act with agility, and dynamically compose resources based on business demands,” said Phil Davis, President of Hybrid IT at HPE. “VMware and HPE have a long history of co-innovation, and today we are enabling customers to bring the cloud experience to their data center. Our vision is built on a single platform that can span across multiple clouds and puts companies in a better position to take advantage of new business opportunities without the management complexity and cost.”&lt;br>&#xa; &lt;br>&#xa; “Customers demand a cloud experience that offers high levels of flexibility and functionality to deliver consistent infrastructure and operations,” said John Gilmartin, General Manager and Senior Vice President of the HCI Business Unit at VMware. “VMware is working closely with HPE to give our mutual customers the freedom and flexibility to consume hybrid cloud as a service, empowering them to unleash the full potential of the hybrid cloud. This will enable organizations with greater degrees of cost management, business automation, and innovation.”&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-23T13:10:25.565Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Empowering customers to unleash the full potential of the hybrid cloud&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-08-23T13:10:25.565Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-08-23T13:12:32.092Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Forrester Consulting, The Total Economic Impact&lt;sup>TM&lt;/sup> of HPE GreenLake Flex Capacity, May 2018&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> Forrester Consulting, The Total Economic Impact&lt;sup>TM&lt;/sup> of HPE GreenLake Flex Capacity, May 2018&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>John C. Tran, HPE&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>+1 650.236.7095&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:john.tran@hpe.com&quot; target=&quot;_blank&quot;>john.tran@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-08-23T13:26:17.216Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/blog-post/2019/05/a-customer-centric-and-consumption-driven-future-why-pay-per-use-models-are-the-future-of-it-solutions.html"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="A customer-centric and consumption-driven future: Why pay-per-use models are the future of IT solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A customer-centric and consumption-driven future: Why pay-per-use models are the future of IT solutions"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-23T13:26:17.216Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/shared-publishing/homepage-v3/aroundhpe/a-customer-centric-and-consumption-driven-future-why-pay-per-use-models-are-the-future-of-it-solutions-4-3.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-23T13:26:17.216Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-08-23T13:27:53.171Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/blog-post/2018/08/hpe-synergy-remains-the-only-truly-composable-platform-out-there-despite-the-noise-around-new-solutions.html"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE Synergy remains the only truly composable platform out there despite the noise around new solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Synergy remains the only truly composable platform out there despite the noise around new solutions"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-23T13:27:53.171Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/HPE-Synergy-remains-the-only-truly-composable-platform-out-there—despite-the-noise-around-new-solutions.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-23T13:27:53.171Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-08-23T13:23:48.799Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://www.hpe.com/us/en/newsroom/press-release/2017/08/hpe-to-deliver-the-industrys-first-composable-infrastructure-for-vmware-private-clouds.html"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE to Deliver the Industry’s First Composable Infrastructure for VMware Private Clouds"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE to Deliver the Industry’s First Composable Infrastructure for VMware Private Clouds"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-08-23T13:23:48.799Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/SynergyServers.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-08-23T13:23:48.799Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-08-23T18:33:47.484Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

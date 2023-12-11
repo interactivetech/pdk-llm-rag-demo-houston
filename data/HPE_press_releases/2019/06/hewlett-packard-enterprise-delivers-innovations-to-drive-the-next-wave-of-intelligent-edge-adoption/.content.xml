@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-10-04T19:49:19.004Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise delivers innovations to drive the next wave of Intelligent Edge adoption"
+        jcr:uuid="875ea07f-42d6-48c2-ab40-28617aea6bdb"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise delivers innovations to drive the next wave of Intelligent Edge adoption"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-06-18T04:00:00.000-07:00"
+        metaDescription="New IoT and edge offerings, and partner program, accelerate deployment of personalized digital experiences and smart operations"
+        metaKeywords="hpe, hpe news, hpe newsroom,IoT,Aruba Central,cloud-based "
+        metaOgImage="/content/dam/hpe/newsroom/2019/06/image-norend/hewlett-packard-enterprise-delivers-innovations-to-drive-the-next-wave-of-intelligent-edge-adoption.jpg"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hewlett-packard-enterprise-delivers-innovations-to-drive-the-next-wave-of-intelligent-edge-adoption/jcr:content/main-par/body-par/textonlycomponent_5d"
+        navTitle="Hewlett Packard Enterprise delivers innovations to drive the next wave of Intelligent Edge adoption"
+        pageTitle="Hewlett Packard Enterprise delivers innovations to drive the next wave of Intelligent Edge adoption"
+        priority="(None)"
+        socialDescription="New IoT and edge offerings, and partner program, accelerate deployment of personalized digital experiences and smart operations"
+        subtitle="New IoT and edge offerings, and partner program, accelerate deployment of personalized digital experiences and smart operations"
+        theme="dark"
+        UAID="db1206db-590c-4839-933f-f5d599c950db"
+        UCID="98c874d1-b68a-474a-a1f6-7384b26860a5">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-06-15T16:15:09.456Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T16:15:39.094Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hewlett-packard-enterprise-delivers-innovations-to-drive-the-next-wave-of-intelligent-edge-adoption.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T16:17:42.797Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aruba Central unifies network management, AI-powered analytics, user-centric service assurance and security for wired, wireless and WAN at the edge&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Integrations and new turnkey edge-to-cloud solutions, delivered with ABB, Microsoft and PTC, enable real-time intelligence and control in industrial environments&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Intelligent Edge and IoT Center of Excellence (CoE) and Labs, part of Hewlett Packard Labs, develops and commercializes new capabilities and technologies that accelerate customers’ and partners’ Intelligent Edge journey&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_23
+                    jcr:created="{Date}2019-06-15T16:21:58.300Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T16:25:29.736Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New IoT and edge offerings, and partner program, accelerate deployment of personalized digital experiences and smart operations&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T16:26:54.472Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise (NYSE: HPE) today announced new edge solutions, research labs, and programs to simplify and accelerate Intelligent Edge adoption, enabling customers to create unique digital experiences and leverage analytics and machine learning to adapt to changes in real-time. The new offerings and programs include:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Major enhancements to Aruba Central, the only cloud-based platform that unifies network management, AI-powered analytics, user-centric service assurance and security for wired, wireless and WAN at the edge.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Integrations and new turnkey edge-to-cloud solutions, delivered with ABB, Microsoft and PTC, enabling real-time intelligence and control in industrial environments.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Intelligent Edge and IoT Center of Excellence (CoE) and Labs, part of Hewlett Packard Labs, to develop and commercialize new capabilities and technologies that accelerate customers’ and partners’ Intelligent Edge journey.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T19:29:15.940Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Research suggests that over the next decade, the Internet of Things (IoT) and related data growth has an economic potential of up to $11 trillion per year.&lt;sup>1&lt;/sup> To capture this potential, organizations need to implement an &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/blog-post/2019/06/architecting-the-intelligent-edge.html&quot; target=&quot;_blank&quot;>Intelligent Edge&lt;/a>&lt;/u>, an architecture that is fully connected, secured, distributed and autonomous. However, to scale the Intelligent Edge across the value chain, organizations need solutions that secure and simplify deployment and management, converge operational technology (OT) with IT and address the lack of skills and funding.&lt;br>&#xa; &lt;i>&lt;br>&#xa;“The edge has emerged as the new center of the digital universe, opening up opportunities for organizations to create new digital experiences and gain competitive advantage,” said Keerti Melkote, founder and president, Aruba, a Hewlett Packard Enterprise company. “Today, we announce innovations that will enable our customers to capitalize on these experiences and opportunities by dramatically simplifying, securing and accelerating the deployment of the Intelligent Edge.”&lt;/i>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-10-04T19:49:18.996Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;h3>&lt;b>Unified cloud-based platform dramatically simplifies edge infrastructure security and management for the mobile, cloud and IoT era&lt;/b>&lt;/h3>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Siloed network management solutions are creating complexity and increasing time to remediation. To accelerate IT operations and allow IT professionals time to focus on innovation, Aruba is making significant enhancements to Aruba Central. With these enhancements, customers will benefit from AI-powered network analytics, improved security and user-centric assurance for wired, wireless and WAN edge infrastructures from a single point of control. Significant advancements include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Advanced AI-powered &lt;/b>&lt;a href=&quot;https://community.arubanetworks.com/blogs/trentf-ca1/2020/10/20/aruba-netinsight-ai-powered-analytics-and-assurance&quot; target=&quot;_self&quot;>analytics and assurance&lt;/a> capabilities based on Aruba NetInsight and &lt;u>&lt;a href=&quot;https://www.arubanetworks.com/me/products/networking/analytics-and-assurance/user-experience-insight/&quot; target=&quot;_self&quot;>User Experience Insight&lt;/a>&lt;/u> allow IT professionals to resolve infrastructure problems quickly before they impact the organization. Now integrated into the Aruba Central cloud-based platform, Aruba’s Analytics and Assurance capabilities deliver IT professionals a way to quickly remediate intermittent network issues while also proactively identifying how to optimize customers’ infrastructures to ensure optimal experiences.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Software-defined branch (SD-Branch) and SD-WAN, &lt;/b>managed on Aruba Central, is now enhanced with improved branch management and orchestration capabilities to centrally define business-intent policies to meet the hybrid cloud connectivity needs for distributed enterprises and reduce operational costs. The new &lt;b>SD-WAN Orchestrator&lt;/b> in Aruba Central makes it easier for IT professionals to deploy flexible and secure overlay topologies in a large-scale edge infrastructure, connecting thousands of branch locations with multiple data centers. Aruba Virtual Gateways now available for AWS and Azure, combined with orchestration, cost-effectively extends network and security policies to workloads running in the public cloud. The new &lt;b>SaaS prioritization&lt;/b> feature not only enhances the performance of SaaS applications but also provides visibility about the end-user experience for business-critical applications, such as Microsoft Office 365 and Salesforce.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Integrated in Aruba Central, &lt;b>Aruba&lt;/b> &lt;b>ClearPass Device Insight&lt;/b> provides IoT visibility and security via a single pane of glass, employing automated device discovery, and machine learning-based fingerprinting and identification. Used in conjunction with Aruba ClearPass Policy Manager and Aruba’s &lt;u>&lt;a href=&quot;https://www.arubanetworks.com/assets/so/SO_Dynamic-Segmentation.pdf&quot; target=&quot;_blank&quot;>dynamic segmentation&lt;/a>&lt;/u> security capabilities, networking and security teams can automate unique policy enforcement down to each device and user.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New network management&lt;/b>&amp;nbsp;&lt;b>workflow&lt;/b> enhancements are integrated into Aruba Central to accelerate device provisioning with an automated mobile app to deliver network health views and troubleshooting across all locations allowing IT to focus on delivering the needs of the business.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <pullquote_5061
+                    jcr:created="{Date}2019-06-15T19:30:48.511Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T19:31:19.384Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE GreenLake for Aruba gives organizations flexibility and choice in how they obtain and support their edge infrastructure&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-06-15T19:31:19.384Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_5061>
+                <textonlycomponent_ff
+                    jcr:created="{Date}2019-06-15T16:33:45.922Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-17T14:24:37.067Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>To provide organizations more flexibility and choice in how they obtain and support their edge infrastructure, Aruba solutions are also available via &lt;a>&lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2019/06/hpe-announces-plans-to-offer-entire-portfolio-as-a-service-by-2022.html&quot; target=&quot;_blank&quot;>HPE GreenLake for Aruba&lt;/a>&amp;nbsp;&lt;/a>a Network-as-a-Service (NaaS) subscription-based offering.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;h3>&lt;b>Turnkey edge-to-cloud solutions enable real-time intelligence at the industrial edge&lt;/b>&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;span class=&quot;body-copy-large&quot;>In industrial environments, the Intelligent Edge requires an intricate interplay between sensors, actuators, networks, applications and infrastructures from edge to cloud. It also involves unique challenges including harsh environmental conditions, intermittent network connectivity and lack of qualified on-site staff. Consequently, such deployments are often costly, slow and vulnerable to security and reliability problems. To simplify, accelerate and secure deployments, HPE is launching pre-integrated turnkey edge-to-cloud solutions in collaboration with key industry partners:&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The &lt;b>integration of ABB Ability™ Smart Sensor technology with Aruba access points&lt;/b> is designed to deliver a scalable, high-performance wireless connectivity solution for operational technology (OT) equipment such as motors, mounted bearings and pumps. This allows industrial companies to capture valuable data and insights from their equipment to proactively monitor their condition and performance, and plan maintenance in advance in order to avoid costly and disruptive downtime.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Jointly developed by ABB, HPE, Microsoft and Rittal, the&lt;b> Secure Edge Data Center for Microsoft Azure Stack&lt;/b> is the industry’s first enterprise-grade edge appliance for &lt;u>&lt;a href=&quot;https://azure.microsoft.com/en-us/overview/azure-stack/&quot; target=&quot;_blank&quot;>Microsoft Azure Stack&lt;/a>&lt;/u>, enabling real-time intelligence and action in harsh industrial environments, while providing seamless integration with Microsoft Azure. The appliance &lt;u>&lt;a href=&quot;https://new.abb.com/news/detail/4365/abb-hpe-and-rittal-unveil-secure-edge-data-center-to-drive-digitization-of-industrial-plants&quot; target=&quot;_blank&quot;>provides IP55-rated environmental protection, cooling, redundant power supply and distribution and automated management&lt;/a>&lt;/u> – allowing customers to run pre-configured, high-end enterprise applications in locations such as factories or oil rigs.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Edgeline IoT Quick Connect&lt;/b> dramatically simplifies the convergence of OT and IT, enabling customers to monitor and control OT equipment such as machines or motors in real time. Jointly delivered with Microsoft, HPE Edgeline IoT Quick Connect is based on the &lt;a href=&quot;https://www.hpe.com/us/en/servers/edgeline-systems.html&quot; target=&quot;_blank&quot;>HPE Edgeline OT Link Platform&lt;/a>, which connects OT devices, the &lt;a href=&quot;https://www.hpe.com/de/de/product-catalog/servers/edgeline-systems/pip.hpe_edgeline_el300_converged_edge_system.1011127891.html&quot; target=&quot;_blank&quot;>HPE Edgeline EL300 Converged Edge System&lt;/a> and &lt;a href=&quot;https://azure.microsoft.com/en-gb/overview/iot/&quot; target=&quot;_blank&quot;>Microsoft Azure IoT&lt;/a>, a collection of cloud services to connect, monitor and control IoT assets.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Fast Start Condition Monitoring&lt;/b> enables customers set up condition monitoring within 90 days to deliver performance and availability of their OT equipment. An end-to-end solution implemented by &lt;a href=&quot;https://hpe.com/pointnext&quot; target=&quot;_blank&quot;>HPE Pointnext Services&lt;/a>, &lt;a href=&quot;https://www.hpe.com/h20195/v2/Getdocument.aspx?docname=a00074602enw&quot; target=&quot;_blank&quot;>Fast Start Condition Monitoring&lt;/a> is designed for customers who want to get started quickly with condition monitoring, but lack the skills to do so. HPE Pointnext Services help define use cases, OT data sources and workflows, and implement pilots for proof of value, based on HPE Edgeline Converged Edge Systems, the HPE Edgeline OT Link Platform and PTC’s &lt;a href=&quot;https://www.ptc.com/en/industry-insights/state-of-industrial-iot&quot; target=&quot;_blank&quot;>ThingWorx&lt;/a>&lt;sup>®&lt;/sup> Industrial IoT platform.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T16:40:06.219Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The Intelligent Edge and IoT CoE &amp;amp; Lab provides critical capabilities to HPE’s partners and customers&lt;b>&lt;/b>&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-06-15T16:40:06.219Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T16:41:18.821Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>&lt;b>Investing in partner ecosystem and future technologies to accelerate Intelligent Edge adoption&lt;/b>&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The newly established Intelligent Edge and IoT CoE &amp;amp; Lab provides critical capabilities and technologies to HPE’s partners and customers to accelerate Intelligent Edge adoption. It will guide partner activities, M&amp;amp;A and research in the following areas:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Knowledge transfer to HPE’s channel partners to accelerate market adoption of the Intelligent Edge&lt;/b> with the Channel to Edge Institute (CEI), a program which helps HPE’s channel partners gain the required expertise to effectively recommend, sell, implement and manage Intelligent Edge solutions for their customers. The CEI provides training on Intelligent Edge use cases and business cases and will deploy joint go-to-market programs with HPE’s channel and ecosystem partners.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Research programs to drive rapid &lt;a name=&quot;_Hlk11341605&quot; id=&quot;_Hlk11341605&quot;>&lt;/a>commercialization of Intelligent Edge technologies that simplify edge-to-cloud management and OT-IT convergence and enable new use cases&lt;/b> – this includes, among others, a unified provisioning, policy and security management across wired networks, Wi-Fi and 5G; the next generation of HPE’s first-of-a-kind HPE Edgeline Converged Edge Systems and HPE Edgeline OT Link Platform; and real-time video analytics for quality, security and customer experience applications.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_e2
+                    jcr:created="{Date}2019-06-15T19:36:16.115Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T19:37:38.967Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>&lt;b>Availability&lt;/b>&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Initial enhancements for Aruba Central 2.5 are available starting in July 2019&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The integration of ABB Ability™ Smart Sensor technology with Aruba access points will be available end of 2019&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Secure Edge Data Center for Microsoft Azure Stack is now available with IEC certification and will be available with UL certification in August 2019&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Edgeline IoT Quick Connect will be available in July 2019&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Fast Start Condition Monitoring will be available in France and Netherlands in July 2019 and will be generally available by end of 2019&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-15T16:45:53.703Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;sup>1&lt;/sup>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;a href=&quot;https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/digital-and-analytics-in-consumer/capabilities/getting-your-data-house-in-order&quot; target=&quot;_blank&quot;>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/digital-and-analytics-in-consumer/capabilities/getting-your-data-house-in-order&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-15T16:51:07.949Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2019/01/hpe-opens-iot-innovation-lab-in-geneva-to-help-customers-capitalize-on-edge-data"
+                            description="&lt;p>News Advisory&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE opens IoT Innovation Lab in Geneva to help customers capitalize on edge data"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE opens IoT Innovation Lab in Geneva to help customers capitalize on edge data"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-15T16:51:07.949Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/01/image-norend/HPE opens IoT Innovation Lab in Geneva to help customers capitalize on edge data.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-15T16:51:07.949Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-15T16:52:47.080Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/02/hewlett-packard-enterprise-launches-platform-to-unleash-real-time-processing-at-the-telecommunications-edge"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-15T16:52:47.080Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/Hewlett-Packard-Enterprise-Launches-Platform-to-Unleash-Real-Time-Proces....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-15T16:52:47.080Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-06-15T17:01:34.179Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/11/hewlett-packard-enterprise-launches-edge-platform-solutions-accelerating-business-efficiency-and-innovation"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise launches edge platform solutions accelerating business efficiency and innovation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise launches edge platform solutions accelerating business efficiency and innovation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-15T17:01:34.179Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Hewlett-Packard-Enterprise-launches-edge-platform-solutions-accelerating....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-15T17:01:34.179Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-06-15T16:16:34.992Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

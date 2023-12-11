@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T02:55:56.988Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---earnings]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE to webcast 2019 Securities Analyst Meeting"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        author="Business Wire"
+        browserTitle="HPE to webcast 2019 Securities Analyst Meeting"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-10-10T04:45:00.000-07:00"
+        metaBusinessSubcategory="newsroom"
+        metaDescription="HPE to webcast 2019 Securities Analyst Meeting"
+        navTitle="HPE to webcast 2019 Securities Analyst Meeting"
+        pageTitle="HPE to webcast 2019 Securities Analyst Meeting"
+        priority="(None)"
+        UAID="c27b2725-6534-4f04-b334-0c032a6676ba"
+        UCID="39458ea3-87a1-43eb-b445-2cef21ffc322"
+        webSectionId="R11989">
+        <main-par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="right">
+            <subtitle
+                jcr:lastModified="{Date}2019-10-10T23:25:00.300Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 10, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomMargin="30"
+                    topMargin="60"/>
+                <textonlycomponent_1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly=""/>
+                <textonlycomponent_2
+                    jcr:lastModified="{Date}2019-10-10T23:26:42.300Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN JOSE, Calif.--(&lt;a href=&quot;http://www.businesswire.com&quot; target=&quot;_blank&quot;>BUSINESS WIRE&lt;/a>)-- Hewlett Packard Enterprise (NYSE: HPE), will host its 2019 Securities Analyst Meeting on Oct. 23. Join the live webcast to hear president and CEO Antonio Neri and executive vice president and chief financial officer Tarek Robbiati discuss HPE's strategy and financial outlook.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The webcast will begin Wednesday, Oct. 23, at 2:30 p.m. ET / 11:30 a.m. PT at &lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=http%3A%2F%2Fwww.hpe.com%2Finvestor%2FSAM2019&amp;amp;esheet=52109124&amp;amp;newsitemid=20191010005222&amp;amp;lan=en-US&amp;amp;anchor=www.hpe.com%2Finvestor%2FSAM2019&amp;amp;index=1&amp;amp;md5=d74f658491f52e82d832aaf8e9a7a73c&quot; shape=&quot;rect&quot; target=&quot;_blank&quot;>www.hpe.com/investor/SAM2019&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional information, see &lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=http%3A%2F%2Finvestors.hpe.com&amp;amp;esheet=52109124&amp;amp;newsitemid=20191010005222&amp;amp;lan=en-US&amp;amp;anchor=investors.hpe.com&amp;amp;index=2&amp;amp;md5=8b45167a325427d77da7f1fe7e34416b&quot; shape=&quot;rect&quot; target=&quot;_blank&quot;>investors.hpe.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;img src=&quot;https://cts.businesswire.com/ct/CT?id=bwnews&amp;amp;sty=20191010005222r1&amp;amp;sid=newsx-hq3ny1&amp;amp;distro=nx&amp;amp;lang=en&quot; width=&quot;0&quot; height=&quot;0&quot;>&lt;span class=&quot;bwct31415&quot;>&lt;/span>&lt;/p>&#xa;"/>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_3
+                    jcr:lastModified="{Date}2019-10-10T23:27:15.546Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact:&lt;br>&#xa;Stefanie Notaney, HPE&lt;br>&#xa;&lt;a href=&quot;mailto:stefanie.notaney@hpe.com&quot; target=&quot;_blank&quot;>stefanie.notaney@hpe.com &lt;/a>&lt;br>&#xa;&lt;br>&#xa;Investor relations contact:&lt;br>&#xa;Andrew Simanek, HPE&lt;br>&#xa;&lt;a href=&quot;mailto:investor.relations@hpe.com&quot; target=&quot;_blank&quot;>investor.relations@hpe.com&lt;/a>&lt;/span>&lt;a href=&quot;mailto:investor.relations@hpe.com&quot;> &lt;/a>&lt;/p>&#xa;"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-10-10T23:25:57.195Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="{Long}0"/>
+    </jcr:content>
+</jcr:root>

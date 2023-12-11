@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:24:52.252Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/services]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-completes-acquisition-of-nimble-storage"
+        jcr:uuid="25bd94a8-eea4-4371-9774-10809e15a6eb"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-04-26T15:31:58.000-07:00"
+        metaDescription="HPE Completes Acquisition of Nimble Storage"
+        navTitle="HPE Completes Acquisition of Nimble Storage"
+        pageTitle="HPE Completes Acquisition of Nimble Storage"
+        priority="(None)"
+        theme="dark"
+        UAID="0b7f89f2-4c69-462f-b8b2-247366557dbb"
+        UCID="19bf8062-8f6d-4181-a8f9-6e27beece709"
+        WPID="45820">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-24T14:58:01.388Z"
+                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 17, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NimbleStorage.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Completes Acquisition of Nimble Storage"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_2rr8
+                    jcr:lastModified="{Date}2018-10-24T15:42:50.252Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., April 17, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (NYSE:HPE) today announced that it has completed its acquisition of Nimble Storage, Inc., the San Jose, Calif.-based provider of predictive all-flash and hybrid-flash storage solutions. HPE paid $12.50 per share in cash representing a net cash purchase price at closing of $1.0 billion. In addition to the purchase price, HPE assumed or paid out Nimbles unvested equity awards, with a value of approximately $200 million at closing.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>The acquisition of Nimble strengthens HPEs leadership in Hybrid IT and:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Expands HPEs position in the high-growth flash storage market, which was estimated to be approximately $15 billion in 2016 and nearly $20 billion by 2020, with the all-flash segment growing at a nearly 17 percent compound annual growth rate [1].&amp;amp;#160;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Creates a comprehensive, leading-edge storage portfolio by bringing together Nimbles predictive flash offerings for the entry to midrange segments with HPEs scalable midrange to high-end 3PAR solutions, SimpliVity solutions and affordable MSA products.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Accelerates Nimbles growth momentum by bringing together complementary product portfolios and leveraging HPEs expansive go-to-market capability, partner ecosystem and leading server platform.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>This deal, in combination with our recent acquisitions, helps deliver on our vision of making Hybrid IT simple for our customers, said Antonio Neri, EVP and GM, Enterprise Group, HPE. Through these strategic investments, we are continuing to strengthen and deepen our portfolio of next generation, software-defined, differentiated solutions that meet the new challenges our customers are facing.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>IDC referred to the acquisition as a home run that will benefit both HPE and Nimble customers alike in one of their latest industry reports, which can be downloaded &lt;a title=&quot;here&quot; href=&quot;https://www.globenewswire.com/Tracker?data=YqMZr-iSDk3EcTWSdyUO_uneu1qMDCJSVKvynRECWG2EpCA0zmXmnJDD144P3vfl-YKzwW761dw-M29jyvFb1UahtfFLvfReEhxhkbU89m8KagbNFgufzX4IE3yDQrzKtmS_F64qw6Oyr88-Fqlsiw546d0D8aY4RHaoaKoJNUs=&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;>here&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>Nimble was founded in 2007 and has approximately 1,300 employees worldwide. The company delivered revenue of $402 million in its most recent fiscal year, up 25 percent year over year.&amp;amp;#160;&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>The acquisition is expected to be accretive to HPE earnings in the first full fiscal year following the close.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Transaction Details&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>As previously announced, the tender offer (the &amp;quot;Offer&amp;quot;) by a wholly owned subsidiary of HPE, and all withdrawal rights thereunder, expired at the end of the day, 12:00 midnight, New York City time, on April 13, 2017.&amp;amp;#160; An aggregate of 75,566,796 Nimble shares were validly tendered and not validly withdrawn pursuant to the Offer, representing approximately 80.8% of the Nimble shares then outstanding.&amp;amp;#160; HPEs wholly owned subsidiary accepted for payment all Nimble Storage shares that were validly tendered and not validly withdrawn pursuant to the Offer, and payment for such shares will be promptly made by the depositary.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>This morning, HPE consummated the merger of its wholly owned subsidiary with and into Nimble, with Nimble continuing as the surviving corporation, pursuant to the terms of the merger agreement and in accordance with Section&amp;amp;#160;251(h)&amp;amp;#160;of the General Corporation Law of the State of Delaware.&amp;amp;#160; In the merger, each Nimble share outstanding immediately prior to the effective time of the merger (other than shares held (i) by Nimble as treasury stock or by HPE or its subsidiary that merged with Nimble, which shares were canceled and have ceased to exist, (ii) by any wholly owned subsidiary of Nimble or any other wholly owned subsidiary of HPE, which shares were converted into such number of shares of common stock of the surviving corporation so as to maintain relative ownership percentages or (iii) by any Nimble stockholders who validly exercise appraisal rights under Delaware law with respect to such shares) was automatically canceled and converted into the right to receive $12.50 per share, without interest and less any applicable withholding taxes.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>Upon completion of the merger, Nimble became a wholly owned subsidiary of HPE.&amp;amp;#160; As a result of the merger, all Nimble shares will be delisted from the New York Stock Exchange.&amp;amp;#160; Nimble shares are expected to be delisted prior to the open of trading today.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise (HPE) is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking Statements&lt;br>&#xa;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HPE and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements regarding the anticipated benefits of the acquisition described above, as well as those risks that are described in HPEs SEC reports, including but not limited to the risks described in HPEs Annual Report on Form&amp;amp;#160;10-K for its fiscal year ended October&amp;amp;#160;31, 2016. HPE assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&amp;nbsp;&lt;/p>&#xa;&lt;p style=&quot;text-align: left;&quot;>&lt;span class=&quot;body-copy-large&quot;>[1] Source: IDC Disk Forecast, December 2016&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_v85p
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-to-acquire-nimble-storage-to-strengthen-leadership-in-hybrid-it"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE to Acquire Nimble Storage to Strengthen Leadership in Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE to Acquire Nimble Storage to Strengthen Leadership in Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/NibleStorage.jpg"/>
+                        </contentblock_v85p>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_059g
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/nimble-storage-to-extend-hpe-industry-leadership-in-flash-storage"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Nimble Storage to Extend HPE Industry Leadership in Flash Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Nimble Storage to Extend HPE Industry Leadership in Flash Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Nimble-2100x1181.jpg"/>
+                        </contentblock_059g>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_cphy
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/together-hpe-and-nimble-storage-will-deliver-the-industrys-leading-flash-storage-and-predictive-analytics-portfolio"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NewsroomImage1.jpg"/>
+                        </contentblock_cphy>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

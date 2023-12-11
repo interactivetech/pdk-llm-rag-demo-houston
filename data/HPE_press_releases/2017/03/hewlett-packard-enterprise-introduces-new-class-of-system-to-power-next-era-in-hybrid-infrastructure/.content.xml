@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:25:01.926Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-introduces-new-class-of-system-to-power-next-era-in-hybrid-infrastructure"
+        jcr:uuid="1fc28590-0998-49e8-9061-955f5f614acd"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:25.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Introduces New Class of System to Power Next Era in Hybrid Infrastructure"
+        navTitle="Hewlett Packard Enterprise Introduces New Class of System to Power Next Era in Hybrid Infrastructure"
+        pageTitle="Hewlett Packard Enterprise Introduces New Class of System to Power Next Era in Hybrid Infrastructure"
+        priority="(None)"
+        subtitle="HPE Synergy Provides a Single Infrastructure for All Applications and Operational Models, From Traditional to Cloud"
+        theme="dark"
+        UAID="30900585-dbbd-4014-a449-b809a5eb72a1"
+        UCID="93fbec68-2296-40c6-a98b-b754dbafb2d4"
+        WPID="1454">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="March 31, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Synergy Provides a Single Infrastructure for All Applications and Operational Models, From Traditional to Cloud&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_63la
+                    jcr:lastModified="{Date}2018-10-22T14:20:41.653Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA and LONDON, UNITED KINGDOM--(Marketwired - Dec 1, 2015) - Today, Hewlett Packard Enterprise (NYSE: HPE) announced HPE Synergy, the first platform designed to run both traditional and cloud native applications for organizations seeking the benefits of running a hybrid infrastructure. Based on groundbreaking new architecture developed by Hewlett Packard Enterprise, HPE Synergy leverages fluid resource pools, software defined intelligence and a unified API to provide the foundation for organizations to continually optimize the right mix of traditional ITand private cloud resources.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations today have more opportunities than ever before to quickly deliver new applications and services, embrace new business models and enter new markets. Much of the pressure to deliver on these ambitions falls on the IT department, which must simultaneously extract more efficiencies and cost savings out of the traditional systems and applications that run their business, as well as provide a foundation for the rapid creation and delivery of new services through the use of mobile, big data and cloud native technologies.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;In order to respond to the demands of the business, CIOs and IT executives need to deliver services that are increasingly application centric,&amp;quot; said Jed Scaramella, Research Director, IDC. &amp;quot;To remain relevant, IT needs to not only provide a reliable and cost-effective infrastructure that can support their legacy investments, but one that gives them the flexibility and speed to deliver services like a cloud provider.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Supporting these two very different operating models requires rethinking the way IT infrastructure is built. HPE Synergy addresses this challenge by leveraging a new architecture called Composable Infrastructure which consists of three key design principles:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>1.&lt;/b> &lt;b>Fluid Resource Pools&lt;br>&#xa; &lt;/b>a. Compute, storage and fabric networking that can be composed and recomposed to the exact need of the application&lt;br>&#xa;b. Boots up ready to deploy workloads&lt;br>&#xa;c. Supports all workloads - Physical, Virtual and Containerized.&lt;br>&#xa;&lt;b>2.&lt;/b> &lt;b>Software Defined Intelligence&lt;br>&#xa; &lt;/b>a. Self-discovers and self-assembles the infrastructure you need&lt;br>&#xa;b. Repeatable, frictionlessupdates&lt;br>&#xa;&lt;b>3.&lt;/b> &lt;b>A Unified API&lt;/b>&lt;br>&#xa;a. Single line of code to abstract every element of infrastructure&lt;br>&#xa;b. 100%infrastructure programmability&lt;br>&#xa;c. Bare-metal interface for Infrastructure as a Service&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Synergy physically brings together compute, storage and networking fabric, and through a single interface powered by HPE OneView, composes physical and virtual resources into any configuration for any application. As an extensible platform, it easily enables a broad range of applications and is ideal for customers looking to deploy a scalable hybrid cloud environment and enable continuous DevOps.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Market data clearly shows that a hybrid combination of traditional IT and private clouds will dominate the market over the next five years,&amp;quot; said Antonio Neri, Executive Vice President and General Manager of the Enterprise Group at Hewlett Packard Enterprise. &amp;quot;Organizations are looking to capitalize on the speed and agility of the cloud but want the reliability and security of running business critical applications in their own datacenters. With HPE Synergy, IT can deliver infrastructure as code and give businesses a cloud experience in their datacenter.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is bringing to market unique innovations to offer customers an experience that empowers IT to create and deliver new value instantly and continuously.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reduce Overprovisioning and CapEx&lt;br>&#xa; &lt;/b>In today's typical IT environment, overprovisioning and stranded resources are common -- according to the Natural Resources Defense Council, the average server overprovisioning rate is between 82 to 88 percent&lt;sup>1&lt;/sup>. HPE Synergy's unique built-in software intelligence, auto discovery capabilities and fluid resource pools enable customers to instantly boot up infrastructure ready to run physical, virtual and containerized applications. Through a single interface, customers can compose physical and virtual resources, reducing overprovisioning by as much as 60%, resulting in upfront CapEx savings of up to 17% and ongoing CapEx savings of up to 30%.&lt;sup>2&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Deliver Applications at Cloud Speed&lt;br>&#xa; &lt;/b>Lines of business (LOBs) are demanding that their IT departments deliver the infrastructure needed to develop and deploy new applications faster. HPE Synergy provides software defined templates and bootable images so IT can deliver infrastructure that is ready for any workload at cloud-like speed.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Traditional infrastructure can take an average of six weeks&lt;sup>3&lt;/sup> to stand-up a new mobile application or service. Burdened by complex processes that require many layers of tools, as well as collaboration across multiple teams, building the right infrastructure is challenging and time-consuming. Pulling from a fluid pool of infrastructure, HPE Synergy quickly provisions compute, storage and networking using application specific templates, allowing infrastructure to be deployed and consistently updated. In addition, HPE Synergy will provide customers with a library of operating environment images where one person can deploy composable infrastructure, streamlining the delivery of IT services and enabling IT to better respond to LOBs' quickly changing needs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Increase Productivity and Control&lt;br>&#xa; &lt;/b>To simplify the delivery of infrastructure to developers, only HPE Synergy has a powerful unified API and a growing ecosystem of partners like Arista, Capgemini, Chef, Docker, Microsoft, NVIDIA and VMware. The unified API provides a single interface to discover, search, provision, update and diagnose the composable infrastructure required to test, develop and run code. With a single line of code, HPE's innovative Composable API can fully describe and provision the infrastructure that is required for applications, eliminating weeks of time-consuming scripting.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Optimizing HPE Synergy&lt;br>&#xa; &lt;/b>Services available for HPE Synergy also break new ground, offering one-stop support for the composable ecosystem, pay-as-you-grow capacity and assistance with automating and optimizing infrastructure as code. HPE's experts are available to provide infrastructure strategy and technology training, as well as system startup and 24/7 operations to help customers quickly adopt and deliver the benefits of composable infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help customers invest in breakthrough technology with ease, HPE Financial Services has announced HPE Flexible Asset Return for Servers.&lt;sup>4&lt;/sup> The program can help customers harness unpredictability with an elevated degree of investment management for new technology deployments. Customers can proactively adapt to changing demands for speed, ease of use and time commitment, with the option to return a percentage of unneeded servers within 12 months.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;br>&#xa; &lt;/b>HPE Synergy will be available in Q2 of calendar year 2016 from HPE and worldwide channel partners. Pricing information will be available at the time of the launch.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Natural Resources Defense Council, Data Center Efficiency Assessment, August 2014.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> Based on HPE internal tests.Organizations should consult their own financial advisors to determine CapEx and OpEx opportunities. HPE does not give financial advice.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>3&lt;/sup> Source - Cost to build a Mobile App Survey - Clutch&lt;br>&#xa;a. Median hours to build an iPhone app is 1,143 hours (28 working days or 5.7 weeks)&lt;br>&#xa;b. Layers of tools and teams are also outlined in this paper&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>4&lt;/sup> Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and is subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement&lt;br>&#xa; &lt;/b>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended August 10, 2015, September 4, 2015, September 15, 2015, September 28, 2015 and October 7, 2015. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_kaym
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/hpe-synergy-gains-momentum-in-the-market-driving-efficiencies-and-creating-new-opportunities-for-customers"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_Meeting.jpg"/>
+                        </contentblock_kaym>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_62a5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/fact-sheet-hpe-synergy-and-hpe-oneview-enhancements"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Fact Sheet: HPE Synergy and HPE OneView Enhancements"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Fact Sheet: HPE Synergy and HPE OneView Enhancements"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-2.jpg"/>
+                        </contentblock_62a5>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_suhq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/biotech-institute-hudsonalpha-talks-docker-containers-on-hpe-synergy-to-simplify-operations"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Biotech Institute HudsonAlpha Discusses Simplifying Operations With HPE Synergy"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Biotech Institute HudsonAlpha Discusses Simplifying Operations With HPE Synergy"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/biotech-hero-sized.jpg"/>
+                        </contentblock_suhq>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:06:52.948Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-completes-spin-off-and-merger-of-software-business-with-micro-focus"
+        jcr:uuid="b9b274f1-df34-439b-898f-a55ddf22ab91"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-09-01T01:00:06.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="HPE Media Relations"
+        metaDescription="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+        navTitle="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+        pageTitle="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+        priority="(None)"
+        subtitle="Software-defined infrastructure remains at the core of HPEs strategy as the company shifts its focus to three key pillars"
+        theme="dark"
+        UAID="2dde2481-d504-477e-98e5-8ac431f75d14"
+        UCID="032605ea-ba06-48cf-9241-567e7825a54e"
+        WPID="198798">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 01, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Servers-with-element.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T16:10:02.738Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The completion of the spin-off and merger of HPEs software business with Micro Focus International will deliver approximately $8.8 billion to the company and its stockholders&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Going forward, HPEs strategy will focus on simplifying Hybrid IT, powering the intelligent edge and providing flexible consumption models&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Software-defined infrastructure remains at the core of HPEs strategy as the company shifts its focus to three key pillars&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_v84m
+                    jcr:lastModified="{Date}2018-10-15T16:13:00.301Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif. - September 1, 2017 - Hewlett Packard Enterprise (NYSE: HPE) today announced that it has completed the spin-off and subsequent merger of its software business with Micro Focus International plc (LSE: MCRO, NYSE: MFGP), a leading global enterprise software company headquartered in Newbury, U.K.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;With the completion of this transaction, HPE has achieved a major milestone in becoming a stronger, more focused company, purpose-built to compete and win in todays market,&amp;quot; said Meg Whitman, Chief Executive Officer of HPE. &amp;quot;And, this transaction will deliver approximately $8.8 billion to HPE and its stockholders.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_us6f
+                    jcr:lastModified="{Date}2018-10-15T16:13:44.779Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The merger will deliver approximately $8.8 billion to HPE and its stockholders&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T16:13:44.779Z"
+                        jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_us6f>
+                <textonlycomponent_99ix
+                    jcr:lastModified="{Date}2018-10-15T16:17:29.373Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Software-Defined Infrastructure Remains Core to HPEs Strategy&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPEs go-forward strategy is based on three key pillars: First, making Hybrid IT simple through secure, software-defined offerings that enable customers to move data seamlessly across their on-premises data centers, private cloud, managed cloud and public cloud environments. Second, powering the intelligent edge that runs campus, branch and IoT applications. And third, providing the world-class expertise and flexible consumption models to help customers transform their IT environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;span style=&quot;font-size: inherit;&quot;>Software remains core to HPEs strategy and is embedded deeply across its portfolio, helping customers manage, monitor and measure their infrastructure systems. For example, HPEs Oneview platform offers a seamless, software-defined, hybrid IT management system. HPEs Infosight predictive analytics software detects and addresses performance issues across customers storage systems. And Aruba has software embedded across its networking portfolio, from policy management to data analytics to cyber security.&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Transaction Delivers $8.8 Billion in Value to HPE and its Stockholders&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In the transaction, Seattle SpinCo, Inc. (Seattle), which holds the software business of HPE that was spun off, merged with a wholly owned subsidiary of Micro Focus.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the close of the transaction, HPE stockholders received 0.13732611 American Depositary Shares of Micro Focus (Micro Focus ADSs) for each share of HPE common stock held as of the record date of August 21, 2017. Each Micro Focus ADS represents one Micro Focus ordinary share. Immediately following the merger, HPE stockholders held approximately 222 million Micro Focus ADSs, representing 50.1% of Micro Focus ordinary shares on a fully diluted basis. This equity stake in Micro Focus is valued at approximately $6.3 billion, based on the closing price of Micro Focus ordinary shares on the London Stock Exchange as of market close on August 31, 2017.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Prior to the completion of the transaction, HPE received a $2.5 billion cash payment from Seattle. This cash payment, together with the equity of Micro Focus received by HPE stockholders in the merger, implies an enterprise value of Seattle of approximately $8.8 billion.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The spin-off of Seattle is intended to qualify as a generally tax-free transaction for U.S. federal income tax purposes.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In connection with the completion of the transaction, John Schultz, Executive Vice President, General Counsel and Corporate Secretary of HPE, joined the board of directors of Micro Focus. In addition, HPE is entitled to nominate 50% of the independent directors on the Micro Focus board until the second annual general meeting of Micro Focus shareholders that occurs following the completion of the transaction.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE to Update Financial Outlook on Tuesday, September 5&lt;sup>th&lt;/sup>&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As a result of the transaction, HPE will adjust its fiscal year 2017 financial outlook to reflect the partial-year contribution from Seattle, since Seattle will no longer contribute to HPE financials going forward. HPE will provide this update when it reports its fiscal 2017 third quarter earnings results on Tuesday, September 5, 2017.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to the intelligent edge, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statements&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Information set forth in this press release, oral statements made regarding the spin-off or the merger (together, the Transaction), and other information published by HPE may contain certain statements about HPE, Seattle or Micro Focus that constitute or are deemed to constitute forward-looking statements (including within the meaning of the U.S. Private Securities Litigation Reform Act of 1995). The forward-looking statements contained in this press release may include, but are not limited to, statements about the expected effects on HPE, Seattle and Micro Focus of the Transaction, the anticipated benefits of the Transaction, HPEs, Micro Focus and Seattles anticipated standalone or combined financial results and outlooks and all other statements in this press release other than historical facts. Without limitation, any statements preceded or followed by or that include the words targets, plans, believes, expects, intends, will, likely, may, anticipates, estimates, projects, should, would, expect, positioned, strategy, future or words, phrases or terms of similar substance or the negative thereof, are forward-looking statements. These statements are based on the current expectations of the management of HPE and are subject to uncertainty and changes in circumstances and involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such forward-looking statements. As such, forward-looking statements should be construed in light of such factors. Neither HPE nor any of its directors, officers, employees or advisers provides any representation, assurance or guarantee that the occurrence of the events expressed or implied in any forward-looking statements in this press release will actually occur or that if any of the events occur, that the effect on the operations or financial condition of HPE, Seattle or Micro Focus will be as expressed or implied in such forward-looking statements. Forward-looking statements contained in this press release based on past trends or activities should not be taken as a representation that such trends or activities will necessarily continue in the future. In addition, these statements are based on a number of assumptions that are subject to change. Such risks, uncertainties and assumptions include, but are not limited to: the tax treatment of the Transaction; risks relating to any unforeseen liabilities of Micro Focus or Seattle; future capital expenditures, expenses, revenues, earnings, synergies, economic performance, indebtedness, financial condition, losses and future prospects of HPE and Micro Focus (including Seattle); the ability to successfully combine the business of Micro Focus and Seattle and to realize expected operational improvement from the Transaction; the effects of government regulation on the businesses of HPE and Micro Focus; the risk that disruptions from the Transaction will impact HPEs or Micro Focus businesses; and HPEs and Micro Focus plans, objectives, expectations and intentions generally. Additional factors can be found under the caption Risk Factors in the information statement that forms a part of the Registration Statement on Form 10 (File No. 000-55820) filed by Seattle with the U.S. Securities and Exchange Commission in connection with the Transaction and in HPEs Annual Report on Form 10-K for the fiscal year ended October 31, 2016 and subsequent Quarterly Reports on Form 10-Q. It is however noted that it is not possible to predict or identify all such factors. Consequently, while the list of factors presented or referred to here is considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yo20
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/hewlett-packard-enterprise-completes-spin-off-and-merger-of-its-enterprise-services-business-with-csc"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Hewlett-Packard-Enterprise-Completes-Spin-off-and-Merger.jpg"/>
+                        </contentblock_yo20>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_6gkd
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/09/top-5-moments-from-q3"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPEs Top 5 Moments from the Third Quarter"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPEs Top 5 Moments from the Third Quarter"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Glow.jpg"/>
+                        </contentblock_6gkd>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_v0p3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/08/hpe-announces-details-for-expected-completion-of-spin-off-and-merger-of-its-software-business"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Announces Details for Expected Completion of Spin-Off and Merger of its Software Business"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Details for Expected Completion of Spin-Off and Merger of its Software Business"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_v0p3>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

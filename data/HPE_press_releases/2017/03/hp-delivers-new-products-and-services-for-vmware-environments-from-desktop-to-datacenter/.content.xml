@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:09:16.122Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/big-data,hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-delivers-new-products-and-services-for-vmware-environments-from-desktop-to-datacenter"
+        jcr:uuid="94300037-f30e-468d-bb90-fe306c2a0547"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:00:51.000-07:00"
+        metaDescription="HP Delivers New Products and Services for VMware Environments, From Desktop to Datacenter"
+        navTitle="HP Delivers New Products and Services for VMware Environments, From Desktop to Datacenter"
+        pageTitle="HP Delivers New Products and Services for VMware Environments, From Desktop to Datacenter"
+        priority="(None)"
+        subtitle="New Programs, Products and Solutions, Including Industry First Global Server OEM Agreement for VMware NSX and New End-User Computing Solutions That Help Customers Simplify and Automate Their IT Environments to Deploy Applications Faster"
+        theme="dark"
+        UAID="2d3a0859-3411-493c-8258-91f420d83b93"
+        UCID="2860bd4d-78f7-4622-964c-7cc9974e7d58"
+        WPID="1499">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T11:55:19.840Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="Aug 31, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Programs, Products and Solutions, Including Industry First Global Server OEM Agreement for VMware NSX and New End-User Computing Solutions That Help Customers Simplify and Automate Their IT Environments to Deploy Applications Faster&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_wha2
+                    jcr:lastModified="{Date}2018-10-19T12:01:45.201Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN FRANCISO, CA--(Marketwired - Aug 31, 2015) - Today at VMworld 2015, HP (NYSE: HPQ) announced new solutions to help businesses capitalize on their VMware environments through faster time to implementation and greater return on investment.These new products and services are the latest in a series of recent innovations optimized for VMware vSphere, including &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/hp-news/press-release.html?wireId=1973522&amp;amp;pageTitle=New+HP+Hyper-Converged+Appliance+Delivers+Enterprise+Resiliency+and+Easy+Cloud+Onramp+#.Vd3rQPlViko&quot;>new hyper-converged&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/hp-news/press-release.html?wireId=1979214&amp;amp;pageTitle=HP+Extends+Flash+Storage+Portfolio+With+Industry%27s+Most+Affordable+and+Automated+All-Flash+Array+#.Vd3ravlViko&quot;>all-flash storage&lt;/a> systems announced earlier this month.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Building on its 15-year relationship with VMware, HP today announced:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An extension of a longstanding global server OEM relationship, which now provides HP the ability to sell VMware NSX, allowingcustomers to deploy applications faster, simplify and automate their data center network fabric and improve security&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Industry first end-user computing solutions providing the highest density graphics virtualization options&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New Converged Architecture, delivered as one integrated stack by a choice of certified channel partners saving customers time and resources&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New HP Software-defined Compute Services for VMware solutions, Network Virtualization Services for VMware NSX, Client Virtualization Services and Education Services for VMware that will enable organizations to better react to changing business dynamics, while providing a secure, stable environment&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Today's announcements further extend HP's long-standing relationship with VMware to simplify the implementation of the software defined datacenter and cloud environments,&amp;quot; said Antonio Neri, executive vice president and general manager, HP Enterprise Group.&amp;quot;These products, services, solutions and reference architectures will provide customers with the building blocks to transform to a hybrid infrastructure foundation to efficiently power the apps and workloads that run the business.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP, VMware Expand Global Server OEM Agreement to Accelerate Network Virtualization Adoption&lt;br>&#xa; &lt;/b>HP and VMware are also announcing the industry's first global sales, support and go-to-market agreement for the VMware NSX network virtualization platform to help customers accelerate the deployment of new high-performing applications, simplify data center fabric and operations and improve security.This agreement builds upon the previously announced HP-VMware NSX networking solution and includes a complete, end-to-end network virtualization consulting and support capabilities.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HP's hardware L2 Gateway solution, based on HP FlexFabric 5930 switch OVSDB and VMware NSX integration, as well as the industry's first jointly developed federated HP software-defined networking and VMware NSX network virtualization solution enabling seamless integration of physical and virtual data center infrastructure, will attain VMware certification.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The software-defined data center enables companies to evolve beyond hardware-centric architectures to create an automated, easy to manage hybrid cloud platform that can meet the demands of both traditional and emerging cloud-native applications,&amp;quot; said Carl Eschenbach, president and chief operating officer, VMware. &amp;quot;VMware and HP continue to help our mutual customers drive innovation with greater speed and scale.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New Virtual Desktop Infrastructure Solutions Deliver Unprecedented Density, Performance&lt;br>&#xa; &lt;/b>To enhance the value of workplace productivity, HP is introducing more flexibility and choices of end-user computing solutions with VMware Horizon 6.1 and NVIDIA GRID to deliver the broadest choice and highest density graphics virtualization options in the industry.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Powered by HP OneView, the new system gives customers a single management interface. Optimized for VDI use cases, these solutions provide variable, full lifecycle support options and open interoperability with third party top-of-rack networking switches and hypervisors from leading vendors.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>These end-user computing solutions can support up to 3,500 users and are fully tested to run desktop virtualization applications at optimal performance, helping customers reduce provisioning time, cost, setup and installation errors. Each solution has the flexibility to be built and delivered directly from HP or by a certified channel partner aligned to the specific needs of the customer's data center, freeing up time and resources.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Transforming to a Hybrid Infrastructure&lt;br>&#xa; &lt;/b>HP extends the Converged Architecture partner program with the new Converged Architecture 700 (CA700).Built on HP BladeSystem, HP 3PAR Storage, HP OneView and integration with VMware vSphere and VMware vRealize Operations, the CA700 offers simplicity with the only integrated system with converged management across compute, storage and fabric.Ideal for private clouds and enabling mobile workforce and mixed workloads, customers may experience infrastructure their way, as a single integrated stack built and delivered by the certified channel partner of their choice, saving time and resources.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The CA700's integrated stack enables VMware administrators to simply manage the entire stack as one.From the vSphere console, VMware administrators can deploy and expand clusters and perform day-to-day operations across the entire stack.This integration of one infrastructure with one management platform enables customers to focus on applications and meeting business needs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New Support and Consulting Services for VMware&lt;br>&#xa; &lt;/b>New HP services for VMware enable organizations to better react to changing business dynamics, while providing a secure, stable environment include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/services/sdi&quot;>&lt;b>HP Software-defined Compute Accelerator for VMware&lt;/b>&lt;/a>&lt;b>.&lt;/b> This pre-defined, customizable accelerator solution contains the necessary hardware, software and services to enable the piloting of a specific compute use case in the enterprise.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/services/sdi&quot;>&lt;b>HP Software-defined Compute Implementation Service&lt;/b>&lt;/a>. HP experts apply software-defined Infrastructure (SDI) concepts and VMware, HP-based reference architecture in datacenter environments.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/services/advise-transform-manage/mobility-services.html&quot;>&lt;b>HP Client Virtualization Services&lt;/b>&lt;/a>&lt;b>.&lt;/b> A full lifecycle HP services covering assessment, design, implementation, deployment, testing and support of client virtualization and VDI for VMware solutions into customer environments.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/services&quot;>&lt;b>HP Network Virtualization Services&lt;/b>&lt;/a>. These consulting and support services are designed to transform and operate the network when combining physical and virtual network resources, functionality and management to ready a network for virtualized cloud, Network Functions Virtualization, or SDI. HP provides customers with a single place to access networking, virtualization and NSX experts to quickly resolve issues 24 x 7 x 365.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/trainingww/vmwarelabs.html&quot;>&lt;b>HP Education Services for VMware&lt;/b>&lt;/a>&lt;b>.&lt;/b> New vSphere 6 training courses and curriculum educate customers on the latest capabilities from VMware and HP.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP FlexFabric 5930 direct certification with VMware NSX and SDN federated certification will be available later in Q4 this year.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The end-user computing solutions with VMware Horizon 6.1 and NVIDIA GRID and the new HP Converged Architecture 700 with VMware vSphere and VMware vRealize Operations will be available later in Q4 this year.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Software-defined Compute Services, HP Client Virtualization Services, HP Network Virtualization support services for HP-VMware NSX and HP Education Services for VMware vSphere 6 are available worldwide now.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HP Network Virtualization consulting services for HP-VMware NSX are available in January 2016.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>More information is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/services&quot;>www.hp.com/go/services&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_l16k
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/08/hpe-to-deliver-the-industrys-first-composable-infrastructure-for-vmware-private-clouds"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE to Deliver the Industrys First Composable Infrastructure for VMware Private Clouds"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE to Deliver the Industrys First Composable Infrastructure for VMware Private Clouds"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/SynergyServers.jpg"/>
+                        </contentblock_l16k>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_vox3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-announces-global-reseller-agreement-with-mesosphere"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Announces Global Reseller Agreement with Mesosphere"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces Global Reseller Agreement with Mesosphere"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/AgreementWithMesophere_web.jpg"/>
+                        </contentblock_vox3>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_rmgq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/07/playing-to-win-new-tools-unleash-massive-opportunity-for-hpe-partners"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Playing to win: New tools unleash massive opportunity for HPE partners"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Playing to win: New tools unleash massive opportunity for HPE partners"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Playing-to-Win-New-Tools-Unleash-Massive-Opportunity-for-HPE-Partners.jpg"/>
+                        </contentblock_rmgq>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

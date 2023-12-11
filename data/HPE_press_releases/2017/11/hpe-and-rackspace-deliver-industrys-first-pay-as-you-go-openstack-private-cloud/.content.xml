@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:59:53.945Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-and-rackspace-deliver-industrys-first-pay-as-you-go-openstack-private-cloud"
+        jcr:uuid="70d7e2d2-21f8-401c-9a44-383d9900424e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-13T04:46:00.000-08:00"
+        metaDescription="HPE and Rackspace Deliver Industrys First Pay-as-You-Go OpenStack Private Cloud"
+        navTitle="HPE and Rackspace Deliver Industry's First Pay-as-You-Go OpenStack Private Cloud"
+        pageTitle="HPE and Rackspace Deliver Industry's First Pay-as-You-Go OpenStack Private Cloud"
+        priority="(None)"
+        theme="dark"
+        UAID="30bcf26f-3da1-4e0e-967f-bf6e71cd0ae7"
+        UCID="a5f25cfd-eec5-4c02-86f0-e1e3a4264031"
+        WPID="199389">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 13, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_pyct
+                    jcr:lastModified="{Date}2020-05-20T17:13:01.250Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>New joint solution makes private cloud 40 percent less expensive than public cloud&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;PALO ALTO, Calif. and SAN ANTONIO, Nov. 13, 2017 (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Hewlett Packard Enterprise&quot;>Hewlett Packard Enterprise&lt;/a> (NYSE:HPE) and &lt;a href=&quot;https://www.rackspace.com/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Rackspace&quot;>Rackspace&lt;/a>&lt;sup>®&lt;/sup> today announced that the two companies have partnered to offer OpenStack&lt;sup>®&lt;/sup> Private Cloud with pay per use infrastructure, the industry's first pay-as-you-go OpenStack&amp;nbsp;private cloud, delivered as a managed service&lt;sup>2&lt;/sup>. With this solution, enterprises receive the benefits of a public cloud- cloud-like utility pricing, elastic infrastructure and simplified IT in a private cloud environment located in their datacenter, a colocation facility or a datacenter managed by Rackspace, the private cloud-as-a-service market leader&lt;sup>3&lt;/sup>.&lt;br>&#xa; &lt;br>&#xa; &lt;br>&#xa; &amp;quot;The launch of OpenStack Private Cloud with pay per use infrastructure delivered by Rackspace and HPE marks a pivotal moment in the private cloud market and in the industry at large,&amp;quot; said Antonio Neri, president of HPE. &amp;quot;This experience is the best of the cloud and on-premises worlds, and we fully expect this simple pay-per-use technology model to change the way enterprises make technology decisions.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;According to IDC FutureScape: Worldwide Datacenter 2017 Predictions, &amp;quot;Pay-as-you-go consumption models will account for 50 percent of on-premises and off-premises Physical IT and datacenter asset spending by 2018.&amp;quot;&lt;sup>4&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;With this innovative delivery model, Rackspace and HPE are removing the barriers to private cloud adoption, giving customers even more choice of technology platforms that best fit their application needs,&amp;quot; said Scott Crenshaw, executive vice president of private cloud at Rackspace. &amp;quot;We are proud to partner with HPE to continue enabling customer success with private clouds. And, with this common goal in mind, our companies plan to extend this model to Rackspace's entire managed private cloud portfolio in the future, including VMware and Microsoft Azure Stack technologies.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Leveraging a &amp;quot;pay-as-you-go&amp;quot; model for private cloud means customers pay only for what they use. It enables them to handle unpredictable growth and bursts in workloads without paying for unnecessary fixed capacity. OpenStack Private Cloud with pay per use infrastructure, delivered by Rackspace and HPE, will help enterprises take full advantage of the benefits of managed private cloud, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pay-as-you-go pricing:&lt;/b> Leveraging &lt;a href=&quot;https://www.hpe.com/us/en/services/flexible-capacity.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;HPE Flexible Capacity&quot;>HPE Flexible Capacity&lt;/a>, customers pay for what they use in an on-demand consumption model for infrastructure. This feature enables private cloud customers to more closely align resources to growth and handle burst capacity and traffic spikes without the need to pay for additional fixed capacity. This flexible capacity model delivers better cost than public cloud&lt;sup>1&lt;/sup>, typically saving customers 40 percent or more versus the leading public cloud.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Agility and instant scalability: &lt;/b>Customers maintain the performance benefits of a private cloud environment, while instantly scaling their entire private cloud capacity in a public cloud-like manner.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enable enterprise-grade security and reliability: &lt;/b>With a single-tenant model, customers can eliminate the performance and &amp;quot;noisy neighbor&amp;quot; issues commonly found in multi-tenant environments, and can more easily meet security, compliance and data sovereignty needs.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Managed expertise:&lt;/b> Customers consume OpenStack Private Cloud with pay-per-use infrastructure as a managed service with an industry-leading 99.99 percent API uptime guarantee from Rackspace. This helps customers focus on their core business, while eliminating the risk and operational complexities of trying to manage a private cloud on their own. As a creator of OpenStack, Rackspace is the world's largest and most experienced OpenStack operator&lt;sup>5&lt;/sup> with more than one billion server hours of OpenStack expertise&lt;sup>6&lt;/sup>.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;As enterprise organizations continue to invest in both on-premises and hosted private cloud capabilities, they are increasingly incorporating a richer set of cloud services,&amp;quot; said Michelle Bailey, group vice president, general manager and research fellow at IDC Research. &amp;quot;In a world where digital transformation is rapidly impacting every industry, enterprises need to both modernize their IT and remain agile to maintain competitive advantage. The OpenStack Private Cloud offering from Rackspace and HPE specifically addresses organizations needs to provide security and performance benefits, the cornerstone of a private cloud environment. With Rackspace's private cloud expertise and service-first culture, they are well positioned to address the needs of HPE's large installed base of infrastructure customers and help reduce any cloud migration risk. This pay-per-use infrastructure is a new step forward in helping enterprises deploy private clouds with improved flexibility and cost transparency.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;OpenStack Private Cloud with pay per use infrastructure, delivered by Rackspace and HPE, will be generally available in all regions on November 28, with additional solutions for Rackspace Private Cloud powered by VMware&lt;sup>®&lt;/sup> and Rackspace Private Cloud powered by Microsoft&lt;sup>®&lt;/sup> Azure&lt;sup>®&lt;/sup> Stack expected in 2018.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Rackspace&lt;/b>&lt;br>&#xa; Rackspace, the leading multi-cloud managed services company, helps businesses tap the power of cloud computing without the complexity and cost of managing it all on their own. Rackspace engineers deliver specialized expertise, easy-to-use tools, and Fanatical Support&lt;sup>®&lt;/sup> for leading technologies including AWS, Google, Microsoft, OpenStack, Oracle, SAP and VMware. The company serves customers in 150 countries, including more than half of the FORTUNE 100. Rackspace was named a leader in the 2017 Gartner Magic Quadrant for Public Cloud Infrastructure Managed Service Providers, Worldwide and has been honored by Fortune, Forbes, and others as one of the best companies to work for. Learn more at www.rackspace.com.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Forward-Looking Statement&lt;br>&#xa; The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;____________________&lt;br>&#xa; &lt;sup>1&lt;/sup>Based on Rackspace internal pricing analysis, savings are measured against the leading public cloud vendor&lt;br>&#xa; &lt;sup>2&lt;/sup> Rackspace conducted this analysis this year (2017)&lt;br>&#xa; &lt;sup>3&lt;/sup> Gartner Magic Quadrant for Cloud Infrastructure as a Service, Worldwide, June 2017&lt;br>&#xa; &lt;sup>4&lt;/sup> IDC, FutureScape: Worldwide Datacenter 2017 Predictions, AP41339817, Jan 2017&lt;br>&#xa; &lt;sup>5&lt;/sup> 451 Group, Open Source Cloud Platforms: OpenStack, June 2016&lt;br>&#xa; &lt;sup>6&lt;/sup> Internal Rackspace analysis that measures managed OpenStack server hours across public and private clouds (as of Summer 2016)&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_h6li
+                            jcr:lastModified="{Date}2020-05-20T17:20:01.221Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/02/hpes-top-5-things-you-shouldnt-miss-from-q1"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE's Top 5 Things You Shouldn't Miss From Q1"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPEs Top 5 Things You Shouldnt Miss From Q1"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T17:20:01.221Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/HPE’s-Top-5-Moments-from-the-Third-Quarter-v2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T17:20:01.221Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_h6li>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_8c5f
+                            jcr:created="{Date}2018-10-17T18:23:19.317Z"
+                            jcr:createdBy="hpe.publishers"
+                            jcr:lastModified="{Date}2020-05-20T17:20:09.200Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-extends-composability-to-cloud-and-hyper-converged-solutions"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Extends Composability to Cloud and Hyper-converged Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Composability to Cloud and Hyper-converged Solutions"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T17:20:09.200Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/SynergyServers.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T17:20:09.200Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_8c5f>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_c20a
+                            jcr:created="{Date}2018-10-17T18:23:04.595Z"
+                            jcr:createdBy="hpe.publishers"
+                            jcr:lastModified="{Date}2020-05-20T17:20:15.067Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/a-healthy-partnership-between-hewlett-packard-enterprise-oem-and-cerner"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="A Healthy Partnership Between Hewlett Packard Enterprise OEM and Cerner"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A Healthy Partnership Between Hewlett Packard Enterprise OEM and Cerner"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T17:20:15.067Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T17:20:15.067Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_c20a>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-17T18:02:24.118Z"
+            jcr:lastModifiedBy="hpe.publishers"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

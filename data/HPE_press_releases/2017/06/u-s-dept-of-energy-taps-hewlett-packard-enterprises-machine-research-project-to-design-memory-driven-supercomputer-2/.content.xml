@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:14:49.310Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry---energy,hpe-newsroom:categories/networking,hpe-newsroom:categories/csr]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="u-s-dept-of-energy-taps-hewlett-packard-enterprises-machine-research-project-to-design-memory-driven-supercomputer-2"
+        jcr:uuid="1f671f70-eb39-42c7-95f5-76e71e71068e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-06-15T11:14:00.000-07:00"
+        metaDescription="U.S. Dept. of Energy Taps Hewlett Packard Enterprises Machine Research Project to Design Memory-Driven Supercomputer"
+        navTitle="U.S. Dept. of Energy Taps Hewlett Packard Enterprise's Machine Research Project to Design Memory-Driven Supercomputer"
+        pageTitle="U.S. Dept. of Energy Taps Hewlett Packard Enterprise's Machine Research Project to Design Memory-Driven Supercomputer"
+        priority="(None)"
+        theme="dark"
+        UAID="ba350e94-f182-4b71-b123-7d826965f2d4"
+        UCID="36ca4d45-11c1-4fde-b911-bdde4165f70a"
+        WPID="198323">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 15, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_0kig
+                    jcr:lastModified="{Date}2020-05-12T16:55:17.810Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., June 15, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (NYSE:&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>HPE&lt;/a>) today announced it has been awarded a research grant from the U.S. Department of Energy (DOE) to develop a reference design for an exascale supercomputer that will enable a broad set of modeling and simulation applications unachievable today, accelerating breakthroughs in science, medicine, technology, engineering and many other fields. Scientific applications would impact nearly every corner of research, from the physics of star explosions to precision medicine for cancer.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To deliver exascale performance in 2022-23, high-performance computing (HPC) machines will need to be 10 times faster and more energy efficient than today's fastest supercomputers. This will require active research into technologies that will dramatically improve compute processing power while at the same time reduce energy consumption and space requirement by an order of magnitude. HPE's reference design will address this set of challenges, as well as the memory, fabric capacity and bandwidth constraints of today's HPC architecture, to deliver exascale computing performance with low latency.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>At the heart of HPE's exascale reference design is &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/content-hub/memory-driven-computing.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Memory-Driven Computing&quot;>Memory-Driven Computing&lt;/a>, an architecture that puts memory, not processing, at the center of the computing platform to realize a new level of performance and efficiency gains. HPE's Memory-Driven Computing architecture is a scalable portfolio of technologies that Hewlett Packard Labs developed via The Machine research project. On May 16, 2017, &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/press-release/2017/05/a-new-computer-built-for-the-big-data-era.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;HPE unveiled&quot;>HPE unveiled&lt;/a> the latest prototype from this project, the world's largest single memory computer.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We are excited at the opportunity to provide the technical blueprint for an exascale system that will process data faster than any supercomputer available today and enable a new era of computational and scientific capabilities,&amp;quot; said Bill Mannel, vice president and general manager, HPC Segment Solutions, HPE.&amp;quot; Our novel Memory-Driven Computing architecture combined with our deep expertise in HPC and robust partner ecosystem uniquely positions HPE to develop the first U.S. exascale supercomputer and deliver against the PathForward program's goals.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Fundamental technologies of the architecture that will be instrumental in the exascale project include a new memory fabric and low-energy photonics interconnects. The memory fabric is an ideal foundation for a wide range of emerging HPC and data intensive workloads, including big data analytics. HPE also continues to explore nonvolatile memory options that could attach to the memory fabric, significantly increasing the reliability and efficiency of exascale systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE will work with industry partners to develop world-class open architectures based upon open industry standards. At the core of this strategy is the use of the industry-led Gen-Z (&lt;a href=&quot;https://genzconsortium.org/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;www.genzconsortium.org&quot;>www.genzconsortium.org&lt;/a>) chip-to-chip protocol. Gen-Z provides a memory-semantic chip-to-chip communications protocol that allows for the tight coupling of many devices including CPUs, GPUs, FPGAs, DRAM, NVM, system interconnects and a host of other devices, all sharing a common address space. This allows for the creation of 'memory centric' system designs which offer dramatic improvements in application performance and power efficiency. The Gen-Z protocol is enabling the industry to collaborate on the development of supercomputers that harness best-of-breed technologies encouraged by an open and competitive ecosystem.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We see this DOE grant as a vote of confidence in the ability of HPE and Hewlett Packard Labs to help overcome daunting technology challenges that are impeding everyone's progress toward exascale computing,&amp;quot; said Steve Conway, IDC research vice president of high performance computing. &amp;quot;As the global HPC market leader, HPE is highly motivated and well positioned to accelerate the move toward this next milestone in computing capability. Once it becomes practical, exascale computing will give a powerful boost to scientific innovation and industrial competitiveness.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is being awarded this research and development contract from the DOE's Exascale Computing Project (ECP) under a program called PathForward. The program will accelerate R&amp;amp;D to support the government's growing supercomputing needs. Exascale computing is a developing area of HPC that will enable systems capable of at least one quintillion calculations per second. This program furthers the DOE's goals of maximizing the benefits of HPC for the United States by accelerating the development of a capable exascale computing ecosystem.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;/content/hpe/base/blueprint/resources/servers/exascale-hpc-next-generation.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>Exascale: A race to the future of HPC&lt;/a> (Whitepaper)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://globenewswire.com/Tracker?data=rXmPytqEgUv_UeSf0Xa3sO-eOUBRGsGjB6zdXf9yQPPT91EDqmOBpYaMViuEqKz74rWYQikNj4JSOy1coC9cdNAA-xpPxBgTUWaHHzmoKWM%3D&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;The Race to Exascale Computing&quot;>The Race to Exascale Computing&lt;/a> (Video)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Learn more about Memory-Driven Computing &lt;a href=&quot;http://globenewswire.com/Tracker?data=TtxZ7ezEe4Mq_SlfsFV8lCM81XcgwlMpakrctnR4hp6gwktjv3oAz7vw5yReuy6fKtmGpcXVqMDff-9JbDQP3xiJe-nfL4BsCfLzHqKNsno%3D&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;here&quot;>here&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement &lt;/b>&lt;br>&#xa; This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprises Registration Statement on Form 10 dated July 1, 2015, as amended. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>CONTACT: Editorial contact&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>Kasia Johnston, HPE&lt;br>&#xa; Kasia.johnston@hpe.com&lt;/span>&lt;/b>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hnel
+                            jcr:lastModified="{Date}2020-05-12T16:55:33.407Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/u-s-dept-of-energy-taps-hewlett-packard-enterprises-machine-research-project-to-design-memory-driven-supercomputer"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="U.S. Dept. of Energy Taps Hewlett Packard Enterprises Machine Research Project to Design Memory-Driven Supercomputer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="U.S. Dept. of Energy Taps Hewlett Packard Enterprises Machine Research Project to Design Memory-Driven Supercomputer"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T16:55:33.407Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Services-to-Accelerate-Your-Digital-Transformation.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T16:55:33.407Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_hnel>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ktup
+                            jcr:lastModified="{Date}2020-05-12T16:55:43.490Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/developing-a-supercomputer-to-process-more-than-a-quintillion-calculations-per-second-qa-with-hpes-bill-mannel"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="Developing a Supercomputer to Process More Than a Quintillion Calculations per Second: Q"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Developing a Supercomputer to Process More Than a Quintillion Calculations per Second: Q"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T16:55:43.490Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/SeniorNotes-webbb-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T16:55:43.490Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_ktup>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_yy1c
+                            jcr:lastModified="{Date}2020-05-12T16:56:08.253Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-delivers-worlds-largest-arm-supercomputer-for-u-s-department-of-energy-doe"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Delivers Worlds Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Worlds Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T16:56:08.253Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/HPE-Delivers-World’s-Largest-Arm-Supercomputer-for-U.S.-Department-of-Energy-DOE-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T16:56:08.253Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_yy1c>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-17T15:35:27.034Z"
+            jcr:lastModifiedBy="hpe.publishers"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

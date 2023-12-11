@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2018-10-12T19:56:08.266Z"
+        cq:lastModifiedBy="oscar.lopez-macias@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="10"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"/>
+    <hpe-introduces-new-set-of-artificial-intelligence-platforms-and-services/>
+    <hewlett-packard-enterprise-announces-fy18-outlook/>
+    <hpe-to-webcast-2017-securities-analyst-meeting/>
+    <hpe-radically-simplifies-application-deployment-in-manufacturing-plants/>
+</jcr:root>

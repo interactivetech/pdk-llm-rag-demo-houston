@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:38:11.714Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-makes-enterprise-architecture-of-the-future-a-reality"
+        jcr:uuid="c8d29282-188f-41c8-9427-35676f2be8d5"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:02:09.000-07:00"
+        mediaContactEmail="corpmediarelations"
+        mediaContactName="For all Worldwide Media Inquiries, please contact"
+        metaDescription="HP Makes Enterprise Architecture of the Future a Reality"
+        navTitle="HP Makes Enterprise Architecture of the Future a Reality"
+        pageTitle="HP Makes Enterprise Architecture of the Future a Reality"
+        priority="(None)"
+        subtitle="Innovative Converged Infrastructure Solutions and Services Deliver Simplicity, Efficiency and Investment Protection for Customers"
+        theme="dark"
+        UAID="0c4d8979-1cd5-4135-aff6-b8dc6375a2b5"
+        UCID="8c337019-a713-4284-a87a-0e35c1d68a02"
+        WPID="1604">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-17T13:30:00.668Z"
+                jcr:lastModifiedBy="hpe.publishers"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 9, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Innovative Converged Infrastructure Solutions and Services Deliver Simplicity, Efficiency and Investment Protection for Customers&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_nebc
+                    jcr:lastModified="{Date}2018-10-17T13:30:26.267Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, NV--(Marketwired - Jun 9, 2014) - HP (NYSE: HPQ) today announced new innovations and sustainable enterprise infrastructure solutions that deliver the simplicity, efficiency and investment protection organizations need to bridge the datacenter technologies of today and tomorrow.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Big data, mobility, security and cloud computing are forcing organizations to rethink their approach to technology, causing them to invest heavily in IT infrastructure. According to Gartner, &amp;quot;Datacenter hardware spending from new types of products and new types of big data deployments will reach $9.4 billion in 2014.&amp;quot;&lt;sup>(1)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP is helping enterprises create a foundation for the next generation of enterprise architecture with new solutions and services that address power and physical constraints, accelerate applications, simplify management, create efficiencies and enhance agility -- while also lowering IT and operational expenses. The new offerings, which enable a software-defined datacenter that is supported by cloud delivery models and built on a converged infrastructure that spans compute, storage and network technologies, include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>High-performance computing (HPC) offerings, including &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/hpinfo/newsroom/press_kits/2014/HPDiscover2014/HPApollo.pdf&quot;>HP Apollo&lt;/a> HPC systems, capable of delivering breakthrough performance while using less space and energy.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enhancements to the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/hpinfo/newsroom/press_kits/2014/HPDiscover2014/HPDeliversAllFlash.pdf&quot;>all-flash HP 3PAR StoreServ&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/hpinfo/newsroom/press_kits/2014/HPDiscover2014/HPsimplifiesdataprotection.pdf&quot;>HP StoreOnce Backup&lt;/a> family accelerate mission-critical applications and eliminate complex backup silos.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Networking offerings like the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/hpinfo/newsroom/press_kits/2014/HPDiscover2014/HPSDNforCloud.pdf&quot;>HP Virtual Cloud Networking (VCN) SDN Application&lt;/a>, designed to simplify the transition to a software-defined datacenter.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The enhanced &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/hpinfo/newsroom/press_kits/2014/HPDiscover2014/HP_Simplifies_Delivery_of_IT_as_a_Service_with_Innovations_in_Management_and_Automation.pdf&quot;>HP ConvergedSystem platform for IT-as-a-Service&lt;/a>, which offers increased performance with radically reduced cost, time and complexity.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/hpinfo/newsroom/press_kits/2014/HPDiscover2014/HPSeamlesslyIntegratesOn-premisesandPublicCloudResourcesinaSinglePool.pdf&quot;>HP Datacenter Care Flexible Capacity&lt;/a>, a pay-as-you-go model that removes the boundaries between datacenter and cloud resources for easy management of a hybrid IT environment.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As customers look ahead, they need business outcome-driven infrastructure that enables the New Style of IT,&amp;quot; said &lt;/i>&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/hp-information/executive-team/team.html#bill-veghte&quot;>&lt;i>Bill Veghte&lt;/i>&lt;/a>&lt;i>, executive vice president and general manager, Enterprise Group, HP. &amp;quot;With the products and services we are launching at Discover, HP is reducing complexity for customers while speeding time to value.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Redefining the enterprise HPC landscape with new supercomputer family &lt;br>&#xa; &lt;/b>HPC enables critical breakthroughs in science and engineering, and use of the technology is expanding beyond governments and academia to enterprises, where it can help them enhance research and development efforts while gaining a competitive edge. However, many organizations aren't equipped to handle the massive compute demands required by traditional HPC systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP is addressing these space, power and datacenter efficiency challenges with the introduction of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/Apollo&quot;>HP Apollo&lt;/a>, a new family of HPC solutions that brings the power of HPC to organizations of all sizes. These new servers combine a modular design with innovative power distribution and air- and liquid-cooling techniques for extreme performance at rack scale, providing up to four times more performance per square foot than standard rack servers.&lt;sup>(2)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP also introduced &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/hpinfo/newsroom/press_kits/2014/HPDiscover2014/HP_Helion_Self-Service_HPC.pdf&quot;>HP Helion Self-Service HPC&lt;/a>, a private cloud solution based on the HP Helion OpenStack cloud platform that provides a self-service portal containing HPC resources via a user-friendly application interface.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Architecting for simplicity with converged storage and software-defined networks &lt;br>&#xa; &lt;/b>HP is helping customers accelerate the transition to a next-generation IT infrastructure while maintaining business continuity and simplicity with enhanced offerings that provide ease of management from data creation throughout the life cycle:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The all-flash &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/3parstoreserv&quot;>HP 3PAR StoreServ 7450 Storage&lt;/a> array delivers flash storage at under $2 per usable gigabyte via inline deduplication without compromising performance or guaranteed 99.9999 percent data availability.&lt;sup>(3)&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New backup, recovery and archive (BURA) solutions, including enhancements to the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/storeonce&quot;>HP StoreOnce Backup&lt;/a> family. These offerings eliminate the requirement to manage isolated single node backup targets, enabling customers to protect increasing volumes of data while simplifying data management.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations wrestling with the complexity of a legacy network architecture are prevented from unleashing the full potential of the cloud. Transitioning to software-defined networking (SDN) provides the flexibility an enterprise needs to ensure success in the cloud and bring simplicity and agility to the datacenter network. The new &lt;a rel=&quot;nofollow&quot; href=&quot;http://h17007.www1.hp.com/us/en/networking/products/network-management/HP_VAN_SDN_Controller_Software/index.aspx&quot;>HP Virtual Cloud Networking SDN Application&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://h17007.www1.hp.com/us/en/networking/products/switches/HP_FlexFabric_7900_Switch_Series/index.aspx#.U5DRwXJdXTq&quot;>HP FlexFabric Datacenter 7900&lt;/a> series switch rapidly virtualize the datacenter, enabling customers to deploy and optimize secure, isolated cloud networks in minutes vs. months.&lt;sup>(4)&lt;/sup> In addition, HP Trusted Network Transformation is an end-to-end approach that provides customers the confidence to successfully transform their datacenter network while maintaining business continuity.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Creating efficiency and investment protection for tomorrow's enterprise &lt;br>&#xa; &lt;/b>To meet growing business demands for service delivery and serve as a driver of profitable opportunities, IT administrators need to automate delivery and operations of IT services, all within an infrastructure that requires fewer resources to support it.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help organizations achieve this transformation, HP has refreshed &lt;a rel=&quot;nofollow&quot; href=&quot;http://h17007.www1.hp.com/us/en/enterprise/servers/products/infrastructure-management/index.aspx#.U5DSAHJdXTp&quot;>HP OneView&lt;/a> with enhancements that enable customers to leverage a software-defined converged management approach within their datacenter. HP OneView automates routine IT tasks, reduces IT operational expenses and speeds response times to business needs, improving efficiency and reducing operational costs. A key enhancement to HP OneView includes extended management across HP 3PAR storage and support flexible storage resource pools with converging automation of servers and storage.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP also has integrated &lt;a rel=&quot;nofollow&quot; href=&quot;http://h17007.www1.hp.com/us/en/converged-infrastructure/virtualization.aspx#.U5DU-HJdXAk&quot;>HP ConvergedSystem for Virtualization&lt;/a> with HP OneView, delivering a common management platform across servers, storage, networking and third-party software, enabling customers to deploy and automate the management of their IT environment in as little as 20 days.&lt;sup>(5)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>A hybrid IT environment delivers business agility and flexibility but needs to offer shared pools of resources onsite and from the public cloud to be efficient. &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-services/it-services.html?compURI=1325128#.U4jwYHJdUsc&quot;>HP Datacenter Care Flexible Capacity&lt;/a>, a new, pay-as-you-go solution from HP Technology Services, delivers a public cloud experience with the benefits of public and/or on-premises IT. With flexible pricing models, scalability and flexible usage across the datacenter, customers can gain the benefits of a public cloud, on-premises or hybrid delivery model to retain control and improve security, while maintaining an enterprise-quality support experience.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and availability&lt;sup>(6)&lt;/sup>&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Apollo 6000 and HP Apollo 8000 will be available from HP and channel partners beginning June 10.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP 3PAR StoreServ 1.92TB cMLC drives are expected to be available in July for $14,315 per drive.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP StoreOnce 6500 starts at $375,000 and HP Federated Catalyst starts at $37,500 per couplet for the HP StoreOnce 6500. Both are available in July.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Virtual Cloud Networking SDN Application will be available in August as part of HP Helion OpenStack.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP FlexFabric 7900 switch series starts at $55,500 and is available now.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Trusted Network Transformation is available now with customized solution pricing.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The enhanced HP ConvergedSystem for Virtualization offerings is currently available today for the starting price of $170,000. The enhanced HP OneView also is currently available for the starting price of $699.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Datacenter Care Flexible Capacity is available now globally.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>All offerings are available worldwide from HP and authorized channel partners. Additional information about the HP Enterprise Group portfolio is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/HPDiscover2014&quot;>www.hp.com/go/HPDiscover2014&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>(1)&lt;/sup>Gartner, &amp;quot;For Future Business Agility, Embed the Impacts of Big Data Into Your Infrastructure Sourcing Strategy,&amp;quot; March 2014.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>(2)&lt;/sup>Based on HP internal estimates. Apollo f8000 provides 4x more teraflops per square foot than IBM 1U rack servers, based on rack and power density, assuming the same processors.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>(3)&lt;/sup>6-Nines, or 99.9999 percent availability, translates to less than 31.5 seconds of downtime per year. Qualification for the HP 3PAR Get 6-Nines Guarantee is subject to customer's acceptance of the Get 6-Nines Guarantee Terms and Conditions and compliance with such Terms.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>(4)&lt;/sup>HP internal analysis comparing use of command-line interface vs. using HP VAN SDN solutions&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>(5)&lt;/sup>Based on internal HP testing using predefined configurations, HP ConvergedSystems for Virtualization can be ordered and deployed in as few as 20 days.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>(6)&lt;/sup>Estimated U.S. list prices. Actual prices may vary.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and that are otherwise described or updated from time to time in HP's Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_6gzs
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-software-boosts-security-in-its-backup-suite-to-guard-against-growing-threats"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Software Boosts Security in its Backup Suite to Guard against Growing Threats"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Digital-TransformationWeb.jpg"/>
+                        </contentblock_6gzs>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_odjn
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/four-industries-ripe-for-blockchain-disruption"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Four Industries Ripe for Blockchain Disruption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Four Industries Ripe for Blockchain Disruption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Auto2.jpg"/>
+                        </contentblock_odjn>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_pybn
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/enterprise-group-lead-antonio-neri-on-hpes-commitment-to-software-defined-infrastructure"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Enterprise Group lead Antonio Neri on HPE's commitment to software-defined infrastructure"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Enterprise Group lead Antonio Neri on HPE's commitment to software-defined infrastructure"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Neri-Image.jpg"/>
+                        </contentblock_pybn>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

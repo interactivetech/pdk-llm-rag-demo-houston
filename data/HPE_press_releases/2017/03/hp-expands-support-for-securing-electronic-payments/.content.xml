@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:00:56.763Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/customers-and-partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-expands-support-for-securing-electronic-payments"
+        jcr:uuid="8673d754-5112-42a1-89e8-de09c203851e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:38.000-07:00"
+        metaDescription="HP Expands Support for Securing Electronic Payments"
+        navTitle="HP Expands Support for Securing Electronic Payments"
+        pageTitle="HP Expands Support for Securing Electronic Payments"
+        priority="(None)"
+        subtitle="HP Atalla Supports New Cloud-Based Payment Methods as New Research Confirms Increasing Need for Security in Electronic Payment Processing"
+        theme="dark"
+        UAID="b23fd19d-5dcb-44ce-93ce-327ec6a44b5f"
+        UCID="c7edf714-4128-4396-9346-63e1c5e7ea8a"
+        WPID="1556">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T20:45:24.134Z"
+                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 12, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP Atalla Supports New Cloud-Based Payment Methods as New Research Confirms Increasing Need for Security in Electronic Payment Processing&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_eax5
+                    jcr:lastModified="{Date}2018-10-18T20:59:40.741Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>CHICAGO, IL--(Marketwired - Nov 12, 2014) - HP (NYSE: HPQ)today announced expanded support for new cloud-based payment platforms as well as Europay, MasterCard, Visa (EMV) issuance with its HP Atalla &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/home.html&quot;>Network Security Processor (NSP)&lt;/a>. These enhancements extend HP Atalla's existing support for EMV tokenization and card encryption.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;At &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.bai.org/retaildelivery/conference-expo&quot;>BAI Retail Delivery 2014&lt;/a>, HP also unveiled results from a new study revealing the most popular electronic payment systems, adoption trends and most critical technologies in securing electronic payment methods.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Despite privacy concerns, consumers are quickly embracing new payment systems, including mobile payments, person-to-person payments and e-wallets. According to the Security &amp;amp; Compliance Trends in Innovative Electronic Payments Report conducted by the Ponemon Institute (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/PonemonPrivacy&quot;>@PonemonPrivacy&lt;/a>) and sponsored by &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/search?q=%23HPAtalla&amp;amp;src=typd&quot;>#HPAtalla&lt;/a>, payments with a mobile device or phone number are the most popular electronic payment method, with 75 percent of respondents saying their organizations have plans to support payments with a mobile device or phone number.&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;With electronic payment adoption on the rise, the security and integrity of sensitive financial data must be addressed. According to the study, 66 percent of respondents reported the authentication of users to be a key challenge in implementing new payment methods.&lt;sup>1&lt;/sup> To address this, organizations can look to technologies such as cryptography, key management, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/software.html?compURI=1333112&quot;>hardware security models (HSMs)&lt;/a> and interoperability. In addition, industry standards play an increasingly important role in securing emerging electronic payment capabilities.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;&amp;quot;Consumers are increasingly adopting mobile-based and other forms of electronic payments, despite the threats to their sensitive payment data,&amp;quot; &lt;/i>said Albert Biketi (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/abgenx&quot;>@abgenx&lt;/a>), general manager, Atalla, Enterprise Security Products (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsecurity&quot;>@hpsecurity&lt;/a>), HP. &lt;i>&amp;quot;Implementing fundamental payment security technologies to advance innovative electronic payment methods is crucial in both managing risk and staying ahead of the growing number of threats.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Securing and advancing adoption of electronic payment offerings &lt;br>&#xa; &lt;/b>With more than 35 years of experience helping merchants protect their financial data with the HP &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/software.html?compURI=1333112&quot;>Network Security Processor (NSP)&lt;/a>, HP Atalla also supports the latest electronic and cloud-based payment methods by securely processing over near field communication (NFC) through a mobile phone application. This enables devices without a secure element to make NFC-powered transactions that meet emerging standards and protocols.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HP Atalla has also expanded its nearly 20-year history of support for EMV issuance through a partnership with Cryptomathic. With its award-winning Cardlnk EMV software and key management platform, Cryptomathic is now enabled to use the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/software.html?compURI=1333112&quot;>HP Atalla NSP&lt;/a> as its &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/software.html?compURI=1333112&quot;>HSM&lt;/a> to generate and protect sensitive EMV card information, enabling more seamless customer adoption.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Key findings from the 2014 Security &amp;amp; Compliance Trends in Innovative Electronic Payments Report include:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Payments with a mobile device or phone number are the most popular electronic payment method,&lt;/u>&lt;/b> with 75 percent of respondents saying their organizations plan on supporting payments with a mobile device or phone number, followed by stored value cards. Meanwhile, 43 percent of respondents say e-currencies will be part of their organizations' payment strategy.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>A key barrier to the adoption of innovative electronic payments is security&lt;/u>&lt;/b>, with 66 percent of respondents reporting a key challenge in implementing new payment methods is the difficulty in authenticating users. Moreover, the pressure to migrate to these payment systems puts the security of transactions at risk, according to 63 percent of respondents.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Privacy concerns don't affect consumer adoption of electronic payments&lt;/u>&lt;/b>, with only 38 percent of respondents saying consumers will be reluctant to use these payment methods because of privacy concerns.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>One-time passwords or tokens are considered the most critical security technologies for electronic payments&lt;/u>&lt;/b>, yet on average only 48 percent of respondents say their organizations use one time passwords or tokens, while an average of 42 percent say their organizations use federated identity and authentication systems.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Near field communications (NFC) and host card emulation (HCE) increase the security of new electronic payments&lt;/u>&lt;/b>, according to 55 percent and 57 percent of respondents respectively.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Virtual currencies are expected to overtake paper currencies in the future&lt;/u>&lt;/b>, with 46 percent of respondents claiming that virtual currencies will be commonly used within the next five years.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;u>Electronic payment platforms were the most deployed systems&lt;/u>&lt;/b>, followed by closed loop innovative electronic payments and direct carrier or app billing. Only 17 percent have fully deployed alternative payment methods for point of sale.&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;&amp;quot;The Ponemon Institute is pleased to have conducted this research on behalf of HP Atalla to examine perceptions about the security and privacy risks associated with new electronic payment and virtual currencies,&amp;quot; said Larry Ponemon, CEO and Founder, Ponemon Institute. &amp;quot;Our findings indicate consumers are embracing new payment solutions, but security fundamentals are still required for maximum protection.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/PonPayTrends&quot;>Security &amp;amp; Compliance Trends in Innovative Electronic Payments Report&lt;/a> findings were gathered from a survey administered to 634 individuals in the U.S. working primarily in IT operations, security, and electronic deployment teams.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Learn more about research findings&lt;br>&#xa; &lt;/b>For additional details on the findings from the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/PonPayTrends&quot;>Security &amp;amp; Compliance Trends in Innovative Electronic Payments Report&lt;/a>, a webinar is available &lt;a rel=&quot;nofollow&quot; href=&quot;https://info.bai.org/HP_BAI_Banking_Strategies_Webinar_102914_Archive.html&quot;>here&lt;/a>. HP will exhibit at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.bai.org/retaildelivery/conference-expo&quot;>BAI Retail Delivery 2014&lt;/a> Nov. 12-14 in booth #4338 and participate in the &amp;quot;Best Practices in Fraud Mitigation, Prevention and Cybersecurity&amp;quot; panel, which will take place on Wednesday, Nov. 12 at 11:30 a.m.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;BAI and American Banker have recognized HP second overall in the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.americanbanker.com/fintech-supplement/top-25-enterprise-companies-in-fintech-1063414-1.html?fintech&quot;>2014 FinTech Top 25 Enterprise rankings&lt;/a> based on yearly revenues to the financial services industry.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Additional information about HP Atalla is available at&lt;a rel=&quot;nofollow&quot; href=&quot;http://hp.com/go/atalla&quot;>hp.com/go/atalla&lt;/a> and HP Enterprise Security Products at &lt;a rel=&quot;nofollow&quot; href=&quot;http://hp.com/go/esp&quot;>hp.com/go/esp&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Join &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.linkedin.com/company/hp-software&quot;>HP Software&lt;/a> on Linkedin and follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPSoftware&quot;>@HPSoftware&lt;/a> on Twitter. To learn more about HP Atalla and HP Enterprise Security Products on Twitter, please follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsecurity&quot;>@hpsecurity&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;br>&#xa;1&lt;/sup> &amp;quot;Security &amp;amp; Compliance Trends in Innovative Electronic Payments Report,&amp;quot; Ponemon Institute, October 2014.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_a75a
+                            jcr:created="{Date}2018-10-18T20:46:13.730Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T20:46:13.730Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            topPadding="30px|30px|30px|30px|30px"/>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_722a
+                            jcr:created="{Date}2018-10-18T20:46:34.343Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T20:46:34.343Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/09/industrial-iot-must-move-from-optimization-to-transformation"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Industrial IoT Must Move from Optimization to Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Industrial IoT Must Move from Optimization to Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Header.jpg"/>
+                        </contentblock_722a>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ca80
+                            jcr:created="{Date}2018-10-18T20:46:51.554Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-24T12:01:16.814Z"
+                            jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/wondering-if-blockchain-is-the-answer-for-your-business"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Wondering if blockchain is the answer for your business?"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Wondering if blockchain is the answer for your business?"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-24T12:01:16.814Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HeroWeb_workshop.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-24T12:01:16.814Z"
+                                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_ca80>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

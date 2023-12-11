@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:04:30.671Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry--manufacturing]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-radically-simplifies-application-deployment-in-manufacturing-plants"
+        jcr:uuid="e3669cb2-01b0-4d82-bbd3-aa95ee30d117"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        author="Patrik Edlund, HPE EMEA Media Relations "
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-10-03T06:30:25.000-07:00"
+        mediaContactEmail="patrik.edlund@hpe.com"
+        mediaContactName="Patrik Edlund "
+        metaDescription="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+        metaKeywords="Cloud 28 , Cloud, Digital Transformation, IoT"
+        navTitle="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+        pageTitle="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+        priority="(None)"
+        subtitle="New Express App Platform  Manufacturing accelerates digital factory transformation, deploys applications in factory premises with only six clicks"
+        theme="dark"
+        UAID="6b169ab9-cc6c-4153-bf52-de17de113e37"
+        UCID="e5d77f8f-1878-447f-9661-1be839a6f80c"
+        WPID="199057">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 03, 2017 • Press Release • Patrik Edlund, HPE EMEA Media Relations "/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Header.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Radically Simplifies Application Deployment in Manufacturing Plants"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:39.916Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3> &lt;ul>&lt;li>Express App Platform  Manufacturing is an on-premises solution that is integrated with Cloud28 , the worlds largest cloud aggregator&lt;/li>&lt;li>It radically simplifies application deployment in manufacturing plants and unifies the operation of legacy and smart-factory applications&lt;/li>&lt;li>Express App Platform  Manufacturing allows manufacturers to accelerate digital factory transformation while avoiding disruption of their ongoing operation&lt;/li>&lt;/ul>"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Express App Platform  Manufacturing accelerates digital factory transformation, deploys applications in factory premises with only six clicks&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_29j1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>PALO ALTO, October 3, 2017  Hewlett Packard Enterprise (NYSE: HPE) today announced a new platform that radically simplifies application deployment in manufacturing plants and unifies the operation of legacy and smart-factory applications. Express App Platform  Manufacturing is an on-premises solution that is integrated with Cloud28+, the worlds largest cloud aggregator, and allows manufacturers to accelerate digital factory transformation while avoiding disruption of their ongoing operation.&lt;/p>"/>
+                <pullquote_234v
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Deploy applications from Cloud28+ with only six clicks in factory premises&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_hc0n
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>Digitizing manufacturing processes brings many benefits including operational savings, improved flexibility and new revenue streams, but traditional applications such as Manufacturing Execution Systems are often complex and difficult to modernize. Conversely, applications hosted in the cloud can drive digital innovation, but also lead to data protection, cost and latency issues. By hosting both old and new applications on one single platform in factory premises, the Express App Platform  Manufacturing eases the transformation and dramatically reduces the need for separate hosting of legacy and bespoke applications.&lt;/p>&lt;p>&lt;em>Traditional manufacturing applications support a stable, yet rigid automation of production processes, said Volkhard Bregulla, Vice President, Global Manufacturing Industries at Hewlett Packard Enterprise. The Express App Platform  Manufacturing helps customers integrate smart-factory applications into their operations to create an adaptable factory without affecting the current foundation of their ongoing business.&lt;/em>&lt;/p>&lt;p>&lt;strong>Deploy Manufacturing Applications with Only Six Clicks&lt;/strong>&lt;/p>&lt;p>Express App Platform  Manufacturing allows customers to deploy applications from the Cloud28+ catalogue with only six clicks via a seamlessly automated process. Based on hyper-converged infrastructure &lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/convergedsystems/hyper-converged/pip.hpe-simplivity-380.1009954527.html&quot;>HPE SimpliVity 380&lt;/a>, the new platform features the Express App Platform Intelligent Agent which securely downloads selected applications from the Cloud28+ catalogue and leverages Docker container technology managed by Kubernetes to automatically deploy the application in the Express App Platform environment on the factory floor. Infrastructure automation software, &lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/software.html&quot;>HPE OneView&lt;/a>, automates the provisioning and management of the required compute, storage and fabric resources. During operation, built-in backup and disaster recovery ensures the highest levels of data integrity and availability.&lt;/p>"/>
+                <pullquote_ctll
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Create an adaptable factory without affecting the current foundation of the ongoing business&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_wxir
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;strong>Agile Automation with Sensor-data Intelligence&lt;/strong>&lt;/p>&lt;p>Express App Platform  Manufacturing is optimized to host applications that support a factory and its productions lines, including Manufacturing Operations Management (MOM) applications like Manufacturing Execution Systems or Advanced Planning and Scheduling, as well as IoT applications. Running those applications directly on the factory floor allows manufacturers to better integrate operations management with machine control systems to leverage IoT sensor-data intelligence for agile automation of production processes.&lt;/p>&lt;p>Express App Platform  Manufacturing can be used in conjunction with &lt;a href=&quot;https://www.hpe.com/us/en/servers/edgeline-iot-systems.html&quot;>HPE Edgeline IoT Systems&lt;/a> which provide real-time sensor data acquisition, analytics and control, operated close to the production lines to deliver faster insights and agility.&lt;/p>&lt;p>&lt;strong>The Right Expertise for Digital Factory Transformation &lt;/strong>&lt;/p>&lt;p>HPEs services organization, &lt;a href=&quot;https://www.hpe.com/us/en/services.html&quot;>HPE Pointnext&lt;/a>, offers a set of advisory, professional and operational services for the Express App Platform  Manufacturing, including:&lt;/p>&lt;p>&lt;/p>&lt;ul>&#x9;&lt;li>HPE Factory Deployment Service  helps customers plan, architect, deploy and integrate the Express App Platform environment&lt;/li>&#x9;&lt;li>HPE Edge Applications Configuration and Integration Service  helps customers integrate applications running on the Express App Platform with enterprise applications and machine control systems&lt;/li>&#x9;&lt;li>&lt;a href=&quot;https://www.hpe.com/us/en/services/flexible-capacity.html&quot;>HPE Flexible Capacity&lt;/a> for Express App Platform  offers an on-demand capacity and a pay-as-you-go consumption model, giving customers the ability to scale up and scale down capacity as needed and to pay only pay for what they consume, providing cloud speed and economics on premises, at or below the cost of public clouds.&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>&lt;strong>Availability&lt;/strong>&lt;/p>&lt;p>Express App Platform  Manufacturing is now available from HPE in the EMEA region. Global availability is planned for late 2017.&lt;/p>&lt;p>&lt;strong>About Cloud28+&lt;/strong>&lt;/p>&lt;p>The mission of Cloud28+ is to offer customers a seamless on- and off-premises experience, based on a common platform of shared resources  services, tailored solutions and knowledge. Recently named by 451 Research as the largest cloud aggregator (1), Cloud28+ counts approximately 600 partners located in 56 countries  service providers, solution providers, ISVs, distributors, system integrators, universities and public sector organizations  contributing to a catalog of more than 21,000 build and consume services. Through the Cloud28+ catalog, customers and partners can easily find trusted, enterprise-grade services and install the apps on-premises or connect directly with a local Service Provider for deployment. The Cloud28+ community and cloud service catalog can be found at: http://www.cloud28plus.com.&lt;/p>&lt;p>&lt;strong>About Hewlett Packard Enterprise&lt;/strong>&lt;/p>&lt;p>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/p>&lt;p>(1) 451 Research: HPEs Cloud28+ now has Azure Stack, in a bid to accelerate adoption of hybrid IT, 11 Aug 2017&lt;/p>"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_lonp
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/09/industrial-iot-must-move-from-optimization-to-transformation"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Industrial IoT Must Move from Optimization to Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Industrial IoT Must Move from Optimization to Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Header.jpg"/>
+                        </contentblock_lonp>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_tfx9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/creating-a-refinery-of-the-future-with-the-internet-of-things"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Creating a refinery of the future with the Internet of Things"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Creating a refinery of the future with the Internet of Things"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-2.jpg"/>
+                        </contentblock_tfx9>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_egyb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/staying-on-the-cutting-edge-with-software-defined-ot"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Staying on the Cutting Edge with Software Defined OT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Staying on the Cutting Edge with Software Defined OT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/UpdatedArubaArticleHero-1.jpg"/>
+                        </contentblock_egyb>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

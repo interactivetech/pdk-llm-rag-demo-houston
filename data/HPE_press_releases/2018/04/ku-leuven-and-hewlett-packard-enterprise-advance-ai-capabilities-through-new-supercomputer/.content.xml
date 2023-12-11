@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:48:22.805Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/company---customers,hpe-newsroom:categories/compute]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="ku-leuven-and-hewlett-packard-enterprise-advance-ai-capabilities-through-new-supercomputer"
+        jcr:uuid="045909da-9b9f-4c7b-b8eb-191655f254ad"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-04-23T17:32:12.000-07:00"
+        mediaContactEmail="lindsey.berryhill@hpe.com"
+        mediaContactName="Lindsey Berryhill"
+        metaDescription="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+        navTitle="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+        pageTitle="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+        priority="(None)"
+        subtitle="KU Leuvens Genius  one of the largest supercomputer deployments in Flanders  installed by HPE to run artificial intelligence workloads in scientific research"
+        theme="dark"
+        UAID="0133db28-7396-4622-9e2f-efb53ecc51b8"
+        UCID="fb9c3aad-8525-474d-852e-91e48c40840a"
+        webSectionId="R11989"
+        WPID="200417">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 24, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/KUL-1.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="KU Leuven and Hewlett Packard Enterprise Advance AI Capabilities through New Supercomputer"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T09:41:48.404Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE collaborated with KU Leuven and UHasselt to develop and deploy Genius, a new supercomputer built to run artificial intelligence (AI) workloads.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>AI has evolved rapidly in recent years and is introducing new powerful methods in scientific research.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>With 600 teraflops of power and 28 terabytes of memory, Genius has the equivalent of 20.000 smartphones behind a single touch.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T09:43:36.291Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>KU Leuven’s “Genius” – one of the largest supercomputer deployments in Flanders – installed by HPE to run artificial intelligence workloads in scientific research&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_7596
+                    jcr:lastModified="{Date}2018-10-31T09:48:10.597Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PALO ALTO, Calif.&amp;nbsp;– April 24, 2018&amp;nbsp;–&lt;/b>&amp;nbsp;Hewlett Packard Enterprise (NYSE:HPE) today announced a new supercomputer installation at KU Leuven, a Flemish research university consistently ranked as one of the five most innovative universities in the world. HPE collaborated with KU Leuven to develop and deploy a new supercomputer built to run artificial intelligence (AI) workloads, which KU Leuven named, “Genius.” The system will be available to both academia and the industry to build applications that drive scientific breakthroughs, economic growth and innovation in Flanders, the northern region of Belgium.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Supercomputers – the most sophisticated high-performance computers (HPC) – increasingly play a crucial role in generating actionable insights from vast amounts of data. Applications such as artificial intelligence (AI) – for which HPC is a foundational technology – have evolved rapidly in recent years and are introducing new powerful methods in scientific research. AI has the promise to radically change economics, digital humanities, biomedical sciences and cosmology.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Genius to further innovation in Flanders&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new system at KU Leuven will be part of the Flemish Supercomputing Center (VSC) and available for KU Leuven and UHasselt researchers, as well as other VSC users, from academia and industry. It will support a very diverse research community in scientific areas like molecular modelling, engineering, physics, chemistry, climate studies, astronomy and astrophysics or psychology.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The university, together with HPE, also will provide training for researchers, equipping them with the knowledge and skills required to successfully and productively work with HPC systems in the future. &amp;nbsp;Training activities will include CPU optimization techniques as well as GPU code modernization and optimization techniques. Specialized Machine Learning trainings also will be offered.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Jan Ooghe, KU Leuven said:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“With innovation at our core, KU Leuven wanted to offer the capabilities and benefits of a top-notch HPC system to our users to enable them to discover new insights and gain a competitive edge ahead of other universities. We see AI as a new powerful method in scientific research where HPC will play an important role, and this new system with its powerful GPU section will undoubtedly help our researchers to explore and take advantage of it.“&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Dr. Eng Lim Goh, PHD, VP and SGI CTO, HPE:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Traditionally, scientific laws have been applied deductively – from predicting the performance of a pacemaker before implant, downforce of a Formula 1 car, pricing of derivatives in finance or the motion of planets for a trip to Mars. With artificial intelligence, we are starting to also use the data-intensive inductive approach, enabled by the re-emergence of Machine Learning which has been fueled by decades of accumulated records.”&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>20,000 smartphones combined&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This HPE solution is based on new technologies that are purpose-built for HPC workloads, including HPE Apollo k6000 systems and HPE Gen10 compute servers designed to deliver 300 teraflops of computational power with support of NVIDIA Tesla P100 GPU accelerators and emerging technology servers including the HPE Apollo sx40, which supports deep learning andHPCworkloads.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For this system, each GPU could make the computational equivalent of two standard dual-socket servers. With four GPUs in one server, the compute power transforms from one server to 9. Genius is comprised of a cluster with 96 CPU compute nodes and 20 GPU machines with 4 GPUs per server; the result is a blazing fast system, particularly with AI workloads.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_d564
+                    jcr:lastModified="{Date}2018-10-17T09:55:58.337Z"
+                    jcr:lastModifiedBy="hpe.publishers"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>With 600 teraflops of power and 28 terabytes of memory, Genius has the equivalent of 20.000 smartphones behind a single touch.&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T09:55:58.337Z"
+                        jcr:lastModifiedBy="hpe.publishers"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_d564>
+                <textonlycomponent_vutj
+                    jcr:lastModified="{Date}2018-10-31T09:52:28.561Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Designed, built and supported by HPE, the deployment is located at the universitys main campus in Leuven in a state-of-the-art green datacenter.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to core to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About KU Leuven&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>KU Leuven is a leading European university dedicated to research, education and service to society. It is a founding member of the League of European Research Universities (LERU) and has a strong European and international orientation. Its sizeable academic staff conducts basic and applied research in a comprehensive range of disciplines. University Hospitals Leuven, its network of research hospitals, provides high-quality healthcare and develops new therapeutic and diagnostic insights with an emphasis on translational research. The University welcomes more 50,000 students from over 140 countries.Its doctoral schools organise internationally oriented PhD programmes for over 4,500 doctoral students. More info: &lt;a href=&quot;http://www.kuleuven.be/english/&quot;>www.kuleuven.be/english&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About VSC&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Flemish Supercomputer Center (VSC) was established by the Flemish Government in December 2007 with the aim to join the efforts of the five Flemish university to align and integrate their existing supercomputer infrastructures, to make their expertise available to public and private funded research and to develop a technical and financial plan for the construction of a competitive grid and HPC infrastructure available to all researchers in Flanders.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hasselt University&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hasselt University is a university with campuses in Hasselt and Diepenbeek, Belgium. True to its baseline 'Knowledge in action', Hasselt University is an innovative and dynamic university – an institution which provides for a qualified workforce, locally adapted research, appropriate services and technologies for the region. The university has six faculties (Law, Sciences, Business Economics, Medicine &amp;amp; Life Sciences, Architecture &amp;amp; Arts and Engineering Technology), one School (Transportation Sciences) and six research institutes (which cover a wide range of research areas: biomedical, environmental, statistical, material, transportation research and media technology research). UHasselt is home to about 6,500 students and 1,400 academic, administrative and technical staff members.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_nv7z
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/a-universe-full-of-opportunities-for-ai-and-supercomputing"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="A Universe Full of Opportunities, for AI and Supercomputing"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A Universe Full of Opportunities, for AI and Supercomputing"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/AI-option-1.jpg"/>
+                        </contentblock_nv7z>
+                        <contentblock_f1f7
+                            jcr:created="{Date}2018-10-17T11:30:13.764Z"
+                            jcr:createdBy="hpe.publishers"
+                            jcr:lastModified="{Date}2018-10-17T11:46:36.644Z"
+                            jcr:lastModifiedBy="hpe.publishers"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/developing-a-supercomputer-to-process-more-than-a-quintillion-calculations-per-second-qa-with-hpes-bill-mannel"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Developing a Supercomputer to Process More Than a Quintillion Calculations per Second: Q&amp;A with HPE’s Bill Mannel BLOG POST  Hewlett Packard Enterprise and TACC Build the World’s First Solar Powered "
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A Universe Full of Opportunities, for AI and Supercomputing"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T11:46:36.644Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/SeniorNotes-webbb-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T11:46:36.644Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_f1f7>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_eb51
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/04/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4623.jpg"/>
+                        </contentblock_eb51>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_tnes
+                            jcr:lastModified="{Date}2018-10-17T11:29:55.433Z"
+                            jcr:lastModifiedBy="hpe.publishers"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/basf-selects-hpe-to-build-supercomputer-for-global-chemical-research"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="BASF Selects HPE to Build Supercomputer for Global Chemical Research"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="BASF Selects HPE to Build Supercomputer for Global Chemical Research"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T11:29:55.433Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/SuperComputer-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T11:29:55.433Z"
+                                jcr:lastModifiedBy="hpe.publishers"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_tnes>
+                        <contentblock_3960
+                            jcr:created="{Date}2018-10-26T13:28:36.204Z"
+                            jcr:createdBy="alexandru.ion@hpe.com"
+                            jcr:lastModified="{Date}2018-10-26T13:31:45.834Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hewlett-packard-enterprise-and-tacc-build-the-worlds-first-solar-powered-supercomputer"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise and TACC Build the World’s First Solar Powered Supercomputer"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A Universe Full of Opportunities, for AI and Supercomputing"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-26T13:31:45.834Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/OneViewArticle1_1x1_MobileMarquee_Template_1536_image_centers_9x6-700x467.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-26T13:31:45.834Z"
+                                jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_3960>
+                    </column_2>
+                    <column_3 jcr:primaryType="nt:unstructured">
+                        <contentblock_dq5d
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/developing-a-supercomputer-to-process-more-than-a-quintillion-calculations-per-second-qa-with-hpes-bill-mannel"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Developing a Supercomputer to Process More Than a Quintillion Calculations per Second: Q"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Developing a Supercomputer to Process More Than a Quintillion Calculations per Second: Q"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_dq5d>
+                    </column_3>
+                    <column_4 jcr:primaryType="nt:unstructured">
+                        <contentblock_jfcb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hewlett-packard-enterprise-and-tacc-build-the-worlds-first-solar-powered-supercomputer"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise and TACC Build the World"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise and TACC Build the World"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/OneViewArticle1_1x1_MobileMarquee_Template_1536_image_centers_9x6.jpg"/>
+                        </contentblock_jfcb>
+                    </column_4>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

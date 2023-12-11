@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:07:05.825Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-delivers-services-to-help-enterprises-accelerate-the-benefits-of-big-data-and-analytics"
+        jcr:uuid="3318fcc4-027c-4a0e-be96-1346217acea8"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Delivers Services to Help Enterprises Accelerate the Benefits of Big Data and Analytics"
+        navTitle="HP Delivers Services to Help Enterprises Accelerate the Benefits of Big Data and Analytics"
+        pageTitle="HP Delivers Services to Help Enterprises Accelerate the Benefits of Big Data and Analytics"
+        priority="(None)"
+        subtitle="HP's Comprehensive Suite of Services, Architectures and Technologies Enables Game-Changing Business Outcomes for the Enterprise"
+        theme="dark"
+        UAID="8d083096-f495-4b55-9fb0-7d2d42ae91e9"
+        UCID="91055b12-93f9-4457-bb54-76bfe0c0510a"
+        WPID="1580">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T21:26:28.577Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 26, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP's Comprehensive Suite of Services, Architectures and Technologies Enables Game-Changing Business Outcomes for the Enterprise&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_b8xy
+                    jcr:lastModified="{Date}2018-10-18T21:27:51.043Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Aug 26, 2014) - HP (NYSE: HPQ) today announced HP Business Intelligence Modernization Services designed to help enterprises understand, manage and leverage their data to improve customer engagement, create new business opportunities and reduce costs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Most existing business intelligence environments can provide analytics and reporting, but are not designed to deliver insights from new formats and higher volumes of data. As demand for access to information increases, enterprises are being challenged to process unstructured data and vast amounts of sensor data in real time and on an industrial scale.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Business Intelligence Modernization Services is a comprehensive suite of services, architectures and technologies designed to help clients integrate big data analytics into their existing environments to address new analytics requirements. The comprehensive suite includes discovery, assessment, modernization and transformation, culminating in a new analytics strategy and ongoing management via multiple deployment and consumption options.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Quickly defining an analytics and big data strategy is an essential step for companies to remain competitive in an environment where the amount of data being collected is outpacing their ability to leverage it,&amp;quot; said Martin Risau, senior vice president, Analytics and Data Management, HP Enterprise Services. &amp;quot;We deliver solutions with flexible consumption models to enable our customers to start focusing immediately on the opportunities that data creates to improve their business.&amp;quot;&amp;nbsp;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HP Business Intelligence Modernization Services address three major service needs to support a client's journey to become more data-driven and agile:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Discovery environments: &amp;quot;Data lakes,&amp;quot; data visualization tools and services enabling rapid, enterprise-wide data sharing and analytic discovery collaboration.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Analytics solutions: Addressing specific analytics needs to run the business better.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Hybrid data management: Enabling enterprises to deliver production-grade analytics integrated into business processes and systems that leverage relevant data.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Business-led transformation enhances customer experience&lt;br>&#xa;&lt;/b>HP Business Intelligence Modernization Services combine software, hardware and consulting services to help enterprises achieve a transformation based on real business outcomes. The new offerings are designed to create opportunities for clients to deliver value through lower, predictable costs and an increased ability to focus on innovation and differentiation. With the new services, enterprises benefit from:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Flexible, scalable consumption models: Include as-a-service, private cloud, hosted and on-premises solutions.&amp;nbsp;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Services: Leverage leading software from HP and its technology partners, including the HP HAVEn Big Data Platform spanning Hadoop, HP Autonomy, Vertica and HP Enterprise Security.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Open architecture: Enables clients to leverage their existing business intelligence and analytics assets.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Managed services: Robust, production-strength offering supports the transformation and roadmap.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP partner ecosystem: Offers expanded features and accelerated time to value.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>In the &amp;quot;BI Analytics, Q3 2013&amp;quot; TechRadar™ report, Forrester Research, Inc.'s Holger Kisker, vice president and research director, and Charles Green, analyst, wrote, &amp;quot;As the amount of data grows and companies' ability to harness and create value from that data improves, firms will be able to optimize almost all aspects of business operations, including sourcing, logistics and the customer experience. In addition, major dynamics like the digital revolution are upending whole industries; as a result, data-driven insights will become critical to business survival. Therefore, BI analytics are, and will continue to be, one of the main focus areas for companies' investments and business strategies.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Availability&amp;nbsp;&lt;br>&#xa;&lt;/b>HP Business Intelligence Modernization Services&amp;nbsp;are available immediately worldwide.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About HP&lt;br>&#xa;&lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_j075
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hewlett-packard-enterprise-software-named-a-leader-by-independent-research-firm-for-cognitive-search-and-knowledge-discovery-solutions"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Software Named a Leader by Independent Research Firm for Cognitive Search and Knowledge Discovery Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Software Named a Leader by Independent Research Firm for Cognitive Search and Knowledge Discovery Solutions"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Hero-17_0-2.jpg"/>
+                        </contentblock_j075>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <textonlycomponent_d9
+                            jcr:created="{Date}2018-10-18T21:34:28.809Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T21:40:35.194Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                            textOnly="&lt;h4>HPE Accelerates Real-Time Insights for Deep Learning&lt;/h4>&#xa;&lt;p>Press Release&lt;/p>&#xa;"
+                            topPadding="20"/>
+                        <buttonctaitemcompone
+                            jcr:created="{Date}2018-10-18T21:38:31.493Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T21:39:04.979Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                            ctaLinkStyle="default"
+                            ctaReferenceType="Link"
+                            ctaText="Read More"
+                            ctaType="Link"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hpe-accelerates-real-time-insights-for-deep-learning"
+                            videoType="youtube"/>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3b5e
+                            jcr:created="{Date}2018-10-18T21:28:05.625Z"
+                            jcr:createdBy="esparza@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T21:28:05.625Z"
+                            jcr:lastModifiedBy="esparza@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-extends-solutions-for-sap-applications-from-the-digital-core-to-the-intelligent-edge"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate08.jpg"/>
+                        </contentblock_3b5e>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

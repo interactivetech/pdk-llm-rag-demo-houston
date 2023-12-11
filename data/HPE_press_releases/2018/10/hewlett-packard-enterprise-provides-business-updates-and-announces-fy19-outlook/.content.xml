@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-28T00:14:08.306Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---earnings]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-provides-business-updates-and-announces-fy19-outlook"
+        jcr:uuid="11615b1d-57be-4320-8326-dd4d3a7881b7"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-10-24T13:24:31.000-07:00"
+        metaDescription="Hewlett Packard Enterprise provides business updates and announces FY19 outlook"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2018/10/hewlett-packard-enterprise-provides-business-updates-and-announces-fy19-outlook/jcr:content/main-par/body-par/columncontainercompo/column_1/contentblock_zg4r"
+        navTitle="Hewlett Packard Enterprise provides business updates and announces FY19 outlook"
+        pageTitle="Hewlett Packard Enterprise provides business updates and announces FY19 outlook"
+        priority="(None)"
+        subtitle="HPE business leaders provided strategy and financial updates at annual Securities Analyst Meeting"
+        theme="dark"
+        UAID="ee78a5a2-f8a1-4a0f-9ae0-a68c04893fbd"
+        UCID="738c4f8c-b877-4b8f-99f2-e10210570506"
+        webSectionId="R11989"
+        WPID="201903">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2021-12-28T00:14:08.298Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="OCTOBER 24, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-29T22:50:50.453Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/10/image-norend/blogImage.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise provides business updates and announces FY19 outlook"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-30T17:30:07.074Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Provides FY19 non-GAAP diluted net earnings per share outlook of $1.51-$1.61&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Reiterates commitment to returning approximately $2.9 billion to shareholders in FY19 in the form of share repurchases and dividends&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Expects free cash flow to increase 50% year-over-year to $1.4 billion to $1.6 billion in FY19&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Free cash flow anticipated to double to $1.9 billion to $2.1 billion over FY18 to FY20&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-29T22:55:21.330Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE business leaders provided strategy and financial updates at annual Securities Analyst Meeting&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_pn9b
+                    jcr:lastModified="{Date}2018-11-07T09:13:35.831Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>NEW YORK, Oct. 24, 2018 - Hewlett Packard Enterprise (NYSE: HPE) today held its annual Securities Analyst Meeting and provided strategy and financial updates from president and CEO Antonio Neri, executive vice president and CFO Tarek Robbiati, and other business leaders. &amp;nbsp;The webcast and presentations can be found on the HPE Investor Relations Website:&amp;nbsp;&lt;a href=&quot;https://investors.hpe.com/#hewlett-packard-enterprise-securities-analyst-meeting-2018&quot;>hpe.com/investor/SAM2018&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;HPE Strategy &amp;amp; Market Opportunity&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Neri discussed the forces driving HPE’s performance, as well as the company’s vision, outlook and strategy.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;“HPE is committed to developing the breakthrough technology solutions that will advance the way we live and work, and drive our customers’ businesses forward,” said Neri. “With improved execution and a simplified operating model, we’re on track to significantly exceed our financial commitments in fiscal year 2018, and we continue to be well-positioned to create attractive value for our shareholders. Our priorities in fiscal year 2019 are to accelerate growth in the Intelligent Edge, deliver profitable growth in Hybrid IT, and grow overall operating profits and expand margins.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;To transform customers’ technology, HPE is providing the products to create a software-defined, hybrid operating model that spans any cloud to multi-cloud, on and off-premises and at the edge.&amp;nbsp; HPE is leveraging its HPE Pointnext services offering to help customers foster a culture of innovation for their employees.&amp;nbsp; To drive change in customers’ economics and technology investment strategy, HPE helps customers unlock capital trapped in underutilized fixed assets and explore as-a-service consumption models to optimize IT investments through the HPE Financial Services business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Delivering Operating Profit Growth and Expanding Margins&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Neri shared an update on the progress of HPE Next, the company’s initiative to re-architect HPE from the ground up, with the goal of driving better operational efficiency and effectiveness. For example, in FY18, the company reduced more than 26 platforms to 10 platforms in the Volume product category and simplified more than 400 sales compensation plans to just 25.&amp;nbsp; The company’s FY19 HPE Next priorities will include decreasing manufacturing locations, narrowing the company’s geographic footprint, and optimizing processes and IT systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;In addition, Neri discussed how the company has increased its focus on higher-growth markets and higher-value offerings, such as high-performance compute, hyperconverged and all-flash storage arrays.&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;“HPE Next has delivered significant value in FY18 and is on track to drive earnings per share (EPS) growth well into the future,” said Neri. “By streamlining operations and investing in areas of greatest importance to our customers as they evolve their businesses, we are doing more than anticipating what comes next. We are actually building what comes next.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Financial Update&lt;/b>&lt;br>&#xa; &lt;br>&#xa; Tarek Robbiati, executive vice president and CFO, provided a financial update, including an outlook for FY19.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>&lt;br>&#xa;FY18 Expectations&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Revenue in FY18 is expected to grow approximately 7% year-over-year, when adjusted for sales to tier-1 service providers.&amp;nbsp; As previously disclosed in HPE’s third quarter earnings call, non-GAAP diluted net EPS is expected to be approximately $1.50 to $1.55.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE expects to return $4.1 billion in cash to shareholders in FY18 through $3.5 billion in share repurchases and $600 million in dividend payments.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>FY19 Outlook&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE provided its outlook for FY19.&amp;nbsp; The company expects net revenue growth when adjusted for currency fluctuations and sales to tier-1 service providers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE expects its non-GAAP operating profit growth to be approximately 6-8% year-over-year.&amp;nbsp; With Other Income &amp;amp; Expense of approximately $250 million of an expense, a non-GAAP tax rate of 13% and a share count of approximately 1.41 billion to 1.43 billion shares outstanding, it expects non-GAAP diluted net EPS of $1.51 to $1.61.&amp;nbsp; GAAP diluted net EPS is expected to be approximately $0.73 to $0.83.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Free cash flow is expected to grow 50% year-over-year to $1.4-$1.6 billion. On a normalized basis that excludes one-time items, free cash flow is expected to be approximately $2.1-$2.3 billion.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Given HPE’s strong net cash position today and the underlying strength of its free cash flow engine, HPE reiterated its commitment to returning approximately $2.9 billion in total to shareholders in FY19, consisting of $2.3 billion in share repurchases and approximately $600 million in dividends.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>&lt;br>&#xa;Long-Term Financial Profile&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE provided its long-term financial model. The company expects to accelerate growth in the Intelligent Edge segment and drive profitable growth in the Hybrid IT segment. The company expects operating profit to grow approximately 4-5% annually driven by investments in key growth areas and optimized operating model. EPS is expected to grow at a higher rate of approximately 7-9% annually driven by share count reductions over time.&amp;nbsp; Free cash flow is expected to trend towards normalized levels in FY20 and track earnings over time.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Webcast details&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;A webcast of today’s event, along with management presentations and other materials, are available on the Investor Relations website at investors.hpe.com.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;This press release contains only a summary of some of the information presented at today’s event and should be read in conjunction with the management presentations and other materials made available on that website.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. &amp;nbsp;HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and in to the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Use of non-GAAP financial information&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;To supplement Hewlett Packard Enterprise’s financial information presented on a generally accepted accounting principles (GAAP) basis, Hewlett Packard Enterprise provides forecasts of revenue adjusted for tier-1, divestitures and currency, as well as non-GAAP operating profit, non-GAAP operating margin, non-GAAP measure of earnings/loss from equity interests, non-GAAP income tax rate, non-GAAP diluted net earnings per share, free cash flow and normalized free cash flow financial measures. &amp;nbsp;Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measures, where available, are included in the slides presented at the 2018 Securities Analyst Meeting, which will be available for a period of one year thereafter at http://hpe.com/investor/sam2018.&amp;nbsp; In addition, an explanation of the ways in which Hewlett Packard Enterprise’s management uses these non-GAAP measures to evaluate its business, the substance behind Hewlett Packard Enterprise’s decision to use these non-GAAP measures, the material limitations associated with the use of these non-GAAP measures, the manner in which Hewlett Packard Enterprise’s management compensates for those limitations, and the substantive reasons why Hewlett Packard Enterprise’s management believes that these non-GAAP measures provide useful information to investors is included under “Use and economic substance of non-GAAP financial measures used by Hewlett Packard Enterprise” below. This additional non-GAAP financial information is not meant to be considered in isolation or as a substitute for revenue, operating margin, diluted net earnings per share, cash flow from operations in accordance with GAAP.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Use and economic substance of non-GAAP financial measures used by Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise’s management uses these non-GAAP financial measures for purposes of evaluating Hewlett Packard Enterprise’s historical and prospective financial performance, as well as Hewlett Packard Enterprise’s performance relative to its competitors. Hewlett Packard Enterprise’s management also uses these non-GAAP measures to further its own understanding of Hewlett Packard Enterprise’s segment operating performance. &amp;nbsp;Hewlett Packard Enterprise believes that excluding the items mentioned above from these non-GAAP financial measures allows Hewlett Packard Enterprise’s management to better understand Hewlett Packard Enterprise’s consolidated financial performance in relation to the operating results of Hewlett Packard Enterprise’s segments, as Hewlett Packard Enterprise’s management does not believe that the excluded items are reflective of ongoing operating results.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Material limitations associated with use of non-GAAP financial measures&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;These non-GAAP financial measures have limitations as analytical tools, and these measures should not be considered in isolation or as a substitute for analysis of Hewlett Packard Enterprise’s results as reported under GAAP.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Compensation for limitations associated with use of non-GAAP financial measures&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise compensates for the limitations on its use of non-GAAP financial measures by relying primarily on its GAAP results and using non-GAAP financial measures only as supplement. &amp;nbsp;Hewlett Packard Enterprise also provides a reconciliation of certain non-GAAP financial measures to its most directly comparable GAAP measure in other written materials that include these non-GAAP financial measures accompanying this news release, and Hewlett Packard Enterprise encourages investors to review carefully those reconciliations.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Usefulness of non-GAAP financial measures to investors&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise believes that providing forecasts of revenue adjusted for tier-1, divestitures and currency, non-GAAP operating profit, non-GAAP operating margin, non-GAAP measure of earnings/loss from equity interests, non-GAAP income tax rate, non-GAAP diluted net earnings per share, free cash flow and normalized free cash flow financial measures to investors in addition to certain related GAAP measures provides investors with greater transparency to the information used by Hewlett Packard Enterprise’s management in its financial and operational decision making and allows investors to see Hewlett Packard Enterprise’s results “through the eyes” of management. &amp;nbsp;Hewlett Packard Enterprise further believes that providing this information better enables Hewlett Packard Enterprise’s investors to understand Hewlett Packard Enterprise’s operating performance and to evaluate the efficacy of the methodology and information used by Hewlett Packard Enterprise’s management to evaluate and measure such performance. &amp;nbsp;Disclosure of these non-GAAP financial measures also facilitates comparisons of Hewlett Packard Enterprise’s operating performance with the performance of other companies in Hewlett Packard Enterprise’s industry that supplement their GAAP results with non-GAAP financial measures that may be calculated in a similar manner.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Forward-Looking Statements&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The information included in this press release contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. &amp;nbsp;If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. &amp;nbsp;All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any projections of revenue, margins, expenses, effective tax rates, net earnings, net earnings per share, cash flows, benefit plan funding, share repurchases, currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring charges; any statements of the plans, strategies and objectives of management for future operations,, the execution of restructuring plans and any resulting cost savings or revenue or profitability improvements and any statements of assumptions underlying any of the foregoing. &amp;nbsp;Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise’s businesses; the competitive pressures faced by Hewlett Packard Enterprise’s businesses; risks associated with executing Hewlett Packard Enterprise’s strategy, including HPE Next; the results of cost savings or restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of&amp;nbsp; implementing cost savings or restructuring plans; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise’s filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise’s Annual Report on Form 10-K for the fiscal year ended October 31, 2017 and Hewlett Packard Enterprise’s Quarterly Reports on Form 10-Q for the fiscal quarters ended January 31, April 30 and July 31, 2018. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_skcg
+                            jcr:lastModified="{Date}2021-12-28T00:13:26.089Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/10/hewlett-packard-enterprise-announces-fy18-outlook"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Hewlett Packard Enterprise Announces FY18 Outlook"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces FY18 Outlook"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-12-28T00:13:26.089Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/placeholder.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-12-28T00:13:26.089Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_skcg>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_zg4r
+                            jcr:lastModified="{Date}2021-12-28T00:13:41.177Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/highlights-from-hpes-third-quarter-earnings-results"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Highlights from HPEs third quarter earnings results"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Highlights from HPEs third quarter earnings results"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-12-28T00:13:41.177Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/Q1-Earnings-Blog.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-12-28T00:13:41.177Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_zg4r>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys"/>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

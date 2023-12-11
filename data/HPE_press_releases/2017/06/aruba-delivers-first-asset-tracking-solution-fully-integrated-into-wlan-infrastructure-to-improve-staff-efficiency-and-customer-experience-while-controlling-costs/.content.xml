@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-29T02:54:46.168Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers,hpe-newsroom:categories/industry--manufacturing]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="aruba-delivers-first-asset-tracking-solution-fully-integrated-into-wlan-infrastructure-to-improve-staff-efficiency-and-customer-experience-while-controlling-costs"
+        jcr:uuid="1a327e85-1b93-4fc7-a8a7-5fe17c300b95"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-06-02T09:16:53.000-07:00"
+        metaDescription="Aruba Delivers First Asset Tracking Solution Fully Integrated into WLAN Infrastructure to Improve Staff Efficiency and Customer Experience while Controlling Costs"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/06/aruba-delivers-first-asset-tracking-solution-fully-integrated-into-wlan-infrastructure-to-improve-staff-efficiency-and-customer-experience-while-controlling-costs/jcr:content/main-par/body-par/textonlycomponent_8a"
+        navTitle="Aruba Delivers First Asset Tracking Solution Fully Integrated into WLAN Infrastructure to Improve Staff Efficiency and Customer Experience while Controlling Costs"
+        pageTitle="Aruba Delivers First Asset Tracking Solution Fully Integrated into WLAN Infrastructure to Improve Staff Efficiency and Customer Experience while Controlling Costs"
+        priority="(None)"
+        subtitle="New BLE-powered Aruba Tags, Aruba Access Points and Meridian Software Eliminate Loss of Valuable Assets and Automate Inventory Management; Expanded Ecosystem Enables Broad Adoption Across Industries"
+        theme="dark"
+        UAID="816fea13-a1c3-4476-8c25-c298443f3dbd"
+        UCID="24bc434e-dd51-4efc-b7df-a4328d317418"
+        WPID="198196">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T13:29:14.393Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 5, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/V2-2.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Aruba Delivers First Asset Tracking Solution Fully Integrated into WLAN Infrastructure to Improve Staff Efficiency and Customer Experience while Controlling Costs"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New BLE-powered Aruba Tags, Aruba Access Points and Meridian Software Eliminate Loss of Valuable Assets and Automate Inventory Management; Expanded Ecosystem Enables Broad Adoption Across Industries&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_8a
+                    jcr:created="{Date}2018-10-18T13:47:57.902Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2023-03-29T02:54:46.157Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS – June 5, 2017&amp;nbsp;–&lt;/b>&amp;nbsp;&lt;b>&lt;/b>Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), today announced a new addition to its location-based services portfolio that helps organizations easily track valued assets, resulting in improved organizational efficiency and lower capital and operational costs associated with misplaced assets. The&amp;nbsp;&lt;a href=&quot;https://www.arubanetworks.com/products/mobile-engagement/aruba-tags/&quot;>Aruba asset tracking solution&lt;/a>&amp;nbsp;is fully integrated into the Aruba wireless infrastructure, enabling simplified, fully integrated deployments at dramatically reduced costs.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Organizations worldwide lose millions of dollars every year on high-value items and inventory that are misplaced, lost or stolen. Furthermore, employees and customers suffer from lost productivity and poor experiences. These challenges are particularly prevalent in industries like healthcare, where items such as IV pumps and heart defibrillators are easily misplaced, resulting in 25 percent of hospital staffs time wasted looking for these assets&lt;sup>1&lt;/sup>&amp;nbsp;and negatively impacting quality of care. In retail and warehousing, items that can't be located quickly mean wasted time for employees, delayed order fulfillment for customers and often, a loss of revenue for the retailer.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba asset tracking addresses these challenges with a solution that is integrated into the Aruba Wi-Fi infrastructure, eliminating the need for a separate network. Organizations also gain the benefits of accurate tracking of important items using either an intuitive, map-based mobile app or by integrating with organizations existing tracking solutions. The solution includes the following components:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Advancements to ArubaOS and Aruba APs&lt;/i>&lt;/b>: This new software allows Aruba BLE-enabled Access Points and Sensors to act as asset tag &amp;quot;observers,&amp;quot; creating a sensory network that provides added value to organizations with existing Aruba wireless infrastructure. In essence, it allows their Wi-Fi infrastructure to double as an asset tracking network.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>New Aruba Tags:&lt;/i>&lt;/b>&amp;nbsp;Cost-effective Bluetooth Low Energy (BLE)&amp;nbsp;– enabled tags are slightly larger than a quarter, making them ideal for items that range in size from IV pumps in a healthcare setting to pallets of goods in a warehouse. The tags are designed to meet stringent environmental requirements and come with multiple attachment options.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Asset Tag Configuration App&lt;/i>&lt;/b>: Aruba's configuration app makes set-up and ongoing management of the tags simple. Assets can be designated with names, photos and optional IDs so that like assets can be searched for easily. Changes can be performed quickly, near the assets, and all data is automatically saved in a central cloud database.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>New features for the Aruba Meridian AppMaker&lt;/i>&lt;/b>: Organizations can now create their own asset tracking app for iOS or Android with the Meridian AppMaker. The AppMaker provides a new SDK and APIs for seamless third-party integration and custom use cases.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"/>
+                <imageonlycomponent_a
+                    jcr:created="{Date}2018-10-18T13:49:42.195Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T13:52:51.011Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="30"
+                    fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/Screen-Shot-2017-06-01-at-8.42.27-PM.png"
+                    imageAlignment="hpe-image-left"
+                    topPadding="30"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_new8
+                    jcr:lastModified="{Date}2023-03-29T02:53:54.671Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;i>Partner Ecosystem Enables Broad Adoption Across Industries&lt;/i>&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Key to the success of Aruba's existing location-based services and &lt;a href=&quot;http://www.arubanetworks.com/solutions/mobile-engagement/&quot;>Mobile Engagement portfolio&lt;/a> has been the &lt;a href=&quot;http://www.arubanetworks.com/products/mobile-engagement/meridian-engage-partners/&quot;>Meridian Engage Partner Program&lt;/a>. Customers have leveraged app developers to integrate and build value-added mobile apps for iOS and Android that are used with the Meridian Mobile App Platform and Aruba Mobile Engagement portfolio. Aruba is extending the Engage program beyond Meridian app developers to now include Meridian asset tracking partners including Emerge, Raizlabs, STANLEY Healthcare, and VenueNext.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We are pleased to deepen our existing relationship with Aruba for location solutions in healthcare,&amp;quot; said Raz Evenor, Director of Product Management, &lt;a href=&quot;http://www.stanleyhealthcare.com/&quot;>STANLEY Healthcare&lt;/a>. &amp;quot;Our MobileView platform combines the widest range of real-time visibility solutions with advanced analytics for hospitals to increase safety and security for patients and staff, drive operational efficiency, and ultimately deliver a better patient experience. As technology and network infrastructure evolve, we are always looking for new ways to expand choices for our customers. This partnership with Aruba for BLE-powered asset tracking gives our healthcare customers an additional cost-effective option for management of mobile medical assets.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Pointnext&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://h20195.www2.hpe.com/V2/getpdf.aspx/4AA6-6322ENW.pdf&quot;>Aruba Meridian Services from HPE Pointnext&lt;/a> provide customers and partners worldwide with the expertise needed to take advantage of location-based services to engage with mobile users in any organization or public-facing venue. These services can help augment customer IT and Aruba partner teams to provide the capabilities needed for the design and development of mobile applications with the Meridian platform.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba asset tracking is one of the intelligent edge innovations that Aruba unveiled this week at HPE Discover. Aruba also introduced its 8400 Core Switch Series, a new core aggregation switch that delivers the performance, power, automation, and troubleshooting capabilities necessary to address the challenges of mobility, cloud, and IoT inherent in networks today.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba asset tracking is available now.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Customer Quote&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The Aruba asset tracking solution has the potential to help VMI save significant man-hours and reduce the overall costs associated with locating and tracking our vehicles during their 48 stages of production,&amp;quot; said Michael Kell, Director of IT for &lt;a href=&quot;https://www.vantagemobility.com/&quot;>Vantage Mobility International (VMI)&lt;/a>, a supplier of wheelchair-accessible vans. &amp;quot;Additionally, with up to 2,000 vehicles on our site at any given time, the manual process of identifying and locating a specific vehicle when needed for audit, or tracking one during a particular stage of production, is time-consuming and inefficient. With the Aruba asset tracking solution, we hope to automate this process and create new efficiencies for our staff as well as speed delivery of vehicles to our customers.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Ecosystem Partner Quotes&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As a leading venue technology company, &lt;a href=&quot;https://www.venuenext.com/#welcome&quot;>VenueNext&lt;/a> provides healthcare companies with better operational awareness and efficiency via location and mobile experiences. &amp;quot;Our customers have been asking for an asset tracking solution that delivers visibility for critical assets with location accuracy, while also integrating with our existing application platform,&amp;quot; said Scott Rehling, Vice President Strategic Channels, VenueNext. &amp;quot;By leveraging Aruba's asset tracking solution we can provide the added functionality requested by utilizing customers' Wi-Fi and beacon infrastructure, resulting in operational efficiencies.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.emergeinteractive.com/&quot;>Emerge&lt;/a> is a digital experience agency that leverages world-class user-centered design and custom application development to quickly solve complex challenges and address untapped opportunities. &amp;quot;With the addition of asset tracking capabilities to the Aruba Mobile Engagement platform we can now offer our customers an innovative tool to use their mobile applications to increase productivity and customer experience in their facilities,&amp;quot; said Julian Pscheid, Chief Technology Officer of Emerge Interactive. &amp;quot;Whether by providing front-line employees instant visibility into critical equipment location, connecting real-time asset locations to Meridian indoor turn-by-turn navigation and personalized push-notifications, or integrating location data with legacy systems, we look forward to incorporating Aruba's asset tracking solution into our customers' enterprise ecosystems.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Raizlabs designs and builds world-class iOS, Android, and Web apps for startups and big brands. &amp;quot;Our team is constantly exploring new and emergent technologies in an effort to deliver the best possible solutions to leading competitive enterprises,&amp;quot; said Jason Petralia, President of Raizlabs. &amp;quot;As a part of this ongoing exploration, we've realized the growing need for a complete asset tracking solution and are excited about Aruba's technology advancements and commitment to a full-featured and robust solution.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Channel Partner Quotes&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;As a leading IT solutions provider, we are continuously looking for ways to expand our offerings to better support clients' evolving needs,&amp;quot; said Chris Saso, CTO, &lt;a href=&quot;https://www.dasher.com/&quot;>Dasher Technologies, Inc.&lt;/a>&amp;nbsp;&amp;quot;Aruba's new asset tracking solution helps solve the issues that plagued the healthcare and retail industry by allowing them to leverage their Wi-Fi infrastructure for the tracking of physical assets. This allows us to engage with new stakeholders within our accounts and extend the value of our architecture and services expertise.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Serving over 1,000 clients in a dozen different industries, Matrix Integration is focused on helping clients achieve their goals through the use of technology. &amp;quot;There has always been an existing operational need for organizations to track the movement of valued assets. However, most organizations consider adding a completely separate asset tracking infrastructure as too costly while adding additional operational burden,&amp;quot; said James Aldridge, VP, Technology, Matrix. &amp;quot;By using an existing Aruba wireless infrastructure, Aruba solves these customer problems by delivering the only asset tracking solution that doesn't require another network overlay, resulting in an easy-to-manage mobile solution with fast ROI.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Resources&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Blog: What do you have to lose? &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2017/06/what-do-you-have-to-lose.html&quot;>https://news.hpe.com/what-do-you-have-to-lose/&lt;/a>&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aruba asset tracking Product Page: &lt;a href=&quot;https://www.arubanetworks.com/products/mobile-engagement/aruba-tags/&quot;>http://www.arubanetworks.com/products/mobile-engagement/aruba-tags/&lt;/a>&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Aruba Tags Data Sheet: &lt;a href=&quot;https://www.arubanetworks.com/assets/ds/DS_ArubaTags.pdf&quot;>http://www.arubanetworks.com/assets/ds/DS_ArubaTags.pdf&lt;/a>&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Aruba, a Hewlett Packard Enterprise company&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba, a Hewlett Packard Enterprise company, is a leading provider of next-generation networking solutions for enterprises of all sizes worldwide. The company delivers IT solutions that empower organizations to serve the latest generation of mobile-savvy users who rely on cloud-based business apps for every aspect of their work and personal lives.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1 &lt;/sup>McKinsey, Strength in Unity: The Promise of Global Standards in Healthcare, October 2012&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3kwp
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/what-do-you-have-to-lose"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="What do you have to lose?"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="What do you have to lose?"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPEand5GLab.jpg"/>
+                        </contentblock_3kwp>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_mf8e
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-kit/2017/06/discover-las-vegas-2017"
+                            description="Press Kit"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Discover Las Vegas 2017"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Discover Las Vegas 2017"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Taking_Composable.jpg"/>
+                        </contentblock_mf8e>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4oo1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/aruba-fundamentally-redefines-enterprise-core-switching-for-mobile-cloud-and-iot-demands"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Fundamentally Redefines Enterprise Core Switching for Mobile, Cloud and IoT Demands"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Fundamentally Redefines Enterprise Core Switching for Mobile, Cloud and IoT Demands"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NewsroomImage1.jpg"/>
+                        </contentblock_4oo1>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:24:17.718Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/hpe-telco-&amp;-5g]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-and-partners-accelerate-carriers-transition-to-network-functions-virtualization"
+        jcr:uuid="e5fec0ed-83b8-452a-818c-cc5d1d7ead7f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:00.000-07:00"
+        mediaContactEmail="erik.denny"
+        mediaContactName="Erik Denny, HP"
+        metaDescription="HP and Partners Accelerate Carriers"
+        navTitle="HP and Partners Accelerate Carriers’ Transition to Network Functions Virtualization"
+        pageTitle="HP and Partners Accelerate Carriers’ Transition to Network Functions Virtualization"
+        priority="(None)"
+        subtitle="HP OpenNFV Program enables partners to build, test and validate NFV proofs of concept to speed time-to-market"
+        theme="dark"
+        UAID="c87f8607-874d-457f-8631-a37c7b39d62a"
+        UCID="4d3b8755-63a8-49f8-a99c-cd9bf09ecaa5"
+        WPID="1565">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T18:12:53.013Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 14, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP OpenNFV Program enables partners to build, test and validate NFV proofs of concept to speed time-to-market&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_bgap
+                    jcr:lastModified="{Date}2018-10-18T18:27:41.606Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>DUSSELDORF, Germany, October 14 , 2014 — Today at SDN &amp;amp; OpenFlow World Congress, HP announced that leading telecommunications organizations have joined the&amp;nbsp;&lt;br>&#xa; HP OpenNFV Program&amp;nbsp;as technology partners to help carriers take advantage of Network Functions Virtualization (NFV) technology.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>NFV is part of an overall industry shift towards network and application virtualization. The shift to NFV is expected to transform carriers’ networking environments, allowing them to deliver new services to their customers more quickly while significantly reducing both operating and capital expenditures.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP OpenNFV Program technology partners include&amp;nbsp;&lt;a href=&quot;http://www.6wind.com/&quot; target=&quot;_blank&quot;>6Wind&lt;/a>,&amp;nbsp;&lt;a href=&quot;http://www.brocade.com/index.page&quot; target=&quot;_blank&quot;>Brocade&lt;/a>,&amp;nbsp;&lt;a href=&quot;http://www.genband.com/&quot; target=&quot;_blank&quot;>GENBAND&lt;/a>,&amp;nbsp;&lt;a href=&quot;http://www.intel.com/content/www/us/en/homepage.html&quot; target=&quot;_blank&quot;>Intel&lt;/a>, the &lt;a href=&quot;http://www.imaworld.org/&quot; target=&quot;_blank&quot;>Israel Mobile &amp;amp; Media Association&lt;/a>,&amp;nbsp;&lt;a href=&quot;http://www.mellanox.com/&quot; target=&quot;_blank&quot;>Mellanox Technologies&lt;/a>,&amp;nbsp;&lt;a href=&quot;http://www.spirent.com/&quot; target=&quot;_blank&quot;>Spirent&lt;/a>,&amp;nbsp;&lt;a href=&quot;http://www.sktelecom.com/&quot; target=&quot;_blank&quot;>SK Telecom&lt;/a>, and&amp;nbsp;&lt;a href=&quot;http://www.windriver.com/&quot; target=&quot;_blank&quot;>Wind River&lt;/a>. The HP OpenNFV Program is designed to help the telecommunications industry accelerate innovation and launch services faster, more easily and more cost-effectively.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“With more than 20 global NFV proof-of-concept projects in motion, we are well positioned to understand and help guide carriers on their journey to cloud-based delivery models,” said Werner Schaefer, vice president, Network Functions Virtualization, HP. “Our open architectural approach, in collaboration with Intel and our OpenNFV technology partners, is designed to ensure that carriers have a flexible, multivendor platform from which to quickly test and then launch new and innovative services.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through the HP OpenNFV Program and OpenNFV Labs, HP provides a robust ecosystem of NFV technology applications and services partners with a broad choice of application-specific environments, as well as a catalog of completed proofs of concept, to quickly develop applications for cloud-enabled NFV deployments. Examples include infrastructure as a service, virtual network platform as a service and core network virtualization.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Intel and HP share a common vision and commitment to enable a rich ecosystem of SDN/NFV solutions based on open source and open standards,” said Rose Schooler, vice president, Data Center Group, general manager, Communications Storage and Infrastructure Group, Intel Corporation. “HP’s Linux implementation and HP Helion OpenStack are prime examples of innovation optimized on Intel’s Open Network Platform Server Reference Design. We are continuing our collaboration on this effort by joining HP’s OpenNFV Program and Labs as a technology partner.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The&amp;nbsp;&lt;u>OpenNFV&lt;/u>&amp;nbsp;Program provides an open standards–based NFV reference architecture along with HP’s industry-standard products and capabilities. This offers telecommunications carriers a ready-to-deploy architecture that can enable the transformation from legacy networks to an NFV- and software defined network (SDN)-enabled infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Participants in the OpenNFV Partner Program receive access to NFV software development kits (SDKs), application programming interfaces (APIs) and resources to enable application testing and readiness for carriers, speeding innovation while reducing risk. The program consists of three partner categories:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Technology partners&lt;/u>—Select technology companies and vendors, including network equipment providers (NEPs), original equipment providers (OEMs) and communication service providers (CSPs), that collaborate on technology innovation, integration and support for the HP OpenNFV infrastructure stack based on recommendations from the European Telecommunications Standards Institute’s (ETSI) NFV Industry Specification Groups (ISG).&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Application partners&lt;/u>—Independent software vendors (ISVs) that conduct testing, characterization and validation on the ETSI-compliant HP OpenNFV infrastructure stack.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;u>Service partners&lt;/u>—Systems integrators using the HP OpenNFV infrastructure stack as a platform for their offerings.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;div>&amp;nbsp;&lt;/div>&#xa;&lt;div>&lt;span class=&quot;body-copy-large&quot;>&lt;b>OpenNFV Labs—an incubator for NFV innovation&lt;/b>&lt;/span>&lt;/div>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Funded jointly by technology partners and HP, OpenNFV Labs serve as incubators for application partners, offering a shared pool of infrastructure resources, including hardware, software and engineers. Together, HP, partners and carriers collaborate on validation testing of proofs of concept in a safe environment prior to deployment to carrier networks.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>New labs built in collaboration with Israel Mobile &amp;amp; Media Association in Tel Aviv, and&amp;nbsp;&lt;br>&#xa; SK Telecom in Seoul, South Korea, will open this fall. They join existing OpenNFV Labs in Ft. Collins, Colo., Houston, and Grenoble, France, enabling HP to provide its global customer base with access to an environment necessary to speed the building, testing and validation of NFV proofs of concepts.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Through joint R&amp;amp;D with HP and the OpenNFV Partner Program, SK Telecom has developed virtualized network architecture which will transform the legacy network and cloud platform for innovative services,” said Alex Jinsung Choi, executive vice president and head of ICT R&amp;amp;D Division, &lt;/i>&lt;a href=&quot;http://www.sktelecom.com/en/main/index.do&quot; target=&quot;_blank&quot;>&lt;i>SK Telecom&lt;/i>&lt;/a>&lt;i>.“The HP OpenNFV program provided all support needed including reference architecture, orchestration and application.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information on the HP OpenNFV Program and OpenNFV Labs is available on the&amp;nbsp;HP NFV homepage.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Supporting Quotes&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“6WIND enables the promise of NFV to be open and cost effective by delivering its 6WINDGate packet processing software that provides the performance and transparency required for NFV Infrastructure and Virtual Network Functions without changes to the existing infrastructure. We look forward to working with HP and its OpenNFV program to accelerate this market opportunity with seamless transitions to next generation architectures.” - Eric Carmès, CEO and founder,&lt;/i>&lt;a href=&quot;http://www.6wind.com/&quot; target=&quot;_blank&quot;>&lt;i> 6WIND&lt;/i>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“The complexity of mobile operator networks requires that a strong partner ecosystem be in place for NFV adoption to succeed. An early member of the HP OpenNFV Partner Program, Brocade will continue to contribute its industry leading expertise in the virtual routing, firewall, VPN and load balancing technologies to deliver high-performance virtual network functions and interoperability assurance that operators demand.” - Kelly Herrell, VP and GM, Software Networking Business Unit,&lt;/i>&lt;a href=&quot;http://www.brocade.com/index.page&quot; target=&quot;_blank&quot;>&lt;i> Brocade&lt;/i>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“We are excited to be part of HP’s OpenNFV Program and look forward to working with HP and their other Technology partners to bring differentiated NFV solutions to our customers. GENBAND’s Real Time Communications Virtual Network Functions (VNFs) and VNF Manager combined with HP’s extensive NFV solutions will provide service providers with high performance, integrated solutions to enable accelerated service delivery and optimal operation in new cloud-based networks.” - BG Kumar, chief product officer, &lt;/i>&lt;a href=&quot;http://www.genband.com/&quot; target=&quot;_blank&quot;>&lt;i>GENBAND&lt;/i>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“HP is facilitating the creation of an innovative NFV-ready ecosystem. This will accelerate the transformation of the carrier industry to a more service agile model, which is critical to be able to compete in today’s telco environment.”- Eyal Reshef, founder &amp;amp; CEO,&lt;/i>&lt;a href=&quot;http://www.imaworld.org/&quot; target=&quot;_blank&quot;>&lt;i> Israel Mobile &amp;amp; Media Association&lt;/i>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“As the transition to software defined networking continues, service providers need robust, high-performance NFV solutions that deliver network-level performance, efficiency, scalability and flexibility. This partnership with HP brings together a world class SDN platform that incorporates Mellanox’s portfolio of innovative 10/40 Gigabit Ethernet solutions, to address rapidly evolving customer requirements for next generation transport networks.” - Kevin Deierling, vice president of Marketing,&lt;/i>&lt;a href=&quot;http://www.mellanox.com/&quot; target=&quot;_blank&quot;>&lt;i> Mellanox Technologies&lt;/i>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Software-defined architectures, and NFV in particular, are gaining traction with service providers because of the agility they deliver in addition to CAPEX/OPEX savings. Being a part of the HP OpenNFV Program enables us to support the NFV/SDN ecosystem including those building-out virtualized mobile networks. Spirent’s suite of performance test modules and virtual test solutions help carriers detect problems, adapt rules to eliminate them and quickly fix issues before customers are impacted” - James Armstrong, executive vice president for the Networks &amp;amp; Applications group,&lt;/i>&lt;a href=&quot;http://www.spirent.com/&quot; target=&quot;_blank&quot;>&lt;i> Spirent&lt;/i>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As new challenges arise from the transformation of the carrier network, cooperation across the ecosystem is increasingly important. We look forward to collaborating with the HP OpenNFV community, and provide insights from our decades of telecom experience and proven carrier grade expertise, in order to introduce NFV solutions to help service providers address the growing needs of the telecommunications market.”- Jim Douglas, senior vice president of Marketing,&lt;/i>&lt;a href=&quot;http://www.windriver.com/&quot; target=&quot;_blank&quot;>&lt;i> Wind River&lt;/i>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP’s businesses; the competitive pressures faced by HP’s businesses; risks associated with executing HP’s strategy and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP’s products and services effectively; the protection of HP’s intellectual property assets, including intellectual property licensed from third parties; risks associated with HP’s international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP’s Quarterly Report on Form 10-Q for the fiscal quarter ended July 31, 2014, and that are otherwise described or updated from time to time in HP’s Securities and Exchange Commission reports. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Intel is a registered trademark of Intel Corporation in the United States and other countries.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_eij6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-expands-nfv-offerings-to-aid-carriers-digital-service-provider-transformation"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands NFV Offerings to Aid Carriers' Digital Service Provider Transformation"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Darker.jpg"/>
+                        </contentblock_eij6>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7kxd
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/gartner-names-hpe-a-leader-in-magic-quadrant-for-operations-support-systems"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gartner Names HPE a Leader in Magic Quadrant for Operations Support Systems"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Gartner-Names-HPE-a-Leader-in-Magic-Quadrant-for-Operations-Support-Systems.jpg"/>
+                        </contentblock_7kxd>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_j8kk
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-launches-virtualized-management-to-increase-telecom-services-quality-and-agility"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Launches Virtualized Management to Increase Telecom Services Quality and Agility"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate02.jpg"/>
+                        </contentblock_j8kk>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-18T18:12:17.921Z"
+            jcr:lastModifiedBy="esparza@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

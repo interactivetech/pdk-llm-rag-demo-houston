@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:12:12.683Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/csr,hpe-newsroom:categories/company---customers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE delivers first above-the-cloud supercomputing services for astronauts to advance space exploration"
+        jcr:uuid="7c56cb07-4373-4822-8a27-5e20a9235de2"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        navTitle="Navigation title here "
+        pageTitle="HPE delivers first above-the-cloud supercomputing services for astronauts to advance space exploration"
+        priority="(None)"
+        theme="dark"
+        webSectionId="R11989">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-11-06T22:27:51.678Z"
+                jcr:lastModifiedBy="cseales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 1, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T20:10:45.547Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/HPE delivers first above-the-cloud supercomputing services for astronaut....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T22:28:15.896Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Spaceborne Computer opens up first in-space supercomputing capabilities after one-year mission on the International Space Station (ISS)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Astronauts aboard the ISS can now run data analyses for space research without assistance from Earth&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Latest milestone for Spaceborne Computer lays groundwork to perform compute-intensive experiments without aid from Earth, which is necessary for expanded space travel such as missions to Mars&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fb
+                    jcr:created="{Date}2018-11-07T22:27:22.891Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-01-22T22:08:11.504Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>The Spaceborne Computer will open high performance capabilities to space explorers aboard the International Space Station&lt;/h2>&#xa;"
+                    topPadding="60"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-05-12T19:28:14.819Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise (HPE)&lt;/a> today announced it is opening high-performance computing (HPC) capabilities to astronauts on the International Space Station (ISS) as part of its continued experiments on the Spaceborne Computer project.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Spaceborne Computer is the first commercial off-the-shelf (COTS) supercomputer that HPE and NASA launched into space for a &lt;a href=&quot;https://news.hpe.com/spaceborne-computer-still-flying-high-one-year-later/&quot; target=&quot;_blank&quot;>one-year experiment&lt;/a> to test resiliency and performance, achieving one teraFLOP (a trillion floating point operations per second) and successfully operating on the International Space Station (ISS).&lt;sup>&lt;a name=&quot;_ftnref1&quot; href=&quot;https://news.hpe.com/hpe-delivers-first-above-the-cloud-supercomputing-services-for-astronauts-to-advance-space-exploration/#_ftn1&quot;>[1]&lt;/a>&lt;/sup>&amp;nbsp; After completing its one-year mission proving it can withstand harsh conditions of space – such as zero gravity, unscheduled power outages, and unpredictable levels of radiation – Spaceborne Computer will now, for the first time ever, open its supercomputing capabilities for use aboard the ISS. These “above-the-cloud” services will allow space explorers and experimenters to run analyses directly in space instead of transmitting data to and from Earth for insight.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;b data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Our mission is to bring innovative technologies to fuel the next frontier, whether on Earth or in space, and make breakthrough discoveries we have never imagined before,” said Dr. Eng Lim Goh, Chief Technology Officer and Vice President, HPC and AI, HPE. “After gaining significant insights from our first successful experiment with Spaceborne Computer, we are continuing to test its potential by opening up above-the-cloud HPC capabilities to ISS researchers, empowering them to take space exploration to a new level.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_3096
+                    jcr:created="{Date}2018-11-06T22:29:21.622Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2019-01-22T18:36:14.375Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE makes in-space high-performance computing possible for breakthrough discoveries in space exploration&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-22T18:36:14.375Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_3096>
+                <textonlycomponent_bb
+                    jcr:created="{Date}2018-11-06T20:24:38.199Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T22:30:49.478Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Due to limited computing capabilities in space, many of the calculations that are necessary to complete research projects started in space are still processed on Earth. This approach is feasible for running research on the moon or in low earth orbits (LEO) between 400 and 1,000 miles above the Earth's surface, where communication can be in near real-time with Earth. However, larger communication latencies of up to 20 minutes both to and from Earth can occur when data is captured farther into space and closer to Mars. This reality makes any on-ground space exploration challenging and potentially dangerous if astronauts are faced with mission-critical scenarios that they are unable to solve themselves.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_ffa
+                    jcr:created="{Date}2018-11-06T22:31:11.367Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2019-01-22T18:36:48.733Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Spaceborne Computer is powering the first above-the-cloud supercomputing services&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-22T18:36:48.733Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ffa>
+                <textonlycomponent_55
+                    jcr:created="{Date}2018-11-06T20:27:01.483Z"
+                    jcr:createdBy="cseales@hpe.com"
+                    jcr:lastModified="{Date}2020-05-12T19:29:27.505Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is addressing these challenges by bringing high performance computing (HPC) capabilities to space explorers with the Spaceborne Computer, empowering them to be self-sufficient in the following ways:&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerating Time-to-Solution for Space Exploration&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enabling high-level computing performance on the ISS eliminates the latency experienced when transmitting data to and from stationary space centers on Earth, while also providing computing capabilities to run analysis on-board, instead of depending on their earthbound research teams.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Experiments on the ISS capture a high volume of data, including high-resolution images and videos. However, in the majority of cases, researchers only need to view specific parts of the data. Enabling the dissection and processing of data on board the ISS avoids latency and drives greater efficiency and speed.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reaching New Frontiers in Space&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today’s network bandwidth in space is dramatically consumed by transmitting large data sets to and from Earth. By opening up high-performance computing capabilities in space, the Spaceborne Computer allows ISS researchers to preserve bandwidth for emergency communications. The Spaceborne Computer will also test the boundaries of communications in space in order to close gaps in latencies as space travel to Mars and beyond becomes a reality – and reliable communications become even more essential in mission-critical events.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Improving Discovery Through AI&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>By powering this new frontier in space, HPE and NASA aim to further improve independence for space explorers through enhanced insight that will enable artificial intelligence and machine learning applications to unlock new discoveries. Improving insight and speed will accelerate scientific findings, not only for new discoveries in space, but also for understanding Earth and surrounding environments.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“The Spaceborne Computer is an excellent example of leveraging the International Space Station (ISS) for innovation,” said David Hornyak, ISS Technology Demonstration Research Portfolio Manager, NASA. “HPE’s Spaceborne Computer is a commercial system owned and funded by HPE that is advancing state-of-the-art computing in space and providing supercomputing commercial services on a spacecraft for the first time, all while demonstrating capabilities similar to what NASA may need to pursue for exploration.”&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Spaceborne Computer is based on the &lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/servers/apollo-systems/pip.hpe-apollo-pc40-server.1010032489.html&quot; target=&quot;_blank&quot;>HPE Apollo 40&lt;/a>, a purpose-built high-performance computing (HPC) platform. The system continues to stay intact in space without requiring additional hardware. Instead, it uses a software-hardening approach that is integrated with its HPC nodes, proving we can bring similar, affordable and compact systems to space in the future.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more about Spaceborne Computer’s significant milestones since it first launched in space in August 2017, please visit its &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/Accelerating-space-exploration-with-the-Spaceborne-Computer.html&quot; target=&quot;_blank&quot;>timeline&lt;/a>.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-11-06T22:33:30.818Z"
+                    jcr:lastModifiedBy="cseales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>&lt;a name=&quot;_ftn1&quot; href=&quot;https://news.hpe.com/hpe-delivers-first-above-the-cloud-supercomputing-services-for-astronauts-to-advance-space-exploration/#_ftnref1&quot;>[1]&lt;/a>&lt;/sup>HPE is the first supercomputer provider to collaborate with NASA to bring the first commercial off-the-shelf (COTS) computer system to the Space Station. Source: HPE's Spaceborne Computer Installed On ISS, Achieves 1 Teraflop Speed (International Business Times)&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-05-12T19:29:42.120Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/spaceborne-computer-still-flying-high-one-year-later/"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            header="Spaceborne Computer: Still flying high, one year later"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Spaceborne Computer: Still flying high, one year later"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T19:29:42.120Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Spaceborne-Computer-Still-Flying-High-One-Year-Later.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T19:29:42.120Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2020-05-12T19:29:50.164Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/hpes-spaceborne-computer-successfully-powers-up-in-space-and-achieves-one-teraflop/"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            header="HPE’s Spaceborne Computer successfully powers up in space and achieves one teraFLOP"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE’s Spaceborne Computer successfully powers up in space and achieves one teraFLOP"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T19:29:50.164Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/BlogHero-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T19:29:50.164Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2020-05-12T19:29:59.412Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/hewlett-packard-enterprise-sends-supercomputer-into-space-to-accelerate-mission-to-mars/"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            header="Hewlett Packard Enterprise sends supercomputer into space to accelerate mission to Mars"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise sends supercomputer into space to accelerate mission to Mars"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T19:29:59.412Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/Space-2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T19:29:59.412Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-11-06T20:09:51.459Z"
+            jcr:lastModifiedBy="cseales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

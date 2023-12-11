@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:05:46.665Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="venturi-formula-e-team-announces-new-technology-partner-hewlett-packard-enterprise"
+        jcr:uuid="4c4dc49c-d41f-4cd3-9174-6e7fc88cc0ec"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-12-03T05:18:09.000-08:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Lindsey Berryhill"
+        metaDescription="VENTURI Formula E Team announces new technology partner: Hewlett Packard Enterprise"
+        metaKeywords="Motorsports, Formula E, artificial intelligence, AI, VENTURI, Formula 1, Indycar, NASCAR, auto"
+        navTitle="VENTURI Formula E Team announces new technology partner: Hewlett Packard Enterprise"
+        pageTitle="VENTURI Formula E Team announces new technology partner: Hewlett Packard Enterprise"
+        priority="(None)"
+        subtitle="HPE responsible for developing a technological innovation strategy to drive efficiency and performance"
+        theme="dark"
+        UAID="67c95d0f-958b-4c4d-b6dc-7a7c645eded0"
+        UCID="8742d9b6-f08c-4c34-a045-0d70557faeb9"
+        WPID="202363">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-21T15:44:14.661Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="DECEMBER 5, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-21T15:45:05.645Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/12/image-norend/VENTURI-Formula-E-Team-announces-new-technology-partner-HPE.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="VENTURI Formula E Team announces new technology partner: Hewlett Packard Enterprise"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-07T16:20:00.164Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>VENTURI Formula E has selected HPE as its Official Technology Partner to enhance efficient team workflow and assist with flawless race execution, on and off the track&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The partnership builds on HPE’s wealth of experience with the technical demands in motorsports including Formula 1, Formula E, Indycar and NASCAR&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE responsible for developing a technological innovation strategy to drive efficiency and performance&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_boq9
+                    jcr:lastModified="{Date}2019-02-07T16:19:13.612Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Monaco, December 5, 2018 –&lt;/b>&amp;nbsp;Monaco-based VENTURI Formula E Team is delighted to announce&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot;>Hewlett Packard Enterprise (HPE)&lt;/a>&amp;nbsp;as the team’s Official Technology Partner with immediate effect.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Game-changing technology&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For the FIA ABB Formula E Seasons 5-7, VENTURI Formula E Team will benefit from Hewlett Packard Enterprise’s expertise, transformational technologies, infrastructure and innovation, supporting critical team performance functions both on and off the track. Once implemented, the technology will further aid efficient team workflow and assist with flawless race execution.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Proven experience and commitment&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE has a wealth of experience with the technical demands in motorsports including Formula 1, Formula E, Indycar and NASCAR, and success in implementing ground-breaking edge to cloud solutions.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_gh65
+                    jcr:lastModified="{Date}2019-01-21T15:49:25.985Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The technology will further aid efficient team workflow and assist with flawless race execution&lt;/p>&#xa;"
+                    topPadding="17">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T15:49:25.985Z"
+                        jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_gh65>
+                <textonlycomponent_twd6
+                    jcr:lastModified="{Date}2019-02-07T16:25:43.966Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through the partnership, HPE is dedicating a number of world-class technical specialists to the VENTURI Formula E Team and developing a technological innovation strategy for the Monaco-based team, incorporating next-generation platforms and world-first artificial intelligence (AI) solutions set to elevate both efficiency and performance.&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;h4>&lt;span class=&quot;body-copy-large&quot;>&lt;b>What they say:&lt;br>&#xa;&lt;/b> &lt;br>&#xa; &lt;/span>&lt;span class=&quot;body-copy-large&quot; style=&quot;font-weight: normal;&quot;>“I’m delighted to welcome Hewlett Packard Enterprise on board. There is no doubt that this partnership will allow VENTURI Formula E Team to grow. Due to their great expertise, I’m convinced that HPE will fast-track the development of the team and enhance the corporate structure. Given that Formula E is a very dynamic and fast-paced environment, I know that HPE will enjoy this unique and hopefully rewarding journey we are embarking on together.&amp;quot; – Gildo PASTOR, President of VENTURI Formula E Team&lt;/span>&lt;/h4>&#xa;"/>
+                <pullquote_yw3v
+                    jcr:lastModified="{Date}2019-01-21T15:50:25.307Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE has a wealth of experience with the technical demands in motorsports&lt;/p>&#xa;"
+                    topPadding="20">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T15:50:25.307Z"
+                        jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_yw3v>
+                <textonlycomponent_5yuy
+                    jcr:lastModified="{Date}2019-02-07T16:27:56.049Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Races are won and lost on strategy which is why we are not only building the best possible team but we want the best possible technology and engineering partners as part of our journey. I’ve personally seen the HPE motorsport partnership in action, I know the real tangible technical benefits they can bring to a team and I am delighted that we have them on board as our Official Technology Partner. I also think that the scale of their commitment doesn’t just reinforce their belief in our team but also their appreciation for Formula E as a sport. HPE has also had the foresight to recognise that Formula E is a highly competitive environment for sustainable automotive and technological innovation and they want to be part of that momentum.” - Susie WOLFF, Team Principal, VENTURI Formula E Team&lt;br>&#xa;&lt;br>&#xa;“At HPE, we believe the future belongs to the fast, and we’re focused on accelerating what’s next for enterprises, including in the world of auto racing. We are delighted to announce a new partnership with VENTURI Formula E Team and look forward to bringing the power of the world’s best technology and services to every facet of their factory and trackside operations to transform the team’s operational efficiency and further their engineering excellence.” – Antonio NERI, President and CEO, HPE&lt;br>&#xa;&lt;br>&#xa;“Data is the new currency, and how companies use data to derive insights that inform meaningful actions is key to outpacing the competition. Our partnership with VENTURI Formula E Team is about putting the most advanced technology to work in a way that will allow the organization to understand data, fuel insights and drive innovation – faster and better than ever before.”— Jim JACKSON, CMO, HPE&lt;br>&#xa;&lt;br>&#xa;From the opening round of the FIA ABB Formula E Season 5 Ad Diriyah, Saudi Arabia on December 15, 2018 onwards, the HPE branding and corporate identity will be displayed on the] Front Wing Guards, Tub Tops and all-new Roll Hoops of Felipe MASSA and Edoardo MORTARA’s VENTURI cars, the VENTURI team wear and across a number of other specialist partner-designated channels.&lt;br>&#xa;&lt;br>&#xa;&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa;&lt;/b>&lt;br>&#xa;Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa;&lt;br>&#xa;&lt;b>About VENTURI&lt;br>&#xa;&lt;/b>&lt;br>&#xa;A pioneer in the field of electromobility since 2000, Monaco-based VENTURI President, Gildo PASTOR was an early supporter of Alejandro AGAG – FIA Formula E CEO – when he began laying the foundations for what would become the FIA Formula E World Championship. Drawing on his expertise in the field, the Monegaque innovator quickly threw his support behind the fledgling Formula E project and decided to create the VENTURI Formula E team which has competed in every season since the championship premiered in 2014.&lt;br>&#xa;&lt;br>&#xa;In 2015, VENTURI became a Formula E FIA-approved manufacturer. Today VENTURI supplies full powertrain systems for the VENTURI Formula E and HWA AG teams.&lt;br>&#xa;&lt;br>&#xa;In 2018, Susie WOLFF was appointed Team Principal of VENTURI Formula E Team.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_4d
+                    jcr:created="{Date}2019-01-22T13:49:56.028Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2019-02-07T16:40:10.432Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:corpmediarelations@hpe.com&quot;>Lindsey Berryhill&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7dd1
+                            jcr:created="{Date}2019-01-21T15:56:52.162Z"
+                            jcr:createdBy="silviu.gavriluta@hpe.com"
+                            jcr:lastModified="{Date}2019-01-21T16:02:23.999Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/mercedes-amg-petronas-motorsport-partners-with-hewlett-packard-enterprise-to-accelerate-performance-through-new-technology-solutions"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Mercedes-AMG Petronas Motorsport Partners with Hewlett Packard Enterprise to Accelerate Performance through New Technology Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText=" "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-21T16:02:23.999Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Mercedes-AMG-Petronas-Motorsport-partners-with-Hewlett-Packard-Enterprise-to-Accelerate-Performance-through-New-Technology-Solutions-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-21T16:02:23.999Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7dd1>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7cc9
+                            jcr:created="{Date}2019-01-21T15:57:13.470Z"
+                            jcr:createdBy="silviu.gavriluta@hpe.com"
+                            jcr:lastModified="{Date}2019-01-21T16:06:08.316Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/05/gatwick-airport-installs-next-generation-it-network-with-hpe"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Gatwick Airport Installs Next Generation IT Network with HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gatwick Airport Installs Next Generation IT Network with HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-21T16:06:08.316Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Gatwick-Airport-Installs-Next-Generation-IT-Network-with-HPE-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-21T16:06:08.316Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7cc9>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4caf
+                            jcr:created="{Date}2019-01-21T15:57:30.173Z"
+                            jcr:createdBy="silviu.gavriluta@hpe.com"
+                            jcr:lastModified="{Date}2019-01-21T16:07:50.617Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/gatwicks-digital-transformation-the-airport-of-the-future-today"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Gatwick’s Digital Transformation: The Airport of the Future, Today"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText=" "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-21T16:07:50.617Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Hewlett-Packard-Enterprise-Introduces-Blockchain-as-a-Service-Solution-for-Enterprises-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-21T16:07:50.617Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4caf>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

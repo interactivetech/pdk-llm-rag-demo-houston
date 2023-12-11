@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2019-08-04T22:56:31.210Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="08"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"/>
+    <hpe-advances-its-intelligent-data-platform-with-acquisition-of-mapr-business-assets/>
+    <hpe-proliant-shatters-37-world-records/>
+    <hewlett-packard-enterprise-to-present-live-audio-webcast-of-third-quarter-earnings-conference-call/>
+    <hpe-brings-hybrid-cloud-as-a-service-to-vmware-customers/>
+    <hpe-builds-nasa-new-supercomputer-to-support-future-human-mission-to-moon/>
+    <hpe-delivers-q3-results/>
+    <first-cray-shasta-supercomputer-to-power-weather-forecasting/>
+    <cray-announces-shasta-software-to-power-the-exascale-era/>
+</jcr:root>

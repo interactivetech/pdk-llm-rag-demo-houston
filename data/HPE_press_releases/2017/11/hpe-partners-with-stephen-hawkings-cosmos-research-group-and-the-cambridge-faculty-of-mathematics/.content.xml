@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:56:24.758Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/compute]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-partners-with-stephen-hawkings-cosmos-research-group-and-the-cambridge-faculty-of-mathematics"
+        jcr:uuid="0744b5ec-81eb-49cf-87d2-73e99a044b3d"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-28T05:00:00.000-08:00"
+        metaDescription="HPE partners with Stephen Hawkings COSMOS Research Group and the Cambridge Faculty of Mathematics"
+        navTitle="HPE partners with Stephen Hawking's COSMOS Research Group and the Cambridge Faculty of Mathematics"
+        pageTitle="HPE partners with Stephen Hawking's COSMOS Research Group and the Cambridge Faculty of Mathematics"
+        priority="(None)"
+        subtitle="New HPE Superdome Flex enables research team to analyze massive data sets to understand the origins of space and time"
+        theme="dark"
+        UAID="8a1a436f-9c19-4fc8-9bb8-4caf92c45ae7"
+        UCID="4a0bee69-c7f9-42d4-ba19-e4084e0b8d30"
+        WPID="199587">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 28, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T19:39:39.633Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/COSMOS-header-2.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T19:37:19.189Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Leveraging the HPE Superdome Flex in-memory computing platform, Stephen Hawking's Centre for Theoretical Cosmology will search for clues that could unlock the secrets of the early universe&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Superdome Flex leverages principles of Memory-Driven Computing, the architecture central to HPE's vision for the future of computing&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The supercomputer and its in-memory platform will support research in a diverse range of fields across the Cambridge Faculty of Mathematics, from environmental sciences to medical imaging&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HPE Superdome Flex enables research team to analyze massive data sets to understand the origins of space and time&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_9lzv
+                    jcr:lastModified="{Date}2018-10-18T18:01:06.003Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>MADRID&amp;nbsp;–&amp;nbsp;November 28, 2017 –&amp;nbsp;Hewlett Packard Enterprise and the Faculty of Mathematics at the University of Cambridge today announced a collaboration to accelerate new discoveries in the mathematical sciences. This includes partnering with Stephen Hawking's Centre for Theoretical Cosmology (COSMOS) to understand the origins and structure of the universe. Leveraging the HPE Superdome Flex in-memory computing platform, the COSMOS group will search for clues hiding in massive data sets—spanning 14 billion years of information—that could unlock the secrets of the early universe and black holes.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;Our COSMOS group is working to understand how space and time work, from before the first trillion trillionth of a second after the Big Bang up to today,&amp;quot; said Professor Hawking, the Tsui Wong-Avery Director of Research in Cambridge's Department of Applied Mathematics and Theoretical Physics. &amp;quot;The recent discovery of gravitational waves offers amazing insights about black holes and the whole Universe. With exciting new data like this, we need flexible and powerful computer systems to keep ahead so we can test our theories and explore new concepts in fundamental physics.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_8zfb
+                    jcr:lastModified="{Date}2018-10-17T19:42:08.462Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Our COSMOS group is working to understand how space and time work from the Big Bang up to today&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T19:42:08.462Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_8zfb>
+                <textonlycomponent_3xav
+                    jcr:lastModified="{Date}2018-10-17T20:04:38.206Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>In 1997, a consortium of leading U.K. cosmologists brought together by Professor Hawking founded the COSMOS supercomputing facility to support research in cosmology, astrophysics and particle physics using shared in-memory computing. Access to new data sets transformed cosmology from speculative theory to quantitative science.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;The influx of new data about the most extreme events in our Universe has led to dramatic progress in cosmology and relativity,&amp;quot; said Professor Paul Shellard, Director of the Centre for Theoretical Cosmology and head of the COSMOS group. &amp;quot;In a fast-moving field we have the twofold challenge of analyzing larger data sets while matching their increasing precision with our theoretical models. In-memory computing allows us to ingest all of this data and act on it immediately, trying out new ideas, new algorithms. It accelerates time to solution and equips us with a powerful tool to probe the big questions about the origin of our Universe&lt;/span>.&amp;quot;&lt;/p>&#xa;"/>
+                <imageonlycomponent_6
+                    jcr:created="{Date}2018-10-17T19:43:29.186Z"
+                    jcr:createdBy="jodi.haugen@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T00:06:07.278Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="30"
+                    fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/COSMOS-Stephen-Hawking-Video.jpg"
+                    imageAlignment="hpe-image-left"
+                    isVideo="true"
+                    topPadding="30"
+                    videoResource="/content/hpe/base/blueprint/newsroom/resources/video/stephen-hawking-and-cosmos-unlock-the-secrets-of-the-universe"
+                    videoSource="indirectvideo"
+                    videoType="youtube"/>
+                <textonlycomponent_1c
+                    jcr:created="{Date}2018-10-17T19:43:55.188Z"
+                    jcr:createdBy="jodi.haugen@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T22:37:19.779Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The latest supercomputer supporting the work of the faculty, which combines an HPE Superdome Flex with an HPE Apollo supercomputer and Intel Xeon Phi systems, will enable COSMOS to confront cosmological theory with data from the known universe—and incorporate data from new sources, such as gravitational waves, the cosmic microwave background, and the distribution of stars and galaxies. The powerful computational power helps them search for tiny signatures in huge data sets that could unlock the secrets of the universe.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;HPE Superdome Flex leverages the principles of Memory-Driven Computing, the architecture central to HPE's vision for the future of computing, featuring a pool of memory accessed by compute resources over a high-speed data interconnect. The shared memory and single system design of HPE Superdome Flex enables researchers to solve complex, data-intensive problems holistically and reduces the burden on code developers, enabling users find answers more quickly.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_j55g
+                    jcr:lastModified="{Date}2018-10-17T19:42:42.844Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE Superdome Flex will enable the COSMOS research team to analyze huge data sets and in real time&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T19:42:42.844Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_j55g>
+                <textonlycomponent_dyw8
+                    jcr:lastModified="{Date}2018-10-17T22:49:43.744Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The in-memory computing capability of HPE Superdome Flex is uniquely suited to meet the needs of the COSMOS research group,&amp;quot; said Randy Meyer, vice president and general manager, Synergy &amp;amp; Mission Critical Servers, Hewlett Packard Enterprise. &amp;quot;The platform will enable the research team to analyze huge data sets and in real time. This means they will be able to find answers faster.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The supercomputer and its in-memory platform will support not only the COSMOS work but research in a diverse range of fields across the Faculty of Mathematics, from environmental sciences to medical imaging. The importance of access to computational tools—and the ability to optimize them using local expertise—has been recognized in research projects related to the formation of extra-solar planetary systems, statistical linguistics and brain injuries.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;We are pleased to be partnering with HPE by now offering these unique computing capabilities across the whole Cambridge Faculty of Mathematics,&amp;quot; said Professor Nigel Peake, Head of the Cambridge Department of Applied Mathematics and Theoretical Physics. &amp;quot;High performance computing has become the third pillar of research and we look forward to new developments across the mathematical sciences in areas as diverse as ocean modeling, medical imaging and the physics of soft matter.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Professor Ray Goldstein, Cambridge's Schlumberger Professor of Complex Physical Systems, heads a research group using light-sheet microscopy to study the dynamics of morphological transformations occurring in early embryonic development. He is enthusiastic about future opportunities: &amp;quot;The new HPC system will transform our ability to understand these types of processes and to develop quantitative theories for them. It is also a wonderful opportunity to educate researchers about the exciting overlap between high performance computing and experimental biophysics.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;HPE Superdome Flex &lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The HPE Superdome Flex is the world's most scalable and modular in-memory computing platform. Designed leveraging principles of Memory-Driven Computing, HPE Superdome Flex can scale from 4 to 32 sockets and 768GB to 48TB of shared memory in a single system, delivering unmatched compute power for the most demanding applications.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The HPE Superdome Flex is now available. For more information, please visit the Superdome Flex page &lt;a href=&quot;/content/hpe/base/blueprint/products/servers/mission-critical-servers/superdome.html&quot; rel=&quot;noopener&quot;>here&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About University of Cambridge, Faculty of Mathematics&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;This consists of the Department of Applied Mathematics and Theoretical Physics and its sister Department of Pure Mathematics and Mathematical Statistics, which together form one of the largest and strongest mathematics faculties in Europe. Located in the award-winning Centre for Mathematical Sciences (see &lt;a href=&quot;http://www.maths.cam.ac.uk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>www.maths.cam.ac.uk&lt;/a>), there are about 400 staff members (including PhD students) and over 800 undergraduate and postgraduate students enrolled in Parts I to III of the Mathematical Tripos.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Cosmos Group&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The Centre for Theoretical Cosmology (CTC) was established by &lt;a href=&quot;http://www.ctc.cam.ac.uk/outreach/stephen_hawking.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Professor Stephen Hawking&lt;/a> in 2007 within the Department of Applied Mathematics and Theoretical Physics. It exists to advance the scientific understanding of our Universe, developing and testing mathematical theories for cosmology and black holes. CTC is one of the largest research groups within DAMTP, also supporting postdoctoral fellowships, academic programmes and topical workshops (see &lt;a href=&quot;http://www.ctc.cam.ac.uk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>www.ctc.cam.ac.uk&lt;/a>).&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_cm7m
+                            jcr:lastModified="{Date}2018-10-17T22:51:58.538Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Unveils the World's Most Scalable and Modular In-Memory Computing Platform"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Unveils the World's Most Scalable and Modular In-Memory Computing Platform"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T22:51:58.538Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Hewlett-Packard-Enterprise-Unveils-the-World’s-Most-Scalable-and-Modular-In-Memory-Computing-Platform.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T22:51:58.538Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_cm7m>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d6x0
+                            jcr:lastModified="{Date}2018-10-17T22:50:41.530Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/getting-to-know-mike-woodacre-the-team-behind-hpe-superdome-flex"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Getting to Know: Mike Woodacre and the Team Behind HPE Superdome Flex"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Getting to Know: Mike Woodacre and the Team Behind HPE Superdome Flex"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-17T22:50:41.530Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/10/image-norend/Getting-to-Know-Mike-Woodacre-the-Team-Behind-HPE-Superdome-Flex.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-17T22:50:41.530Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_d6x0>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_w98f
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/the-next-great-space-race"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="The Next Great Space Race"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Next Great Space Race"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/The-Next-Great-Space-Race.jpg"/>
+                        </contentblock_w98f>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-17T19:35:44.899Z"
+            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

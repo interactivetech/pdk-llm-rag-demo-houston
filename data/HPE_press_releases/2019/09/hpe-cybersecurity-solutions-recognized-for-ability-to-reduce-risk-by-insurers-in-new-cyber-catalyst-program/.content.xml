@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-10-04T20:07:54.096Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE cybersecurity solutions recognized for ability to reduce risk by insurers in new Cyber Catalyst program"
+        jcr:uuid="1738d271-5c56-4302-ab27-f9789aa504d2"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE cybersecurity solutions recognized for ability to reduce risk by insurers in new Cyber Catalyst program"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-09-25T07:30:00.000-07:00"
+        featured="true"
+        metaDescription="HPE-exclusive silicon root of trust and Aruba Policy Enforcement Firewall recognized for ability to reduce cybersecurity risk with new Marsh Cyber Catalyst designation"
+        metaKeywords="HPE, Hewlett Packard Enterprise, Aruba, server, data center, hybrid cloud, hybrid IT, ProLiant, Apollo, Simplivity, Synergy, firewall, security, threats, cybersecurity, cyber catalyst, insurance, insurance tech, malware, virus protection, hardware, silicon root of trust"
+        metaOgImage="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-cybersecurity-solutions-recognized-for-ability-to-reduce-risk-by-insurers-in-new-cyber-catalyst-program.jpg"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/09/hpe-cybersecurity-solutions-recognized-for-ability-to-reduce-risk-by-insurers-in-new-cyber-catalyst-program/jcr:content/main-par/body-par/columncontainercompo/column_1/contentblock_4dff"
+        navTitle="HPE cybersecurity solutions recognized for ability to reduce risk by insurers in new Cyber Catalyst program"
+        pageTitle="HPE cybersecurity solutions recognized for ability to reduce risk by insurers in new Cyber Catalyst program"
+        priority="(None)"
+        socialDescription="HPE-exclusive silicon root of trust and Aruba Policy Enforcement Firewall recognized for ability to reduce cybersecurity risk with new Marsh Cyber Catalyst designation"
+        subtitle="HPE-exclusive silicon root of trust and Aruba Policy Enforcement Firewall recognized for ability to reduce cybersecurity risk with new Marsh Cyber Catalyst designation"
+        theme="dark"
+        UAID="eeb65e17-b2cb-4514-9473-e71bba036dc4"
+        UCID="84406067-7211-4a7f-b778-09d01ef09084">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-09-24T15:02:00.919Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="SEPTEMBER 25, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-24T15:11:17.996Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-cybersecurity-solutions-recognized-for-ability-to-reduce-risk-by-insurers-in-new-cyber-catalyst-program.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-24T15:03:15.758Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE-exclusive silicon root of trust and Aruba Policy Enforcement Firewall receive Cyber Catalyst designation for ability to reduce cyber risk&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Cyber Catalyst enables customers that adopt designated technologies to be considered for enhanced terms and conditions on cyber insurance policies from participating insurers&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_bb
+                    jcr:created="{Date}2019-09-24T15:03:35.716Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-09-24T15:03:53.870Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE-exclusive silicon root of trust and Aruba Policy Enforcement Firewall recognized for ability to reduce cybersecurity risk with new Marsh Cyber Catalyst designation&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-09-08T20:29:49.438Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise (HPE) today announced that its cybersecurity solutions, the &lt;a href=&quot;https://www.hpe.com/us/en/solutions/infrastructure-security.html&quot; target=&quot;_blank&quot;>HPE-exclusive silicon root of trust&lt;/a> and the &lt;a href=&quot;https://www.arubanetworks.com/products/security/policy-enforcement-firewall/&quot; target=&quot;_self&quot;>Aruba Policy Enforcement Firewall (PEF)&lt;/a>, have been recognized for their ability to reduce risk by insurers in the &lt;a href=&quot;https://www.marsh.com/us/campaigns/cyber-catalyst-by-marsh.html&quot; target=&quot;_blank&quot;>Cyber Catalyst&lt;sup>SM&lt;/sup>&lt;/a> program created by Marsh, a global leader in insurance broking and risk management. Cyber Catalyst is Marsh’s new cybersecurity evaluation program that enables customers that adopt designated technologies to be considered for enhanced terms and conditions on cyber insurance policies from participating insurers.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The average cost of cybercrime for an organization is $13 million, according to a recent report by &lt;a href=&quot;https://www.accenture.com/us-en/insights/security/cost-cybercrime-study&quot; target=&quot;_blank&quot;>Accenture&lt;/a>. Cyber insurers, with extensive experience in responding to catastrophic and costly cyber events, are constantly searching for effective ways to help businesses strengthen their security position.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; The Cyber Catalyst program brings together eight of the world’s leading cyber insurers to evaluate cybersecurity products and services and identify those solutions they believe can be effective at improving cybersecurity posture and reducing cyber risk. The program followed a rigorous, multi-stage evaluation process in which each of the participating insurers assessed cybersecurity solutions’ ability to address major risks like data breach, business interruption, data theft or corruption, and cyber extortion. A majority voted to designate the following HPE cybersecurity offerings as Cyber Catalyst solutions:&lt;br>&#xd;&#xa; &lt;b>&lt;br>&#xd;&#xa;HPE-exclusive silicon root of trust:&lt;/b> HPE provides the only industry-standard servers with a silicon root of trust capability built into the hardware, which prevents compromised firmware code from executing. The HPE Silicon Root of Trust is offered on HPE ProLiant servers, HPE Apollo systems, HPE Synergy Compute Modules, and HPE SimpliVity.&lt;br>&#xd;&#xa; &lt;b>&lt;br>&#xd;&#xa;Aruba Policy Enforcement Firewall:&lt;/b> The Aruba Policy Enforcement Firewall thwarts unauthorized access to valuable or sensitive data through role-based user, device and application policies, and is an integral part of HPE’s strategy to provide a zero trust boundary at time of network access.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <pullquote_bd34
+                    jcr:created="{Date}2019-09-24T15:13:48.272Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-09-24T15:14:10.975Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We’re providing a higher level of assurance to customers to protect their assets and minimize attack exposure&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-09-24T15:14:10.975Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_bd34>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-09-16T18:34:09.671Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Cyber threats can severely [...] and halt businesses. We put security at the heart of our offerings, extending data protection for our customers from the edge to cloud,” said Gary Campbell, Security CTO at Hewlett Packard Enterprise. “By engaging with Marsh on its Cyber Catalyst program, and having the HPE-exclusive silicon root of trust and Aruba Policy Enforcement Firewall meet their stringent standards, we’re providing a higher level of assurance to customers to protect their assets and minimize attack exposure.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “In the highly complex cybersecurity marketplace, the Cyber Catalyst program gives business leaders greater clarity and confidence in their cybersecurity choices,” said Tom Reagan, US Cyber Practice Leader at Marsh, which created the Cyber Catalyst program. “We’re excited to showcase leading-edge solutions like the HPE-exclusive silicon root of trust and Aruba Policy Enforcement Firewall, which were identified by participating insurers as able to have a meaningful impact on cyber risk.”&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-10-04T20:07:39.620Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional resource&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Blog: “&lt;a href=&quot;https://blogs.arubanetworks.com/solutions/cyber-catalyst-by-marsh-designation-for-aruba-policy-enforcement-firewall-and-hpe-silicon-root-of-trust-enables-organizations-to-reduce-risk/&quot; target=&quot;_self&quot;>Cyber Catalyst by Marsh Designation for Aruba Policy Enforcement Firewall and HPE Silicon Root of Trust Enables Organizations to Reduce Risk&lt;/a>” by Larry Lunetta, vice president of Marketing, Security Solutions at Aruba, a Hewlett Packard Enterprise company&lt;br>&#xd;&#xa;&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-24T15:16:43.000Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-09-24T15:44:36.795Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-unveils-the-worlds-most-secure-industry-standard-servers"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE unveils the world’s most secure industry standard servers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE unveils the world’s most secure industry standard servers"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-24T15:44:36.795Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-24T15:44:36.795Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2022-10-04T20:07:54.077Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/security-from-edge-to-cloud-balancing-innovation-security-in-a-shifting-threat-landscape"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="Security from edge to cloud: Balancing innovation &amp; security in a shifting threat landscape"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Security from edge to cloud: Balancing innovation &amp; security in a shifting threat landscape"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-10-04T20:07:54.077Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/security-from-edge-to-cloud-balancing-innovation-security-in-a-shifting-threat-landscape.html.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-10-04T20:07:54.077Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-09-24T15:53:40.781Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-extends-industry-leading-proliant-gen10-portfolio-to-deliver-breakthrough-economics-in-server-virtualization"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Industry Leading ProLiant Gen10 Portfolio to Deliver Breakthrough Economics in Server Virtualization"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-24T15:53:40.781Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Extends-Industry-Leading-ProLiant-Gen10-Portfolio.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-24T15:53:40.781Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-10-14T20:24:36.547Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

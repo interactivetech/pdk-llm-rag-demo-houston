@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:54:18.321Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE Tech Pro Community Expands Globally to Connect Solutions Architects Across Channel Partners and HPE"
+        jcr:uuid="db771631-911a-43d9-bad4-4b365bea0b2e"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE Tech Pro Community Expands Globally to Connect Solutions Architects Across Channel Partners and HPE"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-03-12T06:39:00.000-07:00"
+        metaDescription="Global program for partner technical professionals speeds ability to architect solutions, and win with HPE "
+        metaKeywords="Channel, Partner Ready, Partner Program, Tech Pro Community, Channel Sales, Channel Investment"
+        metaOgImage="/content/dam/hpe/newsroom/2019/03/image-norend/HPE-Tech-Pro-Community-Expands-Globally.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE Tech Pro Community Expands Globally to Connect Solutions Architects Across Channel Partners and HPE"
+        pageTitle="HPE Tech Pro Community Expands Globally to Connect Solutions Architects Across Channel Partners and HPE"
+        priority="(None)"
+        socialDescription="Global program for partner technical professionals speeds ability to architect solutions, and win with HPE "
+        subtitle="Global program for partner technical professionals speeds ability to architect solutions, and win with HPE "
+        theme="dark"
+        UAID="be04812e-e622-4875-82df-84411c49b291"
+        UCID="b11404d4-1d8d-4258-901f-f5be54790730">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-03-11T13:20:25.002Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MARCH 12, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T17:10:16.338Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/03/image-norend/HPE-Tech-Pro-Community-Expands-Globally-to-Connect-Solutions-Architects-Across-Channel-Partners-and-HPE.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T13:22:15.420Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE promotes learning, networking and career growth for the technical community in the channel and internally&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE launches an elite technical community for partner solution architects and HPE presales professionals&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Tech Pro Community provides one-stop access to everything needed to architect solutions for customers&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_22
+                    jcr:created="{Date}2019-03-11T13:20:49.270Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T13:21:15.383Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Global program for partner technical professionals speeds ability to architect solutions, and win with HPE&amp;nbsp;&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-04T15:50:14.557Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PARIS – March 12, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced, at the Technical Solutions Summit in Paris, the global rollout of &lt;a href=&quot;https://techpro.hpe.com&quot; target=&quot;_blank&quot;>HPE Tech Pro Community&lt;/a> - an elite technical community for partner solution architects and HPE presales professionals to work as one team, offering ongoing support, and exclusive access to insider training, tools, resources and expertise for partners and HPE alike. Based on HPE’s highly successful initial program in the Asia Pacific region, HPE is now expanding this program globally, to enable accelerated delivery of innovative HPE solutions to customers through HPE and partners worldwide.&lt;br>&#xa; &lt;br>&#xa; Increasingly, HPE and channel partner solutions architects are at the center of their customers’ business IT decisions, helping them define their business needs and prescribing the correct blend of enterprise solutions to help them achieve their goals. HPE is investing significantly to enable the technical community to deliver high value solutions based on HPE innovation and to reward and differentiate partners for their investments.&amp;nbsp;&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T17:05:00.940Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Tech Pro Community will host all technical enablement activity within HPE and will provide members with one-stop access to everything needed to architect solutions for customers. HPE Tech Pro Community was built by solution architects for solution architects and will enable partners to access the same learning and collaboration opportunities as HPE teams, and help them achieve career advancing results through three key elements:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Building global connections&lt;/b> – HPE Tech Pro Community members gain exclusive access to a unique technical community - including partner and HPE solution architects globally - that will enable them to build relationships through online collaboration, at technical events and in local engagements.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Solutions-based certification and learning &lt;/b>– HPE Tech Pro Community provides an accelerated, end-to-end curriculum leading to industry recognized HPE Accredited Solutions Expert&amp;nbsp;(ASE) and Master ASE certification that prepares members to differentiate themselves in the market with solution architecture and implementation skills - aligned to HPE Partner Ready competencies solutions tracks. In addition, HPE Tech Pro Community provides continuous learning paths designed to keep members on the cutting edge of the latest HPE and industry technologies and help them find the exact training and information they need to serve customers “just in time.”&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Career growth and incentives&lt;/b> – HPE Tech Pro Community provides a unique recognition and rewards program for partner IT professionals that enables them to be recognized for their achievements by HPE, their peers, and customers. HPE Tech Pro Community members are provided with the opportunity to benefit individually while increasing revenue for the partner organizations.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;b data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;> &lt;br>&#xa; &lt;i>“With HPE Tech Pro Community, HPE is extending its commitment to the channel and its own solutions architects by elevating their expertise in a way that not only helps our members drive business outcome-led solutions, but also promotes learning, networking and career growth across the industry,” &lt;/i>said Paul Hunter, Global Channel Chief for Hewlett Packard Enterprise. &lt;i>“Working with our partners across the globe allows for information sharing, which will break down barriers and enable a more seamless and fluid partner technical experience for us and our partners.”&lt;/i>&lt;/span>&lt;/b>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T17:36:23.497Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Employing HPE Tech Pro Community certified individuals provides HPE partners with&lt;b> &lt;/b>industry leading solution architecture skills and access to best practices aligned to HPE’s Super 6 priorities which increases partners’ value to their customers, provides access to adjacent markets and higher margin opportunities.&amp;nbsp; HPE Tech Pro Community solution certifications are aligned to HPE Partner Ready Competencies which recognizes partners with solution-led business models and creates preference with the HPE sales team for joint selling engagements.&lt;br>&#xa; &lt;br>&#xa; The global roll out of HPE Tech Pro Community builds on its original launch, in May 2017, and &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/blog-post/2019/02/hpe-celebrates-success-of-hpe-tech-pro-academy-in-the-asia-pacific-region.html&quot; target=&quot;_blank&quot;>its success&lt;/a>, where it has been implemented to support the technical community amongst channel partners in the Asia Pacific and Japan region.&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_b70a
+                    jcr:created="{Date}2019-03-11T17:36:51.422Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T17:38:08.964Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution="Jacky Chan, Kinmax, Taiwan"
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>In the past, technical community resources were very rich but also relatively scattered. (Now, instead,) there is a portal (that) contains resources like training and makes it easy for us to understand the situation&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-03-11T17:38:08.964Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_b70a>
+                <pullquote_2a20
+                    jcr:created="{Date}2019-03-11T17:37:09.592Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T17:39:11.987Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution="Darmawan Hadisuryana, Sunnex Metrodata Indonesia"
+                    bottomPadding="10"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Being an HPE Tech Pro Community member has helped me exchange knowledge, to learn more about the technologies and products in the HPE portfolio&lt;/p>&#xa;"
+                    topPadding="10">
+                    <image
+                        jcr:lastModified="{Date}2019-03-11T17:39:11.987Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_2a20>
+                <textonlycomponent_fb
+                    jcr:created="{Date}2019-03-11T17:35:22.758Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-03-11T17:35:59.735Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Tech Pro Community membership is open to all existing and future HPE channel partner and HPE field technical professionals and will become available worldwide from March 2019. HPE channel partners can join the HPE Tech Pro Community after achieving an HPE Accredited Technical Professional (ATP) Certification or higher.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-03-11T13:32:42.730Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/08/hpe-enhances-partner-program-to-deliver-higher-payouts-and-more-growth-opportunities"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE enhances partner program to deliver higher payouts and more growth opportunities"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-03-11T13:32:42.730Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-03-11T13:32:42.730Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-03-11T13:34:52.015Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/02/hpe-celebrates-success-of-hpe-tech-pro-academy-in-the-asia-pacific-region"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE celebrates success of HPE Tech Pro Academy in the Asia Pacific Region"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE celebrates success of HPE Tech Pro Academy in the Asia Pacific Region"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-03-11T13:34:52.015Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/HPE-celebrates-success-of-HPE-Tech-Pro-Academy -in-the-Asia-Pacific-Region.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-03-11T13:34:52.015Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-03-11T13:36:36.180Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/changes-to-the-partner-ready-program-prove-that-we-are-still-far-ahead-of-the-pack"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Changes to the Partner Ready program prove that we are still far ahead of the pack"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Changes to the Partner Ready program prove that we are still far ahead of the pack"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-03-11T13:36:36.180Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/Changes-to-the-Partner-Ready-program-prove-that-we-are-still-far-ahead-of-the-pack.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-03-11T13:36:36.180Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-03-12T19:56:59.119Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

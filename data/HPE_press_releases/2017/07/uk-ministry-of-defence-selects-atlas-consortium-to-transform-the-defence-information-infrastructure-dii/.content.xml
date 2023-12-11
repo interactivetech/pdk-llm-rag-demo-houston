@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:13:41.000Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/csr,hpe-newsroom:categories/company---partners,hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="uk-ministry-of-defence-selects-atlas-consortium-to-transform-the-defence-information-infrastructure-dii"
+        jcr:uuid="5519c02f-3cc5-4ac6-a6aa-66346474e9b9"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-07-11T09:24:55.000-07:00"
+        metaDescription="UK Ministry of Defence Selects ATLAS Consortium to Transform the Defence Information Infrastructure (DII)"
+        navTitle="UK Ministry of Defence Selects ATLAS Consortium to Transform the Defence Information Infrastructure (DII)"
+        pageTitle="UK Ministry of Defence Selects ATLAS Consortium to Transform the Defence Information Infrastructure (DII)"
+        priority="(None)"
+        subtitle="HPE Partner Ready program enhancements and new suite of digital tools and content create new opportunities for partners to profit from high growth segments in Hybrid IT, Data and Analytics, and Edge ComputingGround-breaking deal led by HP will deliver new cloud-based workplace and mobility services for 200,000 IT users with HP Helion Cloud and HP Enterprise Services for Microsoft Office 365"
+        theme="dark"
+        UAID="4f898ebe-860f-42d9-815a-ace19cf69f72"
+        UCID="4da06c3a-a83b-46c0-844a-2734797fc940"
+        WPID="198634">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T00:04:21.847Z"
+                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 03, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Newsroom_InnovationDay.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="UK Ministry of Defence Selects ATLAS Consortium to Transform the Defence Information Infrastructure (DII)"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Partner Ready program enhancements and new suite of digital tools and content create new opportunities for partners to profit from high growth segments in Hybrid IT, Data and Analytics, and Edge ComputingGround-breaking deal led by HP will deliver new cloud-based workplace and mobility services for 200,000 IT users with HP Helion Cloud and HP Enterprise Services for Microsoft Office 365&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_6aw8
+                    jcr:lastModified="{Date}2018-10-18T23:46:09.799Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>BRACKNELL, England, August 3rd, 2015 — HP today announced that the &lt;a href=&quot;https://www.gov.uk/government/organisations/ministry-of-defence&quot; target=&quot;_blank&quot;>UK Ministry of Defence&lt;/a> (MoD) has selected the &lt;a href=&quot;http://www.atlasconsortium.info/&quot; target=&quot;_blank&quot;>ATLAS Consortium&lt;/a> to enhance its users’ experience. In a ground-breaking four-year deal, ATLAS - a collaborative team led by HP and including Fujitsu, Airbus and CGI – will modernize the MoD’s Defence Information Infrastructure (DII) and transform its core services, enabling 200,000 users to securely access information anytime and anywhere.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“I want to deliver information capabilities that are a force multiplier for both the business space and battle space through closer strategic alignment with industry partners,” said Mike Stone, Chief Digital and Information Officer of the MoD. “By September 2016, our users will experience information capabilities that are tailored to their mission, location and role, and that can be accessed at the right time, through a choice of devices, over a cost-effective, modern and adaptable infrastructure.”&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Under the MoD’s GV1 Reset program, ATLAS will deliver flexible, sustainable enterprise-wide information capabilities based on a unique combination of HP Enterprise Services for Microsoft Office 365 and HP Helion Managed Private Cloud.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The MoD’s new workplace infrastructure based on HP technology will give users the ability to subscribe, amend or remove services via a modern, intelligent, persona-based catalogue. This will allow them to view the costs of services and pay for them on a flexible consumption basis, giving better transparency, increasing control and reducing spend whilst putting the user at the centre of their workplace.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Standardized workplace management systems, smart self-help and secure mobility services will allow MoD staff to access the DII through a wider variety of devices and networks, streamlining how they interact with information and process. HP Unified Communications Services based on Microsoft Skype for Business will make video-conferencing, immediate online meetings and instant messaging available on all MoD devices including full capability desktops, virtualised desktops, tablets and phones.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Forward thinking organizations like the MoD understand that the workplace is everywhere,”said Howard Hughes, senior vice president, Enterprise Services EMEA, HP. “The solution HP and its partners developed for the UK MoD will increase workplace productivity by enabling high-quality connectivity for users, in any place, on any device.”&lt;/i>&lt;br>&#xa; &lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_1503
+                            jcr:created="{Date}2018-10-18T23:49:42.198Z"
+                            jcr:createdBy="sahira.arias-cerda@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T23:53:08.343Z"
+                            jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/getting-to-know-mike-woodacre-the-team-behind-hpe-superdome-flex"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Getting to Know: Mike Woodacre &amp; the Team Behind HPE Superdome Flex"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Getting to know Mike Woodacre"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T23:53:08.343Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Getting-to-Know-Mike-Woodacre-the-Team-Behind-HPE-Superdome-Flex.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T23:53:08.343Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_1503>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_aysg
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/04/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4623.jpg"/>
+                        </contentblock_aysg>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_blml
+                            jcr:lastModified="{Date}2018-10-18T23:47:22.131Z"
+                            jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-partners-with-stephen-hawkings-cosmos-research-group-and-the-cambridge-faculty-of-mathematics"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE partners with Stephen Hawkings COSMOS Research Group and the Cambridge Faculty of Mathematics"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE partners with Stephen Hawkings COSMOS Research Group and the Cambridge Faculty of Mathematics"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T23:47:22.131Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/COSMOS-header-2.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T23:47:22.131Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_blml>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

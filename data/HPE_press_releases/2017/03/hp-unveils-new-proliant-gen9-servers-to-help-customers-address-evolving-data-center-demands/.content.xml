@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:22:14.952Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-unveils-new-proliant-gen9-servers-to-help-customers-address-evolving-data-center-demands"
+        jcr:uuid="e0d46301-6a65-4cb5-a0f3-5ae7e7599529"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Unveils New ProLiant Gen9 Servers to Help Customers Address Evolving Data Center Demands"
+        navTitle="HP Unveils New ProLiant Gen9 Servers to Help Customers Address Evolving Data Center Demands"
+        pageTitle="HP Unveils New ProLiant Gen9 Servers to Help Customers Address Evolving Data Center Demands"
+        priority="(None)"
+        subtitle="New Portfolio Dramatically Increases Compute Capacity and Efficiency, Speed of IT Service Delivery, and Application Performance"
+        theme="dark"
+        UAID="9726fc9c-4d0b-40bf-9954-f2a921cf0c29"
+        UCID="5979c54d-2ff0-439a-8c4e-8ec0b8fa4e09"
+        WPID="1579">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T21:53:26.338Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 28, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Portfolio Dramatically Increases Compute Capacity and Efficiency, Speed of IT Service Delivery, and Application Performance&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_nbug
+                    jcr:lastModified="{Date}2018-10-18T21:56:53.551Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Aug 28, 2014) - HP (NYSE: HPQ) today announced a new portfolio of&amp;nbsp;HP ProLiant Generation 9 (Gen9)&amp;nbsp;Servers that will help customers reduce cost and complexity, accelerate IT service delivery and enable business growth. With new technology features and workload-optimized design, the new server portfolio advances HP's vision for compute, the future of data center technology.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>IT organizations -- under increasing pressure to quickly and efficiently deliver more applications and services, as well as store and deliver exponentially increasing amounts of data while reducing costs -- are constrained by traditional data center and server architectures. The new HP ProLiant Gen9 Servers are designed to address these challenges, delivering flexible, scalable computing resources that are aligned to companies' business goals. The combination of HP ProLiant Gen9 Servers and HP Technology Services help customers capitalize on compute innovations while confidently moving their traditional infrastructure to the New Style of IT.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HP ProLiant Gen9 portfolio is a major delivery milestone in HP's compute strategy, which addresses IT demands with a vast pool of processing resources that can be located anywhere, scaled to any workload and available at all times. The servers are optimized for convergence, cloud and software-defined environments, and feature new technology innovations such as:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP-unique PCIe accelerators and HP DDR4 SmartMemory that increase compute capacity.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Converged management across servers, storage and networking to enable a software defined enterprise.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Faster setup, monitoring and firmware maintenance with reliable, secure and innovative embedded management, including UEFI and RESTful APIs for hybrid cloud environments.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>PCIe Accelerators, HP SmartCache and HP FlexFabric adapters that deliver improved performance.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The rise of mobile, cloud, social and big data is driving the need for a new approach to the data center and its processing engine -- the server -- to enable successful business outcomes,&amp;quot; said Antonio Neri, senior vice president and general manager, Servers and Networking, HP. &amp;quot;HP created the x86 server market 25 years ago, and we have led this market ever since with innovations that have dramatically transformed the data center, such as HP Moonshot and HP Apollo. Today, we're setting the stage for the next quarter century with HP ProLiant Gen9 Servers and compute, which combines the best of traditional IT and cloud environments to enable a truly software-defined enterprise.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Unleash new possibilities for compute with HP ProLiant Gen9 portfolio&lt;br>&#xa;&lt;/b>With the HP ProLiant Gen9 portfolio, which is designed to run modern workloads, enterprises will be able to support key business goals, such as delivering new mobile services to employees or customers in minutes, turning unique customer behavior data into actionable insight in seconds, and capitalizing on business opportunities in real time.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP ProLiant Gen9 Servers span four architectures -- blade, rack, tower and scale-out -- to give organizations the ability to:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Triple compute capacity and increase efficiency across multiple workloads at a lower total cost of ownership with design optimization and automation.&lt;sup>(1)&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Accelerate IT service delivery and increase infrastructure provisioning up to 66 times faster when combined with&amp;nbsp;HP OneView&amp;nbsp;converged management features that will be available later this year.&lt;sup>(2)&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Improve workload performance of business-critical applications up to four times to drive business growth with unique HP storage, memory and networking innovations.&lt;sup>(3)&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;With HP compute we can scale up to millions of transactions a day, deploy servers in virtualized environments in seconds and provision applications in minutes, all while anticipating our future needs,&amp;quot; said Harry Gunsallus, executive vice president and chief information officer, Redstone Federal Credit Union. &amp;quot;This has allowed us to cut down our mobile application development and deployment life cycle by 30 percent to 90 days (on average) and grow revenue 50 percent year over year to our technology and software consulting subsidiary, Redstone Consulting Group LLC.&amp;quot;&amp;nbsp;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional details on the HP ProLiant Gen9 Servers will be announced at the Intel Developers Forum, Sept. 9-11 in San Francisco.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;Pricing and availability&lt;br>&#xa;&lt;/b>The new HP ProLiant Gen9 servers will be available through HP and worldwide channel partners beginning Sept. 8. Flexible investment and migration solutions including technology refresh, trade in, dual usage and transition services available from&amp;nbsp;&lt;a href=&quot;http://www.hp.com/hpfinancialservices&quot; target=&quot;_blank&quot;>HP Financial Services&lt;/a>.&lt;sup>(4)&lt;/sup>&amp;nbsp;Pricing will vary based on model and customer configurations.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information is available at&amp;nbsp;www.hp.com/go/ComputeEra.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's premier EMEA client event,&amp;nbsp;HP Discover, takes place Dec. 2-4 in Barcelona, Spain.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About HP&lt;br>&#xa;&lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1) HP internal comparison between HP ProLiant DL380 Gen9 vs. HP ProLiant DL380 G6.&amp;nbsp;&lt;br>&#xa;(2) Based on anonymous customer results, including the &amp;quot;Achieving Organizational Transformation with HP Converged Infrastructure Solutions for SDDC&amp;quot; report developed by IDC for HP, January 2014. HP Gen9 servers currently ship with Insight Control. Customers can purchase OneView today, but it is not compatible with Gen9 at this time. HP OneView will support Gen9 servers in late 2014.&amp;nbsp;&lt;br>&#xa;(3) Based on HP SmartCache Performance testing done with equivalent controller in a controlled environment.&amp;nbsp;&amp;nbsp;&lt;br>&#xa;(4) Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and are subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news release may contain forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of HP and its consolidated subsidiaries may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any projections of revenue, margins, expenses, HP's effective tax rate, earnings, net earnings per share, cash flows, benefit plan funding, share repurchases, currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring charges; any statements of the plans, strategies and objectives of management for future operations, including the execution of restructuring plans and any resulting cost savings or revenue or profitability improvements; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on HP and its financial performance; any statements regarding pending investigations, claims or disputes; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy and plans for future operations; the impact of macroeconomic and geopolitical trends and events; the need to manage third party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Quarterly Report on Form 10-Q for the quarter ended April 30, 2014 and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ljgp
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-unveils-the-worlds-most-secure-industry-standard-servers"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Unveils the Worlds Most Secure Industry Standard Servers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/GenesisRelease_NewsroomRedesignweb.jpg"/>
+                        </contentblock_ljgp>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_9r7m
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-helps-smbs-easily-flex-it-as-they-grow"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Helps SMBs Easily Flex IT as They Grow"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Helps SMBs Easily Flex IT as They Grow"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_9r7m>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wzzx
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/hpe-partners-with-clearcenter-to-simplify-it-for-small-and-medium-businesses"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Partners with ClearCenter to Simplify IT for Small and Medium Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Partners with ClearCenter to Simplify IT for Small and Medium Businesses"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_wzzx>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:43:34.270Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers,hpe-newsroom:categories/services]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-commits-4-billion-to-accelerate-the-intelligent-edge"
+        jcr:uuid="58698501-a169-452d-baa5-3ffbb9b222ae"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-06-19T15:00:13.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Aleanna Crane"
+        metaDescription="Hewlett Packard Enterprise Commits $4 Billion to Accelerate the Intelligent Edge"
+        navTitle="Hewlett Packard Enterprise Commits $4 Billion to Accelerate the Intelligent Edge"
+        pageTitle="Hewlett Packard Enterprise Commits $4 Billion to Accelerate the Intelligent Edge"
+        priority="(None)"
+        subtitle="Investment will extend HPEs leadership in large, fast-growing market for Intelligent Edge technology"
+        theme="dark"
+        UAID="af233727-dde5-4c91-bd9d-9c5408e84382"
+        UCID="3d65dfeb-e622-4de6-938b-cb59d9f636ec"
+        webSectionId="R11989"
+        WPID="200805">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 19, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Edge-Investment.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Commits $4 Billion to Accelerate the Intelligent Edge"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:21:20.582Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The need for Intelligent Edge capabilities is driving a very large, fast-growing market opportunity&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>To help customers turn data from every edge to any cloud into intelligence, HPE will invest $4 billion in Intelligent Edge technologies and services over the next four years&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The strategic investment will go towards research and development to advance and innovate new products, services and consumption models across a number of technology domains such as security, AI and machine learning, automation and edge computing&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-31T09:21:49.635Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T09:22:17.178Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T11:12:32.643Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Investment will extend HPE's leadership in large, fast-growing market for Intelligent Edge technology&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_jwis
+                    jcr:lastModified="{Date}2018-10-31T09:23:10.554Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS - June 19, 2018 -&lt;/b> Hewlett Packard Enterprise (NYSE: HPE) today announced that it plans to invest $4 billion in Intelligent Edge technologies and services over the next four years. This strategic organic investment will be focused on helping customersturn all of their data - from every edge to any cloud - into intelligence that drives seamless interactions between people and things, delivers personalized user experiences, and employs AI and machine learning to continuously adapt to changes in real time.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Data is the new intellectual property, and companies that can distill intelligence from their data - whether in a smart hospital or an autonomous car - will be the ones to lead&amp;quot;, said Antonio Neri, president and chief executive officer, HPE. &amp;quot;HPE has been at the forefront of developing technologies and services for the Intelligent Edge, and with this investment, we are accelerating our ability to drive this growing category for the future&amp;quot;.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_l8ed
+                    jcr:lastModified="{Date}2018-10-18T11:14:53.698Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Data is the new IP, companies that can distill intelligence from their data will be the ones to lead&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T11:14:53.698Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_l8ed>
+                <textonlycomponent_lsi4
+                    jcr:lastModified="{Date}2018-10-31T09:23:07.960Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>According to Gartner, by 2022, as a result of digital business projects, 75% of enterprise-generated data will be created and processed outside the traditional, centralized data center or cloud, up from less than 10% in 2018&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>&lt;sup>1&lt;/sup>&lt;/a>. It will be created at the edge - for example, in an oil rig, a retail store floor or a medical device. Turning that data into intelligence requires data to be analyzed at the edge, seamlessly and instantaneously, with zero tolerance for friction or latency.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The next evolution in enterprise technology will be in edge-to-cloud architecture&amp;quot;, continued Neri. &amp;quot;Enterprises will require millions of distributed clouds that enable real-time insights and personalized experiences exactly where the action is happening&amp;quot;.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_uy2b
+                    jcr:lastModified="{Date}2018-10-18T11:17:20.936Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;The next evolution in enterprise technology will be in edge-to-cloud architecture&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T11:17:20.936Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_uy2b>
+                <textonlycomponent_ot4a
+                    jcr:lastModified="{Date}2018-10-31T09:25:33.567Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Today, HPE is a leader in the fast-growing market for Intelligent Edge technology&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The need for Intelligent Edge capabilities is driving a very large, fast-growing market opportunity. With Aruba, a Hewlett Packard Enterprise company, HPE is already a leader in Intelligent Edge technology, including wireless LAN, campus switching, security, location-based services, edge computing, and analytics and assurance.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For example, Aruba and HPE Pointnext services are helping &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2018/05/gatwicks-digital-transformation-the-airport-of-the-future-today.html&quot; rel=&quot;noopener&quot;>Gatwick Airport achieve its goal&lt;/a> of becoming the most technologically advanced airport in the world. HPE's Edge systems are helping &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2017/06/creating-a-refinery-of-the-future-with-the-internet-of-things.html&quot; rel=&quot;noopener&quot;>Texmark&lt;/a> create the refinery of the future which will make the manufacturing of chemicals safer and more efficient, and helping &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2018/05/at-the-intelligent-edge-and-with-blockchain-data-glitters-like-gold.html&quot; rel=&quot;noopener&quot;>Streamr&lt;/a> grow their marketplace for data monetization by collecting and storing data from an individual car on a blockchain, ultimately giving control of the data to the driver.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Looking forward, HPE will extend its leadership, and expand into new markets&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Over the next four years, HPE will direct $4 billion to accelerate Intelligent Edge innovation.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Specifically, HPE will invest in research and development to advance and innovate new products, services and consumption models across a number of technology domains such as security, AI and machine learning, automation and edge computing.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;span style=&quot;font-size: inherit;&quot;>For example, given the increasing customer demand for consumption-based service models, HPE intends to build out its portfolio of transformational advisory and professional services for the edge. HPE will also continue to advance &lt;a href=&quot;https://news.hpe.com/content-hub/memory-driven-computing/&quot; rel=&quot;noopener&quot;>Memory-Driven Computing&lt;/a>, which will dramatically accelerate the speed, accuracy and efficiency of localized computing at the edge. HPE will also continue to invest in open standards and open source technologies, cultivate communities of software, AI, and network engineers, and further develop its ecosystem through new and expanded partnerships.&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward Looking Statements&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any financial projections; any statements of the plans, strategies and objectives of management for future operations; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events; and any statements or assumptions underlying any of the foregoing.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the impact of macroeconomic and geopolitical trends and events; and other risks that are described in Hewlett Packard Enterprise's Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref1&quot; name=&quot;_ftn1&quot;>1&lt;/a>&amp;nbsp;Gartner, Top 10 Strategic Technology Trends for 2018: Cloud to the Edge, Published: March 8, 2018&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_6q9r
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-accelerates-data-insight-and-action-across-the-enterprise-with-latest-edgeline-capabilities"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Accelerates Data Insight and Action Across the Enterprise with Latest Edgeline Capabilities"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Edgeline-Release.jpg"/>
+                        </contentblock_6q9r>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_buql
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/aruba-introduces-integrated-sd-wan-lan-and-security-solution-to-power-the-software-defined-branch"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Introduces Integrated SD-WAN, LAN and Security Solution to Power the Software-Defined Branch"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Introduces Integrated SD-WAN, LAN and Security Solution to Power the Software-Defined Branch"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Aruba-SD-Release.jpg"/>
+                        </contentblock_buql>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_810b
+                            jcr:created="{Date}2018-10-18T11:24:54.721Z"
+                            jcr:createdBy="camelia.manoiu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T11:27:55.500Z"
+                            jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://www.linkedin.com/pulse/next-big-thing-intelligent-edge-antonio-neri/"
+                            description="&lt;p>LinkedIn&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="The Next Big Thing is … The Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Next Big Thing is … The Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T11:27:55.500Z"
+                                jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/External-Antonio-at-WSJCIO.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T11:27:55.500Z"
+                                jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_810b>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

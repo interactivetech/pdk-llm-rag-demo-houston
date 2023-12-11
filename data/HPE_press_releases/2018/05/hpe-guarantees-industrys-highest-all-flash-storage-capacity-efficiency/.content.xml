@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:44:54.747Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-guarantees-industrys-highest-all-flash-storage-capacity-efficiency"
+        jcr:uuid="baa0efe5-f2ee-4bab-820c-a57b53964bc3"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-05-07T04:45:00.000-07:00"
+        metaDescription="HPE Guarantees Industrys Highest All-Flash Storage Capacity Efficiency"
+        navTitle="HPE Guarantees Industry's Highest All-Flash Storage Capacity Efficiency"
+        pageTitle="HPE Guarantees Industry's Highest All-Flash Storage Capacity Efficiency"
+        priority="(None)"
+        subtitle="Next generation HPE Nimble Storage platform triples all flash value and is NVMe/SCM ready"
+        theme="dark"
+        UAID="42332bc6-7026-479d-979b-686937c58afc"
+        UCID="6d10f68a-8a18-45cb-a314-c002bef2cb82"
+        webSectionId="R11989"
+        WPID="200493">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 07, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Nimble-All-Flash-Arrays-Man.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees Industrys Highest All-Flash Storage Capacity Efficiency"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:06:25.060Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Store More Guarantee assures that customers will store more data per raw terabyte of storage than any other vendors All-Flash array&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New platform architecture will allow customers to take advantage of storage class memory and NVMe to support their next wave of performance-intensive applications&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New HPE Nimble Storage All Flash Arrays also offer customers a financial advantage by delivering up to 3x improvement in price-performance&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Next generation HPE Nimble Storage platform triples all flash value and is NVMe/SCM ready&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_lal9
+                    jcr:lastModified="{Date}2018-10-31T10:06:23.964Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>PALO ALTO, California May 7, 2018&lt;/b>&amp;nbsp;- Hewlett Packard Enterprise (HPE) today announced the next generation of the HPE Nimble Storage platform. Backed by an HPE guarantee to deliver the best storage efficiency of any All-Flash array, the new storage platform is designed to take advantage of Storage Class Memory (SCM) and NVMe, protecting customer investments over the long term. The new HPE Nimble Storage All Flash Arrays also offer customers a financial advantage by delivering up to 3x improvement in price-performance&lt;sup>1&lt;/sup>.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;We know from our customers that storage capacity efficiency is important to them, so were proud to be the first vendor to offer a guarantee,&amp;quot; said Milan Shetti, HPE GM, Storage. &amp;quot;This guarantee further differentiates the HPE storage offering, which already includes HPE InfoSight, an industry-leading predictive analytics platform that prevents infrastructure problems before they happen, and is available for HPE Nimble and 3PAR storage customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Store More Guarantee&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>When customers consider all-flash storage, capacity efficiency is essential because it drives down total cost of ownership (TCO) and improves affordability. The HPE Store More Guarantee assures that customers will store more data per raw terabyte of storage than any other vendors All-Flash array. Customers can now have peace of mind knowing they will get the most &lt;a href=&quot;https://www.hpe.com/us/en/storage/nimble.html#techspecs&quot;>capacity-efficient all-flash array&lt;/a> on the market. If HPE is not able to meet the storage efficiency of an all-flash competitor, HPE will accommodate the incremental storage for free.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_xxfh
+                    jcr:lastModified="{Date}2018-10-15T16:46:33.470Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPEs Store More Guarantee lets customers store more data per raw TB than any other All-Flash array&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T16:46:33.470Z"
+                        jcr:lastModifiedBy="nagle@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_xxfh>
+                <textonlycomponent_pghd
+                    jcr:lastModified="{Date}2018-10-31T10:07:04.121Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The new HPE Store More Guarantee allows us to future-proof our investment and makes it timeless,&amp;quot; said John Quinn, Principal VCP, Merrimac Solutions. &amp;quot;We dont have to worry about data reduction ratios in an All Flash array evaluation. A variety of HPE offerings, including all-inclusive software, free controller upgrade option and guaranteed six-nines availability, make it an easy choice for us to standardize on HPE Nimble Storage.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>NVMe and Storage Class Memory (SCM) ready arrays&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As performance demands of real-time analytics applications continue to increase, so does the need for low-latency storage. The new &lt;a href=&quot;https://www.hpe.com/us/en/storage/nimble.html#Portfolio&quot;>HPE Nimble Storage arrays&lt;/a> are designed to support NVMe &amp;amp; SCM and address the needs of web analytics, business intelligence, real-time trading, and other applications that require instant results. The new HPE Nimble Storage arrays are future proofed as customers can seamlessly take advantage of these emerging technologies without forklift upgrades.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_qy7i
+                    jcr:lastModified="{Date}2018-10-15T16:48:26.483Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Real-time analytics demands increased performancethe new HPE Nimble Storage arrays have you covered&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T16:48:26.483Z"
+                        jcr:lastModifiedBy="nagle@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_qy7i>
+                <textonlycomponent_1sor
+                    jcr:lastModified="{Date}2018-10-31T10:19:57.965Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE recently previewed SCM on the &lt;a href=&quot;https://www.hpe.com/3par&quot;>HPE 3PAR StoreServ&lt;/a> architecture. With todays news, HPE storage customers across both the HPE 3PAR and HPE Nimble Storage portfolios now have access to architectures built for the future, providing timeless value and investment protection. SCM delivers up to 10x lower latency compared to NAND flash technology.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Next Generation HPE Nimble Storage Platform&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE Nimble Storage All Flash arrays deliver the same 99.9999% guaranteed availability as previous flash arrays along with InfoSight predictive analytics. The all-flash array delivers substantially greater value with up to 220%&lt;sup>1&lt;/sup> better price-performance.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE Nimble Storage Adaptive Flash arrays are truly adaptive - merging hybrid and secondary flash technology into a single array. The arrays now support inline variable deduplication, making them the most efficient hybrid arrays in the industry by a wide margin. The Adaptive Flash array is a Hybrid Flash array for mixed, primary workloads where cost-efficient flash performance is important. It works as a Secondary Flash array for backup and disaster recovery while also allowing customers to run meaningful workloads like quality assurance, test-dev and reporting. The arrays deliver all-flash like performance with up to 150%&lt;sup>1&lt;/sup> greater price-performance than previous arrays.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>&amp;nbsp;&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional product information:&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.hpe.com/us/en/storage/nimble.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>https://www.hpe.com/us/en/storage/nimble.html&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>&amp;nbsp;&lt;/u>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE Store More Guarantee is a pre-sales only guarantee available on all models of HPE Nimble Storage All Flash arrays. For more information, please see the HPE Store More Guarantee solution brief: &lt;a href=&quot;https://www.hpe.com/h20195/v2/Getdocument.aspx?docname=a00039975enw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>https://www.hpe.com/h20195/v2/Getdocument.aspx?docname=a00039975enw&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE Nimble Storage platform is available immediately.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Based on testing by HPE Nimble Storage Performance teams and US list price on May 7, 2018. Based on HPE comparisons with existing HPE Nimble Storage products&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_r3x5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/put-your-backup-data-to-work-a-qa-on-the-hpe-nimble-storage-adaptive-flash-array"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Put Your Backup Data to Work: A Q"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Put Your Backup Data to Work: A Q"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Put-Your-Backup-Data-to-Work-A-QA-on-the-HPE-Nimble-Storage-Adaptive-Flash-Array.jpg"/>
+                        </contentblock_r3x5>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_h7vg
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-brings-artificial-intelligence-to-the-data-center"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Brings Artificial Intelligence to the Data Center"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Brings Artificial Intelligence to the Data Center"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Brings-Artificial-Intelligence-to-the-Data-Center.jpg"/>
+                        </contentblock_h7vg>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_2tmn
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/together-hpe-and-nimble-storage-will-deliver-the-industrys-leading-flash-storage-and-predictive-analytics-portfolio"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Together, HPE and Nimble Storage Will Deliver the Industrys Leading Flash Storage and Predictive Analytics Portfolio"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NewsroomImage1.jpg"/>
+                        </contentblock_2tmn>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-15T16:44:19.614Z"
+            jcr:lastModifiedBy="nagle@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

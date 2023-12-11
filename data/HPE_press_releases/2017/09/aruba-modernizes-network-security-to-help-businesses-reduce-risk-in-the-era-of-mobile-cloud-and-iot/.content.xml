@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-09-08T20:10:39.630Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="aruba-modernizes-network-security-to-help-businesses-reduce-risk-in-the-era-of-mobile-cloud-and-iot"
+        jcr:uuid="8b685784-3b4b-42c9-a6d9-d92be84a5179"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-09-18T09:00:14.000-07:00"
+        mediaContactEmail="[emory.epperson@hpe.com,lori.hultin@hpe.com]"
+        mediaContactName="[Emory Epperson,Lori Hultin]"
+        metaDescription="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/09/aruba-modernizes-network-security-to-help-businesses-reduce-risk-in-the-era-of-mobile-cloud-and-iot/jcr:content/main-par/body-par/columncontainercompo/column_2/contentblock_de3d"
+        navTitle="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+        pageTitle="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+        priority="(None)"
+        subtitle="Aruba 360 Secure Fabric delivers new analytics-driven, advanced cyber protection to simplify enterprise security"
+        theme="dark"
+        UAID="609e8aef-24a5-4390-b0c2-ed586bb91196"
+        UCID="56d35fc7-c580-443b-8411-a518435428bb"
+        WPID="198919">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 18, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Aruba-Modernizes-Network-Security-to-Help-Businesses-Reduce-Risk-in-the-Era-of-Mobile-Cloud-and-IoT-1.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T13:39:33.190Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New HPE Aruba security framework provides 360 degrees of analytics-driven, attack detection and response to reduce organizations risk in todays fast-changing threat landscape&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Security and IT teams can now quickly detect and respond to advanced cyberattacks in minutes, rather than hours and days&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Active cyber protection and secure access from the edge, to the core, to the cloud for any network&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Integration with 100 leading third-party security and infrastructure solutions that customers and channel partners can leverage for simple, validated interoperability, enabling quick and trusted deployments&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Aruba 360 Secure Fabric delivers new analytics-driven, advanced cyber protection to simplify enterprise security&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_5nmv
+                    jcr:lastModified="{Date}2022-09-08T20:08:08.847Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SANTA CLARA, Calif., Sept. 18, 2017 &lt;/b>-&amp;nbsp;Aruba, a Hewlett Packard Enterprise company (NYSE:HPE), today announced the &lt;a href=&quot;http://www.arubanetworks.com/assets/eo/EB_Aruba360SecureFabric.pdf&quot; target=&quot;_self&quot;>Aruba 360 Secure Fabric&lt;/a>, a security framework that provides 360 degrees of analytics-driven attack detection and response to help organizations reduce risk in todays changing threat landscape. Aruba is also innovating in User and Entity Behavioral Analytics (UEBA) by expanding the Aruba IntroSpect product family, enabling businesses to easily and rapidly scale machine-learned behavior detection from small projects to full enterprise deployments.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Gartners research into insider threats indicates that organizations are not adequately considering the risk from their trusted users even though there are myriad examples where organizations have been impacted. On a positive note, Gartner fielded almost a 100% increase from clients looking to address the insider threat issue, of which UEBA is one of the primary technologies.&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>[1]&lt;/a>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help organizations address new and unknown threats, the Aruba 360 Secure Fabric offers security and IT teams an integrated way to quickly detect and respond to advanced cyberattacks from pre-authorization to post-authorization across multi-vendor infrastructures, supporting enterprises of all sizes.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_g7vc
+                    jcr:lastModified="{Date}2018-10-15T13:54:36.509Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>360 active cyber protection and secure access from the edge, to the core, to the cloud - for any network&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T13:54:36.509Z"
+                        jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_g7vc>
+                <textonlycomponent_lwj1
+                    jcr:lastModified="{Date}2022-09-08T20:08:28.719Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Components of the Aruba 360 Secure Fabric include the following:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.arubanetworks.com/products/security/ueba/&quot; target=&quot;_self&quot;>&lt;b>Aruba IntroSpect UEBA solution&lt;/b>&lt;/a>&lt;b>:&lt;/b> A new network-agnostic family of continuous monitoring and advanced attack detection software. Includes a new entry-level edition and uses machine learning to detect changes in user and device behavior that can indicate attacks that have evaded traditional security defenses. Machine-learning algorithms generate a Risk Score based on the severity of an attack to speed up incident investigations for security teams.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"/>
+                <pullquote_hvm1
+                    jcr:lastModified="{Date}2018-10-15T13:55:13.722Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>IntroSpect UEBA: New IntroSpect Standard edition expands UEBA (User and Entity Behavior Analytics) family for basic to advanced security requirements&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T13:55:13.722Z"
+                        jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_hvm1>
+                <textonlycomponent_ac6p
+                    jcr:lastModified="{Date}2022-09-08T20:08:43.264Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.arubanetworks.com/products/security/network-access-control/&quot; target=&quot;_self&quot;>&lt;b>Aruba ClearPass&lt;/b>&lt;/a>: A proven network access control (NAC) and policy management security solution that can profile BYOD and IoT users and devices, enabling automated attack response, is now integrated with Aruba IntroSpect. ClearPass can also be deployed on any vendors network.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"/>
+                <pullquote_bjf5
+                    jcr:lastModified="{Date}2018-10-15T13:56:19.537Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Adaptive Attack Response: ClearPass now integrated with IntroSpect to enable policy-based attack response&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T13:56:19.537Z"
+                        jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_bjf5>
+                <textonlycomponent_tmtz
+                    jcr:lastModified="{Date}2022-09-08T20:09:06.630Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.arubanetworks.com/assets/so/SO_SecureCore.pdf&quot; target=&quot;_self&quot;>&lt;b>Aruba Secure Core&lt;/b>&lt;/a>: Essential security capabilities embedded in the foundation across all of Arubas Wi-Fi access points, wireless controllers, and switches, including the recently introduced &lt;a href=&quot;https://www.globenewswire.com/news-release/2017/06/05/1008067/0/en/Aruba-Fundamentally-Redefines-Enterprise-Core-Switching-for-Mobile-Cloud-and-IoT-Demands.html&quot; target=&quot;_self&quot;>Aruba 8400 campus&lt;/a> core and aggregation switch.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"/>
+                <pullquote_xm21
+                    jcr:lastModified="{Date}2018-10-15T13:57:02.874Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Aruba network infrastructure with end-to-end embedded security and new analytics support&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T13:57:02.874Z"
+                        jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_xm21>
+                <textonlycomponent_lisx
+                    jcr:lastModified="{Date}2022-09-08T20:10:05.152Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New Edition for Aruba IntroSpect UEBA Family&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba IntroSpect Standard joins the IntroSpect UEBA family, along with new features added to the companys flagship offering, Aruba IntroSpect Advanced. The expansion of the IntroSpect UEBA family offers security teams more choice and a quick way to implement UEBA.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba IntroSpect Standard is an easy way for organizations to start employing UEBA machine learning security with as few as three data sources, accelerating an organizations time-to-protect corporate and customer data. It is designed for basic monitoring and detection of anomalous and often, subtle, behaviors on the network and across mobile, cloud, and IoT devices and applications, to identify early signs of attack expansion and beaconing, as well as data exfiltration.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>It ingests common data sources including Microsoft Active Directory or other LDAP authentication records and identity information, and firewall logs from sources such as Checkpoint, Palo Alto Networks, or Aruba monitoring (AMON) logs from Aruba infrastructure. Action can be taken quickly using ClearPass to quarantine, restrict, or remove identified threats.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Security teams deploying IntroSpect Standard can easily upgrade to IntroSpect Advanced as their requirements expand.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Raising the Bar on Early Detection with Aruba IntroSpect Advanced Edition&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Aruba IntroSpect Advanced delivers a wider set of security capabilities than IntroSpect Standard to provide attack detection by correlating across a broader array of data sources, aiding in faster incident investigation and improved threat-hunting, search, and deep forensics. Included are more than 100 supervised and unsupervised machine learning models that provide unmatched analytics and forensics from data such as packets, flows, logs, alerts, and endpoints, as well as mobile, cloud, and IoT traffic, increasing an organizations effectiveness at identifying risk.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; New features for Aruba IntroSpect Advanced include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Smarter Security with Dynamic Machine Learning&lt;/b>, which allows security teams to easily customize IntroSpects analytical models based on the current threat environment and protection priorities. Included is chaining, in which the 100+ out-of-the box machine learning models can be linked together to construct new detection scenarios and associated risk scores.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Classifying Mobile, Cloud, and IoT with Device Peer Grouping&lt;/b>, which utilizes the ClearPass profiling functionality to group like devices even when known only by their IP address. For example, ClearPass will classify a surveillance camera or a factory sensor, and IntroSpect will benchmark its behavior amongst its peer group. Introspect will flag unusual device behavior based on peer group comparisons, which is important in extending UEBA functionality to the growing classes of IoT devices.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Faster Remediation with Integrated Attack Response&lt;/b>, enabling security analysts to respond to an attack by triggering an action for ClearPass directly from the IntroSpect console.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Trusted and Secure Network Foundation with Aruba Secure Core&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Embedded into Arubas networking infrastructure is the Aruba Secure Core, which provides the necessary protection required for any network including secure boot, embedded firewalls, centralized encryption, deep packet inspection, and intrusion prevention. Arubas unique infrastructure design helps eliminate the danger of physical tampering while securing and monitoring network traffic.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Integrating Aruba IntroSpect UEBA and Aruba ClearPass into the Aruba Secure Core provides a seamless path of protection from device discovery and access to attack detection and response. This gives Aruba customers the unique ability to detect an attack and then take automated or analyst-initiated action to protect organizations valuable assets, ranging from network reauthentication to quarantining to denying users and devices.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.arubanetworks.com/partners/programs/security-exchange/&quot; target=&quot;_self&quot;>&lt;b>Aruba 360 Security Exchange Program&lt;/b>&lt;/a>&lt;b>: Multi-vendor Closed Loop Protection&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Aruba 360 Security Exchange Program combines the partners and technical resources from the IntroSpect Technology Program and the Aruba ClearPass Exchange Program. The result is more than 100 leading security and infrastructure solutions that customers and channel partners can leverage for simple, validated interoperability, enabling quick and trusted deployments. Aruba customers can leverage their existing security investments by seamlessly integrating them with Aruba solutions, providing the benefits of a unified solution with the flexibility of an open architecture.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Aruba IntroSpect Standard and Advanced editions are generally available now in North America, with limited availability in select countries. Global general availability is planned for 2018.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Customer Quote&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>A leading provider of software, hardware, and semiconductor IP, Cadence Design Systems, Inc. is using Arubas security software and network management solutions to protect its network, data, and other digital assets from increasingly sophisticated cyberattacks.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;In addition to providing visibility to every device on our network, Aruba ClearPass gives us the power to authenticate devices and enforce policies across our wired and wireless infrastructure,&amp;quot; said Faramarz Mahdavi, Senior Group Director of IT Operations, &lt;b>Cadence Design Systems&lt;/b>. &amp;quot;By adding Aruba IntroSpect UEBA analytics and threat detection capabilities, we will be able to better protect our source code by automating anomaly detection and prioritizing security incidents for faster resolution. The combination of ClearPass and IntroSpect gives us a powerful, congruent solution to proactively manage and defend our organization from cyberattacks.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Channel Partner Quotes&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Security and IT teams need an easier and faster way to detect and respond to cyberattacks across multi-vendor infrastructures,&amp;quot; said Bill Buckalew, Vice President of Partner Development, &lt;b>Optiv&lt;/b>. &amp;quot;We are pleased to see key Optiv partners like Aruba enhance integration of their products to make them more efficient and effective so that organizations can achieve better outcomes from their security programs. We look forward to leveraging these integrated technologies as part of our comprehensive set of cyber security solutions and services that address the evolving threat landscape.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Red Sky Technologies architects, builds, and deploys solutions that help customers achieve their desired IT goals. &amp;quot;Integration between products is a major component of our strategy as customers (and the industry alike) recognize a single vendor will not solve all problems,&amp;quot; said Justin Tibbs, CSO, &lt;b>Red Sky Technologies&lt;/b>. &amp;quot;For example, the ability to integrate Palo Alto Networks into the Aruba 360 Secure Fabric for increased visibility and detection capabilities alongside Arubas integrated security solution, not only helps improve the overall security posture of our customers, it also alleviates a multitude of point products refusing to integrate or work together.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Aruba 360 Secure Exchange Partner Quotes&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Carbon Black is excited to be an Aruba 360 Secure Exchange Partner one of the few partners to feature integration with both ClearPass and IntroSpect UEBA,&amp;quot; said Tom Barsi, Corporate and Business Development, &lt;b>Carbon Black&lt;/b>. &amp;quot;Our integration improves overall security for enterprises by combining event data and network data to provide a more detailed view on user and device behavior a long-term, machine-learning view leading to quicker, better decisions. Further, integration with ClearPass ensures corrupted assets are quarantined or booted in an automated fashion improving security and limiting risk.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;As traditional security perimeters dissolve rapidly with the adoption of Mobile, Cloud, and IoT, delivering secure endpoint protection regardless of a users location and device is paramount in the fight against cybercrime,&amp;quot; said D.J. Long, head of the &lt;b>McAfee Security Innovation Alliance&lt;/b>. &amp;quot;We are very happy to see the integrated platform of Aruba 360 Secure Fabric working jointly with the McAfee portfolio of security products, sharing threat intelligence and workflow policies, increasing the efficiency and efficacy of security protection for mutual customers.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Palo Alto Networks Aruba have joined forces to prevent cyberattacks by expanding on our existing integration with ClearPass and Cloud Services Controller to deliver closed-loop detection and remediation of advanced threats and insider attacks via the Aruba 360 Secure Fabric,&amp;quot; said Chad Kinzelberg, senior vice president of business and corporate development, &lt;b>Palo Alto Networks&lt;/b>. &amp;quot;With the forthcoming Palo Alto Networks Application Framework, which will revolutionize how organizations consume security technologies, joint customers will be able to evaluate and adopt solutions like Aruba IntroSpect without deploying on-premises infrastructure.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;SecureLink is proud to be a pan-EMEA integration partner of Aruba, especially with regards to the 360 Secure Fabric solution,&amp;quot; said Marco Barkmeijer, CEO, &lt;b>SecureLink Group&lt;/b>. &amp;quot;Ten years ago we chose Aruba as our mobility partner because security was a priority on their hardware and software requirements. Ten years later we have deployed secure, integrated, mobility solutions at more than 350 unique SecureLink customers. As a Cyber Security Integrator, security is in our DNA and Arubas 360 Secure Fabric solution enables us to build even better end-to-end secure mobile infrastructures with third-party integration. Customers need integrated visibility, detection, analytics, and response from access to the core. With the 360 Secure Fabric, Aruba enables us to serve even more customers and develop more services.&amp;quot;&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>About Aruba, a Hewlett Packard Enterprise company&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>Aruba, a Hewlett Packard Enterprise company, is a leading provider of next-generation networking solutions for enterprises of all sizes worldwide. The company delivers IT solutions that empower organizations to serve the latest generation of mobile-savvy users who rely on cloud-based business apps for every aspect of their work and personal lives.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To learn more, visit Aruba at &lt;a href=&quot;http://www.arubanetworks.com&quot; target=&quot;_self&quot;>http://www.arubanetworks.com&lt;/a>. For real-time news updates follow Aruba on Twitter and Facebook, and for the latest technical discussions on mobility and Aruba products visit Airheads Social at &lt;a href=&quot;http://community.arubanetworks.com&quot; target=&quot;_self&quot;>http://community.arubanetworks.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;#_ftnref1&quot; name=&quot;_ftn1&quot;>[1]&lt;/a> Gartner, Market Guide for User and Entity Behavior Analytics, Toby Bussa, Avivah Litan, Trisha Philips, Dec. 8, 2016, Pg. 9&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_qekf
+                            jcr:lastModified="{Date}2022-09-08T20:10:20.265Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-acquires-niara-to-enhance-security-at-the-intelligent-edge"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Acquires Niara to Enhance Security at the Intelligent Edge"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T20:10:20.265Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Acquires-Niara.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T20:10:20.265Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_qekf>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hnsq
+                            jcr:lastModified="{Date}2022-09-08T20:10:29.670Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/hpes-vision-for-iot-and-the-intelligent-edge"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPEs vision for IoT and the Intelligent Edge"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPEs vision for IoT and the Intelligent Edge"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T20:10:29.670Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Newsroom_InnovationDay.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T20:10:29.670Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_hnsq>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_de3d
+                            jcr:created="{Date}2018-10-15T14:08:08.350Z"
+                            jcr:createdBy="razvan.floristeanu@hpe.com"
+                            jcr:lastModified="{Date}2022-09-08T20:10:39.613Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="https://news.hpe.com/after-all-the-hard-work-why-do-security-gaps-still-exist/"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="After all the hard work, why do security gaps still exist?"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="After all the hard work, why do security gaps still exist?"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-08T20:10:39.613Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/09/image-norend/after-all-the-hard-work-why-do-security-gaps-still-exist.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-08T20:10:39.613Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_de3d>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

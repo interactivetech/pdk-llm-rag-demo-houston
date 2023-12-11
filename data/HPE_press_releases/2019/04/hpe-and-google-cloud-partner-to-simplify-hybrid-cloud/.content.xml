@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:48:33.996Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE and Google Cloud partner to simplify hybrid cloud"
+        jcr:uuid="f0dfec1a-43d5-4e2c-ae4d-7f9eaae523a5"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE and Google Cloud partner to simplify hybrid cloud"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-04-09T09:30:00.000-07:00"
+        featured="true"
+        metaDescription="Partnership will enable customers to seamlessly build, run and manage services on-premises and in the cloud with Anthos"
+        metaKeywords="hpe, hpe news, hpe newsroom, google cloud, partnerships, hybrid IT, HPE GreenLake, HPE SimpliVity, HPE Composable Cloud, hybrid cloud, cloud, Kubernetes, DevOps, containerized applications"
+        metaOgImage="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-google-cloud-partner-to-simplify-hybrid-cloud.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE and Google Cloud partner to simplify hybrid cloud"
+        pageTitle="HPE and Google Cloud partner to simplify hybrid cloud"
+        priority="(None)"
+        socialDescription="Partnership will enable customers to seamlessly build, run and manage services on-premises and in the cloud with Anthos"
+        subtitle="Partnership will enable customers to seamlessly build, run and manage services on-premises and in the cloud with Anthos"
+        theme="dark"
+        UAID="865c307e-aea2-44f9-9d32-c5e52ecdbe9f"
+        UCID="e27f91ca-a1bf-43cc-b313-3d077089120f">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-04-09T02:50:05.750Z"
+                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="APRIL 9, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-08T20:20:15.019Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-google-cloud-partner-to-simplify-hybrid-cloud.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T11:11:13.551Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and Google Cloud’s global partnership to deliver hybrid cloud solutions that accelerate innovation and expand choice and agility for customers&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The new solutions from HPE and Google Cloud will make it easier for customers to leverage containers and drive a consistent cloud experience&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE will offer validated on-premises infrastructure-as-a-service through HPE GreenLake, HPE’s fully managed pay-per-use consumption offering&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Ongoing collaboration between HPE and Google Cloud to provide customers with a consistent experience across public cloud and on-premises environments&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T02:50:30.077Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h3>Partnership will enable customers to seamlessly build, run and manage services on-premises and in the cloud with Anthos&lt;/h3>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_72
+                    jcr:created="{Date}2019-04-09T11:14:17.511Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T11:14:59.517Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Google Cloud Next, San Francisco, Calif., – April 9, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) and Google Cloud today announced a global partnership to deliver hybrid cloud solutions that accelerate innovation and expand choice and agility for customers. Today’s announcement is part of an ongoing collaboration between HPE and Google Cloud to provide customers with a consistent experience across public cloud and on-premises environments.&lt;br>&#xa; &lt;br>&#xa; As part of the initial strategic agreement, HPE will offer two HPE Validated Designs for Google Cloud’s Anthos based on HPE SimpliVity hyperconverged infrastructure and HPE Nimble Storage and HPE ProLiant servers. HPE’s validation of Anthos on its solutions provides HPE’s and Google Cloud’s mutual customers the flexibility to choose the right mix of on-premises infrastructure and public cloud to best meet their needs.&lt;br>&#xa; &lt;br>&#xa; Additionally, HPE will offer validated on-premises infrastructure-as-a-service through HPE GreenLake, HPE’s fully managed pay-per-use consumption offering. Customers who choose this offering can run applications as a service in a Google Kubernetes Engine (GKE) environment on-premises and benefit from the same container-based design across their hybrid infrastructure.&lt;br>&#xa; &lt;br>&#xa; Customers can leverage Anthos to manage their public cloud as well as on-premises resources. With HPE GreenLake, they will benefit from a consistent consumption model for their on-premises environment.&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_45bc
+                    jcr:created="{Date}2019-04-09T11:17:32.489Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T11:17:32.489Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Customers value choice, simplicity, and consistency in building their hybrid cloud strategy&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-04-09T11:17:19.220Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_45bc>
+                <textonlycomponent_6d
+                    jcr:created="{Date}2019-04-09T11:14:05.113Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T11:15:49.905Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“Customers tell us they value choice, simplicity, and consistency in building their hybrid cloud strategy,” said Phil Davis, President of Hybrid IT and Chief Sales Officer, HPE. “By partnering with Google Cloud and leveraging a container-based approach, HPE can offer a seamless hybrid cloud experience with the unique option to do it all as-a-service. This approach, powered by Anthos and HPE GreenLake, gives our customers the freedom to modernize at their own pace with the HPE infrastructure of their choice.”&lt;br>&#xa; &lt;br>&#xa; “We’re working closely with HPE to make it easy for customers to incorporate Anthos into their cloud strategies,” said Kevin Ichhpurani, Corporate Vice President, Global Ecosystem and Business Development at Google Cloud. “We’re delighted that HPE shares our ‘build once, run anywhere’ approach and look forward to expanding our partnership for hybrid cloud solutions on behalf of customers.”&lt;br>&#xa; &lt;b>&lt;br>&#xa;Accelerate Container Deployment with HPE and Google Cloud&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Today, organizations are using container-based architectures to modernize applications and make developers more agile, applications more portable, and deployments more streamlined. Gartner estimates that by 2022, more than 75% of global organizations will be running containerized applications in production.&lt;sup>[1]&lt;/sup>&lt;br>&#xa;&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T11:17:54.170Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Organizations are using container-based architectures to modernize applications&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-04-09T11:17:54.170Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T16:58:30.827Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Anthos’ use of virtual machines to run containers on-premises allows customers to securely and efficiently run production applications on software-defined infrastructure that is easily managed, monitored, scaled, and optimized. The new solutions from HPE and Google Cloud will make it easier for customers to leverage containers and drive a consistent cloud experience, so applications are built once to run anywhere, across clouds and on-premises.&lt;br>&#xa; &lt;br>&#xa; Together, these solutions are ideal for a range of use cases, including implementing DevOps through a CI/CD pipeline, developing applications in Google Cloud and running them in production on-premises, and deploying low-cost distributed edge containerized applications.&lt;br>&#xa; &lt;b>&lt;br>&#xa;How it Works&lt;br>&#xa; &lt;br>&#xa; &lt;/b>Today’s partnership announcement consists of the following components:&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Validated Design for Anthos on HPE SimpliVity &lt;/b>brings the simplicity of a hyperconverged solution to GKE. This solution simplifies test/dev and hybrid cloud management for containerized applications hosted at the enterprise edge. HPE SimpliVity’s strong remote management capabilities and bandwidth-efficient replication between sites make for easy installation and central administration. The combination of infrastructure and advanced data services for VMware and Hyper-V virtualized workloads, as well as containers in VMs, enables an easy transition to a container environment by allowing containers and VMs to share the same hardware and storage.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Validated Design for Anthos on HPE Nimble Storage and HPE ProLiant&lt;/b> provides a flexible architecture for storage-centric workloads that require independent scaling of compute and storage. This solution brings mission-critical reliability and the speed of flash to container environments along with uniform management across on-premises and public cloud. Applications can be modernized in place and hybrid cloud can be implemented to accelerate time-to-market, lower administrative overhead, and drive innovation.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake&lt;/b> allows customers to experience a flexible consumption model for the validated HPE on-premises infrastructure that is integrated with Anthos to provide a fully managed container orchestration service. Organizations can deploy containers on demand without having to manage the underlying on-premises infrastructure, introducing time and cost savings. HPE GreenLake customers benefit from:&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;ul>&#xa;&lt;li>&lt;a href=&quot;http://www.hpezone.com/assets/pdf/Forrester-TEI-Study-HPE-GreenLake-Flex-Capacity.pdf&quot; target=&quot;_blank&quot;>&lt;span class=&quot;body-copy-large&quot;>Reducing deployment time by 65%&lt;sup>[2]&lt;br>&#xa; &lt;br>&#xa; &lt;/sup>&lt;/span>&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;http://www.hpezone.com/assets/pdf/Forrester-TEI-Study-HPE-GreenLake-Flex-Capacity.pdf&quot; target=&quot;_blank&quot;>&lt;span class=&quot;body-copy-large&quot;>Improving productivity by 40%&lt;sup>&lt;br>&#xa; &lt;br>&#xa; &lt;/sup>&lt;/span>&lt;/a>&lt;/li>&#xa;&lt;li>&lt;a href=&quot;http://www.hpezone.com/assets/pdf/Forrester-TEI-Study-HPE-GreenLake-Flex-Capacity.pdf&quot; target=&quot;_blank&quot;>&lt;span class=&quot;body-copy-large&quot;>Lowering overprovisioning by 30%&lt;/span>&lt;/a>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Please read more about this partnership on the &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/blog-post/2019/04/hpe-and-google-cloud-join-forces-to-accelerate-innovation-with-hybrid-cloud-solutions-optimized-for-containerized-applications.html&quot; target=&quot;_blank&quot;>HPE blog&lt;/a> and&amp;nbsp;&lt;a href=&quot;https://cloud.google.com/blog/topics/partners/google-cloud-partners-with-hpe-on-hybrid-cloud-next19&quot; target=&quot;_blank&quot;>Google blog&lt;/a>.&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>[1]&lt;/sup> Gartner,&amp;nbsp;&lt;i>Best Practices for Running Containers and Kubernetes in Production,&lt;/i>&amp;nbsp;February 2019.&lt;br>&#xa; &lt;br>&#xa; &lt;sup>[2]&amp;nbsp;&lt;/sup>Forrester Consulting, The Total Economic Impact of HPE GreenLake Flex Capacity, May 2018.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-04-09T02:57:59.741Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;br>&#xa; &lt;/b>&lt;span class=&quot;body-copy-large&quot;>HPE is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. Hartford enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;b>About Google Cloud&lt;br>&#xa; &lt;/b>&lt;/span>&lt;b>&lt;br>&#xa; &lt;/b>&lt;span class=&quot;body-copy-large&quot;>Google Cloud is widely recognized as a global leader in delivering a secure, open and intelligent enterprise cloud platform. Our technology is built on Google’s private network and is the product of nearly 20 years of innovation in security, network architecture, collaboration, artificial intelligence and open source software. We offer a simply engineered set of tools and unparalleled technology across Google Cloud Platform and G Suite that help bring people, insights and ideas together. Customers across more than 150 countries trust Google Cloud to modernize their computing environment for today’s digital world.&lt;br>&#xa; &lt;br>&#xa; &lt;b>Editorial Contacts&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;br>&#xa;&lt;span class=&quot;body-copy-large&quot;>Randy Cairns, HPE&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:Cairns@hpe.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;br>&#xa; &lt;br>&#xa;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Daniel Gabis, Google Cloud&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:danielgabis@google.com&quot; target=&quot;_blank&quot;>Email&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-04-08T17:44:22.319Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/04/two-groundbreaking-partnerships-help-simplify-the-pathway-to-hybrid-cloud"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Two groundbreaking partnerships help simplify the pathway to hybrid cloud"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Two groundbreaking partnerships help simplify the pathway to hybrid cloud"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-08T17:44:22.319Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/two-groundbreaking-partnerships-help-simplify-the-pathway-to-hybrid-cloud.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-08T17:44:22.319Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_d63
+                            jcr:created="{Date}2019-04-08T21:51:10.820Z"
+                            jcr:createdBy="tanya.dainoski@hpe.com"
+                            jcr:lastModified="{Date}2019-04-08T21:52:18.931Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/04/hpe-and-google-cloud-join-forces-to-accelerate-innovation-with-hybrid-cloud-solutions-optimized-for-containerized-applications"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE and Google Cloud join forces to accelerate innovation with hybrid cloud solutions optimized for containerized applications"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Google Cloud join forces to accelerate innovation with hybrid cloud solutions optimized for containerized applications"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-08T21:52:18.931Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-google-cloud-join-forces-to-accelerate-innovation-with-hybrid-cloud-solutions-optimized-for-containerized-applications.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-08T21:52:18.931Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_d63>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5420
+                            jcr:created="{Date}2019-04-08T21:51:19.402Z"
+                            jcr:createdBy="tanya.dainoski@hpe.com"
+                            jcr:lastModified="{Date}2019-04-08T21:53:11.009Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/04/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-08T21:53:11.009Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-08T21:53:11.009Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_5420>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-04-09T11:26:22.633Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

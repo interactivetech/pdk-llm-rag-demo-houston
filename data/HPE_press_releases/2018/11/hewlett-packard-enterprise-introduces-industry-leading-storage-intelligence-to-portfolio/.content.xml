@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:15:38.074Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-introduces-industry-leading-storage-intelligence-to-portfolio"
+        jcr:uuid="47175c03-84e7-4186-aea6-605b8fb45a11"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-11-26T23:00:19.000-08:00"
+        metaDescription="Hewlett Packard Enterprise introduces industry-leading storage intelligence to portfolio"
+        navTitle="Hewlett Packard Enterprise introduces industry-leading storage intelligence to portfolio"
+        pageTitle="Hewlett Packard Enterprise introduces industry-leading storage intelligence to portfolio"
+        priority="(None)"
+        subtitle="New advancements in AI, cloud data mobility, and storage platform performance enable deeper and 2X faster data insights"
+        theme="dark"
+        UAID="58a8b92c-0033-4141-9558-89c4b0aa898d"
+        UCID="c66b81dc-ff0c-435f-92da-07bdac5bafd2"
+        WPID="202148">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-22T19:10:20.610Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 27, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Hewlett-Packard-Enterprise-Introduces-Industry-Leading-Storage-Intellige....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise introduces industry-leading storage intelligence to portfolio"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-21T13:26:29.863Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE unveils advancements in its Artificial Intelligence for Operations (AIOps) platform, HPE InfoSight&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Expansion of HPE Cloud Volumes, a multicloud storage service, to the United Kingdom and Ireland&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Memory-Driven Flash, a new class of enterprise storage built with storage class memory (SCM) and non-volatile memory express (NVMe)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An enhanced partnership for secondary workloads with Cohesity to help customers accelerate their journey to hybrid cloud&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New advancements in AI, cloud data mobility, and storage platform performance enable deeper and 2X faster data insights&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_o4fo
+                    jcr:lastModified="{Date}2019-01-21T13:27:56.804Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>MADRID, Spain - Nov. 27, 2018&lt;/b>&amp;nbsp;- Hewlett Packard Enterprise (HPE) today announced new innovations across its intelligent storage solutions to help customers unlock their data's potential, drive actionable insights into new revenue streams, and deliver impact to their businesses. HPE introduced:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Advancements in its Artificial Intelligence for Operations (AIOps) platform, HPE InfoSight;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Expansion of HPE Cloud Volumes, a multicloud storage service, to the United Kingdom and Ireland;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Memory-Driven Flash, a new class of enterprise storage built with storage class memory (SCM) and non-volatile memory express (NVMe); and&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An enhanced partnership for secondary workloads with Cohesity to help customers accelerate their journey to hybrid cloud.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To improve business impact, enterprises need infrastructure that is effortless to manage so they can focus on getting the most out of their data. Customers require seamless data mobility between on-premises and cloud to speed development cycles and protect their data. And they need a storage experience that aligns to their economic needs, with consumption-based models and financial flexibility. HPE enables customers to harness their data and transform their businesses with intelligent storage solutions that adapt and self-adjust in real time, move data seamlessly where it needs to be, and optimize data to the right economic model.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_cyjn
+                    jcr:lastModified="{Date}2019-01-21T13:28:19.246Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Customers using intelligent storage can reap benefits of AI and stop worrying about infrastructure&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T13:28:19.246Z"
+                        jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_cyjn>
+                <textonlycomponent_bf99
+                    jcr:lastModified="{Date}2020-07-02T19:20:41.869Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Intelligence changes everything,&amp;quot;&amp;nbsp;said Milan Shetti, GM, HPE Storage. &amp;quot;Customers using intelligent storage can reap the benefits of AI and stop worrying about their infrastructure. Instead, they can focus on getting more out of their data, whether it be uncovering new revenue opportunities by moving and monetizing data in the cloud and edge, or by extracting the right data insights to improve their products and business models.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>AI-driven storage enables self-optimizing IT and unlocks data&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE InfoSight uses artificial intelligence to remove the burden of managing infrastructure by predicting and preventing problems, as well as providing a foundation for context-aware data management. HPE InfoSight can reduce operating costs by up to 79% by enabling self-managing infrastructure and self-optimizing IT.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, HPE InfoSight is expanding into workload management by adding the following machine-learning intelligence capabilities that reduce risk and manual work when planning for new workloads:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Cross-stack recommendations for HPE Nimble Storage extend the HPE InfoSight recommendation engine to the virtualization layer. HPE InfoSight now moves beyond the basic predictive analytics tools other vendors offer to provide AI-driven guidance across the infrastructure stack regarding how best to optimize customers' environments and where to place their data.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An AI-driven resource planner helps optimize workload placement based on available resources - and eliminates guesswork and the risk of disruption when deploying new workloads.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Performance insights for HPE 3PAR reduces time spent troubleshooting by using machine-learning to self-diagnose performance bottlenecks. Uniquely delivered on-premises, this capability extends HPE InfoSight to sites that have restricted access to the cloud.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The experience we've had with HPE InfoSight has greatly simplified our operations and has relieved our staff from constantly dealing with infrastructure issues,&amp;quot; said Stefan Floyhar, Senior IT Director, Ferrara Candy Company. &amp;quot;We have been thrilled with the proactive support we've received, and HPE InfoSight has been directly responsible for preventing critical outages that we never would have found on our own. The addition of cross-stack recommendations enhances InfoSights ability to watch over our virtualized environments so we dont have to.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Storage built for cloud delivers data mobility for any workload to run anywhere&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With more applications being developed for the cloud, enterprises need to optimally move data across their hybrid cloud environments. HPE Cloud Volumes, currently available for HPE Nimble Storage, delivers an enterprise-grade storage service with hybrid and multi-cloud mobility. Today, HPE Cloud Volumes is expanding service capabilities and global reach with:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Expansion into UK and Ireland in 2019 to service UK and European customers requiring local cloud data access.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Support for leading container platforms including Docker and Kubernetes to speed DevOps as well as testing and development of cloud-native apps and hybrid cloud workloads. Customers can register for a technical preview at &lt;a href=&quot;https://cloudvolumes.hpe.com&quot; target=&quot;_blank&quot;>https://cloudvolumes.hpe.com&lt;/a>.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Completed SoC 2 Type 1 certification for customers with stringent compliance controls and HIPAA compliance for healthcare customers.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Advancing beyond all-flash by delivering data at the speed of memory&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Memory-Driven Flash is a new class of storage built with SCM and NVMe that accelerates application performance for HPE 3PAR and HPE Nimble Storage. HPE Memory-Driven Flash lowers latency up to 2X and is up to 50% faster than all-flash arrays with NVMe &lt;a href=&quot;https://www.hpe.com/us/en/servers/server-storage.html&quot; target=&quot;_blank&quot;>solid state drives&lt;/a>. Intelligence built into HPE 3PAR and HPE Nimble Storage optimizes SCM to enable real-time processing for latency-sensitive applications and mixed workloads - like AI and machine learning or high-speed transactions - at scale. HPE 3PAR is the first enterprise storage platform available with SCM and NVMe. HPE Memory-Driven Flash marks an architectural shift to memory-driven architectures that will drive the next generation of innovation.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_ukxe
+                    jcr:lastModified="{Date}2019-01-21T13:34:02.351Z"
+                    jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE 3PAR is the first enterprise storage platform available with SCM and NVMe&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-01-21T13:34:02.351Z"
+                        jcr:lastModifiedBy="ioana.stoichici@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_ukxe>
+                <textonlycomponent_sexf
+                    jcr:lastModified="{Date}2020-04-13T19:16:23.196Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Memory-Driven Flash will be available December 2018 for HPE 3PAR as a simple, non-disruptive upgrade, and is expected in 2019 for HPE Nimble Storage.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enhancements to the HPE storage portfolio offer the right destination for data&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The world's most intelligent storage is built from a portfolio of workload-optimized storage products that serve as the ultimate destination for all types of data. New products and features include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Peer Persistence for HPE Nimble Storage, which provides simple, always-on availability for enterprises through multi-site synchronous replication with automatic failover. It is available at no cost on HPE Nimble Storage.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An enhanced partnership with Cohesity combines the web-scale simplicity and efficiency of Cohesity software with HPE's industry-leading big data and storage infrastructure and services. The expanded resell agreement, which has now qualified HPE Apollo and HPE DL 380 servers, enables customers to consolidate backup and secondary data over hybrid cloud.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The availability of the HPE Apollo 4200 Gen10 platform, ideally suited for big data analytics, scale-out software-defined storage, and other data storage centric workloads.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Intelligent storage delivered as a service aligns to consumption and investment needs&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, HPE manages 500 PB of customer data delivered as a service with HPE GreenLake Flex Capacity, providing customers scalability and simplified IT operations, all in a pay-per-use model on premises. HPE is now expanding HPE GreenLake for backup to include Veeam Software as part of the consumption-based model, further simplifying the economics of data protection.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_1f29
+                            jcr:created="{Date}2019-01-21T13:39:43.614Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2019-01-22T19:12:01.833Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/07/hpe-advances-intelligent-storage-capabilities-with-ai-and-cloud-automation-for-hpe-3par"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances intelligent storage capabilities with AI and cloud automation for HPE 3PAR"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T19:12:01.833Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/Press-release_1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T19:12:01.833Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_1f29>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_f86b
+                            jcr:created="{Date}2019-01-21T13:38:09.552Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2019-01-22T19:12:23.601Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/05/hpe-guarantees-industrys-highest-all-flash-storage-capacity-efficiency"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE Guarantees Industry’s Highest All-Flash Storage Capacity Efficiency"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Guarantees Industry’s Highest All-Flash Storage Capacity Efficiency"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T19:12:23.601Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Nimble-All-Flash-Arrays-Man.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T19:12:23.601Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_f86b>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_dd98
+                            jcr:created="{Date}2019-01-21T13:38:42.305Z"
+                            jcr:createdBy="ioana.stoichici@hpe.com"
+                            jcr:lastModified="{Date}2020-07-02T19:21:04.461Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/12/hpe-introduces-next-generation-storage-class-memory-technology-across-its-storage-systems-portfolio"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Introduces Next Generation Storage Class Memory Technology Across Its Storage Systems Portfolio"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Next Generation Storage Class Memory Technology Across Its Storage Systems Portfolio"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-07-02T19:21:04.461Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/12/image-norend/1-10.01.12-AM.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-07-02T19:21:04.461Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_dd98>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

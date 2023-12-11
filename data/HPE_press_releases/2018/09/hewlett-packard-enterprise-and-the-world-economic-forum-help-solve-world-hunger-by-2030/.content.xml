@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:23:48.323Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---esg]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-and-the-world-economic-forum-help-solve-world-hunger-by-2030"
+        jcr:uuid="ba895897-0839-45be-8716-b1e70de11c13"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-09-24T12:30:38.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Lindsey Berryhill"
+        metaDescription="Hewlett Packard Enterprise and the World Economic Forum help solve world hunger by 2030"
+        navTitle="Hewlett Packard Enterprise and the World Economic Forum help solve world hunger by 2030"
+        pageTitle="Hewlett Packard Enterprise and the World Economic Forum help solve world hunger by 2030"
+        priority="(None)"
+        subtitle="Jointly launch Tech Impact 2030 to put technology to work, tackle global challenges and achieve real change for society"
+        theme="dark"
+        UAID="6362bb9f-bb21-43ec-9f4c-4bbc03ebd233"
+        UCID="7b857216-c76f-4018-9cd7-01bb529fa142"
+        webSectionId="R11989"
+        WPID="201660">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-04-02T12:51:17.440Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="SEPTEMBER 24, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/09/image-norend/HPE-The-World-Economic-Forum-Launch-Tech-Impact-2030.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise and the World Economic Forum help solve world hunger by 2030"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-29T22:12:09.698Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and the World Economic Forum announce Tech Impact 2030, an initiative focused on bringing together technology, industry and government to power meaningful change by the year 2030&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Through Tech Impact 2030, HPE and the Forum will join with a host of other participants around the world to set clear goals, progress ideas and align resources, accelerating our ability to solve key societal problems and create real benefits for people&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>In collaboration with Purdue University, HPE is blending research, innovations and disruptive technologies to produce food, fuel and fiber more effectively than ever before&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Jointly launch Tech Impact 2030 to put technology to work, tackle global challenges and achieve real change for society&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_x530
+                    jcr:lastModified="{Date}2019-04-02T12:52:24.254Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>NEW YORK – September 24, 2018&lt;/b>&amp;nbsp;– Today at the World Economic Forum (the Forum) Sustainable Development Impact Summit, Hewlett Packard Enterprise (NYSE: HPE) and the Forum committed to help solve for world hunger by 2030 through the innovative application of technology. HPE and the Forum are calling on public and private organizations to join them in an open collaboration to find solutions that will eliminate food insecurity and sustainably, nutritiously and inclusively feed a growing population.&lt;br>&#xa;&lt;br>&#xa;The mission to solve world hunger by 2030 is the first of several global challenges HPE and the Forum are addressing under &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/tech-impact-2030.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>Tech Impact 2030&lt;/a>, an open collaboration to bring together industry, technology, academia and government leaders to power meaningful societal change by the year 2030.&lt;br>&#xa;&lt;br>&#xa;&lt;i>&amp;quot;HPE believes that technology has the ability to power real societal improvements if applied innovatively and adopted universally, said Antonio Neri, President and CEO, HPE. To spark progress, we need a new approach; one that will translate bold ideas into practical solutions. Thats why we are partnering with the Forum to bring together the right minds, resources and focus to achieve real-world change, now.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_fluc
+                    jcr:lastModified="{Date}2018-10-29T22:12:16.470Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Technology can power real societal improvements if applied innovatively and adopted universally&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-29T22:12:16.470Z"
+                        jcr:lastModifiedBy="velazquez@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_fluc>
+                <textonlycomponent_twuz
+                    jcr:lastModified="{Date}2019-04-02T12:53:24.394Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Tech Impact 2030&lt;br>&#xa;&lt;br>&#xa;&lt;/b>Tech Impact 2030 marks a first-of-its-kind collaboration for the Forum as it seeks to support complex and systemic global challenges. By drawing on the Forums diverse suite of partners and experience in addressing global challenges, as well as HPEs technology and industry expertise, Tech Impact 2030 aims to break down siloes and find new ways to apply technology to positively contribute to achieving the Sustainable Development Goals set by the United Nations General Assembly.&lt;br>&#xa;&lt;br>&#xa;&lt;i>&amp;quot;Open collaboration is the fastest way to inspire true innovation and implement change, said Dominic Waughray, Head of the World Economic Forum Centre for Global Public Goods. The introduction of Tech Impact 2030 demonstrates what can be achieved when we apply the convening power of the Forum to operationalize the technology vision of an action-oriented partner, like HPE.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;i>&amp;nbsp;&lt;/i>&lt;/p>&#xa;"/>
+                <pullquote_i5l3
+                    jcr:lastModified="{Date}2018-10-29T22:12:21.208Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Open collaboration is the fastest way to inspire true innovation and implement change&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-29T22:12:21.208Z"
+                        jcr:lastModifiedBy="velazquez@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_i5l3>
+                <textonlycomponent_9jep
+                    jcr:lastModified="{Date}2019-04-02T12:55:27.038Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Over the next several months, HPE and the Forum will introduce additional challenges in key industries including financial services, healthcare, transportation and manufacturing. Each challenge will pose a social, economic or environmental problem that could be tackled by convening experts and applying existing and innovative technology in disruptive ways.&lt;br>&#xa;&lt;br>&#xa;HPE and the Forum will bring these leaders together to scope, frame and deliver concrete outcomes.&lt;br>&#xa;&lt;br>&#xa;&lt;b>Solve World Hunger by 2030&lt;br>&#xa;&lt;br>&#xa;&lt;/b>The United Nations reports that nearly 800 million people worldwide are undernourished and forecasts the worlds population will grow to 8.5 billion by 2030. Looking beyond 2030, the Forum estimates that the global population will grow to 9.8 billion people by 2050, requiring a staggering 70 percent more food than is consumed today. HPE and the Forum can provide tools, technology and foresight to help solve this staggering reality.&lt;br>&#xa;&lt;br>&#xa;Through Tech Impact 2030, HPE and the Forum aim to accelerate the transformation of food systems through the innovative application of technology. Building on the work of the Forums food system initiative, the work will be focused on improving yield, productivity and sustainability across the entire agricultural ecosystem fields, factories, grocery stores and the dinner table.&lt;br>&#xa;&lt;br>&#xa;During the SD Impact Summit, HPE and the Forum will kick off a series of working sessions under Tech Impact 2030, convening leaders to set an actionable roadmap. Attendees, HPE and the Forum will contribute ideas, commit to forward progress and agree upon 24-month sprints progressive milestones toward the goal of solving world hunger.&lt;br>&#xa;&lt;br>&#xa;As a first step, HPE and the Forum are already collaborating with Purdue University's College of Agriculture, a leader in enhancing food security and optimizing ag-tech around the world. Purdue is working closely with HPE to enable disruptive technologies, such as IoT sensors, to make digital and precision agriculture possible.&lt;br>&#xa;&lt;br>&#xa;&lt;b>Joining Tech Impact 2030&lt;br>&#xa;&lt;br>&#xa;&lt;/b>HPE and the Forum believe that partnership is essential to achieving real change. Organizations interested in signing on to Tech Impact 2030 can learn more at &lt;a href=&quot;/content/hpe/base/blueprint/newsroom/tech-impact-2030.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>https://news.hpe.com/tech-impact-2030/&lt;/a> or reach out to &lt;a href=&quot;mailto:TechImpact2030@hpe.com&quot;>TechImpact2030@hpe.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;br>&#xa;&lt;br>&#xa;&lt;/b>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About World Economic Forum&lt;br>&#xa;&lt;br>&#xa;&lt;/b>The World Economic Forum, committed to improving the state of the world, is the International Organization for Public-Private Cooperation. The Forum engages the foremost political, business and other leaders of society to shape global, regional and industry agendas. The Forum believes that progress happens by bringing together people from all walks of life who have the drive and the influence to make positive change.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial Contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Lindsey Berryhill&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;a href=&quot;mailto:corpmediarelations@hpe.com&quot;>corpmediarelations@hpe.com&lt;/a>&lt;/b>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_3a77
+                            jcr:created="{Date}2018-10-29T22:06:00.539Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-01-17T18:03:08.062Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/tech-impact-2030"
+                            description="&lt;p>Focus Area&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="Tech Impact 2030"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Tech Impact 2030"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-17T18:03:08.062Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/marqueeLarge/Tech-Impact-2030-v3.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-17T18:03:08.062Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_3a77>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_e95c
+                            jcr:created="{Date}2018-10-29T22:05:51.746Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-01-17T18:03:22.788Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/what-if-we-could-solve-world-hunger"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="What if we could solve world hunger?"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="What if we could solve world hunger?"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-17T18:03:22.788Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/09/image-norend/Introducing-Tech-Impact-2030.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-17T18:03:22.788Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_e95c>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7466
+                            jcr:created="{Date}2018-10-29T22:05:40.842Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-01-17T18:03:39.268Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/09/hungry-for-solutions-hpe-and-the-world-economic-forum-tackle-todays-and-tomorrows-food-challenges"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hungry for solutions: HPE and the World Economic Forum tackle todays  and tomorrows  food challenges"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hungry for solutions: HPE and the World Economic Forum tackle todays  and tomorrows  food challenges"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-17T18:03:39.268Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/09/image-norend/Hungry-for-solutions-HPE-the-World-Economic-Forum-tackle-feeding-the-world.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-17T18:03:39.268Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7466>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

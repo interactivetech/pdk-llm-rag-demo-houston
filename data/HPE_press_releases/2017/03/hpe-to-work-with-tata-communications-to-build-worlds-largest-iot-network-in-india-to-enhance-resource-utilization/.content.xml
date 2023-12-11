@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:13:54.774Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---customers,hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-to-work-with-tata-communications-to-build-worlds-largest-iot-network-in-india-to-enhance-resource-utilization"
+        jcr:uuid="162c0602-5370-4cb2-a3f3-3e8e9f0e98f9"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:50:30.000-07:00"
+        metaDescription="HPE to Work with Tata Communications to Build World's Largest IoT Network in India to Enhance Resource Utilization"
+        navTitle="HPE to Work with Tata Communications to Build World's Largest IoT Network in India to Enhance Resource Utilization"
+        pageTitle="HPE to Work with Tata Communications to Build World's Largest IoT Network in India to Enhance Resource Utilization"
+        priority="(None)"
+        subtitle="The HPE Universal IoT Platform will enable Tata Communications' IoT network to serve more than 2,000 communities"
+        theme="dark"
+        UAID="19988b7b-3195-4b10-86d4-44049e8047c2"
+        UCID="87afafed-36f0-4c3a-b051-70c49b61eec0"
+        WPID="1071">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T14:50:55.665Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="FEBRUARY 26, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Header-8.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE to Work with Tata Communications to Build World's Largest IoT Network in India to Enhance Resource Utilization"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>The HPE Universal IoT Platform will enable Tata Communications' IoT network to serve more than 2,000 communities&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_u2mi
+                    jcr:lastModified="{Date}2020-05-20T16:31:35.886Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>BARCELONA, SPAIN--(Marketwired - Feb 27, 2017) - Today at &lt;a href=&quot;https://www.mwcbarcelona.com/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>Mobile World Congress&lt;/a>&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (NYSE: HPE) announced it is working with &lt;a href=&quot;https://www.tatacommunications.com/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>Tata Communications&lt;/a>, a leading provider of A New World of Communications, to support the roll-out of India's first LoRaWAN (LoRa) based network.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Tata Communications unveiled plans for the LoRa™ network last year. It is part of Tata Communications' long-term strategy of creating mobile platforms and ecosystems that enable its customers and partners to connect people and IoT-connected devices seamlessly on a global scale. The first phase of the roll-out targets Tier 1, 2, 3 and 4 cities in India, touching over 400 million people. Alongside successful field trials in Mumbai, Delhi and Bangalore, there are also 35 proof-of-concept applications in trial on the network.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The association between Tata Communications and HPE paves the way for a new era in enabling devices with embedded connectivity for enterprise customer solutions throughout the country. The project involves connectingdevices, applications and other IoT solutions over the LoRa networkin smart buildings, campus, utilities, fleet management, security and healthcare services in nearly 2,000 communities, covering over 400 million people, making it the first-of-its-kind initiative in India.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Tata Communications has 15 years of experience in delivering impactful and innovative communications solutions to its customers globally,&amp;quot; said Anthony Bartolo, president, Mobility, IoT and Collaboration Services, Tata Communications. &amp;quot;As part of our commitment to innovation and in driving digital transformation globally, we are creating a cohesive, resilient and highly secure network to deploy IoT applications in India. We are excited to be partnering with HPE in this project as this platform is critical to amalgamating all the complex variables in enabling a truly digital India.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Designed for massive scale, multi-vendor and multi-network support using the &lt;a href=&quot;http://www.onem2m.org/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>oneM2M&lt;/a> interoperability standard, the HPE Universal IoT Platform streamlines interoperability and management of heterogeneous IoT devices and applications that power the intelligent edge. The platform supports long-range, low-power connectivity deployments, as well as devices that use cellular, radio, Wi-Fi and Bluetooth. Recent enhancements announced for the HPE Universal IoT Platform include increased LoRa gateway support, enabling the use of multiple LoRa gateways with a common set of applications to simplify device provisioning and control in heterogeneous LoRa environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The sheer size of this project is incredible, bringing new services to millions of people,&amp;quot; said David Sliter, vice president and general manager, Communications Solutions Business, HPE. &amp;quot;Through our partner centric approach, the HPE Universal IoT platform will enable Tata Communications to build multiple vertical use cases for its IoT network in India on a common platform with a common data model.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Tata Communications has also selected HPE to be an integral part of its global cellular IoT connectivity services. This provides a range of domestic and cross-border IoT connectivity and management services, particularly for applications requiring elements of mobility, such as connected cars, fleet management and transportation services.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is demonstrating a variety of smart city IoT use cases on the HPE Universal IoT Platform at Mobile World Congress.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About LoRa&lt;br>&#xa; &lt;/b>LoRa is a Low Power Wide Area Network (LPWAN) specification for wireless battery operated IoT devices, targeting key IoT requirements such as secure bi-directional communication, mobility and localization services. It is being adopted as a standard for connecting LPWAN IoT devices and sensors, complementing other connectivity options such as LTE, Wi-Fi and more. Tata Communications and HPE selected LoRa because of its low power requirements, long range capability, low cost and multiple use opportunities.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is a member of the &lt;a href=&quot;https://lora-alliance.org/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>LoRa Alliance&lt;/a>, an open, non-profit association with the mission of standardizing LPWAN being deployed around the world to enable the IoT, machine-to-machine (M2M) and smart city and industrial applications. Alliance members collaborate to drive the success of the LoRa protocol (LoRaWAN), by sharing knowledge and experience to guarantee interoperability between operators in one open global standard.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Tata Communications&lt;br>&#xa; &lt;/b>Tata Communications Limited (CIN no: L64200MH1986PLC039266) along with its subsidiaries (Tata Communications) is a leading global provider of A New World of Communications. With a leadership position in emerging markets, Tata Communications leverages its advanced solutions capabilities and domain expertise across its global and pan-India network to deliver managed solutions to multi-national enterprises, service providers and Indian consumers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The Tata Communications global network includes one of the most advanced and largest submarine cable networks and a Tier-1 IP network with connectivity to over 240 countries and territories across 400 PoPs, as well as nearly 1 million square feet of data centre and collocation space worldwide.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Tata Communications' depth and breadth of reach in emerging markets includes leadership in Indian enterprise data services and leadership in global international voice. Tata Communications Limited is listed on the Bombay Stock Exchange and the National Stock Exchange of India.&lt;br>&#xa;&lt;br>&#xa; &lt;a href=&quot;https://www.tatacommunications.com/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;>http://www.tatacommunications.com&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>*TATA COMMUNICATIONS and TATA are trademarks of Tata Sons Limited in certain countries.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement&lt;br>&#xa; &lt;/b>The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_zlib
+                            jcr:lastModified="{Date}2020-05-20T16:31:54.317Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/from-steel-city-to-smart-city"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="From Steel City to Smart City"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="From Steel City to Smart City"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T16:31:54.317Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-5.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T16:31:54.317Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_zlib>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_blq6
+                            jcr:lastModified="{Date}2020-05-20T16:32:05.237Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/att-selects-hewlett-packard-enterprise-for-cloud-based-subscriber-data-management"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="AT&amp;T Selects Hewlett Packard Enterprise for Cloud-based Subscriber Data Management"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="AT"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T16:32:05.237Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/DataManagementweb.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T16:32:05.237Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_blq6>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_m5ef
+                            jcr:lastModified="{Date}2020-05-20T16:32:14.273Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/02/hpes-role-in-creating-a-better-future-on-display-at-mobile-world-congress-2018"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPEs Role in Creating a Better Future on Display at Mobile World Congress 2018"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPEs Role in Creating a Better Future on Display at Mobile World Congress 2018"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T16:32:14.273Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/Blog-Image-Cite.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T16:32:14.273Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_m5ef>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

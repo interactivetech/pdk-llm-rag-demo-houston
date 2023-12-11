@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:15:18.606Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data,hpe-newsroom:categories/other]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-enables-customers-to-accelerate-their-digital-transformation-with-sapr-hana"
+        jcr:uuid="02cce984-40ec-48b2-8ad1-85dcc3dc3287"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:00.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Enables Customers to Accelerate Their Digital Transformation With SAP"
+        navTitle="Hewlett Packard Enterprise Enables Customers to Accelerate Their Digital Transformation With SAP(R) HANA"
+        pageTitle="Hewlett Packard Enterprise Enables Customers to Accelerate Their Digital Transformation With SAP(R) HANA"
+        priority="(None)"
+        subtitle="Technology Innovations Include Solutions That Deliver Agility, Performance Advantages and Overcome Business Complexity"
+        theme="dark"
+        UAID="da265d27-f31b-471d-a9cc-b189ffb2e6d5"
+        UCID="8b865c8b-160d-4bef-b3f6-a7ff15af17c0"
+        WPID="1348">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T06:59:55.801Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 18, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Technology Innovations Include Solutions That Deliver Agility, Performance Advantages and Overcome Business Complexity&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_ayue
+                    jcr:lastModified="{Date}2018-10-23T07:01:14.430Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>ORLANDO, FL--(Marketwired - May 18, 2016) - Today at &lt;a rel=&quot;nofollow&quot; href=&quot;http://events.sap.com/sapandasug/en/home.html?bc=1&quot;>SAPPHIRE NOW and ASUG Annual Conference&lt;/a>, Hewlett Packard Enterprise (NYSE: HPE) announced new technology innovations across its portfolio of products and services to help customers transform to a hybrid infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To thrive in the idea economy, organizations need an extensible enterprise application platform that can quickly adapt to business opportunities and threats. As a market leader in infrastructure and solutions for SAP HANA, the innovative solutions and services we are announcing today will help customers transform their IT departments using SAP HANA.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Customers today need to respond quickly to critical demands in this rapidly evolving business environment,&amp;quot; said John Hinshaw, Chief Customer Officer and Executive Vice President, Customer Success. &amp;quot;The latest products and solutions from HPE and SAP will provide customers access to tightly integrated, full-stack solutions that will give them real-time business analytics and applications, managed in a secure, scalable, cost-effective cloud environment.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new innovations from HPE for SAP HANA include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Complete testing and monitoring of SAP Flori apps and SAP HANA&lt;/b>: HPE today announced the availability of an extended software toolkit that helps customers build, manage, monitor, and continuously improve SAP Fiori apps leveraging the SAP HANA platform. The latest test automation solutions support the creation of high-quality apps that deliver a superior user experience.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New security solution combining SAP Fortify software by HPE and SAP's NetWeaver Application Server, add-on for code vulnerability analysis: &lt;/b>HPE is announcing immediate availability of a new integration between HPE's award-winning Fortify application security solutions (resold by SAP as SAP Fortify) and SAP's add-on for code vulnerability analysis for ABAP applications. This integration will allow end-to-end security testing for a company's SAP software landscape -- leaving no room for cyberattacks. The new integration of SAP Fortify and the add-on for code vulnerability analysis are available from SAP.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pushing SAP HANA scale-up beyond 12TB:&lt;/b> HPE is the only SAP partner in the market certified for &amp;gt; 12TB deployment and has more than 2X the market share, compared to the competition, for customers with SAP HANA. Currently, HPE is helping a large number of consumer goods manufacturers and Fortune 100 Corporations implement 16TB and 24TB solutions.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SAP certification of HPE Integrity MC990 X Compute Server for SAP: &lt;/b>HPE is announcing SAP certification of the HPE Integrity MC990 X Server for SAP HANA tailored datacenter integration (TDI). The HPE Integrity MC990 X is a new 8-socket x86 server targeted for large business processing and decision support Linux workloads. MC990 X Compute Blocks for TDI will complement the leading HPE portfolio of solutions for SAP HANA, including those based on HPE ProLiant Server and Integrity Superdome X Servers. HPE also now offers Datacenter Care for SAP HANA Tailored Datacenter Integration (TDI) on the HPE Integrity MC990 X Server for SAP HANA compute server to provide customers the support needed to deploy, operate, and evolve their TDI infrastructure.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to the product innovations, HPE is also announcing key services to support every stage of the SAP HANA journey. These include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Transformational Services (HPE SHAPE):&lt;/b> HPE is extending its Digital Transformational Service for SAP S/4HANA to the Europe and Asia-Pacific regions. These solutions include tailored advisory roadmap developments, transformational integration &amp;amp; migration services to SAP S/4HANA, as well as extensibility into the cloud via HPE Hybrid IT. This extension, deployed exclusively on HPE's resilient Hybrid IT platform helps clients deploy and integrate more applications and releases faster; lower their cost of IT operations; and unlock business value across their critical business processes.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE ConvergedSystem for SAP HANA Proactive services&lt;/b>: To address specific deployment, configuration, high-availability, migration, upgrade, and ongoing support needs for SAP HANA clients, HPE provides remote technical assessments, firmware and software updates, as well as SUSE OS security patching services.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Rapid Advisory Service for SAP HANA: &lt;/b>The Rapid Advisory Service is a collaborative two day workshop to help customers identify potential risks and opportunities prior to hardware deployment for faster time to value.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Platform Protection and Compliance Service&lt;/b>: The Platform Protection and Compliance Service is a combination of processes and tools developed by HPE leveraging different security standards (CIS, NIST, ISO, and DISA) to assess and lock down the security-related settings of different platforms to comply with regulations (such as PCI, SOX, and HIPAA) and to strengthen the security posture of an organization's IT infrastructure.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Lastly, HPE is announcing a streamlined submission process for companies to simply and conveniently partner with SAP and HPE. This process will enable companies to leverage leading HPE infrastructure solutions, services, software, cloud and financing capabilities to deliver faster and more holistic solutions for clients' complex hybrid infrastructure requirements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today's announcements underscore a long-standing partnership between HPE and SAP and highlight HPE's commitment to helping customers gain faster and better insights into their business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information, visit HPE in booth number 127 at the SAPPHIRE NOW and ASUG Annual Conference, taking place May 17-19 in Orlando, Fla.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAPPHIRE NOW focuses on how companies can enable their digital business strategy and get more from their technology investments. SAPPHIRE NOW and the ASUG Annual Conference are the world's premier business technology event and largest SAP customer-run conference, offering attendees the opportunity to learn and network with customers, SAP executives, partners and experts across the entire SAP ecosystem.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_obfc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/hpe-synergy-gains-momentum-in-the-market-driving-efficiencies-and-creating-new-opportunities-for-customers"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Synergy Gains Momentum in the Market, Driving Efficiencies and Creating New Opportunities for Customers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_Meeting.jpg"/>
+                        </contentblock_obfc>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_pkf5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/05/hpe-extends-solutions-for-sap-applications-from-the-digital-core-to-the-intelligent-edge"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends Solutions for SAP Applications from the Digital Core to the Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate08.jpg"/>
+                        </contentblock_pkf5>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_2qyt
+                            jcr:lastModified="{Date}2018-10-23T07:51:18.978Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-expands-pay-per-use-it-to-key-business-workloads"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T07:51:18.978Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Expands-“Pay-Per-Use-IT”-to-Key-Business-Workloads.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T07:51:18.978Z"
+                                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_2qyt>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-23T07:00:49.797Z"
+            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

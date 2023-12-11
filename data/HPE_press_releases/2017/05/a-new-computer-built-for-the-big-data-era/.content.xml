@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:24:01.048Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="a-new-computer-built-for-the-big-data-era"
+        jcr:uuid="b42dbf4e-836e-42e8-aff9-322eba821a82"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        author="By Staff Writer"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-05-16T05:54:28.000-07:00"
+        metaDescription="HPE Unveils Computer Built for the Era of Big Data"
+        navTitle="HPE Unveils Computer Built for the Era of Big Data"
+        pageTitle="HPE Unveils Computer Built for the Era of Big Data"
+        priority="(None)"
+        subtitle="Prototype from The Machine research project upends 60 years of innovation and demonstrates the potential for Memory-Driven Computing "
+        theme="dark"
+        UAID="77d7f515-6ad8-4c38-a73c-48abf962a227"
+        UCID="ef277c3b-9c22-4c2e-94dc-3fda2af122b3"
+        WPID="197719">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-01-22T21:59:54.624Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MAY 16, 2017 • BY STAFF WRITER • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/12Hero_web.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Unveils Computer Built for the Era of Big Data"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-04-13T17:49:22.649Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>&lt;span class=&quot;body-copy-large&quot;>IN THIS ARTICLE&lt;/span>&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise introduces the worlds largest single-memory computer&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The prototype unveiled today contains 160 terabytes of memory&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE expects the architecture to easily scale to a nearly-limitless pool of memory&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Prototype from The Machine research project upends 60 years of innovation and demonstrates the potential for Memory-Driven Computing &lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_nbgs
+                    jcr:lastModified="{Date}2020-04-13T17:51:49.241Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA May 16, 2017 Hewlett Packard Enterprise (NYSE: HPE) today introduced the worlds largest single-memory computer, the latest milestone in The Machine research project (The Machine). The Machine, which is the largest R&amp;amp;D program in the history of the company, is aimed at delivering a new paradigm called Memory-Driven Computing—an architecture custom-built for the big data era.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_8j7e
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We cant rely on the technologies of the past, we need a computer built for the big data era.&lt;/p>"
+                    topPadding="30"/>
+                <imageonlycomponent_4
+                    jcr:created="{Date}2018-10-15T14:40:18.062Z"
+                    jcr:createdBy="adrian.popescu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T14:43:28.266Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomPadding="30"
+                    fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/The-Machine-Logo.png"
+                    imageAlignment="hpe-image-left"
+                    isVideo="true"
+                    topPadding="30"
+                    videoId="AE5VitamCEQ"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_2bsf
+                    jcr:lastModified="{Date}2018-10-15T14:20:12.394Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The secrets to the next great scientific breakthrough, industry-changing innovation or life-altering technology hide in plain sight behind the mountains of data we create every day,&amp;quot; said Meg Whitman, CEO of Hewlett Packard Enterprise. &amp;quot;To realize this promise, we cant rely on the technologies of the past, we need a computer built for the big data era.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The prototype unveiled today contains 160 terabytes (TB) of memory, capable of simultaneously working with the data held in every book in the Library of Congress five times overor approximately 160 million books. It has never been possible to hold and manipulate whole data sets of this size in a single-memory system, and this is just a glimpse of the immense potential of Memory-Driven Computing&lt;sup>1&lt;/sup>.&lt;/span>&lt;/p>&#xa;&lt;h3>&lt;span class=&quot;body-copy-large&quot;>Scalability &amp;amp; Societal Implications&lt;/span>&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Based on the current prototype, HPE expects the architecture could easily scale to an exabyte-scale single-memory system and, beyond that, to a nearly-limitless pool of memory4,096 yottabytes. For context, that is 250,000 times the entire digital universe today.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With that amount of memory, it will be possible to simultaneously work with every digital health record of every person on earth; every piece of data from Facebook; every trip of Googles autonomous vehicles and every data set from space exploration all at the same timegetting to answers and uncovering new opportunities at unprecedented speeds.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We believe Memory-Driven Computing is the solution to move the technology industry forward in a way that can enable advancements across all aspects of society&amp;quot;, said Mark Potter, CTO at HPE and director, Hewlett Packard Labs. &amp;quot;The architecture we have unveiled can be applied to every computing categoryfrom intelligent edge devices to supercomputers.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_897d
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We believe Memory-Driven Computing is the solution to move the technology industry forward.&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_detu
+                    jcr:lastModified="{Date}2020-04-13T17:53:39.480Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Memory-Driven Computing puts memory, not the processor, at the center of the computing architecture. By eliminating the inefficiencies of how memory, storage and processors interact in traditional systems today, Memory-Driven Computing reduces the time needed to process complex problems from days to hours, hours to minutes, minutes to seconds, to deliver real-time intelligence.&lt;/span>&lt;/p>&#xa;&lt;h3>&lt;span class=&quot;body-copy-large&quot;>Technical Specifications&lt;/span>&lt;/h3>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new prototype builds on the achievements of The Machine research program, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>160 TB of shared memory spread across 40 physical nodes, interconnected using a high-performance fabric protocol.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An optimized Linux-based operating system (OS) running on ThunderX2, &lt;a href=&quot;http://cavium.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;>Caviums&lt;/a> flagship second generation dual socket capable ARMv8-A workload optimized System on a Chip.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Photonics/Optical communication links, including the new X1 photonics module, are online and operational.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Software programming tools designed to take advantage of abundant persistent memory.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Cavium shares HPEs vision for Memory-Driven Computing and is proud to collaborate with HPE on The Machine program,&amp;quot; said Syed Ali, president &amp;amp; CEO of Cavium Inc. &amp;quot;HPEs groundbreaking innovations in Memory-Driven Computing will enable a new compute paradigm for a variety of applications, including the next generation data center, cloud and high-performance computing.&amp;quot;&lt;br>&#xa; &lt;br>&#xa; To learn more about Memory-Driven Computing and The Machine research program, please visit: &lt;a href=&quot;http://www.hpe.com/TheMachine&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;>www.hpe.com/TheMachine&lt;/a>.&lt;br>&#xa;&lt;br>&#xa;&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry-leading technology company that enables customers to go further, faster. With one of the industry's most comprehensive portfolios, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statements:&lt;/b>&lt;br>&#xa; The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;sup>1&lt;/sup> We qualify a single-memory system as one with a single address space.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;hr>&#xa;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7gts
+                            jcr:lastModified="{Date}2019-01-22T22:03:25.063Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/memory-driven-computing-explained"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            enableSocialSharing="true"
+                            header="Memory-Driven Computing Explained"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Memory-Driven Computing Explained"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T22:03:25.063Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/5.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T22:03:25.063Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7gts>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_jc0z
+                            jcr:lastModified="{Date}2019-01-22T22:03:49.346Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/the-men-and-women-behind-the-innovation"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            enableSocialSharing="true"
+                            header="Meet the Innovators: The Men and Women Behind The Machine "
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Meet the Innovators: The Men and Women Behind The Machine "
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T22:03:49.346Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/8Hero.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T22:03:49.346Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_jc0z>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_llfa
+                            jcr:lastModified="{Date}2019-01-22T22:04:11.430Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/save-the-date-mission-to-mars-memory-driven-computing"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            enableSocialSharing="true"
+                            header="SAVE THE DATE: Making the Mission to Mars Compute"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="SAVE THE DATE: Making the Mission to Mars Compute"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-01-22T22:04:11.430Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/Hero-23.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-01-22T22:04:11.430Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_llfa>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-11-21T15:59:33.381Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE delivers the cloud experience everywhere with next-generation as-a-Service platform"
+        jcr:uuid="6ccbd340-ce70-4b4d-bd95-149b8d808ca5"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE delivers the cloud experience everywhere with next-generation as-a-Service platform"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-12-03T05:00:00.000-08:00"
+        metaDescription="HPE GreenLake Central gives customers an as-a-Service portal and operational console to run, manage, and optimize their hybrid IT estate"
+        metaKeywords="HPE, HPE GreenLake, aaS, as a Service, HPE GreenLake Central, business, cloud, edge, transformation"
+        metaOgImage="/content/dam/hpe/newsroom/2019/12/image-norend/hpe-delivers-the-cloud-experience-everywhere-with-next-generation-as-a-service-platform.jpg"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/12/hpe-delivers-the-cloud-experience-everywhere-with-next-generation-as-a-service-platform/jcr:content/main-par/body-par/textonlycomponent_e9"
+        navTitle="HPE delivers the cloud experience everywhere with next-generation as-a-Service platform"
+        pageTitle="HPE delivers the cloud experience everywhere with next-generation as-a-Service platform"
+        priority="(None)"
+        socialDescription="HPE GreenLake Central gives customers an as-a-Service portal and operational console to run, manage, and optimize their hybrid IT estate"
+        subtitle="HPE GreenLake Central gives customers an as-a-Service portal and operational console to run, manage, and optimize their hybrid IT estate"
+        theme="dark"
+        UAID="c7305f53-3199-45d7-8b57-5dad79421767"
+        UCID="e4809468-cf9d-49ac-b323-98d43e362659">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-12-02T18:22:18.959Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="DECEMBER 3, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:29:06.539Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/12/image-norend/hpe-delivers-the-cloud-experience-everywhere-with-next-generation-as-a-service-platform.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:31:49.856Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Central gives customers a simple, unified, digital experience across public and private clouds, the data center and edge workloads&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Central provides powerful capabilities and benefits that allow each role in an organization to achieve better business outcomes&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_8f
+                    jcr:created="{Date}2019-12-02T18:32:14.857Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:35:15.018Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE GreenLake Central gives customers an as-a-Service portal and operational console to run, manage, and optimize their hybrid IT estate&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-11-21T15:59:33.364Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>MUNICH, Dec. 3, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced the next major milestone in its strategy to deliver its entire edge-to-cloud portfolio as-a-Service, with the launch of HPE GreenLake Central, an advanced software platform that provides customers with a consistent cloud experience for all their applications and data, through an operational console that runs, manages and optimizes their entire hybrid IT estate. HPE unveiled HPE GreenLake Central today in a keynote address by Antonio Neri, President and CEO, at &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/discover-more-network.html&quot; target=&quot;_blank&quot;>HPE Discover More Munich&lt;/a>&lt;/u>.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <pullquote_4738
+                    jcr:created="{Date}2019-12-02T18:39:01.310Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:39:32.527Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE GreenLake Central is the next major milestone in HPE’s strategy to deliver its entire edge-to-cloud portfolio as-a-Service&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-12-02T18:39:32.527Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_4738>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-04T15:42:22.298Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Building on the tremendous momentum of &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/services/it-consumption.html&quot; target=&quot;_blank&quot;>HPE GreenLake&lt;/a>&lt;/u>, HPE’s market-leading IT as-a-Service offering, HPE GreenLake Central gives customers a simple, unified, digital experience across public and private clouds, the data center and edge workloads. This platform accelerates business outcomes for customers by lowering costs and risks and providing greater choice and control.&lt;br>&#xa; &lt;br>&#xa; Despite the promise of the cloud to speed delivery of new applications, organizations’ digital transformation efforts have become more complex, costly, and slow-moving. To add to these challenges, the vast majority of today’s applications and data remain in the data center, and are growing exponentially at the edge. As a result, organizations have been dealing with a siloed, inconsistent experience across their hybrid estate, and lack control and visibility into the costs and risks across their enterprise.&lt;br>&#xa; &lt;br>&#xa; HPE GreenLake Central allows customers to break through these challenges by delivering a single, integrated management control plane for their entire hybrid IT estate, and one operational console from which to direct and drive their digital transformation initiatives – all delivered as-a-Service. The platform gives customers the freedom to choose which tools they want to use to build applications, where and how to place their workloads and data, and only pay for what they consume.&lt;br>&#xa; &lt;br>&#xa; HPE GreenLake Central provides powerful capabilities and benefits that allow each role in an organization to achieve better business outcomes:&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:41:32.144Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>CIO&lt;/b> – regains control of their organization’s hybrid IT estate through a unified dashboard and operational console that positions them as service brokers to the rest of the business. CIOs can monitor and take action on a range of KPIs, including security, capacity, cost, compliance, and resource utilization. HPE GreenLake Central brings the self-service experience to the on-premises environment, and gives CIOs unmatched visibility and control, so they can focus on innovation and strategy, and transition from reacting to running hybrid IT.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Developers&lt;/b> – gain access to a simple “point, click, get” pay-per-use platform that allows developers to write, release, and deploy code quickly, without having to worry about underlying infrastructure. Developers can access a wide array of tools and services from HPE and partners through a marketplace, giving them one “workbench” from which to design and create applications at high speed.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>CFO&lt;/b> – obtains a real-time view of technology spend across the hybrid IT estate, to understand spend by users, teams, and business units, and within public and private cloud, data center and edge environments. HPE GreenLake Central provides finance with unprecedented visibility to control costs and ensure projects remain on budget.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Legal, compliance, and security&lt;/b> – gains a single, integrated view into the governance and security status of an organization’s hybrid IT estate. Users can identify risks through a KPI dashboard and take action by leveraging over 1,000 controls to ensure compliance with company and industry regulations. Risks and failures are easy to identify and address, and comprehensive reports offer significant reduction in the time it takes to perform audits.&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>All users&lt;/b> – benefit from the simplicity of a consistent cloud experience for all their workloads, from the edge to the cloud.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:42:02.402Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE GreenLake Central is a transformative platform that changes the game in hybrid IT&lt;b>&lt;/b>&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-12-02T18:42:02.402Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-04T15:42:44.735Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>HPE GreenLake Central is a transformative platform that changes the game in hybrid IT,” said Antonio Neri, President and CEO, HPE. “With this offering, every user in a company gains access to a unique console from which to run their organization and achieve powerful business outcomes. Now the CIO can operate as a strategic service broker, and everyone benefits from a consistent cloud experience, resulting in lower costs and risks, and greater choice, control, simplicity, and speed.”&lt;br>&#xa; &lt;br>&#xa; &lt;/i>Today’s announcement builds on the momentum for HPE GreenLake, and HPE’s commitment to &lt;u>&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/06/hpe-announces-plans-to-offer-entire-portfolio-as-a-service-by-2022.html&quot; target=&quot;_blank&quot;>offer its entire portfolio as-a-Service by 2022&lt;/a>&lt;/u>. HPE pioneered the modern IT on premises as-a-Service model, and while traditional IT vendors try to emulate the offering, HPE GreenLake’s unique metering, cost control, software IP, and backing from HPE Financial Services provide a differentiated solution that competitors cannot match.&lt;br>&#xa; &lt;br>&#xa; HPE GreenLake is now one of the fastest-growing businesses in HPE, with more than 740 customers worldwide, including 160 new customer logo wins this year. Additionally, HPE has uniquely enabled its world-class partner community to deliver the offering – in 2019 the channel generated over 200% order growth for HPE GreenLake.&lt;br>&#xa; &lt;b>&lt;br>&#xa;Availability&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE GreenLake Central is in trial with customers now, and will be generally available to HPE GreenLake clients by the end of HPE Q1 2020. For more information, please visit&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/services/it-consumption.html&quot; target=&quot;_blank&quot;>https://www.hpe.com/us/en/services/it-consumption&lt;/a>.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-12-02T18:43:26.702Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way people live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;u>&lt;a href=&quot;http://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>&lt;/u>.&lt;/span> &lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-12-02T18:48:17.820Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/06/hpe-announces-plans-to-offer-entire-portfolio-as-a-service-by-2022"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE announces plans to offer entire portfolio as a Service by 2022"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE announces plans to offer entire portfolio as a Service by 2022"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-12-02T18:48:17.820Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/HPE-Announces-Plans-to-Offer-Entire-Portfolio-as -a-Service-by-2022.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-12-02T18:48:17.820Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-12-02T18:50:02.815Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/12/new-multi-national-survey-86-percent-of-it-leaders-embrace-adoption-of-as-a-service-yet-technical-and-talent-challenges-lie-ahead"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="New multi-national survey: 86 percent of IT leaders embrace adoption of as-a-Service, yet technical and talent challenges lie ahead"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="New multi-national survey: 86 percent of IT leaders embrace adoption of as-a-Service, yet technical and talent challenges lie ahead"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-12-02T18:50:02.815Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/12/image-norend/new-multi-national-survey-86-percent-of-it-leaders-embrace-adoption-of-as-a-service-yet-technical-and-talent-challenges-lie-ahead.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-12-02T18:50:02.815Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-12-02T18:52:38.913Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/10/hewlett-packard-enterprise-outlines-as-a-service-strategy-and-announces-fy20-outlook"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise outlines as-a-Service strategy and announces FY20 outlook"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise outlines as-a-Service strategy and announces FY20 outlook"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-12-02T18:52:38.913Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2019/10/image-norend/hewlett-packard-enterprise-outlines-as-a-service-strategy-and-announces-fy20-outlook.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-12-02T18:52:38.913Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-12-02T18:30:03.828Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

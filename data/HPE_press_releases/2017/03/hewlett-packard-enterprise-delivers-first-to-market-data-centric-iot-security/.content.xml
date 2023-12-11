@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-09-07T18:32:52.093Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-delivers-first-to-market-data-centric-iot-security"
+        jcr:uuid="c8a64f74-81db-42f9-a6e1-6e1aa347a455"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:51:06.000-07:00"
+        mediaContactEmail="Evan.tamura@hpe.com"
+        mediaContactName="Evan Tamura, Hewlett Packard Enterprise"
+        metaDescription="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-first-to-market-data-centric-iot-security/jcr:content/main-par/body-par/columncontainercompo/column_2/contentblock_x2z5"
+        navTitle="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+        pageTitle="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+        priority="(None)"
+        subtitle="HPE SecureData for Hadoop and IoT seamlessly integrates with Apache NiFi ecosystem, adding Format-Preserving Encryption to wide-scale dataflows"
+        theme="dark"
+        UAID="08f60fb1-521c-4b3e-9de8-b07d111d0e7c"
+        UCID="25253bb5-7e6b-466d-8edc-13f04eb42e9b"
+        WPID="1091">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2022-09-07T18:31:37.508Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="FEBRUARY 14, 2017 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE_Discover16_LV_14978.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE SecureData for Hadoop and IoT seamlessly integrates with Apache NiFi ecosystem, adding Format-Preserving Encryption to wide-scale dataflows&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_atcj
+                    jcr:lastModified="{Date}2022-09-07T18:31:49.077Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>SAN FRANCISCO, Calif.&amp;nbsp;– RSA Conference&amp;nbsp;– February 14, 2017&amp;nbsp;– Hewlett Packard Enterprise (HPE) today introduced &lt;a href=&quot;https://www.microfocus.com/en-us/products/voltage-data-encryption-security/hadoop-big-data-security/overview&quot; target=&quot;_blank&quot;>HPE SecureData for Hadoop and IoT&lt;/a>, designed to easily secure sensitive information that is generated and transmitted across Internet of Things (IoT) environments, with HPE Format-preserving Encryption (FPE). The solution features the industry's first-to-market &lt;a href=&quot;https://nifi.apache.org/&quot; target=&quot;_blank&quot;>Apache™ NiFi&lt;/a>&lt;a href=&quot;https://nifi.apache.org/&quot;>™&lt;/a>&amp;nbsp;integration with NIST standardized and FIPS compliant format-preserving encryption technology to protect IoT data at rest, in transit and in use.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>While IoT provides a vast amount of data that can deliver valuable insights and analytics to help organizations innovate, the influx of connected devices also presents new security challenges and attack vectors. There have been a number of IoT exploits in recent years, such as hacking into a connected car, connected camera vulnerabilities, and DDoS attacks, but whats alarming is that this may only be the beginning as enterprises look to deploy IoT across their networks. According to a Gartner survey, security is the top barrier to IoT success cited by respondents (35%), followed closely by cost and funding concerns (32%).&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;While IoT and big data analytics are driving new ways for organizations to improve efficiencies, identify new revenue streams, and innovate, they are also creating new attack vectors for leaking sensitive information to adversaries,&amp;quot; said Albert Biketi, vice president and general manager, HPE Security&amp;nbsp;– Data Security, Hewlett Packard Enterprise. &amp;quot;HPE SecureData enables business users to easily build data security in, delivering persistent protection in IoT and big data ecosystems, and allowing organizations to securely innovate.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The data generated from IoT is a valued commodity for adversaries, as it can contain sensitive information such as Personally Identifiable Information (PII), Payment Card Information (PCI) or Protected Health Information (PHI). For example, a breach of a connected blood pressure monitor's readings alone may have no value to an attacker, but when paired with a patient's name, it could become identity theft and a violation of Health Insurance Portability and Accountability Act (HIPAA) regulations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>However, Apache NiFi, is an integrated data logistics platform for automating the movement of data between disparate systems. It provides real-time control that makes it easy to manage the movement of data between any source and any destination. Derived from the National Security Agency's Niagarafiles project, Apache NiFi is an open source platform that enables security and risk architects, as well as business users, to graphically design and easily manage data flows in their IoT or back-end environments. The HPE SecureData NiFi integration enables organizations to incorporate data security into their IoT strategies by allowing them to more easily manage sensitive data flows and insert encryption closer to the intelligent edge.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additionally, as an expansion of HPEs alliance with Hortonworks, &lt;a href=&quot;https://www.microfocus.com/en-us/products/voltage-data-encryption-security/hadoop-big-data-security/overview&quot; target=&quot;_blank&quot;>HPE SecureData for Hadoop and IoT&lt;/a> is the only offering from a security vendor certified to seamlessly integrate with Hortonworks DataFlow (HDF™). This integration ensures information is secured throughout the dataflow management and streaming analytics process as HDF quickly collects, curates, analyzes and delivers insights in real-time, on-premises or in the cloud.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;In the new connected world, security, privacy, and data protection must extend beyond the data center to the intelligent edge, because there can be millions of different sensors with different protocols in different places capturing sensitive information,&amp;quot; said Chris Sullivan, SVP Channels and Alliances, Hortonworks. &amp;quot;With Hortonworks and HPE, customers get an integrated real time, certified solution for securely streaming and analyzing their data.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.microfocus.com/en-us/products/voltage-data-encryption-security/hadoop-big-data-security/overview&quot; target=&quot;_blank&quot;>HPE SecureData for Hadoop and IoT&lt;/a> extends data-centric protection, enabling organizations to encrypt data closer to the intelligent edge before it moves into the back-end Hadoop Big Data environment, while maintaining the original format for processing and enabling secure Big Data analytics.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE SecureData for Hadoop and IoT is currently available globally as part of the HPE SecureData family. Additional information about this offering and other HPE Security solutions can be found at the HPE booth No. 3717, at the RSA Conference taking place this week in San Francisco. Keep up with the conference happenings by following the hashtag #RSAC and &lt;a href=&quot;https://twitter.com/HPE_Security?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&quot; target=&quot;_blank&quot;>@HPE_Security&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HPE Security&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Security helps organizations detect and respond to cyber threats while safeguarding continuity and compliance to effectively mitigate risk and incident impact. Delivering an integrated suite of market-leading products, services, threat intelligence and security research, HPE Security helps customers proactively protect the interactions among users, applications and data, regardless of location or device. With a global network of security operations centers and more than 5,000 &lt;a href=&quot;/content/hpe/base/blueprint/solutions/infrastructure-security.html&quot; target=&quot;_blank&quot;>IT security&lt;/a> experts, HPE Security empowers customers and partners to safely operate and innovate while keeping pace with the speed of todays idea economy. Find out more about HPE Security at &lt;a href=&quot;/content/hpe/base/blueprint/solutions/infrastructure-security.html&quot; target=&quot;_blank&quot;>https://www.hpe.com/us/en/solutions/security&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Join HPE Software on &lt;a href=&quot;https://www.linkedin.com/company/hpe-software&quot; target=&quot;_blank&quot;>LinkedIn&lt;/a> and follow &lt;a href=&quot;https://twitter.com/HPE_Software&quot; target=&quot;_blank&quot;>@HPE_Software&lt;/a> on Twitter. To learn more about HPE Enterprise Security products and services on Twitter, please follow &lt;a href=&quot;https://twitter.com/HPE_Security&quot; target=&quot;_blank&quot;>@HPE_Security&lt;/a> and join HPE Enterprise Security on &lt;a href=&quot;https://www.linkedin.com/company/hpe-security&quot; target=&quot;_blank&quot;>LinkedIn&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1) Survey Analysis: 2016 Internet of Things Backbone Survey, Gartner, January 2016&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statements&lt;br>&#xd;&#xa; This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprises filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprises Registration Statement on Form 10 dated July 1, 2015, as amended August 10, 2015, September 4, 2015, September 15, 2015, September 28, 2015 and October 7, 2015. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_f09o
+                            jcr:lastModified="{Date}2022-09-07T18:32:36.456Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="primary"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/podcast-confluent-and-the-data-driven-intelligent-edge"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="PODCAST: Confluent and the Data-Driven Intelligent Edge"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="PODCAST: Confluent and the Data-Driven Intelligent Edge"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-07T18:32:36.456Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/PODCAST-Confluent-and-the-Data-Driven-Intelligent-Edge.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-07T18:32:36.456Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_f09o>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_kdew
+                            jcr:lastModified="{Date}2022-09-07T18:32:44.276Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="primary"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/7-iot-leaders-to-watch-in-2017"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="7 IoT Leaders to Watch in 2017"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="7 IoT Leaders to Watch in 2017"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-07T18:32:44.276Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/7_IoT_leaders.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-07T18:32:44.276Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_kdew>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_x2z5
+                            jcr:lastModified="{Date}2022-09-07T18:32:52.077Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="primary"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/new-release-of-hpe-universal-iot-platform-increases-opportunities-for-insights-and-innovation"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="New Release of HPE Universal IoT Platform Increases Opportunities for Insights and Innovation"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="New Release of HPE Universal IoT Platform Increases Opportunities for Insights and Innovation"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2022-09-07T18:32:52.077Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/New_Release.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2022-09-07T18:32:52.077Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_x2z5>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

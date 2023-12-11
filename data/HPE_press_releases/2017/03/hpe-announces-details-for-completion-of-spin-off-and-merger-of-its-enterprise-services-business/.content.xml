@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:18:52.434Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-announces-details-for-completion-of-spin-off-and-merger-of-its-enterprise-services-business"
+        jcr:uuid="81e7961c-9d20-4cdd-ad76-5dd310579071"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:50:30.000-07:00"
+        metaDescription="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+        navTitle="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+        pageTitle="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+        priority="(None)"
+        subtitle="HPE spin-merges its enterprise services business with CSC, now DXC Technology"
+        theme="dark"
+        UAID="c859e8bb-77b8-4fe2-a6ad-31688d95d00d"
+        UCID="2409c5a9-be95-41a9-859a-d9da05a6a446"
+        WPID="1068">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T15:23:28.786Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="MARCH 2, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Completion-of-Spin-Off-and-Merger.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-23T15:24:33.564Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE &amp;quot;spin-merges&amp;quot; its enterprise services business with CSC, now DXC Technology&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_s1mu
+                    jcr:lastModified="{Date}2018-10-23T15:27:28.153Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Mar 2, 2017) - Hewlett Packard Enterprise (NYSE: HPE) (&amp;quot;&lt;u>HPE&lt;/u>&amp;quot;) today announced that its Board of Directors has set a record date of March 20, 2017 for the proposed spin-off of its enterprise services business, referred to as Everett SpinCo, Inc. (&amp;quot;&lt;u>Everett&lt;/u>&amp;quot;).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Under the terms of the spin-off, HPE will distribute on a pro rata basis all of the shares of Everett common stock it holds to HPE shareholders entitled to receive stock in the spin-off as of the record date. As previously announced, immediately following the spin-off, a wholly-owned subsidiary of Everett will merge with and into Computer Sciences Corporation (&amp;quot;&lt;u>CSC&lt;/u>&amp;quot;), whereby the separate corporate existence of the wholly-owned subsidiary will cease, and CSC will continue as the surviving company and a wholly-owned subsidiary of Everett.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In the merger, CSC stockholders will receive one share of Everett common stock for every one share of CSC common stock held immediately prior to the merger. Stockholders of Everett immediately prior to the merger will continue to hold the shares of Everett common stock they received in the spin-off.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new combined company will be renamed DXC Technology (&amp;quot;DXC&amp;quot;).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Immediately following the merger, approximately 50.1% of the outstanding shares of DXC common stock is expected to be held by pre-merger HPE stockholders and approximately 49.9% of the outstanding shares of DXC common stock is expected to be issued to pre-merger CSC stockholders, in each case excluding any overlaps in pre-transaction stockholder bases.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Two-Way Trading to Begin for HPE Stock on the NYSE&lt;br>&#xa; &lt;/b>HPE has been advised by the New York Stock Exchange (the &amp;quot;&lt;u>NYSE&lt;/u>&amp;quot;) that beginning prior to the spin-off and continuing through the business day immediately preceding the closing date of the merger (or continuing through the closing date if the merger closes after the close of trading in HPE common stock and CSC common stock on the NYSE on the closing date), there will be two markets in HPE common stock on the New York Stock Exchange: a &amp;quot;regular way&amp;quot; market and an &amp;quot;ex-distribution&amp;quot; market. During this period of two-way trading in HPE common stock, an HPE stockholder can also sell the right to Everett common stock that will be received with the spin-off.Everett common stock will be listed under the symbol DXC prior to the merger.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Outlined below are the trading options that will be available to HPE stockholders prior to the closing of the merger.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>HPE&lt;br>&#xa; &lt;/u>If, during the period of two-way trading, an HPE stockholder sells shares of HPE common stock in the regular way market (under HPE's NYSE symbol, &amp;quot;HPE&amp;quot;), the stockholder will sell both shares of HPE common stock and the right to receive shares of Everett common stock in the spin-off.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>HPE WI&lt;br>&#xa; &lt;/u>If, during the period of two-way trading, an HPE stockholder sells shares of HPE common stock in the &amp;quot;ex-distribution&amp;quot; market (under the temporary NYSE symbol &amp;quot;HPE WI&amp;quot;), the HPE stockholder will sell only shares of HPE common stock and will retain the right to receive shares of Everett common stock in the spin-off.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;u>DXC WI&lt;br>&#xa; &lt;/u>An HPE stockholder also has the option of selling the right to receive shares of Everett common stock in the spin-off while retaining shares of HPE common stock. This option will be available under the temporary NYSE symbol &amp;quot;DXC WI&amp;quot;.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Trades under the symbols &amp;quot;HPE WI&amp;quot; and &amp;quot;DXC WI&amp;quot; will settle after the closing date of the merger. If the merger is not completed, all trades under these temporary symbols will be cancelled.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In all cases, investors should consult with their financial advisors regarding the specific implications of selling shares of their HPE common stock or the right to receive shares of Everett common stock in the spin-off on or before the closing date of the merger.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional details about the spin-off and the merger may be found in Everett's Form 10, which includes an information statement filed as Exhibit 99.1, available at &lt;a href=&quot;https://www.sec.gov/&quot; rel=&quot;nofollow&quot;>http://www.sec.gov&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>HPE is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward Looking Statements&lt;br>&#xa; &lt;/b>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the SEC, including but not limited to the risks described in Hewlett Packard Enterprise's Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information and Where to Find It&lt;br>&#xa; &lt;/b>This communication shall not constitute an offer to sell or the solicitation of an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended. In connection with the proposed merger, CSC has filed with the SEC a proxy statement/prospectus-information statement which will be sent to the CSC shareholders in connection with their vote required in connection with the merger. In addition, Everett has filed a registration statement in connection with its separation from Hewlett Packard Enterprise and a registration statement with respect to shares of Everett common stock to be issued in the merger, both of which registration statements include the proxy statement/prospectus-information statement. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE PROXY STATEMENT/PROSPECTUS-INFORMATION STATEMENT AND ANY OTHER RELEVANT DOCUMENTS, BECAUSE THEY CONTAIN IMPORTANT INFORMATION ABOUT CSC, EVERETT AND THE MERGER. Investors and security holders will be able to obtain these materials and other documents filed with the SEC free of charge from the SEC's website, &lt;a href=&quot;https://www.sec.gov/&quot; rel=&quot;nofollow&quot;>www.sec.gov&lt;/a>. These documents can also be obtained free of charge from the respective companies by directing a written request to Hewlett Packard Enterprise at Hewlett Packard Enterprise Company, 3000 Hanover Street, Palo Alto, California 94304, Attention: Investor Relations, or by calling (650) 857-2246.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_xk9y
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/08/hpe-announces-details-for-expected-completion-of-spin-off-and-merger-of-its-software-business"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Announces Details for Expected Completion of Spin-Off and Merger of its Software Business"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Details for Expected Completion of Spin-Off and Merger of its Software Business"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_xk9y>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_g6in
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/09/hewlett-packard-enterprise-completes-spin-off-and-merger-of-software-business-with-micro-focus"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Servers-with-element.jpg"/>
+                        </contentblock_g6in>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7u2h
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/04/hpe-completes-acquisition-of-nimble-storage"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Completes Acquisition of Nimble Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Completes Acquisition of Nimble Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/NimbleStorage.jpg"/>
+                        </contentblock_7u2h>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

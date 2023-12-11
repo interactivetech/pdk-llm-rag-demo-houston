@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-28T18:30:46.016Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---earnings]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-to-resume-share-repurchase-program"
+        jcr:uuid="4ea0b987-0c0a-41b4-896b-ef6a6a8db93f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP to Resume Share Repurchase Program"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-to-resume-share-repurchase-program/jcr:content/main-par/body-par/columncontainercompo/column_0/contentblock_b9sd"
+        navTitle="HP to Resume Share Repurchase Program"
+        pageTitle="HP to Resume Share Repurchase Program"
+        priority="(None)"
+        subtitle="Reiterates FY14 and FY15 Target of Returning at Least 50 Percent of Free Cash Flow to Shareholders Through Dividends and Share Repurchases"
+        theme="dark"
+        UAID="776b8084-cced-4cf9-867b-8c5c32b33e4b"
+        UCID="3ad283f3-7296-4814-92a4-70361de0b8c8"
+        WPID="1564">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T18:34:25.137Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 15, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Reiterates FY14 and FY15 Target of Returning at Least 50 Percent of Free Cash Flow to Shareholders Through Dividends and Share Repurchases&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_4ig8
+                    jcr:lastModified="{Date}2023-03-28T18:27:29.722Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Oct 15, 2014) -&amp;nbsp;&lt;b>&lt;/b>HP (NYSE: HPQ) today announced that it will resume its share repurchase program under its current authorization after previously suspending activity due to the possession of material non-public information.&amp;nbsp;The company is no longer in possession of such information.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP remains committed to its fiscal 2014 and fiscal 2015 capital allocation strategy of returning at least 50 percent of free cash flow to shareholders through dividends and share repurchases and intends to make up for the fiscal 2014 shortfall over the remainder of fiscal 2014 and 2015.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We are committed to a disciplined approach to capital allocation and we intend to return at least 50 percent of FY14 and FY15 free cash flow to shareholders in the form of dividends and repurchases,&amp;quot; said Cathie Lesjak, Executive Vice President and Chief Financial Officer, HP.&amp;nbsp;&amp;quot;We are confident in our strategy and our ability to execute, and continue to believe our share price does not reflect HP's intrinsic value.&amp;quot;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Outlook&lt;br>&#xd;&#xa; &lt;/b>For fiscal 2014, HP reaffirms its estimate of non-GAAP diluted net earnings per share (EPS) to be in the range of $3.70 to $3.74 and GAAP diluted net EPS to be in the range of $2.60 to $2.64.&amp;nbsp;Fiscal 2014 non-GAAP diluted net EPS estimates exclude after-tax costs of approximately $1.10 per share, related primarily to restructuring charges and amortization of intangible assets.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For fiscal 2015, HP reaffirms its estimate of non-GAAP diluted net EPS to be in the range of $3.83 to $4.03 and GAAP diluted net EPS to be in the range of $3.23 to $3.43.&amp;nbsp;Fiscal 2015 non-GAAP diluted net EPS estimates exclude after-tax costs of approximately $0.60 per share, related primarily to amortization of intangible assets and restructuring charges.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP reaffirms its fiscal 2015 operating cash flow outlook of $10 billion to $10.5 billion, with free cash flow of $6.5 billion to $7 billion.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's outlook does not include one-time GAAP-only charges the company is expected to incur in connection with the separation transaction announced on October 6, 2014, including advisory and tax costs which will be quantified at a later date.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Use of non-GAAP financial information&lt;br>&#xd;&#xa; &lt;/b>To supplement HP's historical and forecasted financial results presented on a GAAP basis, HP provides forecasts of non-GAAP diluted net earnings per share and free cash flow.&amp;nbsp;A reconciliation of the adjustments to GAAP is included in this news release. In addition, an explanation of the ways in which HP's management uses these non-GAAP measures to evaluate its business, the substance behind HP's management's decision to use these non-GAAP measures, the material limitations associated with the use of these non-GAAP measures, the manner in which HP's management compensates for those limitations, and the substantive reasons why HP's management believes that these non-GAAP measures provide useful information to investors is included under further below. This additional non-GAAP financial information is not meant to be considered in isolation or as a substitute for diluted net earnings per share or cash flow from operations prepared in accordance with GAAP.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Use of non-GAAP financial measures&amp;nbsp;&lt;br>&#xd;&#xa; &lt;/b>To supplement HP's historical and forecasted financial results presented on a GAAP basis, HP provides forecasts of non-GAAP diluted net earnings per share and free cash flow. These non-GAAP financial measures are not computed in accordance with, or as an alternative to, generally accepted accounting principles in the United States. The GAAP measure most directly comparable to non-GAAP diluted net earnings per share is diluted net earnings per share. The GAAP measure most directly comparable to free cash flow is cash flow from operations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Use and economic substance of non-GAAP financial measures used by HP&lt;br>&#xd;&#xa; &lt;/b>Non-GAAP diluted net earnings per share is defined to exclude the effects of any restructuring charges, charges relating to the amortization of intangible assets and certain other acquisition-related charges recorded or expected to be recorded during the relevant period. In addition, non-GAAP diluted net earnings per share are adjusted by the amount of additional taxes or tax benefit associated with each non-GAAP item. Free cash flow is defined as cash flow from operations less net capital expenditures.&amp;nbsp;Net capital expenditures is defined as investments in property, plant and equipment less proceeds from the sale or property, plants and equipment.&amp;nbsp;HP's management uses free cash flow for the purpose of determining the amount of cash available for investment in HP's businesses, funding acquisitions, repurchasing stock and other purposes.&amp;nbsp;HP's management also uses free cash flow to evaluate HP's historical and prospective liquidity.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's management uses non-GAAP financial measures, including HP's non-GAAP diluted net earnings per share, to evaluate and forecast HP's performance before gains, losses or other charges that are considered by HP's management to be outside of HP's core business segment operating results.&amp;nbsp;These non-GAAP financial measures have limitations as analytical tools, and these measures should not be considered in isolation or as a substitute for analysis of HP's results as reported under GAAP.&amp;nbsp;For example, items such as the amortization of intangible assets, though not directly affecting HP's cash position, represent the loss in value of intangible assets over time.&amp;nbsp;The expense associated with this loss in value is not included in HP's non-GAAP diluted net earnings per share and therefore does not reflect the full economic effect of the loss in value of those intangible assets.&amp;nbsp;In addition, items such as restructuring charges that are excluded from HP's non-GAAP diluted net earnings per share can have a material impact on HP's GAAP diluted net earnings per share.&amp;nbsp;Other companies may calculate non-GAAP diluted net earnings per share, free cash flow and net capital expenditures differently than HP does, which limits the usefulness of that measure for comparative purposes.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Compensation for limitations associated with use of non-GAAP financial measures&lt;br>&#xd;&#xa; &lt;/b>HP compensates for the limitations on its use of non-GAAP financial measures by relying primarily on its GAAP results and using non-GAAP financial measures only supplementally. HP also provides robust and detailed reconciliations of each non-GAAP financial measure to its most directly comparable GAAP measure within this news release and in other written materials available at&amp;nbsp;www.hp.com/investor/2014OctAnnouncement/&amp;nbsp;that include these non-GAAP financial measures, and HP encourages investors to review carefully those reconciliations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Usefulness of non-GAAP financial measures to investors&lt;br>&#xd;&#xa; &lt;/b>HP believes that providing non-GAAP financial measures to investors in addition to the related GAAP financial measures provides investors with greater transparency to the information used by HP's management in its financial and operational decision making and allows investors to see HP's results &amp;quot;through the eyes&amp;quot; of management.&amp;nbsp;HP further believes that providing this information better enables HP's investors to understand HP's operating performance and to evaluate the efficacy of the methodology and information used by HP's management to evaluate and measure such performance.&amp;nbsp;Disclosure of non-GAAP financial measures also facilitates comparisons of HP's operating performance with the performance of other companies in HP's industry that supplement their GAAP results with non-GAAP financial measures that may be calculated in a similar manner.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Forward-looking statements&amp;nbsp;&lt;br>&#xd;&#xa; &lt;/b>This news release contains forward-looking statements that involve risks, uncertainties and assumptions.&amp;nbsp;If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of HP may differ materially from those expressed or implied by such forward-looking statements and assumptions.&amp;nbsp;All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; the execution of restructuring plans and any resulting cost savings or revenue or profitability improvements; any projections of revenue, margins, expenses, HP's effective tax rate, net earnings, net earnings per share, cash flows, benefit plan funding, share repurchases, currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring charges; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on HP and its financial performance; any statements regarding pending investigations, claims or disputes; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013, and HP's other filings with the Securities and Exchange Commission, including HP's Quarterly Report on Form 10-Q for the fiscal quarter ended July 31, 2014.&amp;nbsp;As in prior periods, the financial information set forth in this release, including tax-related items, reflects estimates based on information available at this time.&amp;nbsp;While HP believes these estimates to be reasonable, these amounts could differ materially from actual reported amounts in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2014. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b9sd
+                            jcr:lastModified="{Date}2023-03-28T18:30:45.950Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/10/hewlett-packard-enterprise-announces-fy18-outlook"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableImageAccent="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            enableText="false"
+                            gradientPlacement="top-right"
+                            header="Hewlett Packard Enterprise Announces FY18 Outlook"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces FY18 Outlook"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2023-03-28T18:30:45.950Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/placeholder.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2023-03-28T18:30:45.950Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_b9sd>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_qebk
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/highlights-from-hpes-third-quarter-earnings-results"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Highlights from HPEs third quarter earnings results"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Highlights from HPEs third quarter earnings results"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/Q1-Earnings-Blog.jpg"/>
+                        </contentblock_qebk>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ct1a
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/q2-results-summary"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Q2 Results Summary"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Q2 Results Summary"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/How_HPE_Leading.jpg"/>
+                        </contentblock_ct1a>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

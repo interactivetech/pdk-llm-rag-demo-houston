@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-01-11T00:30:31.068Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services,hpe-newsroom:categories/hpe-financial-services-(hpefs)]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-completes-spin-off-and-merger-of-its-enterprise-services-business-with-csc"
+        jcr:uuid="3a2e0f03-5c5f-4d54-aaa3-4467eec21a08"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-04-24T18:00:09.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Kate Holderness"
+        metaDescription="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+        navTitle="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+        pageTitle="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+        priority="(None)"
+        subtitle="HPEs new spin-merge will enable customers to move data seamlessly across their traditional data centers, private and public cloud environments"
+        theme="dark"
+        UAID="5c160472-9cb8-43d0-b96b-3c41575f4ed7"
+        UCID="d47a2e1a-922a-412c-965f-0055beb05194"
+        WPID="41413">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-25T12:44:41.498Z"
+                jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 3, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Hewlett-Packard-Enterprise-Completes-Spin-off-and-Merger.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Hewlett Packard Enterprise Completes Spin-off and Merger of its Enterprise Services Business with CSC"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-25T12:45:55.718Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Separation of Enterprise Services business unlocks a stronger, more focused HPE&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Transaction delivers approximately $13.5 billion in expected after-tax value to HPE and its stockholders&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>As expected, HPE adjusts FY17 outlook to reflect the completion of the spin-off&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-25T12:46:49.626Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE's new &amp;quot;spin-merge&amp;quot; will enable customers to move data seamlessly across their traditional data centers, private and public cloud environments&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_8vay
+                    jcr:lastModified="{Date}2018-10-25T12:53:58.174Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., April 3, 2017 Hewlett Packard Enterprise (NYSE: HPE) (&amp;quot;HPE&amp;quot;) today announced that it has successfully completed the previously announced separation of its Enterprise Services business (ES or Everett Spinco), and merged it with Computer Sciences Corporation (CSC) to create DXC Technology (DXC).&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A Stronger HPE&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The spin-merge of the ES business unlocks a stronger, more focused HPE, well positioned to compete and win in todays rapidly changing market.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As planned, HPE will now execute a clear and ambitious strategy based on three key pillars: First, making hybrid IT simple through secure, software-defined offerings that enable customers to move data seamlessly across their traditional data centers, private and public cloud environments. Second, redefining IT outside of the data center by powering the emerging intelligent edge that will run campus, branch, and Industrial IoT applications. Third, providing the world-class expertise and flexible consumption models to help customers transform their IT environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The close of this transaction leaves HPE with a crystal clear mission, tied directly to the solutions our customers and partners tell us they want most, said Meg Whitman, president and chief executive officer of Hewlett Packard Enterprise. I am also particularly proud that this transaction will deliver approximately $13.5 billion in value to HPE and its stockholders, which is almost sixty percent higher than when it was first announced last year.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Services Remains Core to HPEs Strategy&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To provide the expertise and financial services support customers need, HPE will retain and continue to invest in Pointnext, its technology services organization that draws on the expertise of more than 25,000 specialists in 80 countries to support customers across Advisory and Transformation Services, Professional Services and Operational Services. These teams collaborate with businesses worldwide to speed their adoption of emerging technologies, including cloud computing and hybrid IT, big data and analytics, the Intelligent Edge and Internet of Things (IoT).&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE will also maintain a strong relationship with DXC, with agreements in place to support current customers and to grow business over time. Meg Whitman will join the board of DXC. In addition, HPE will build valuable new partnerships with other leading IT services companies.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Transaction Delivers $13.5 billion in Value to HPE and its Stockholders&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The transaction is expected to deliver approximately $13.5 billion in value to HPE and its stockholders on an after-tax basis. This includes an equity stake in DXC for HPEs stockholders, a cash dividend payment to HPE and DXCs assumption of debt and other liabilities.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the close of the transaction, HPE stockholders received approximately 0.086 shares of common stock in the new company for each share of HPE common stock that they held since the applicable record date. As previously announced, approximately 50.1% of the outstanding shares of DXC common stock is now held by pre-merger HPE stockholders and approximately 49.9% of the outstanding shares of DXC common stock has been issued to pre-merger CSC stockholders. The total value of the equity for HPE stockholders is valued at approximately $9.5 billion.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, as a result of the transaction, HPE received a $3 billion special cash payment, with $1.5 billion earmarked for the retirement of existing debt. Also, DXC assumed $600 million of net pension liability and $400 million of existing debt, consistent with the previous descriptions of the transaction structure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Adjusts Outlook to Remove ES Financials&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As a result of the successful separation of its Enterprise Services business, HPE is adjusting its financial outlook to reflect the partial-year contribution from ES, since ES will no longer contribute to HPE financials going forward. This adjustment is consistent with HPEs normal approach following the close of a transaction.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Accordingly, HPE is adjusting its fiscal 2017 second quarter and full year outlook in connection with todays announcement. As previously disclosed, the ES transaction will impact HPEs second quarter diluted net earnings per share (EPS) by approximately $0.08, including ES-related stranded costs, and will impact fiscal 2017 diluted net EPS by approximately $0.42, including ES-related stranded costs. Other than the adjustments for the close of the transaction, HPE is maintaining its outlook.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE now expects fiscal 2017 second quarter non-GAAP diluted net EPS to be $0.33 to $0.37, from its prior outlook of $0.41 to $0.45, and fiscal 2017 non-GAAP diluted net EPS to be $1.46 to $1.56, from its prior outlook of $1.88 to $1.98. Fiscal 2017 and second quarter diluted net EPS estimates exclude after-tax costs related primarily to separation costs, restructuring charges and the amortization of intangible assets.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>From a GAAP perspective, HPE now expects the fiscal 2017 second quarter GAAP diluted net EPS to be ($0.07) ($0.03), from its prior outlook of ($0.03) to $0.01 and fiscal 2017 GAAP diluted earnings per share to be $0.27 - $0.37, from its prior outlook of $0.60 to $0.70.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Also, similar to the separation of HPE and HPI and as discussed on HPEs fiscal 2017 first quarter conference call, the spinoff of ES will likely cause a one-time non-cash GAAP-only charge in the second quarter from certain changes to HPEs legal structure. The details of these changes are still being finalized. So HPE has not incorporated the impact to its GAAP outlook, but expects them to result in a material write-down of deferred tax assets.&lt;/span>&lt;/p>&#xa;&lt;hr>&#xa;&#xa;&lt;p>&lt;b data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is an industry-leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking statements&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any projections of revenue, net earnings, net earnings per share, or other financial items; any statements of the plans, strategies and objectives of management for future operations, other statements of expectation or belief; and any statements or assumptions underlying any of the foregoing.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprises businesses; the competitive pressures faced by Hewlett Packard Enterprises businesses; risks associated with executing Hewlett Packard Enterprises strategy; the impact of macroeconomic and geopolitical trends and events; the results of the completed and ongoing divestiture transactions or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of Hewlett Packard Enterprises business) and the anticipated benefits of the transactions or of implementing the restructuring plans; and other risks that are described in Hewlett Packard Enterprises Annual Report on Form 10-K for the fiscal year ended October 31, 2016 and subsequent Quarterly Reports on Form 10-Q.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The financial information set forth in this press release, reflects estimates based on information available at this time. While Hewlett Packard Enterprise believes these estimates to be reasonable, these amounts could differ materially from reported amounts in the Hewlett Packard Enterprise Quarterly Report on Form 10-Q for the quarter ended April 30, 2017. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Use of non-GAAP financial measures&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To supplement Hewlett Packard Enterprises financial statement information presented on a GAAP basis, Hewlett Packard Enterprise provides forecasts of non-GAAP diluted net earnings per share.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>These non-GAAP financial measures are not computed in accordance with, or as an alternative to, generally accepted accounting principles in the United States. The GAAP measure most directly comparable to non-GAAP diluted net earnings per share is diluted net earnings per share.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Use and economic substance of non-GAAP financial measures used by Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Non-GAAP diluted net earnings per share consists of diluted net earnings per share excluding any charges relating to the amortization of intangible assets, restructuring charges, charges relating to the separation and divestiture transactions, acquisition and other related charges, defined benefit plan settlement charges and remeasurement benefit and valuation allowances and separation taxes, adjustments to loss from equity interest, tax indemnification adjustments and tax settlements. In addition, non-GAAP diluted net earnings per share is adjusted by the amount of additional taxes or tax benefits associated with each non-GAAP item. Hewlett Packard Enterprises management uses these non-GAAP financial measures for purposes of evaluating Hewlett Packard Enterprises historical and prospective financial performance, as well as Hewlett Packard Enterprises performance relative to its competitors. Hewlett Packard Enterprises management also uses these non-GAAP measures to further its own understanding of Hewlett Packard Enterprises segment operating performance. Hewlett Packard Enterprise believes that excluding the items mentioned above from these non-GAAP financial measures allows Hewlett Packard Enterprises management to better understand Hewlett Packard Enterprises consolidated financial performance in relation to the operating results of Hewlett Packard Enterprises segments, as Hewlett Packard Enterprises management does not believe that the excluded items are reflective of ongoing operating results.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Editorial Contact&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Kate Holderness&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;a href=&quot;mailto:corpmediarelations@hpe.com&quot;>corpmediarelations@hpe.com&lt;/a>&lt;/b>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wu6q
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hpe-announces-details-for-completion-of-spin-off-and-merger-of-its-enterprise-services-business"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Details for Completion of Spin-Off and Merger of its Enterprise Services Business"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Completion-of-Spin-Off-and-Merger.jpg"/>
+                        </contentblock_wu6q>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_i7ps
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/09/hewlett-packard-enterprise-completes-spin-off-and-merger-of-software-business-with-micro-focus"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Completes Spin-Off and Merger of Software Business with Micro Focus"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Servers-with-element.jpg"/>
+                        </contentblock_i7ps>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_usfc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/05/q2-results-summary"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Q2 Results Summary"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Q2 Results Summary"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/How_HPE_Leading.jpg"/>
+                        </contentblock_usfc>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

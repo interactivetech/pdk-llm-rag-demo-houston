@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:47:34.564Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-and-docker-partner-to-power-distributed-applications-across-hybrid-infrastructure"
+        jcr:uuid="947db456-f269-4af8-805e-e136672f3e61"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:55.000-07:00"
+        mediaContactEmail="erik.denny@hpe.com"
+        mediaContactName="Erik Denny, HPE"
+        metaDescription="Hewlett Packard Enterprise and Docker Partner to Power Distributed Applications Across Hybrid Infrastructure"
+        navTitle="Hewlett Packard Enterprise and Docker Partner to Power Distributed Applications Across Hybrid Infrastructure"
+        pageTitle="Hewlett Packard Enterprise and Docker Partner to Power Distributed Applications Across Hybrid Infrastructure"
+        priority="(None)"
+        subtitle="Ground breaking agreement provides the industry's first HPE Docker ready server and infrastructure portfolio, extending the reach of distributed applications to modernize the enterprise datacenter"
+        theme="dark"
+        UAID="6e0559b1-df71-4608-b2df-f40335c84cc3"
+        UCID="1c215a8e-3102-43e4-9648-976a45cec372"
+        WPID="1314">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T09:00:35.201Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 7, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Ground breaking agreement provides the industry's first HPE Docker ready server and infrastructure portfolio, extending the reach of distributed applications to modernize the enterprise datacenter&lt;/h2>"
+                    topPadding="30"/>
+                <imageonlycomponent_9
+                    jcr:created="{Date}2018-10-23T08:54:35.506Z"
+                    jcr:createdBy="adrian.popescu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-23T09:00:06.035Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Docker-Strategic-Alliance.png"
+                    imageAlignment="hpe-image-left"
+                    imageAltText="Docker Strategic Alliance: Modernizing the Enterprise Datacenter (HPE)"
+                    isVideo="true"
+                    videoId="Nvm7WdjIYso"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_t16q
+                    jcr:lastModified="{Date}2018-10-23T09:02:25.069Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, June 7, 2016 Today, &lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot;>Hewlett Packard Enterprise&lt;/a> (NYSE: HPE) announced a strategic alliance with &lt;a href=&quot;https://www.docker.com/&quot;>Docker, Inc.&lt;/a>, the company behind the open platform that enables organizations to build, ship and run distributed applications on any infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Through a joint worldwide enterprise alliance agreement covering sales, go-to-market, engineering, support, services and knowledge sharing, HPE and Docker are collaborating to help customers transform and modernize their datacenters to benefit from a more agile development environment. At the heart of this alliance is HPEs Docker ready server program, unique to the server industry, which ensures HPE servers are bundled with Docker Engine and support. This enables customers to create distributed applications that are portable across any infrastructure. By combining the strength of the number one cloud infrastructure provider with the leader in containerization, HPE and Docker will deliver hybrid infrastructure solutions and an application portfolio ranging from legacy to microservices applications, fully supported by HPE.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In order to survive and thrive in the idea economy, companies must transform the IT experience so that lines of business and developers can innovate faster, smarter and fearlessly, said Antonio Neri, executive vice president and general manager, Enterprise Group, Hewlett Packard Enterprise. Hewlett Packard Enterprise is innovating across its entire datacenter portfolio to help customers with that transformation. Together with Docker, we are making it easier for IT to deploy and manage containers, while giving organizations solutions that optimize their investments and power a new generation of applications that are the business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>By 2018, more than 50 percent of new workloads will be deployed into containers in at least one stage of the application life cycle.&lt;sup>1&lt;/sup> The joint HPE and Docker solutions will help fuel this trend by delivering HPEs &lt;a href=&quot;/content/hpe/base/blueprint/solutions/infrastructure/composable-infrastructure.html&quot;>Composable Infrastructure&lt;/a> combined with Dockers Container-as-a-Service (CaaS) approach to provide the kind of predictability and management enterprise IT expects. This will be accomplished by the creation of a bi-directional application lifecycle that fosters a shared partnership between developers and operations teams.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The default availability of Dockers technology on every HPE server and HPEs hyper-converged platform enables enterprises to take advantage of the benefits of containerization while leveraging their investments in existing systems and process, said Ben Golub, CEO of Docker. Having a strategic alliance that starts with Docker Engine but extends to include our commercial end-to-end platform, Docker Datacenter, provides HPE customers with a comprehensive solution that covers all of their requirements over time. Enterprises leveraging this joint solution can achieve immediate efficiencies while focusing on existing applications, which can include a 20X optimization on their infrastructure, while shipping their applications 13X faster.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As part of the strategic alliance, HPE and Docker will deliver unique, value-added, commercial solutions and services through all major HPE channels, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Docker ready HPE Servers&lt;/b> HPE will offer pre-configured server platforms ready for Docker Engine and Docker containers. These pre-tested server models, including HPE ProLiant, HPE Apollo and HPE Cloudline, will be delivered ready for container environments, resulting in greater optimization of hardware, improved time-to-application performance and greater portability.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Docker ready Converged and Composable HPE Systems&lt;/b> HPE Synergy, HPE BladeSystem and HPE Converged System come ready for Docker deployments across compute and are integrated for storage and interconnect for simplified deployment and scalability. In addition, customers can deploy Docker in hyper-converged environments to enable DevOps in virtualization clusters.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Joint go-to-market for Docker Datacenter&lt;/b> Organizations looking to build, ship and run Docker at scale in multiple different environments will be able to do so using&lt;a href=&quot;http://www.docker.com/products/docker-datacenter&quot;> Docker Datacenter&lt;/a>. HPE and Docker will work together on joint sales and support programs across HPE customers and channel partners, as well as ensuring that Docker Datacenter works seamlessly for containerized applications deployed across public cloud, composable infrastructure, hyperconverged infrastructure, converged storage and Docker ready HPE servers.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Enterprise-grade Docker support and consulting services&lt;/b> HPE now offers technology assessments, design and implementation services for Docker containers and microservices (platform security, workload modernization consulting). In addition, HPE will provide a single source of enterprise-grade support for Docker in alignment with HPEs technology solutions with a single point of contact for access to a global network of specialists, 24x7.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE and Docker are collaborating to introduce new HPE container-enabled technologies that are integrated and tested with Docker, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Reference Configuration for Docker Datacenter on HPE Hyper Converged 380&lt;/b> Describes how quickly customers can deploy Docker Datacenter in a production environment by leveraging the Hyper Converged 380s virtual machine vending capabilities. It also describes how to leverage HPE SiteScope and HPE AppDefender to monitor and protect Dockerized applications in production.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Reference Architecture for Docker Datacenter for the Converged Architecture 700&lt;/b> Provides one consistent management view for adopting private cloud and container environments. Customers can start with a small proof of concept and easily grow to an enterprise scale production private cloud environment using HPE technologies.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Docker-integrated Native Volume Plugin for HPE 3PAR StoreServ all-flash arrays&lt;/b> Flash-optimized HPE 3PAR StoreServ arrays provide persistent storage for container environments via a new Docker-integrated Native Volume Plugin. This native plug-in adds to customer choice and flexibility by enabling the use of HPE 3PAR StoreServ arrays as the underlying storage for non-VM (or bare-metal) container environments where containerized applications require persistent storage, such as SQL databases.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Docker-integrated Networking&lt;/b> The addition of Docker container support to the HPE Distributed Cloud Networking (DCN) solution enables dynamic programmability of heterogeneous and HPE FlexFabric network infrastructures, reducing time for application deployment from months to minutes.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Docker-integrated HPE SiteScope&lt;/b> HPE SiteScope is an agentless software for monitoring the availability and performance of distributed applications and IT infrastructure. HPE SiteScopes enables monitoring of the health and performance of Docker nodes or clusters in a Dockerized environment from the cluster manager level, to the Docker daemon layer, to the container level, including the applications running inside the containers.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Docker-integrated HPE OneView&lt;/b> &lt;b>&lt;/b> Through the integration of the unified API in HPE OneView, customers can quickly deploy and manage the infrastructure that Docker Engine, and Docker containers run on.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Linux Docker support&lt;/b> The HPE Linux distribution is now a supported operating system by Docker. Dockers support of HPE Linux gives customers more options to use the Linux flavor of their choice with Docker.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Finally, HPE is making investments to Docker-enable its cloud and software portfolio through the use of application programming interfaces (APIs), the Docker plugin framework and Docker Datacenter development licenses, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE AppDefender&lt;/b> Delivers runtime protection for application security in a Docker environment to prevent security by protecting production applications from the inside, across all levels of a software stack.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Operations Bridge monitoring&lt;/b> Delivers comprehensive monitoring of Docker containers and as well as the payloads running in the containers.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>CMS and Universal Directory configuration management&lt;/b> CMS can discover and display information related to Docker topology, including Docker Application, Docker Container, Docker Image, Docker Image Template, Docker Registry, Docker Volume and more.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE Helion Cloud Suite&lt;/b> Provides a full range of hybrid cloud capabilities in a single software offering. HPE Helion Cloud Suite includes full-stack automation to enable rapid delivery of IT services and applications, as well as a complete development environment with HPE Helion Stackato, supporting DevOps processes for traditional and cloud-native applications.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>General availability of the Docker ready HPE Servers including HPE ProLiant, HPE Apollo and HPE Cloudline and Docker-integrated Converged and Composable HPE Systems are targeted for the fourth quarter of 2016. Docker-integrated solutions spanning HPEs storage, networking and software assets are available today.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;sup>1&lt;/sup> Gartner: Containers Will Change Your Data Center Infrastructure and Operations Strategy, 28 March 2016&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement&lt;/b>&lt;br>&#xa; The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprises businesses; the competitive pressures faced by Hewlett Packard Enterprises businesses; risks associated with executing Hewlett Packard Enterprises strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprises filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_tplb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/fact-sheet-hpe-synergy-and-hpe-oneview-enhancements"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Fact Sheet: HPE Synergy and HPE OneView Enhancements"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Fact Sheet: HPE Synergy and HPE OneView Enhancements"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-2.jpg"/>
+                        </contentblock_tplb>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_sbfs
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-announces-global-reseller-agreement-with-mesosphere"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Announces Global Reseller Agreement with Mesosphere"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Announces Global Reseller Agreement with Mesosphere"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/AgreementWithMesophere_web.jpg"/>
+                        </contentblock_sbfs>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_93kr
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/05/hpe-announces-collaboration-with-red-hat-to-optimize-and-accelerate-containers-in-production"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Announces Collaboration with Red Hat to Optimize and Accelerate Containers in Production"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/05/image-norend/NewsroomRedesignTemplate_image7.jpg"/>
+                        </contentblock_93kr>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

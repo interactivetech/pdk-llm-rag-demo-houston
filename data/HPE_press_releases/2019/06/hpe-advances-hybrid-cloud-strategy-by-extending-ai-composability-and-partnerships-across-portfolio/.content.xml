@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T23:36:07.599Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+        jcr:uuid="e60358ce-786e-4fc2-a33c-4ff7677f5e78"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-06-18T09:00:00.000-07:00"
+        metaDescription="Empowers customers to build digital transformation with automation, choice, optimized workloads, and a consistent experience"
+        metaKeywords="Hybrid cloud, hyperconverged, composability, composable, disaggregated, HCI, digital transformation"
+        metaOgImage="/content/dam/hpe/newsroom/2019/06/image-norend/hpe-advances-hybrid-cloud-strategy-by-extending-ai-composability-and-par....jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+        pageTitle="HPE advances hybrid cloud strategy by extending AI, composability and partnerships across portfolio"
+        priority="(None)"
+        socialDescription="Empowers customers to build digital transformation with automation, choice, optimized workloads, and a consistent experience"
+        subtitle="Empowers customers to build digital transformation with automation, choice, optimized workloads, and a consistent experience"
+        theme="dark"
+        UAID="6e546dfa-de02-4a71-bfca-bd7c498f6b42"
+        UCID="e4feb2f1-0745-4e7b-9ed2-0ba98c848315">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-06-18T14:30:48.612Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-18T14:31:23.628Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/hpe-advances-hybrid-cloud-strategy-by-extending-ai-composability-and-par....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-18T16:14:56.438Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE continues expansion of its hybrid cloud portfolio with enhanced automation, more choice, workload-optimized solutions, and a consistent experience across clouds&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is integrating HPE InfoSight AI operations into HPE SimpliVity to simplify virtual machine management and free IT staff to focus on innovation&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Nimble Storage dHCI radically simplifies VM management and a resilient architecture that delivers 99.9999% data availability and sub-milliseconds of latency&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE and Google Cloud unveil a collaboration to deliver a true hybrid cloud for containers – with choice for as-a-Service delivery&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_de
+                    jcr:created="{Date}2019-06-18T14:33:01.151Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-06-18T14:33:23.116Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Empowers customers to build digital transformation with automation, choice, optimized workloads, and a consistent experience&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-10-25T19:02:54.552Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS, NV – June 18, 2019&lt;/b> – &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) today announced the continued expansion of its &lt;a href=&quot;https://www.hpe.com/us/en/solutions/cloud.html&quot; target=&quot;_blank&quot;>hybrid cloud&lt;/a> portfolio with enhanced automation, more choice, workload-optimized solutions, and a consistent experience across clouds. These updates include extending AI-driven operations and composability across its portfolio, adding new workload-optimized infrastructure, and expanding choice of clouds through new partnerships with Google Cloud and Equinix.&lt;br>&#xa; &lt;br>&#xa; Businesses embracing digital transformation are moving critical workloads to the cloud, and are looking to tap an increasingly diverse portfolio of intelligent and automation services, and infrastructure platforms that simplify choice to improve their cloud experience. Organizations are making investments in multiple clouds, but they’re lacking operational consistency. In addition, all this data and technology, regardless of deployment model, needs to be managed and organizations are rapidly approaching limitations without automation. They need to bridge the physical and multiple cloud worlds to achieve agility and scale, and keep pace with today’s data-driven businesses.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_8cc6
+                    jcr:created="{Date}2019-06-18T14:34:58.164Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2021-04-20T15:41:48.767Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Organizations are making investments in multiple clouds, but they’re lacking operational consistency&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2021-04-20T15:41:48.767Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_8cc6>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-06-18T14:39:46.628Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“HPE has been at the forefront of this new data paradigm,” said Phil Davis, President of Hybrid IT and Chief Sales Officer, HPE. “To scale and grow without bounds, HPE provides the hybrid cloud path for customers with advanced analytics and machine learning that removes the burden of managing infrastructure, enables digital transformation, and accelerates growth. Together, automation and composability can support business objectives, increase efficiency, and enable organizations to be more competitive.”&lt;br>&#xa; &lt;b>&lt;br>&#xa;Broadening HPE’s composable portfolio&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE introduced composable infrastructure three years ago and has achieved tremendous growth with its flagship HPE Synergy offering—with 78% year-over-year growth and over 3,000 customers. HPE composable infrastructure uniquely provides a consistent operating model for virtualized, containerized, and bare-metal applications, to enable customers to compose fluid pools of compute, storage and networking with their choice of software stacks. Customers using HPE Synergy benefit from:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>25%&lt;/b> lower IT infrastructure costs by eliminating over-provisioning and stranded capacity&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>71%&lt;/b> less staff time per server deployment and &lt;b>30%&lt;/b> higher application team productivity by increasing operational efficiency and rapid deployment of IT resources&lt;br>&#xa; &lt;br>&#xa; &lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>60%&lt;/b> more efficient IT infrastructure teams by reducing complexity and manual tasks&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"/>
+                <textonlycomponent_5d
+                    jcr:created="{Date}2018-06-18T09:21:51.280-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-07-08T20:40:20.125Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, HPE is extending its composable strategy to enable IT organizations to transform existing HPE ProLiant DL 360/380/560 Gen10 rack-based servers into composable infrastructure to deliver automated deployment, scale, and management for any workload. HPE’s enhanced &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/blog-post/2019/01/keeping-it-simple-across-the-customer-enterprise-and-ours.html&quot; target=&quot;_blank&quot;>Composable Cloud&lt;/a> solution, built on HPE OneView IT infrastructure management and HPE Composable Fabric networking solution, will enable existing and new HPE ProLiant DL customers to quickly deploy and scale workloads across a composable rack environment, and support their choice of cloud, virtualization, or container stacks.&amp;nbsp; This allows customers to protect their investment in their infrastructure platforms.&lt;br>&#xa; &lt;br>&#xa; In addition to providing customers the ability to deploy their choice of HPE physical storage or VMware vSAN software-defined storage, HPE’s composable portfolio now supports HPE SimpliVity hyperconverged infrastructure (HCI). With HPE SimpliVity, customers can deploy a pool of HCI nodes alone or alongside other storage, benefitting from HPE SimpliVity’s always-on deduplication and compression that drives capacity and bandwidth efficiency, and built-in backup/recovery and disaster recovery.&lt;br>&#xa; &lt;b>&lt;br>&#xa;Enhancing and expanding HCI&lt;br>&#xa; &lt;br>&#xa; &lt;/b>HPE SimpliVity is the innovative &lt;a href=&quot;https://www.hpe.com/us/en/integrated-systems/hyper-converged.html&quot; target=&quot;_blank&quot;>hyperconverged infrastructure platform&lt;/a> for data center virtualization and edge workloads, with rapid 105.3% year-over-year growth&lt;sup>2&lt;/sup>. Today, HPE is enhancing its premier HPE SimpliVity HCI offering, as well as extending a hyperconverged experience to a converged architecture.&lt;br>&#xa; &lt;br>&#xa; HPE is integrating HPE InfoSight AI operations into HPE SimpliVity to simplify virtual machine management and free IT staff to focus on innovation.&lt;b> &lt;/b>Together, HPE SimpliVity and&lt;b> &lt;/b>HPE InfoSight, the industry’s most advanced AI for infrastructure, provides customers with global visibility into detailed system, performance, and capacity utilization—enabling predictive data analytics and recommendations for system and performance optimization.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-04-20T15:42:05.386Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE has been at the forefront of this new data paradigm&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2021-04-20T15:42:05.386Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-04-20T15:43:03.990Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today’s announcement follows &lt;a href=&quot;https://community.hpe.com/t5/Shifting-to-Software-Defined/Newest-HPE-SimpliVity-innovations-deliver-hyperconverged/ba-p/7048344&quot; target=&quot;_blank&quot;>several enhancements for edge and remote office use cases in HPE SimpliVity&lt;/a>, including:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>The new HPE SimpliVity 325&lt;/b> model that’s ideal for remote offices or space-constrained locations&lt;b> &lt;/b>and provides&lt;b> &lt;/b>a highly dense, scalable 1U enclosure with an AMD EPYC single CPU processor and all-flash storage&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>The new HPE SimpliVity 380 storage-optimized node&lt;/b> that provides long-term storage&lt;b>, &lt;/b>with a large-capacity system to centrally aggregate copies from multi-site HPE SimpliVity implementations&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Automated configuration of Aruba switches&lt;/b> during deployment of new HPE SimpliVity HCI nodes&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2021-04-20T15:42:52.362Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>For organizations with demanding applications, such as business-critical database and data warehouse applications, HPE is introducing &lt;a href=&quot;https://community.hpe.com/t5/Around-the-Storage-Block/Give-me-more-hyperconverged-please/ba-p/7050469&quot; target=&quot;_blank&quot;>HPE Nimble Storage dHCI,&lt;/a> a disaggregated hyperconverged infrastructure (dHCI) platform that brings the simplicity of hyperconverged with the flexibility of a converged system. The new solution integrates hyperconverged control with the self-managing experience of HPE Nimble Storage and the world’s best-selling server, HPE ProLiant.&lt;br />&#xd;&#xa; &lt;br />&#xd;&#xa; HPE Nimble Storage dHCI radically simplifies VM management with the flexibility to independently scale compute and storage, and a resilient architecture that delivers 99.9999% data availability and sub-milliseconds of latency. Powered with HPE InfoSight, HPE Nimble Storage dHCI is an intelligent platform that enables enterprises to deploy apps faster, support demanding apps, and optimize time and resources.&lt;br />&#xd;&#xa; &lt;br />&#xd;&#xa; As part of an ongoing collaboration between HPE and Equinix, customers using Equinix data center facilities who are seeking cloud-based test and development, backup and recovery, or disaster recovery capabilities, will be able to transact in the Equinix Marketplace to get Data as a Service based on HPE Cloud Volumes. HPE Cloud Volumes will be available over high-speed connectivity to compute in Equinix data centers.&lt;br />&#xd;&#xa; &lt;b>&lt;br />&#xd;&#xa;HPE and Google Cloud Expand Strategic Partnership to Deliver True Hybrid Cloud for Containers&lt;br />&#xd;&#xa; &lt;br />&#xd;&#xa; &lt;/b>HPE and Google Cloud have expanded their strategic partnership to provide customers with hybrid cloud solutions. Building on the HPE Validated Designs that were &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/04/hpe-and-google-cloud-partner-to-simplify-hybrid-cloud.html&quot; target=&quot;_blank&quot;>announced&lt;/a> in April 2019, HPE and Google Cloud are unveiling a collaboration to deliver a &lt;a href=&quot;https://community.hpe.com/t5/Around-the-Storage-Block/Introducing-True-hybrid-cloud-for-containers/ba-p/7050851&quot; target=&quot;_blank&quot;>true hybrid cloud for containers&lt;/a> – with choice for as-a-Service delivery. In addition, HPE will offer advisory and professional services to accelerate hybrid cloud adoption.&lt;br />&#xd;&#xa; &lt;br />&#xd;&#xa; The true hybrid cloud solution features Google Cloud’s Anthos in combination with HPE’s on-premises infrastructure, HPE Cloud Data Services, and HPE GreenLake.&lt;br />&#xd;&#xa; &lt;br />&#xd;&#xa; The combined offering brings together Google Cloud’s Anthos with HPE ProLiant and HPE Nimble Storage on-premises. And, coming in Q3FY19, HPE Cloud Volumes to provide a storage service for Google Cloud Platform and other public clouds. In addition, HPE plans to offer HPE GreenLake for Google Cloud’s Anthos to provide the entire hybrid cloud, as-a-Service.&lt;br />&#xd;&#xa; &lt;br />&#xd;&#xa; This true hybrid cloud solution brings unique value to IT with bi-directional data and application workload mobility, multi-cloud flexibility, unified hybrid management, and the choice to consume the hybrid cloud as-a-Service.&lt;br />&#xd;&#xa; &lt;br />&#xd;&#xa; True hybrid cloud enables key use cases including modernizing applications into container-based deployments, empowering developers to develop in the cloud with the flexibility to deploy the application on-premises, protecting to the cloud and recovering in the cloud, and delivering the flexibility to run applications in multiple clouds.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_18
+                    jcr:created="{Date}2019-06-18T14:47:26.632Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2021-04-20T15:43:30.821Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Product availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;>&#xd;&#xa;&lt;tbody>&lt;tr>&lt;td width=&quot;318&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Composable Cloud upgrade path &lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;td width=&quot;126&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>August 2019&lt;sup>3&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;318&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE SimpliVity with HPE InfoSight &lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;td width=&quot;126&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>August 2019&lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;318&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Nimble dHCI&lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;td width=&quot;126&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>FQ4 2019&lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;318&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Cloud Volumes support for Google Cloud Platform&lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;td width=&quot;126&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>Summer 2019&lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;/tr>&lt;tr>&lt;td width=&quot;318&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Cloud Volumes in Equinix Marketplace &lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;td width=&quot;126&quot; valign=&quot;top&quot;>&lt;p>&lt;span class=&quot;body-copy-large&quot;>FQ3 2019&lt;/span>&lt;/p>&#xd;&#xa;&lt;/td>&#xd;&#xa;&lt;/tr>&lt;/tbody>&lt;/table>&#xd;&#xa;&lt;p> &lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> IDC, &lt;i>Generating Business Value Through IT Agility Using HPE Synergy&lt;/i>, Feb 2019.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> IDC, &lt;i>IDC Worldwide Quarterly Converged Systems Tracker&lt;/i>, April 2019&lt;b>&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>3&lt;/sup> In the United States, United Kingdom, Ireland, France, Germany, and Australia&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;b> &lt;/b>&lt;/p>&#xd;&#xa;"
+                    topPadding="20"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-18T14:57:42.140Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/04/hpe-and-google-cloud-partner-to-simplify-hybrid-cloud"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE and Google Cloud partner to simplify hybrid cloud"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Google Cloud partner to simplify hybrid cloud"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-18T14:57:42.140Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-google-cloud-partner-to-simplify-hybrid-cloud.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-18T14:57:42.140Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-06-18T14:59:20.372Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/04/two-groundbreaking-partnerships-help-simplify-the-pathway-to-hybrid-cloud"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Two groundbreaking partnerships help simplify the pathway to hybrid cloud"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Two groundbreaking partnerships help simplify the pathway to hybrid cloud"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-18T14:59:20.372Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/two-groundbreaking-partnerships-help-simplify-the-pathway-to-hybrid-cloud.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-18T14:59:20.372Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-06-18T15:00:48.189Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/04/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE and Nutanix sign global agreement to deliver hybrid cloud as a service"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-06-18T15:00:48.189Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/hpe-and-nutanix-sign-global-agreement-to-deliver-hybrid-cloud-as-a-service.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-06-18T15:00:48.189Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-06-18T16:57:39.870Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:25:12.156Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---customers,hpe-newsroom:categories/industry---energy,hpe-newsroom:categories/csr,hpe-newsroom:categories/networking]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-triples-performance-and-enhances-energy-efficiency-in-new-supercomputer-for-national-renewable-energy-laboratory-nrel"
+        jcr:uuid="2c265c1c-731f-4b89-98cc-aec5d5ecc019"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-08-14T11:00:25.000-07:00"
+        metaDescription="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+        metaKeywords="HPE, Hewlett Packard Enterprise, NREL, National Renewable Energy Laboratory, supercomputer, HPC, high performance computing, data center, energy consumption, U.S. Department of Energy, DOE, HPE SGI 8600"
+        navTitle="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+        pageTitle="HPE triples performance and enhances energy efficiency in new supercomputer for National Renewable Energy Laboratory (NREL)"
+        priority="(None)"
+        subtitle="New fast-performing system enables NREL to further its mission of advancing energy efficiency"
+        theme="dark"
+        UAID="dd8978c6-1cfa-461d-9c25-20c6f667927d"
+        UCID="bac9ead7-e9cc-4587-9514-b1113734027f"
+        webSectionId="R11989"
+        WPID="201384">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 14, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T19:00:55.494Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/HPE-Triples-Performance-and-Enhances-Energy-Efficiency-in-New-Supercomputer-for-National-Renewable-Energy-Laboratory-NREL.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-30T14:09:14.823Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The new supercomputer, called Eagle, will advance early research and development on energy technologies across fields including vehicle, wind power, and data sciences&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Eagle is fast-performing and doesnt consume additional energy, capturing 97 percent wasted heat to reuse in other facility areas&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is supporting NRELs ongoing mission to significantly improve energy consumption and widen its sustainability practices&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-16T23:08:32.103Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New fast-performing system enables NREL to further its mission of advancing energy efficiency&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_itih
+                    jcr:lastModified="{Date}2018-10-30T14:09:10.825Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise (HPE)&lt;/a>&lt;br>&#xa; announced today it is building a new supercomputer for the &lt;a href=&quot;https://www.nrel.gov/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>National Renewable Energy Laboratory (NREL)&lt;/a> that is more energy efficient and 3.5 times more powerful than its existing system. The new development is part of a long-standing collaboration between HPE and the U.S. Department of Energy (DOE) to apply advanced supercomputing and HPC solutions to accelerate research across various DOE agencies. The new, fast-performing system, which NREL has named Eagle, will run more detailed models that simulate complex processes, systems, and phenomena to advance early research and development on energy technologies across fields including vehicle, wind power, and data sciences.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;As computing advances and supercomputers increasingly adopt scalable performance, the industry will continue to combat energy consumption to lower operating costs and pollution levels. HPE is committed to designing innovative energy-efficient solutions for next-generation high performance computing technologies. Through collaborative efforts with NREL, from an &lt;a href=&quot;https://community.hpe.com/t5/Servers-The-Right-Compute/HPE-and-NREL-Take-Steps-to-Create-a-Sustainable-Energy-Efficient/ba-p/6992638#.W2i40tJKg2w&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>initiative to enable data centers with hydrogen fuel cell&lt;/a> to the new Eagle system, HPE is powering smarter, energy-conscious data center environments.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_6par
+                    jcr:lastModified="{Date}2018-10-15T19:23:01.225Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is powering the worlds largest HPC system for advancing energy efficiency technologies&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T19:23:01.225Z"
+                        jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_6par>
+                <textonlycomponent_kynv
+                    jcr:lastModified="{Date}2018-10-30T14:09:05.469Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>With Eagle, the worlds largest HPC system dedicated to advancing renewable energy and energy efficiency technologies, HPE is supporting NRELs ongoing mission to significantly improve energy consumption and widen its sustainability practices. Eagle is powered by the &lt;a href=&quot;https://www.hpe.com/us/en/product-catalog/servers/proliant-servers/pip.hpe-sgi-8600-system.1010032504.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPE SGI 8600&lt;/a>, a system designed from the ground up to run complex HPC workloads at petaflop speeds or a quadrillion (thousand trillion) floating point operations per second (FLOPS). Additionally, with the HPE SGI 8600, Eagle is gaining a warm liquid cooling system that captures 97 percent of wasted heat to reuse in other areas of its hosted facility like surrounding office space and labs.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;We are strongly committed to architecting technologies that power the next wave of supercomputing and are creating advanced HPC systems while scaling energy efficiency in data centers, to get us there, said Bill Mannel, vice president and general manager, HPC and AI Group, HPE. Through Eagle and our overall ongoing collaboration with the U.S. DOE and NREL, we are advancing research to bolster innovation in energy and sustainability.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_bc1o
+                    jcr:lastModified="{Date}2018-10-16T00:06:57.306Z"
+                    jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>We are supporting NRELs mission to improve its energy consumption and sustainability practices&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-16T00:06:57.306Z"
+                        jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_bc1o>
+                <textonlycomponent_w2or
+                    jcr:lastModified="{Date}2018-10-30T14:09:00.434Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is enabling Eagle with a fully integrated, turn-key system that includes advanced next-generation compute, network and storage capabilities. The system runs on the Intel Xeon Scalable processors, uses Mellanox EDR InfiniBand fabric and comprises a total of 76,104 compute cores, 2,144 dual-socket computes nodes, each with memory ranging from 96 to 768 gigabytes (GB), delivering a peak performance of 8 petaflops.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With Eagle, we are gaining significant compute power to boost scientific discovery efforts and support our mission in advancing innovation in energy technologies, said Steve Hammond, director of NRELs Computational Science Center. By collaborating with HPE, we are gaining better tools to improve simulation and modeling across complex events to unlock new insights.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Eagle will be installed in NRELs Energy System Integration Facility (ESIF) data center this summer and put into production use in January 2019.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For additional insight into HPEs HPC offerings and industry collaborations, please visit &lt;a href=&quot;/content/hpe/base/blueprint/solutions/hpc-high-performance-computing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>HPEs High Performance Computing Solutions&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa;&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ol>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Eagle has a peak performance of 8 petaflops, which is 3.5x more powerful compared to existing NREL Peregrine system with 2.26 petaflops.Until Eagle, Peregrine was the largest HPC system dedicated to advancing renewable energy and energy efficiency technologies. Source: &lt;a href=&quot;https://www.nrel.gov/computational-science/hpc-user-facility.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>https://www.nrel.gov/computational-science/hpc-user-facility.html&lt;/a>&lt;br>&#xa;&lt;br>&#xa;&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Data based on U.S. DOE Eagle announcement - available on 8/14/18&lt;/span>&lt;/li>&#xa;&lt;/ol>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ptge
+                            jcr:lastModified="{Date}2018-10-16T00:09:07.077Z"
+                            jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/hpe-delivers-worlds-largest-arm-supercomputer-for-u-s-department-of-energy-doe"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Delivers Worlds Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Worlds Largest Arm Supercomputer for U.S. Department of Energy (DOE)"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-16T00:09:07.077Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Delivers-World’s-Largest-Arm-Supercomputer-for-U.S.-Department-of-Energy-DOE.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-16T00:09:07.077Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_ptge>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_964c
+                            jcr:created="{Date}2018-10-16T21:11:34.004Z"
+                            jcr:createdBy="sahira.arias-cerda@hpe.com"
+                            jcr:lastModified="{Date}2018-10-16T22:12:27.176Z"
+                            jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="https://community.hpe.com/t5/Servers-The-Right-Compute/HPE-and-NREL-Take-Steps-to-Create-a-Sustainable-Energy-Efficient/ba-p/6992638#.W3Lk1vkrJhF"
+                            description="&lt;p>Servers: The Right Compute&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE and NREL Take Steps to Create a Sustainable, Energy-Efficient Data Center with an H2 Fuel Cell"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Right Compute"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-16T22:12:27.176Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/HPE-and-NREL-Take-Steps-to-Create-a-Sustainable-Energy-Efficient-Data-Center-with-an-H2-Fuel-Cell.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-16T22:12:27.176Z"
+                                jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_964c>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_2d79
+                            jcr:created="{Date}2018-10-16T21:09:47.392Z"
+                            jcr:createdBy="sahira.arias-cerda@hpe.com"
+                            jcr:lastModified="{Date}2018-10-16T21:09:47.392Z"
+                            jcr:lastModifiedBy="sahira.arias-cerda@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/02/hpe-helps-u-s-department-of-defense-to-advance-national-defense-capabilities"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps U.S. Department of Defense to Advance National Defense Capabilities"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/02/image-norend/HPE-Helps-U.S.-Department-of-Defense-to-Advance-National-Defense-Capabilities.png"/>
+                        </contentblock_2d79>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

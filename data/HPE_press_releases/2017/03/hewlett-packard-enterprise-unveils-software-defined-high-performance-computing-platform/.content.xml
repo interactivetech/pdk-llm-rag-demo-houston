@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T09:45:50.596Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/networking,hpe-newsroom:categories/mergers-and-acquisitions]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-unveils-software-defined-high-performance-computing-platform"
+        jcr:uuid="fa1c4573-26f4-4f79-877c-e87acdd7d09a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:57:29.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Unveils Software Defined High-Performance Computing Platform"
+        navTitle="Hewlett Packard Enterprise Unveils Software Defined High-Performance Computing Platform"
+        pageTitle="Hewlett Packard Enterprise Unveils Software Defined High-Performance Computing Platform"
+        priority="(None)"
+        subtitle="New Software Platform Delivers Simplicity, Speed and Flexibility"
+        theme="dark"
+        UAID="e60b476b-5765-47ff-9736-17809711c521"
+        UCID="0e8f3e0e-c34e-432f-9320-ec647001016d"
+        WPID="1300">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T12:22:35.653Z"
+                jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 20, 2016 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Software Platform Delivers Simplicity, Speed and Flexibility&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_e1vm
+                    jcr:lastModified="{Date}2018-10-23T12:38:01.651Z"
+                    jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Jun 20, 2016) - Today, Hewlett Packard Enterprise (NYSE: HPE) announced new high-performance computing (HPC) solutions, including a comprehensive software-defined platform, enhancements to its Apollo servers, as well as, a new ANSYS computer-aided engineering (CAE) software based solution designed to help manufacturing organizations optimize their design simulation deployments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Once the domain of academics and research institutions, HPC is rapidly making its way into industries like energy, life sciences, financial services and manufacturing. While organizations in these industries recognize the technology's strategic importance, perceived complexity and diversity of HPC environments may appear to outweigh the business benefits. Today's HPE announcement dramatically simplifies the deployment and management of HPC solutions, ensuring companies of all sizes can now accelerate their HPC projects and create competitive differentiation for their business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;As the global HPC market leader with 35.9 percent market share HPE is upping the ante with new additions to its already-large HPE Apollo portfolio of purpose-built solutions,&amp;quot; said Steve Conway, Research Vice President in IDC's High Performance Computing group.&amp;quot;These innovative solutions aim to accelerate HPC adoption by organizations of all sizes and segments by enabling faster time to value and increased competitive differentiation through better parallel processing performance, along with reduced complexity and deployment time.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New Software-Defined Platform for HPC&lt;br>&#xa; &lt;/b>To simplify and accelerate the configuration, deployment and management of clusters for HPC, HPE is introducing a highly flexible, simple and comprehensive software-defined platform for HPC using the new &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714824&amp;amp;type=1&amp;amp;url=https%3a%2f%2fh20392.www2.hpe.com%2fportal%2fswdepot%2fdisplayProductInfo.do%3fproductNumber%3dHPCSS&quot;>HPE Core HPC Software Stack&lt;/a> with &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714827&amp;amp;type=1&amp;amp;url=https%3a%2f%2fh20392.www2.hpe.com%2fportal%2fswdepot%2fdisplayProductInfo.do%3fproductNumber%3dINSIGHTCMUSW&quot;>HPE Insight Cluster Management Utility v8.0&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Designed to meet the needs of server cluster environments that may need to scale to thousands of compute nodes, the HPE Core HPC Software Stack is a pre-integrated, pre-tested single software suite that combines open source-based application development tools, libraries, and compilers with HPE cluster management capabilities including HPE iLO and simple cluster set up tools. This suite enables developers, IT administrators, engineers and researchers to quickly and easily develop, test, deploy and manage their HPC environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;As a leading research institution focused on applied research in the life sciences industry, we are under continuous pressure to optimize our HPC operations to meet the demanding needs of our users,&amp;quot; said Peter Longreen, COO National Life Science Supercomputer, Technical University of Denmark, Deputy head ELIXIR Denmark. &amp;quot;HPE Insight CMU has provided us with comprehensive functionality to effectively manage our large cluster environment with rapid bare metal provisioning, simple monitoring with remote management and easy integration with a wide variety of cluster components.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPC Systems Design Innovation (Apollo 2000 and Apollo 6000) &lt;br>&#xa; &lt;/b>Complementing the new HPE Core HPC software suite to accelerate the performance of customers' HPC workloads and reduce the complexity of their infrastructure, HPE is introducing systems innovations that build on the latest technologies from the HPE Apollo technology partner ecosystem. These new system capabilities are designed to be managed by the HPE Core HPC Software Stack.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is further enhancing the software defined Apollo HPC platform by introducing systems design innovations for the Apollo 6000 system with new &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714830&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fservers%2fapollo.html&quot;>HPE ProLiant XL260a server trays&lt;/a> based on the next generation of the Intel Xeon Phi processor family and the Intel Omni-Path Architecture (Intel OPA) to reduce latency, and increase bandwidth and performance. HPE is also enhancing the Apollo 2000 system and ProLiant DL server platforms with Intel OPA fabric options. By combining these latest advancements in Intel Scalable System Framework with the scalability, flexibility and manageability of the HPE Apollo portfolio, customers will gain new levels of performance, efficiency and reliability. In addition, customers will be able to run HPC applications in a massively parallel manner with minimal code modification.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714833&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.psc.edu%2findex.php%2fbridges&quot;>Bridges&lt;/a> uniquely combines HPE's purpose-built compute platforms optimized for our compute and data-intensive HPC environment with the Intel Omni-Path interconnect fabric designed to minimize latency,&amp;quot; said, Nick Nystrom, Principal Investigator for Bridges at the Pittsburgh Supercomputing Center (PSC). &amp;quot;The tight partnership and broad integration of technologies between Intel and HPE has been instrumental in enabling PSC to design Bridges and to place it into operation with a uniquely integrated infrastructure that delivers unmatched performance and flexibility.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The rapid expansion of data sets, precision analytics, and machine learning, are driving our customers to take a fresh look at their infrastructure requirements,&amp;quot; said Charles Wuischpard, vice president Data Center Group, general manager High Performance Computing Platform Group, Intel. &amp;quot;Our Alliance with HPE leverages the Intel Scalable System Framework, featuring the bootable host Intel Xeon Phi processor and the powerful Intel Omni-Path Architecture to deliver new levels of scalability, power efficiency and efficient throughput to support complex, highly parallel workloads.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To provide customers with additional choice and flexibility, HPE is also enhancing HPE Apollo 6000 and HPE Apollo 2000 systems with next-generation EDR 100Gb/s InfiniBand solutions from Mellanox Technologies. Ideal for HPC clusters that require low latency and high bandwidth networking, Mellanox EDR fabric technology provides customers the network performance needed to improve response times and alleviate bottlenecks that impact application performance.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Integrated Manufacturing Solution Capabilities for ANSYS &lt;br>&#xa; &lt;/b>The widespread adoption of CAE software with advanced simulation capabilities has helped manufacturers design new offerings more efficiently, reduce development cycle times and increase competitive differentiation. However, many manufacturers struggle with boosting the necessary compute resources and scaling out the workstation infrastructure to HPC cluster technology. To help customers scale their compute power to better accommodate the escalating demands of increasingly complex simulation models, HPE is introducing the new &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714836&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.hpe.com%2fus%2fen%2fservers%2fapollo.html&quot;>HPE ANSYS solution for CAE&lt;/a> for the manufacturing industry.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE ANSYS solution for CAE is uniquely designed to handle large data sets and address the design prototyping needs of both large enterprises and mid-market customers. Pre-tested on the HPE Apollo 2000, this solution delivers improved application performance, faster resource provisioning and lower total cost of ownership. This includes completing CAE simulation in days compared to weeks, four times higher resource utilization with HPC cluster compared to workstation based solutions and up to two times more compute capacity per square foot.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;HPC is rapidly becoming one of the essential ingredients for the digital economy across organizations of all types and sizes,&amp;quot; said Bill Mannel, vice president and general manager, HPC, Big Data and IoT Servers, HPE. &amp;quot;Today we are excited to unveil new &lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714839&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww8.hp.com%2fus%2fen%2fhp-news%2fpress-release.html%3fwireId%3d2039810%23.V1nL-OQ5V3o&quot;>additions to our recently announced&lt;/a> portfolio capabilities designed to accelerate accessibility and time to value for HPC by significantly simplifying deployments, streamlining management and boosting performance.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HPE Core HPC Software Stack with HPE Insight Cluster Management Utility V8.0 is now available for download.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The HPE ANSYS Solution for CAE is available now through HPE and worldwide channel partners. The CAE software is available through ANSYS.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Apollo 6000 systems with new HPE ProLiant XL260a server trays will be available in September through HPE and worldwide channel partners.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The Intel Omin-Path Architecture is now available for initial support on HPE Apollo 6000 and HPE Apollo 2000 systems.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Mellanox's EDR 100Gb/s InfiniBand solution is now available for initial support on HPE Apollo 6000 and HPE Apollo 2000 systems.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714842&amp;amp;type=1&amp;amp;url=https%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dA_i5kOlj_UU&quot;>High Performance Computing in Three Minutes (video)&lt;/a>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714845&amp;amp;type=1&amp;amp;url=http%3a%2f%2fbit.ly%2f1reMpGp&quot;>HPC Helping SME Manufacturers Expand Simulation Capabilities&lt;/a> (blog post)&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a rel=&quot;nofollow&quot; href=&quot;http://ctt.marketwire.com/?release=1264942&amp;amp;id=8714848&amp;amp;type=1&amp;amp;url=http%3a%2f%2fidcdocserv.com%2fUS41519416&quot;>HPE's Formula for HPC Market Leadership&lt;/a> (IDC whitepaper)&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa; &lt;/b>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking statements &lt;br>&#xa; &lt;/b>This document contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of Hewlett Packard Enterprise could differ materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including any statements of the plans, strategies and objectives of Hewlett Packard Enterprise for future operations; other statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the possibility that expected benefits may not materialize as expected and other risks that are described in Hewlett Packard Enterprise's filings with the Securities and Exchange Commission, including but not limited to the risks described in Hewlett Packard Enterprise's Registration Statement on Form 10 dated July 1, 2015, as amended, and Hewlett Packard Enterprise's Form 10-K dated December 17, 2015 and Form 10-Q dated March 10, 2016. Hewlett Packard Enterprise assumes no obligation and does not intend to update any forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>Intel, Intel Xeon, Intel Xeon Phi and Intel Omni-Path Architecture are trademarks or registered trademarks of Intel Corporation in the United States and other countries.&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <textonlycomponent_bb
+                            jcr:created="{Date}2018-10-23T12:49:27.944Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T12:52:20.819Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                            textOnly="&lt;h4>Hewlett Packard Enterprise/SGI “Cheyenne” and “Pleiades” Systems Named on TOP500 List&lt;/h4>&#xa;&lt;p>News Advisory&lt;/p>&#xa;"
+                            topPadding="60"/>
+                        <buttonctaitemcompone
+                            jcr:created="{Date}2018-10-23T12:50:17.586Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T12:50:46.027Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                            ctaLinkStyle="default"
+                            ctaReferenceType="Link"
+                            ctaText="Read More"
+                            ctaType="Link"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprisesgi-cheyenne-and-pleiades-systems-named-on-top500-list.html"
+                            videoType="youtube"/>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_zvfm
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/11/hpe-helps-businesses-capitalize-on-hpc-and-ai-applications-with-new-high-density-compute-and-storage"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Helps Businesses Capitalize on High Performance Computing and Artificial Intelligence Applications with New High-Density Compute and Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Helps-Businesses-Capitalize-on-HPC-and-AI-Applications-with-New-High-Density-Compute-and-Storage.jpg"/>
+                        </contentblock_zvfm>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <textonlycomponent_15
+                            jcr:created="{Date}2018-10-23T12:46:07.726Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T12:52:03.036Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                            textOnly="&lt;h4>HPE Accelerates Real-Time Insights for Deep Learning&lt;/h4>&#xa;&lt;p>Press Release&lt;/p>&#xa;"
+                            topPadding="60"/>
+                        <buttonctaitemcompone
+                            jcr:created="{Date}2018-10-23T12:48:04.535Z"
+                            jcr:createdBy="adrian.popescu@hpe.com"
+                            jcr:lastModified="{Date}2018-10-23T12:48:20.878Z"
+                            jcr:lastModifiedBy="adrian.popescu@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                            ctaLinkStyle="default"
+                            ctaReferenceType="Link"
+                            ctaText="Read More"
+                            ctaType="Link"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hpe-accelerates-real-time-insights-for-deep-learning.html"
+                            videoType="youtube"/>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

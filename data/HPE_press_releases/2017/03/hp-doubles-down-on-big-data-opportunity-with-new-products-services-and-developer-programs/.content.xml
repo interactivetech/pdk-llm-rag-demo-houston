@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T08:05:39.929Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud,hpe-newsroom:categories/services]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-doubles-down-on-big-data-opportunity-with-new-products-services-and-developer-programs"
+        jcr:uuid="d34b6b30-edfc-4a82-ac4c-212a5e03f1af"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        metaDescription="HP Doubles Down on Big Data Opportunity With New Products, Services, and Developer Programs"
+        navTitle="HP Doubles Down on Big Data Opportunity With New Products, Services, and Developer Programs"
+        pageTitle="HP Doubles Down on Big Data Opportunity With New Products, Services, and Developer Programs"
+        priority="(None)"
+        subtitle="HP Delivers New Analytics Capabilities, Extensive Support for Open Source, and Launches Startup Accelerator Program"
+        theme="dark"
+        UAID="a7880db7-3cee-41f9-b712-594845955f14"
+        UCID="15bd8940-b0bc-4619-8e5c-bc6b9f431e1b"
+        WPID="1502">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-26T07:00:36.047Z"
+                jcr:lastModifiedBy="irina.rac@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 11, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP Delivers New Analytics Capabilities, Extensive Support for Open Source, and Launches Startup Accelerator Program&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_aelm
+                    jcr:lastModified="{Date}2018-10-26T07:17:44.201Z"
+                    jcr:lastModifiedBy="irina.rac@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Aug 11, 2015) - HP (NYSE: HPQ) today unveiled a series of new products, services, and programs designed to help organizations leverage data and analytics to build new products and experiences, run more efficiently, and differentiate against the competition.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>At today's &lt;a rel=&quot;nofollow&quot; href=&quot;http://h71056.www7.hp.com/bdc/overview.html&quot;>HP Big Data Conference&lt;/a> in Boston, the company announced:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>A new release of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/advanced-sql-big-data-analytics/index.html&quot;>HP Vertica&lt;/a>, which will feature data streaming and advanced log file text search to power high-speed analytics on Internet of Things (IoT) data.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Extensive support for and contributions to open source technologies, including optimized Hadoop performance, integration with the Apache Kafka distributed messaging system, and advancements in &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/predictive-analytics-r-big-data/index.html&quot;>Distributed R&lt;/a> &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/predictive-analytics-r-big-data/index.html&quot;>predictive analytics&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.vertica.com/accelerator&quot;>HP Haven Startup Accelerator program&lt;/a>, which provides early-stage companies with fast, affordable access to both HP &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-solutions/big-data.html&quot;>Big Data&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/application-lifecycle-management.html&quot;>Application Delivery Management&lt;/a> software and services.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today's announcements further accelerate HP's differentiated &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-solutions/big-data.html&quot;>big data&lt;/a> strategy -- around enabling organizations to harness data of all types, including emerging forms such Internet of Things device data, leveraging important new open source projects, and providing developers and early stage companies with the tools they need to become successful, data driven organizations.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Developers are the new heroes of the Idea Economy,&amp;quot; said Colin Mahony (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/cpmahony&quot;>@cpmahony&lt;/a>), SVP and GM, HP Big Data Software. &amp;quot;HP is uniquely positioned to help businesses and developers thrive in this new world. Through our Haven and Haven OnDemand platforms, we are&lt;/i> &lt;i>empowering these heroes to transform their business through data, by allowing them to harness the value of all forms of information, rapidly connect and apply open source, and quickly access the tools they need to build winning businesses.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New Release of HP Vertica Delivers Powerful New Streaming and High-Speed Analytics Capabilities &lt;br>&#xa; &lt;/b>HP today announced a new version of HP Vertica, the industry's fastest SQL database, code named &amp;quot;Excavator.&amp;quot; Capabilities include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Data streaming analytics - Excavator will offer native support for the Apache Kafka open source distributed messaging system to enable organizations to quickly ingest and analyze high-speed streaming data, including Internet of Things, in near real-time. This capability delivers actionable insight for a wide range of use cases, including manufacturing process control, supply chain optimization, healthcare monitoring, financial risk management, and fraud detection.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Advanced Machine Log Text Search - Excavator will enable organizations to collect and index large log file data sets generated by systems and business applications, helping IT organizations to quickly identify and predict application failures and cyber-attacks, and investigate authorized and unauthorized access.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Embraces Big Data Open Source with Breakthrough Advances&lt;br>&#xa; &lt;/b>HP also released a series of innovations that enable organizations to combine the innovation of open source with the enterprise-scale, reliability, and security of HP's &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/big-data-platform-haven/&quot;>Big Data platform.&lt;/a> These include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Vertica for &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/big-data-hadoop/index.html&quot;>SQL on Hadoop&lt;/a> native file support - the new version of Vertica brings significant increase in performance on popular Hadoop formats like ORC and Parquet. Specifically, HP worked collaboratively with Hortonworks to develop a new high-performance access layer that enables SQL queries to run directly on ORC files, resulting in a 5x increase in execution times.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Vertica &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.vertica.com/hp-vertica-products/flexzone/&quot;>Flex Zone&lt;/a> Table Library - HP has open sourced its innovative Flex Table &amp;quot;schema on-need&amp;quot; technology to the global developer community. With this move, organizations will be able to fully harness virtually any form of semi-structured data to meet their unique needs.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Native Integration with Apache Spark - HP announced its future commitment to integrate Vertica with Apache Spark. This will enable accelerated data transfer between Vertica and Spark, allowing organizations to take full advantage of their Spark-based deployments. This future capability will enable the developer community to build their models in Spark and run them in Vertica for high-speed and sophisticated analytics.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Together, Hortonworks and HP have jointly teamed to take big data analytical performance to the next level by combining the comprehensive, high-performance analytics of HP Vertica for SQL on Hadoop with the Hortonworks Data Platform,&amp;quot; said Matt Morgan, vice president of product and alliance marketing at Hortonworks (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hortonworks&quot;>@hortonworks&lt;/a>). &amp;quot;We've seen firsthand how organizations are looking for this class of modern architecture to power the next-generation of real-time analytics applications. This is proof of our commitment with HP to address the business and technology needs of our customers and the broader big data marketplace.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Haven Startup Accelerator Brings Enterprise-Class Big Data to Early-Stage Companies&lt;br>&#xa; &lt;/b>HP also unveiled &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.vertica.com/accelerator&quot;>The HP Haven Startup Accelerator&lt;/a>, a new program designed to support and expand HP's ecosystem of developers and innovators by making HP &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/business-solutions/big-data.html&quot;>Big Data&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/application-lifecycle-management.html&quot;>Application Delivery Management&lt;/a> software products accessible to early-stage companies. The program removes traditional barriers for organizations looking to leverage analytics and data to build powerful, differentiated applications. Qualified participants will benefit from the following program components:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Free usage of the community versions of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/information-data-analytics-idol/index.html&quot;>HP IDOL&lt;/a> and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/advanced-sql-big-data-analytics/index.html&quot;>HP Vertica&lt;/a> with expanded capacity.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Premium version of &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/information-data-analytics-idol/index.html&quot;>HP IDOL&lt;/a> and HP Vertica with attractive pricing&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Application Delivery Management tools including &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/agile-project-management-software-development/index.html&quot;>HP Agile Manager&lt;/a>, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/automated-continuous-testing-integration-delivery-tools/index.html&quot;>HP LeanFT&lt;/a>, and &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/index.html&quot;>HP LoadRunner&lt;/a>.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP Haven Apps Framework Accelerates Solution Development&lt;br>&#xa; &lt;/b>HP also announced an innovative framework of technology and proven best practices to accelerate the development of next-generation analytical applications. This framework extends the HP Haven &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/big-data-platform-haven/&quot;>Big Data Platform&lt;/a> with quick-start visualization, syndicated data feeds, open on-premise and cloud-based APIs. This enables HP &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/integrated-strategic-consulting-services/index.html&quot;>Professional Services&lt;/a> and HP partners to quickly deliver a range of solutions, such as voice of customer, smart cities, and fraud detection.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP's Hardware Platforms Optimized for Big Data&lt;br>&#xa; &lt;/b>HP's hardware platforms for big data include traditional &lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/products/proliant-servers/product-detail.html?oid=7271241&quot;>HP ProLiant DL380&lt;/a> clusters, purpose-built Apollo 4510, 4530 and 4200 compute and storage servers, and HP's innovative asymmetric Big Data Reference Architecture. These systems enable customers to optimize their big data workloads, delivering the power of Haven to their business. This week at the HP Big Data Conference, HP will demonstrate the power of Vertica&lt;a rel=&quot;nofollow&quot; href=&quot;http://www8.hp.com/us/en/software-solutions/big-data-hadoop/index.html&quot;> SQL on Hadoop&lt;/a> running on HP's unique, asymmetric Big Data Reference Architecture, purpose-built from HP Moonshot and Apollo servers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;We have high confidence in each Vertica release and we upgrade quickly to take advantage of the new advancements and features,&amp;quot; said Jack Gudenkauf, VP, Big Data, &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.playtika.com/&quot;>Playtika&lt;/a>. &amp;quot;With 'Excavator,' we are heartened to see HP continually embrace and integrate with open source technologies like Hadoop, Kafka, Spark, and R, affording us more choices for developing a truly advanced modern architecture and avoiding vendor lock-in.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;With 70 million consumers using YP each month, we are always looking at new ways to drive better performance in how we analyze the more than 3 billion events we process daily,&amp;quot; said Bill Theisinger, VP of Engineering at YP (&lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/ypforbusiness&quot;>@ypforbusiness&lt;/a>). &amp;quot;In working with HP, we have been impressed with the performance of Vertica for SQL on Hadoop and with the flexibility the ORCReader allows in our architectural and design decisions.Coupled with ORCReader, HP Vertica for SQL on Hadoop gives us the ability to analyze our data quicker and to execute queries in ways which we have not been previously able to do. It is a game changer.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This week's HP Big Data Conference will feature a wide range of customer speakers, including representatives from Citi, Etsy, Facebook, Ford Motor Company, GlaxoSmithKline, Kiva, New York Genome Center, Playtika, and Snagajob who will share their story on how they use HP software to become data driven organizations. Keep up with HP Big Data Conference happenings by following the hashtag #HPBigData2015 and follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPBigData&quot;>@HPBigData&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability &lt;br>&#xa; &lt;/b>Planned availability for new HP Haven Big Data offerings and services is set for fall of 2015.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information &lt;br>&#xa; &lt;/b>Join HP Software on &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.linkedin.com/company/hp-software&quot;>LinkedIn&lt;/a> and follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/hpsoftware&quot;>@HPSoftware&lt;/a> on Twitter. To learn more about HP Big Data software and cloud services on Twitter, please follow &lt;a rel=&quot;nofollow&quot; href=&quot;https://twitter.com/HPBigData&quot;>@HPBigData&lt;/a> and join HP Big Data on &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.linkedin.com/company/hp-big-data/&quot;>LinkedIn&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>©2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_rwmb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-delivers-first-to-market-data-centric-iot-security"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers First-to-Market Data-centric IoT Security"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPE_Discover16_LV_14978.jpg"/>
+                        </contentblock_rwmb>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0xsz
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/podcast-confluent-and-the-data-driven-intelligent-edge"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="PODCAST: Confluent and the Data-Driven Intelligent Edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="PODCAST: Confluent and the Data-Driven Intelligent Edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/PODCAST-Confluent-and-the-Data-Driven-Intelligent-Edge.jpg"/>
+                        </contentblock_0xsz>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_eyrc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/security-operations-gets-more-intuitive"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Security Operations gets more intuitive"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Security Operations gets more intuitive"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/Machinehero.jpg"/>
+                        </contentblock_eyrc>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

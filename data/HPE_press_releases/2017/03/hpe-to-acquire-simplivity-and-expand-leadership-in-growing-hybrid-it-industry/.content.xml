@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:15:09.583Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/services,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-to-acquire-simplivity-and-expand-leadership-in-growing-hybrid-it-industry"
+        jcr:uuid="046e187b-31e2-4ed5-9cb6-4bd26ea7ef5b"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T15:52:03.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Kate Holderness"
+        metaDescription="HPE to Acquire SimpliVity and Expand Leadership in Growing Hybrid IT Industry"
+        navTitle="HPE to Acquire SimpliVity and Expand Leadership in Growing Hybrid IT Industry"
+        pageTitle="HPE to Acquire SimpliVity and Expand Leadership in Growing Hybrid IT Industry"
+        priority="(None)"
+        theme="dark"
+        UAID="4462c26d-26b1-4175-a8c8-454d06bd578d"
+        UCID="98d5f78e-ee6d-4248-bbec-04458fa4c274"
+        WPID="1129">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-23T11:14:02.680Z"
+                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JANUARY 17, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPEtoAcquireSimplivity.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE to Acquire SimpliVity and Expand Leadership in Growing Hybrid IT Industry"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-23T11:14:30.726Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Advances HPEs strategy in the fast-growing, high-margin hyperconverged market&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Makes possible the most complete, built-for-enterprise hyperconverged infrastructure offering for customers&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE to pay $650 million in cash&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_sfuc
+                    jcr:lastModified="{Date}2018-10-23T11:30:52.640Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, California, January 17, 2017&amp;nbsp;– Hewlett Packard Enterprise (NYSE: HPE) today announced a definitive agreement to acquire SimpliVity, a leading provider of software-defined, hyperconverged infrastructure, for $650 million in cash. The hyperconverged market was estimated to be approximately $2.4 billion in 2016, and is expected to grow at a compound annual growth rate of 25 percent, to nearly $6 billion, by 2020. By bringing together HPE's best-in-class infrastructure, automation and cloud management software with SimpliVitys industry leading software-defined data management platform, HPE and its partner ecosystem will deliver the industrys only &amp;quot;built-for-enterprise&amp;quot; hyperconverged offering.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;This transaction expands HPE's software-defined capability and fits squarely within our strategy to make Hybrid IT simple for customers,&amp;quot; said Meg Whitman, President and CEO, Hewlett Packard Enterprise. &amp;quot;More and more customers are looking for solutions that bring them secure, highly resilient, on-premises infrastructure at cloud economics. That's exactly where were focused.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>SimpliVity: A Leader in Hyperconverged Infrastructure&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Many enterprises have legacy IT environments that are not well suited for today's cloud-based services and on-demand applications. Modern data management platforms need simple, user-friendly interfaces that give developers the tools they need to easily develop, scale and protect data. A hyperconverged system integrates compute, storage and networking into a pre-configured system, managed by a user-friendly software platform that doesnt require extensive IT staff for set up and management.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>SimpliVity, which is privately held, was founded in 2009 and is headquartered in Westborough, MA. The companys software-defined, hyperconverged infrastructure is designed from the ground up to meet the needs of enterprise customers who require on-premises technology infrastructure with enterprise-class performance, data protection, and resiliency, at cloud economics.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The combined HPE and SimpliVity portfolio will offer a rich set of enterprise data services across hyperconverged, 3PAR storage, composable infrastructure and multi-cloud offerings..&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Adding SimpliVity's innovative technology to HPE's hyperconverged portfolio provides significant additional benefits to customers, including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Built-in enterprise data protection and resiliency that simplifies backup and enables customers to more quickly restore operations.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enterprise storage utilization and virtual machine (VM) efficiency that helps customers control cost and performance.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Always-on compression and de-duplication that guarantees 90 percent capacity savings across storage and backup.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Policy-based VM-centric management that simplifies operations and enables data mobility, making development teams and end-users more productive.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;Over the past 8 years we've been on an incredible journey and joining HPE is the logical next step for SimpliVity,&amp;quot; said Doron Kempel, Chairman and CEO, SimpliVity. &amp;quot;HPE's broad sales reach, extensive partner channel, complementary technology and commitment to innovation will accelerate SimpliVity's journey and significantly strengthen our ability to deliver the best-in-class hybrid IT solutions our customers are looking for.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A Strong Combined Roadmap&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Software-defined infrastructure is at the heart of HPE's Hybrid IT strategy and this move accelerates the company's ability to deliver a modern, multi-cloud, multi-IaaS platform, powered by automation software and composable infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For current HPE customers and partners, the company will continue to offer its existing hyperconverged products, the HC 380 and the HC 250. For SimpliVity customers and partners, there will be no immediate change in the product roadmap and HPE will continue to support existing SimpliVity customers and platforms.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Within 60 days of closing the transaction, HPE intends to offer the SimpliVity Omni Stack software qualified for its ProLiant DL380 servers. In the second half of 2017, the company will offer a range of integrated HPE SimpliVity hyperconverged systems based on HPE ProLiant Servers.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Looking forward, HPE customers can expect to see their hyperconverged experience continue to improve with new innovations like &amp;quot;workspace&amp;quot; controls, which provide business leaders and developers with simple self-service portals to compose virtualized and containerized resources, and accelerate application development and deployment. Additionally, HPE will provide enhanced business insight, including predictive analytics, which will give IT managers the tools they need to increase resource utilization and proactively respond to needs for new resources.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Impact to Financial Performance&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE and SimpliVity believe that by bringing together their complementary product portfolios and leveraging HPE's expansive go-to-market capability, partner ecosystem, and consumption model offerings, they will be able to significantly accelerate the financial performance of the combined business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE expects the acquisition to be accretive to earnings in the first full fiscal year following close.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The transaction is expected to close in the second quarter of HPE's fiscal year 2017, subject to regulatory review and approval, as well as other customary closing conditions and adjustments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot;>Hewlett Packard Enterprise&lt;/a>&lt;u> (HPE)&lt;/u> is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Foward-looking statements&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any projections of revenue, margins, expenses, effective tax rates, net earnings, net earnings per share, cash flows, benefit plan funding, share repurchases, currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring charges; any statements of the plans, strategies and objectives of management for future operations, including the acquisition of SimpliVity and the recently announced divestiture transactions, the execution of restructuring plans and any resulting cost savings or revenue or profitability improvements; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on Hewlett Packard Enterprise and its financial performance; any statements regarding pending investigations, claims or disputes; any statements of expectation or belief; and any statements or assumptions underlying any of the foregoing.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprises businesses; risks associated with executing Hewlett Packard Enterprise's strategy; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of Hewlett Packard Enterprise's products and the delivery of Hewlett Packard Enterprise's services effectively; the protection of Hewlett Packard Enterprise's intellectual property assets, including intellectual property licensed from third parties; risks associated with Hewlett Packard Enterprises international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the results of the divestiture transactions or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of Hewlett Packard Enterprises business) and the anticipated benefits of the transactions, including the acquisition of SimpliVity, or of implementing the restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in Hewlett Packard Enterprises Annual Report on Form 10-K for the fiscal year ended October 31, 2016.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2017 Hewlett Packard Enterprise, L.P. The information contained herein is subject to change without notice. Hewlett Packard Enterprise shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ndud
+                            jcr:lastModified="{Date}2018-10-23T11:32:22.676Z"
+                            jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpes-antonio-neri-talks-about-the-simplivity-acquisition"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE’s Antonio Neri talks about the SimpliVity Acquisition"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-23T11:32:22.676Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-6.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-23T11:32:22.676Z"
+                                jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_ndud>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_lb67
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/enterprise-group-lead-antonio-neri-on-hpes-commitment-to-software-defined-infrastructure"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Enterprise Group lead Antonio Neri on HPE's commitment to software-defined infrastructure"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Enterprise Group lead Antonio Neri on HPE's commitment to software-defined infrastructure"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Neri-Image.jpg"/>
+                        </contentblock_lb67>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ppw0
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/nimble-storage-to-extend-hpe-industry-leadership-in-flash-storage"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Nimble Storage to Extend HPE Industry Leadership in Flash Storage"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Nimble Storage to Extend HPE Industry Leadership in Flash Storage"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Nimble-2100x1181.jpg"/>
+                        </contentblock_ppw0>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

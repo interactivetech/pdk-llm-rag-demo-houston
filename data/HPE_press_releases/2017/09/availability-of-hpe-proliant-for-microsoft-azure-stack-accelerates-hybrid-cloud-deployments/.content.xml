@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:08:20.328Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/mergers-and-acquisitions,hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="availability-of-hpe-proliant-for-microsoft-azure-stack-accelerates-hybrid-cloud-deployments"
+        jcr:uuid="0bdf304c-914b-40cc-acb3-b7e7525a1abb"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-09-19T16:46:43.000-07:00"
+        mediaContactEmail="erik.denny@hpe.com"
+        mediaContactName="Erik Denny"
+        metaDescription="Availability of HPE ProLiant for Microsoft Azure Stack Accelerates Hybrid Cloud Deployments"
+        navTitle="Availability of HPE ProLiant for Microsoft Azure Stack Accelerates Hybrid Cloud Deployments"
+        pageTitle="Availability of HPE ProLiant for Microsoft Azure Stack Accelerates Hybrid Cloud Deployments"
+        priority="(None)"
+        subtitle="HPE delivers industry-leading performance and the only consumption-based offering for Azure Stack to help customers accelerate Microsoft hybrid cloud deployments"
+        theme="dark"
+        UAID="4dbe23a9-99e6-4762-a905-75205b615a6b"
+        UCID="3d04dd7a-97f4-497e-8d68-e669deddd1ff"
+        WPID="198945">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-15T12:50:29.237Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 25, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/HPE-Helps-Customers-Accelerate-Microsoft-Hybrid-Cloud-Deployments.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Availability of HPE ProLiant for Microsoft Azure Stack Accelerates Hybrid Cloud Deployments"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T12:44:59.902Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Run and manage high performance Microsoft Azure-consistent services on-premises&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Connect with HPE, Microsoft and third party experts to plan, build and manage hybrid clouds&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Operate consumption-based Microsoft Azure Stack services for simplified billing and lower costs&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE delivers industry-leading performance and the only consumption-based offering for Azure Stack to help customers accelerate Microsoft hybrid cloud deployments&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_7p7g
+                    jcr:lastModified="{Date}2020-05-12T17:07:14.713Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>ORLANDO - September 25, 2017 - Today, &lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) announced general availability of &lt;a href=&quot;/content/hpe/base/blueprint/solutions/cloud/azure-hybrid-cloud.html&quot; target=&quot;_blank&quot;>HPE ProLiant for Microsoft Azure Stack&lt;/a> at Microsoft Ignite. HPE ProLiant for Microsoft Azure Stack enables customers and service providers to run Azure-consistent services on HPE infrastructure in their own data centers to help simplify their hybrid IT environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today's enterprise manages and consumes IT services across a hybrid infrastructure that combines traditional on-premises IT, private, managed and public clouds. As a result, IT is under pressure to respond to line of business and developer initiatives with cloud speed, optimize their organizations right mix of IT, all while lowering capital and operational expenditures. HPE ProLiant for Microsoft Azure Stack enables customers to:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Run and manage high performance Azure-consistent services on-premises -&amp;nbsp;&lt;/b> HPE ProLiant for Microsoft Azure Stack integrates &lt;a href=&quot;/content/hpe/base/blueprint/products/integrated-systems/management-software.html&quot; target=&quot;_blank&quot;>HPE OneView&lt;/a> to simplify Azure Stack operations, making it easier to manage software and firmware updates and monitor system status. Additionally, HPE infrastructure provides the high capacity and speed required to meet customers demanding workloads.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Connect with HPE, Microsoft and third party experts to plan, build and manage hybrid clouds -&lt;/b> The one-of-its-kind &lt;a href=&quot;http://www.hpe-microsoftazurestack.com/&quot; target=&quot;_blank&quot;>HPE-Microsoft Azure Stack Innovation Center&lt;/a> has been established in Bellevue, WA, to ensure customers have a seamless experience when leveraging Azure Stack across HPE infrastructure, software, and services. There customers can connect with HPE and Microsoft experts for business and technical planning, to test use cases and implement a proof of concept.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Run consumption-based Azure Stack services for simplified billing and lower costs -&lt;/b> HPE is the only provider to offer Azure Stack services and infrastructure in a single invoice on a consumption-basis. HPE ProLiant for Microsoft Azure Stack can be combined with &lt;a href=&quot;/content/hpe/base/blueprint/services/flexible-capacity.html&quot; target=&quot;_blank&quot;>HPE Flexible Capacity&lt;/a>, offering on-demand capacity and consumption-based payments. HPE Flexible Capacity gives customers the ability to scale-up and -down capacity as needed, allowing them to pay only for what they consume above a minimum commitment, providing cloud speed and economics on-premises, on par with the cost of public clouds.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <pullquote_owry
+                    jcr:lastModified="{Date}2018-10-15T12:55:36.689Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE is the only provider to offer Azure Stack services and infrastructure in a single invoice on a consumption-basis&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T12:55:36.689Z"
+                        jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_owry>
+                <textonlycomponent_6zwr
+                    jcr:lastModified="{Date}2018-10-16T12:48:46.844Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Our customers live in a complex hybrid world that requires tools to simplify and optimize their hybrid IT environment,&amp;quot; said McLeod Glass, vice president and general manager, Software-Defined and Hyperconverged Solutions, HPE. &amp;quot;HPE and Microsoft have a shared vision for making it easier to manage hybrid clouds. By extending our software-defined capabilities to Microsoft Azure Stack and Windows Server 2016, we are simplifying and speeding-up deployment of on-premises cloud capabilities, enabling customers to succeed in their digital transformation initiatives.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>A high-performing solution for Azure Stack, supported by HPE and Microsoft expertise and leading third-party solutions&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE ProLiant for Microsoft Azure Stack is co-engineered and validated by HPE and Microsoft to provide enterprises and service providers a simplified development, management and security experience consistent with Azure public cloud services that they can run on-premises. HPE ProLiant for Microsoft Azure Stack enables organizations to modernize application development, deploy applications to their preferred location, meet data sovereignty, security and compliance requirements and achieve superior performance from on-premises infrastructure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE ProLiant provides one of the best-performing platform for Azure Stack available today, with 768GB of RAM and 2400MHz memory speed, increasing memory bandwidth by 28 percent compared to competitive solutions with the same capacity. This feature enables customers to run more workloads at the fastest rate possible.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE ProLiant for Microsoft Azure Stack offers customers the ability to customize their implementations with the choice of:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Configurations from four to 12 nodes - available as single increments vs. blocks of four, letting customers to order the system size to meet their particular requirements.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Processors that are best suited for their specific workloads.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Memory and storage options, choice of racks, as well as third party networking switches and power supply options to allow for seamless integration into existing environments.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <pullquote_5ebq
+                    jcr:lastModified="{Date}2018-10-15T12:58:53.909Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Customers will have access to a growing ecosystem of partner and third-party solutions and services that address specific business requirements&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-15T12:58:53.909Z"
+                        jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_5ebq>
+                <textonlycomponent_u41w
+                    jcr:lastModified="{Date}2020-05-12T17:08:00.739Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Customers will also have access to a growing ecosystem of partner and third-party solutions and services that address specific business requirements. New solutions and services for HPE ProLiant for Microsoft Azure Stack joining those from &lt;a href=&quot;https://www.sogeti.com/&quot; target=&quot;_blank&quot;>Sogeti&lt;/a>, &lt;a href=&quot;http://www.ntt.com/en/index.html&quot; target=&quot;_blank&quot;>NTT Communications&lt;/a>, &lt;a href=&quot;https://www.pwc.com/&quot; target=&quot;_blank&quot;>PwC&lt;/a> and &lt;a href=&quot;http://www.wipro.com/&quot; target=&quot;_blank&quot;>Wipro&lt;/a>, include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;http://www.dxc.technology/&quot; target=&quot;_blank&quot;>&lt;u>DXC Technology&lt;/u>&lt;/a> Managed Services for HPE ProLiant for Microsoft Azure Stack delivers streamlined end-to-end operation and management of hybrid cloud environments with solutions designed to support customers' specific workload placement, privacy and regulatory requirements aligned to industry use cases.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;https://www.veeam.com/&quot; target=&quot;_blank&quot;>&lt;u>Veeam Software&lt;/u>&lt;/a> combined with HPE infrastructure and Azure Stack provides customers with the same agility of the Azure public cloud on-premises, using a common data availability platform to ensure rapid recovery of mission-critical applications. This will provide customers peace of mind that their data and applications are protected, secure and available no matter where they reside.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Customers are looking to build modern applications across cloud and on-premises environments that meet business policies and regulatory requirements,&amp;quot; said Mike Neil, corporate vice president, Azure Infrastructure and Management, Microsoft Corp. &amp;quot;With HPE ProLiant for Microsoft Azure Stack, customers can innovate on a truly consistent, high-performance hybrid cloud platform that will increase agility, enhance innovation and control costs with the right mix of cloud and on-premises that is under their complete control.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE ProLiant for Microsoft Azure Stack is available now. The Veeam Software solution is targeted for availability in the first quarter of calendar year 2018.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>According to HPE internal tests.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_1dgt
+                            jcr:lastModified="{Date}2020-05-12T17:08:23.998Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hewlett-packard-enterprise-and-microsoft-azure-combine-the-best-of-public-and-private-cloud"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="Hewlett Packard Enterprise and Microsoft Azure Combine the Best of Public and Private Cloud"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise and Microsoft Azure Combine the Best of Public and Private Cloud"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:08:23.998Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Microsoft-Azure-Combine-9x6-1536.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:08:23.998Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_1dgt>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_qhr2
+                            jcr:lastModified="{Date}2020-05-12T17:08:33.483Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/07/hpe-forms-a-go-to-market-alliance-with-microsoft-through-cloud28"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Forms a Go-To-Market Alliance With Microsoft Through Cloud28 "
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Forms a Go-To-Market Alliance With Microsoft Through Cloud28 "
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:08:33.483Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/HPEand5GLab.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:08:33.483Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_qhr2>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_hfq2
+                            jcr:lastModified="{Date}2020-05-12T17:08:42.078Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/04/hpe-enhances-performance-and-security-with-next-gen-hpe-proliant-for-microsoft-azure-stack"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Delivers Increased Performance, Security and Efficiency for Azure Stack Deployments"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Delivers Increased Performance, Security and Efficiency for Azure Stack Deployments"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T17:08:42.078Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/HPE-Enhances-Performance-and-Security-with-Next-Gen-HPE-ProLiant-for-Microsoft-Azure-Stack.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T17:08:42.078Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_hfq2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-23T19:08:29.615Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-unveils-developer-focused-testing-solution-to-help-businesses-accelerate-application-delivery"
+        jcr:uuid="09018aa5-b7fa-4b20-8961-1f1e27a3fe6b"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        metaDescription="HP Unveils Developer Focused Testing Solution to Help Businesses Accelerate Application Delivery"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-unveils-developer-focused-testing-solution-to-help-businesses-accelerate-application-delivery/jcr:content/main-par/body-par/textonlycomponent_bwpc"
+        navTitle="HP Unveils Developer Focused Testing Solution to Help Businesses Accelerate Application Delivery"
+        pageTitle="HP Unveils Developer Focused Testing Solution to Help Businesses Accelerate Application Delivery"
+        priority="(None)"
+        subtitle="New Solution Built for Continuous Testing Helps Developers Balance Speed and Quality"
+        theme="dark"
+        UAID="6623ba95-0955-4cc0-8706-06da8304ad17"
+        UCID="91df69f6-8d2d-44ed-a1c5-3c86e02a4dee"
+        WPID="1517">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T12:45:27.307Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 2, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Solution Built for Continuous Testing Helps Developers Balance Speed and Quality&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_bwpc
+                    jcr:lastModified="{Date}2023-03-23T19:08:29.603Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, NV--(Marketwired - Jun 2, 2015) - HP (NYSE: HPQ) today announced a new functional test automation solution, HP LeanFT, which allows software developers and testers to leverage continuous testing and continuous delivery methodologies to rapidly build, test, and deliver secure, high quality applications. The solution enables organizations to achieve faster time to market, higher predictability and quality, and lower overall costs throughout the development lifecycle.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Modern approaches like agile and continuous delivery empower developers and help businesses unlock creativity,&amp;quot; said Jonathon Wright, Director, Testing Quality Assurance, at Hitachi. &amp;quot;HP LeanFT is designed specifically for developers and testers, and leverages the open ecosystem of popular developer tools with HP's industry standard Unified Functional Testing platform to build robust, reusable and maintainable tests. This is a must for continuous testing and continuous delivery.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Businesses today must act with speed and agility, and continuously capitalize on opportunities to deliver new solutions and experiences, business models, and revenue streams. In software development, this has fueled the rise of Agile methodology, which embraces a continuous delivery process, rather than a phased, sequential approach. For software testing, this means developers and testers seek to &amp;quot;shift left,&amp;quot; and continuously test their applications much earlier in the application development lifecycle.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP LeanFT embraces the shift left concept by leveraging the key tools of the modern Agile developer ecosystem. Powerful, lightweight, and cost-effective, HP LeanFT is built specifically for continuous testing and continuous delivery, and fits naturally into existing ecosystems (such as Microsoft TFS, GIT, and Subversion) and frameworks that support test driven and behavior driven development. It has powerful test automation authoring with either C# or Java, and IDE integration. Together, HP Software and HP Enterprise Services deliver a solution that is designed to provide customers with the following benefits:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Faster time-to-market&lt;/b> - HP LeanFT provides a comprehensive set of tools designed to accelerate test design and maintenance, including an Object Identification Center, used to automatically generate code and abstraction models used for applications under test.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>High predictability&lt;/b> - HP LeanFT provides project templates for standard unit-testing frameworks, including NUnit, MSTest and JUnit, to improve collaboration and alignment between software developers and test automation engineers. This enables a reduction in the time needed to test applications, and allows developers to predict and identify defects earlier in the software development lifecycle.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Lower costs&lt;/b> - HP LeanFT fully integrates with and provides plugins for popular IDEs such as Microsoft Visual Studio and Eclipse. Tests are authored in the IDEs using C# (in Visual Studio) or Java (in Eclipse). This allows developers and testers to work in the same environments utilizing the same tools.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Built-in security&lt;/b> - In conjunction with HP LeanFT, HP Application Defender enables the rapid discovery of software vulnerabilities during both development and test phases, where code changes are less costly. Using runtime technology from HP Fortify, HP Application Defender does not require specialized security expertise and offers continuous, real-time vulnerability testing.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Trusted expertise &lt;/b>- In support of today's announcement, HP Enterprise Services has updated its &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/services.html&quot; target=&quot;_blank&quot;>Testing and Quality Assurance Services&lt;/a> to support HP LeanFT projects. The new services help clients working in Agile and DevOps environments to deliver key applications faster, cheaper, and with higher quality. The services expand HPES' Testing and Assurance capabilities for identifying and eliminating defects in the application development lifecycle management process, ultimately helping businesses accelerate time to market and deliver winning applications.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In the most recent Forrester Wave on Modern Application Functional Test Automation, Forrester stated the following: &lt;i>&amp;quot;HP UFT vision will appeal to developers...HP's vision and three-year road map is anchored on LeanFT, which, if executed in a timely fashion, will appeal to testers and developers. In fact, LeanFT will be the bridge from UFT to the future with increased focus on Agile developers, flexible licensing, better cross-browser testing, mobile testing, and IoT testing as further key elements of the road map.&amp;quot;&lt;/i>&lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HP LeanFT, Building on Years of Application Testing Innovation&lt;br>&#xd;&#xa; &lt;/b>HP LeanFT enables organizations to optimize their existing investments in HP's market-leading portfolio of application testing products, used by over 5,000 customers globally. The new solution is integrated with HP Application Lifecycle Management,Quality Center, and Mobile Center, which allows developers and testers to reduce maintenance costs, share testing resources, and deliver new mobile applications at Agile speed. HP also introduced major upgrades to its flagship HP Unified Functional Testing and HP Business Process Testing products, including support for GIT integration as a repository option and scriptless keyword-driven testing.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;As businesses seek to move with more speed and pursue new markets, developers and testers experience greater opportunities but also greater risks,&amp;quot; said Raffi Margaliot, SVP and GM, HP Application Delivery Management. &amp;quot;HP LeanFT beautifully balances the twin imperatives of velocity and quality by allowing developers to operate in the modern Agile and DevOps ecosystem, while also leveraging our proven capabilities in application testing and application lifecycle management.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability &lt;br>&#xd;&#xa; &lt;/b>HP LeanFT will be available in July 2015 on http://saas.hp.com. HP Unified Functional Testing 12.5 and HP Business Process Testing 12.5 will also be available in July. Customers who upgrade to HP UFT 12.5 will receive HP LeanFT free of charge.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Additional Information&lt;br>&#xd;&#xa; &lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Discover 2015 Las Vegas is taking place this week. Keep up with event happenings by following the event hashtags #HPDiscover and #HPSW.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> The Forrester Wave: Modern Application Functional Test Automation Tools, Q2 2015, by Diego Lo Giudice, Forrester Research, Inc., April 17, 2015&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_bw91
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hewlett-packard-enterprise-delivers-application-performance-testing-with-hpe-stormrunner-load-on-aws-marketplace"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers Application Performance Testing With HPE StormRunner Load on AWS Marketplace"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/PerformanceTesting.jpg"/>
+                        </contentblock_bw91>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_y69r
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/07/how-digital-twins-of-the-human-body-can-advance-healthcare"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="How Digital Twins of the Human Body Can Advance Healthcare"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How Digital Twins of the Human Body Can Advance Healthcare"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/07/image-norend/BBP_simulation_of-_neural-activity_in_a_tissue_slice_1.jpg"/>
+                        </contentblock_y69r>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_uifa
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/03/hpe-to-acquire-cape-networks"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE to Acquire Cape Networks"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE to Acquire Cape Networks"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/HPE-to-Acquire-Cape-Networks.jpg"/>
+                        </contentblock_uifa>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

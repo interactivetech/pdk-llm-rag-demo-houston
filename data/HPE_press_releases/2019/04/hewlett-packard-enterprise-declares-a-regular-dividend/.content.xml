@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-17T03:01:47.677Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---earnings]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise declares a regular dividend"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise declares a regular dividend"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-04-04T13:15:00.000-07:00"
+        metaBusinessSubcategory="newsroom"
+        metaDescription="Hewlett Packard Enterprise Declares a Regular Dividend"
+        metaOgImage="/content/dam/hpe/newsroom/2019/04/image-norend/Hewlett Packard Enterprise Declares a Regular Dividend.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise declares a regular dividend"
+        pageTitle="Hewlett Packard Enterprise declares a regular dividend"
+        priority="(None)"
+        UAID="704e8bb8-3d65-4af6-a2c6-a5cd6cfbae66"
+        UCID="a8bb0255-ded8-42b2-97ac-e06104939b6e"
+        webSectionId="R11989">
+        <main-par
+            jcr:lastModified="{Date}2019-04-04T21:10:47.469Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-04-04T21:18:56.094Z"
+                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="April 4, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_1
+                    jcr:lastModified="{Date}2019-04-04T21:18:20.026Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomMargin="30"
+                    fileReference="/content/dam/hpe/newsroom/2019/04/image-norend/Hewlett Packard Enterprise Declares a Regular Dividend.jpg"
+                    imageAlignment="hpe-image-left"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_2
+                    jcr:lastModified="{Date}2019-04-04T23:16:40.794Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>SAN JOSE, Calif.--(&lt;a href=&quot;http://www.businesswire.com&quot; target=&quot;_blank&quot;>BUSINESS WIRE&lt;/a>)-- Hewlett Packard Enterprise (NYSE: HPE) today announced that the Hewlett Packard Enterprise Board of Directors has declared a regular cash dividend of $0.1125 per share on the company's common stock.&lt;/p>&#xa;&lt;p>This dividend, the third in Hewlett Packard Enterprise's fiscal year 2019, is payable on or about July 3, 2019, to stockholders of record as of the close of business on June 12, 2019.&lt;/p>&#xa;&lt;p>Hewlett Packard Enterprise has approximately 1.4 billion shares of common stock outstanding.&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze, and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-looking statements&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of HPE may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to any projections of financial performance, or plans, strategies and objectives of management for future operations or performance. Risks, uncertainties and assumptions include those that are described in HPE’s Annual Report on Form 10-K for the fiscal year ended October 31, 2018 and that are otherwise described or updated from time to time in Hewlett Packard Enterprise’s Securities and Exchange Commission reports. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/p>&#xa;&lt;p>&lt;img src=&quot;https://cts.businesswire.com/ct/CT?id=bwnews&amp;amp;sty=20190404005771r1&amp;amp;sid=newsx-hq3sc1&amp;amp;distro=nx&amp;amp;lang=en&quot; width=&quot;0&quot; height=&quot;0&quot;>&lt;span class=&quot;bwct31415&quot;>&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_e8
+                    jcr:created="{Date}2019-04-04T21:10:30.858Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-04-04T21:26:31.340Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Editorial Contact&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>Kate Holderness, HPE&lt;br>&#xa;+1-917-318-6818&lt;br>&#xa;&lt;a href=&quot;mailto:Kate.holderness@hpe.com&quot;> &lt;span>Kate.holderness@hpe.com&lt;/span> &lt;/a>&lt;/p>&#xa;"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2019-04-04T21:29:30.612Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-04-04T21:30:47.659Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    bottomPadding="10"
+                    theme="transparent"
+                    topPadding="10"/>
+                <columncontainercompo
+                    jcr:created="{Date}2019-04-04T21:28:33.910Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-04-04T21:31:06.418Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_db2e
+                            jcr:created="{Date}2019-04-04T21:40:10.517Z"
+                            jcr:createdBy="tanya.dainoski@hpe.com"
+                            jcr:lastModified="{Date}2019-04-04T21:40:10.517Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/02/HPE-delivers-Q1-results-and-raises-FY19-EPS-outlook"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="HPE delivers Q1 results &amp; raises FY19 EPS outlook"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE delivers Q1 results &amp; raises FY19 EPS outlook"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-04T21:39:37.740Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/HPE-delivers-Q1-results-and-raises-FY19-EPS-outlook.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-04T21:39:37.740Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_db2e>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_e56e
+                            jcr:created="{Date}2019-04-04T21:40:38.088Z"
+                            jcr:createdBy="tanya.dainoski@hpe.com"
+                            jcr:lastModified="{Date}2019-04-04T21:42:15.209Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/02/hewlett-packard-enterprise-to-present-live-audio-webcast-of-first-quarter-earnings-conference-call"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise to Present Live Audio Webcast of First Quarter Earnings Conference Call"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise to Present Live Audio Webcast of First Quarter Earnings Conference Call"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-04T21:42:15.209Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/Board of Directors Announcement.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-04T21:42:15.209Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_e56e>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_47b4
+                            jcr:created="{Date}2019-04-04T21:41:03.134Z"
+                            jcr:createdBy="tanya.dainoski@hpe.com"
+                            jcr:lastModified="{Date}2019-04-04T21:42:55.084Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/02/hewlett-packard-enterprise-declares-a-regular-dividend"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise declares a regular dividend"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise declares a regular dividend"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-04-04T21:42:55.084Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/Board of Directors Announcement.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-04-04T21:42:55.084Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_47b4>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"/>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-04-04T23:14:24.751Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="{Long}0"/>
+    </jcr:content>
+</jcr:root>

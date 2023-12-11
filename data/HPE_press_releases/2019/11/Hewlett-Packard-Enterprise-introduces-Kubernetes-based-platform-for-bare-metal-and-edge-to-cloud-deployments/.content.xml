@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:23:40.933Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud,hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:language="en"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise introduces Kubernetes-based platform for bare-metal and edge to cloud deployments"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise introduces Kubernetes-based platform for bare-metal and edge to cloud deployments"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-11-18T11:19:00.000-08:00"
+        metaDescription="HPE Container Platform leverages BlueData, MapR, and Kubernetes for a faster path to application modernization – with greater agility, lower costs, and enterprise-grade security"
+        metaKeywords="HPE Container Platform, Kubernetes, BlueData, MapR, cloud, cloud computing, containerization, containers"
+        metaOgImage="/content/dam/hpe/newsroom/2019/11/image-norend/Hewlett-Packard-Enterprise-introduces-Kubernetes-based-platform-for-bare-metal-and-edge-to-cloud-deployments-2.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="Hewlett Packard Enterprise introduces Kubernetes-based platform for bare-metal and edge to cloud deployments"
+        pageTitle="Hewlett Packard Enterprise introduces Kubernetes-based platform for bare-metal and edge to cloud deployments"
+        priority="(None)"
+        socialDescription="HPE Container Platform leverages BlueData, MapR, and Kubernetes for a faster path to application modernization – with greater agility, lower costs, and enterprise-grade security"
+        subtitle="HPE Container Platform leverages BlueData, MapR, and Kubernetes for a faster path to application modernization – with greater agility, lower costs, and enterprise-grade security"
+        UAID="1afeb58b-f193-4c7a-b278-af4d4086c9e6"
+        UCID="03dd0b3a-016b-4774-800d-f88233255a6f">
+        <main-par
+            jcr:lastModified="{Date}2019-11-15T17:57:30.584Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-11-15T18:59:48.830Z"
+                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="NOVEMBER 18, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T15:31:37.334Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/Hewlett-Packard-Enterprise-introduces-Kubernetes-based-platform-for-bare-metal-and-edge-to-cloud-deployments-2.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T19:22:10.590Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE has introduced the industry’s first enterprise-grade Kubernetes-based container platform - the HPE Container Platform&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>With the HPE Container Platform, customers can accelerate application development for new and existing apps – running on bare-metal or virtualized infrastructure, on any public cloud, and at the edge&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_32
+                    jcr:created="{Date}2019-11-01T22:21:45.032Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T19:22:33.754Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Container Platform leverages BlueData, MapR, and Kubernetes for a faster path to application modernization – with greater agility, lower costs, and enterprise-grade security&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-16T00:17:04.960Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>San Jose, Calif., – Nov. 18, 2019&lt;/b> – Hewlett Packard Enterprise (HPE) today announced the &lt;a href=&quot;https://www.hpe.com/us/en/solutions/container-platform.html&quot; target=&quot;_blank&quot;>HPE Container Platform&lt;/a>, the industry’s first enterprise-grade Kubernetes-based container platform designed for both cloud-native applications and monolithic applications with persistent storage. With the HPE Container Platform, enterprise customers can accelerate application development for new and existing apps – running on bare-metal or virtualized infrastructure, on any public cloud, and at the edge.&lt;br>&#xa; &lt;br>&#xa; The HPE Container Platform is built on proven innovations from HPE’s acquisitions of &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2018/11/hpe-to-acquire-bluedata.html&quot; target=&quot;_blank&quot;>BlueData&lt;/a> and &lt;a href=&quot;https://www.hpe.com/us/en/newsroom/press-release/2019/08/hpe-advances-its-intelligent-data-platform-with-acquisition-of-mapr-business-assets.html&quot; target=&quot;_blank&quot;>MapR&lt;/a>&lt;u>, together with 100 percent open source Kubernetes&lt;/u>. This next-generation solution dramatically reduces cost and complexity by running containers on bare-metal – while providing the flexibility to deploy on virtual machines and cloud instances. Customers benefit from greater efficiency, higher utilization, and improved performance by “collapsing the stack” and eliminating the need for virtualization.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_349b_copy_
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T19:32:44.917Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>The HPE Container Platform is built on innovations from HPE’s acquisitions of BlueData and MapR&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-11-15T19:32:44.917Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b_copy_>
+                <textonlycomponent_e9_1104491343
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-16T00:17:53.713Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new platform uniquely addresses the requirements for large-scale enterprise Kubernetes deployments across a wide range of use cases, from machine learning and edge analytics to CI/CD pipelines and application modernization. IT teams can manage multiple Kubernetes clusters with multi-tenant container isolation and pre-integrated persistent storage. Developers have secure on-demand access to their environments so they can develop apps and release code faster, with the portability of containers to build once and deploy anywhere.&lt;br>&#xa;&lt;br>&#xa;“Application development is migrating to containers, and Kubernetes is the de facto standard for container orchestration,” said Kumar Sreekanti, senior vice president and&amp;nbsp;chief technology officer of&amp;nbsp;Hybrid&amp;nbsp;IT at HPE. “We’re combining our expertise and intellectual property from recent acquisitions together with open source Kubernetes to deliver an unmatched enterprise-class container platform. Our container-first approach will provide enterprises with a faster and lower cost path to application modernization, optimized for bare-metal and extensible to any infrastructure from edge to cloud.”&lt;/span>&lt;/p>&#xa;"
+                    topPadding="0"/>
+                <pullquote_349b_copy__204694508
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-15T19:35:03.737Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE Container Platform addresses requirements for large-scale Kubernetes deployments across use cases&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-11-15T19:35:03.737Z"
+                        jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b_copy__204694508>
+                <textonlycomponent_e9_1817303779
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T16:17:42.282Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Enterprise organizations today recognize that in order to transform and compete in their industry, they need to innovate faster and modernize their applications. To increase the velocity of new application development and drive digital innovation, they’re using containers and Kubernetes to build cloud-native applications with a microservices architecture. Industry analyst research validates this rapid growth for container adoption in the enterprise:&lt;br>&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Gartner estimates that more than 75 percent of global organizations will be running containerized applications in production by 2022, up from less than 30 percent today&lt;sup>1&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>IDC research shows that 55 percent of large U.S. enterprises have standardized on Kubernetes for container orchestration&lt;sup>2&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>A recent 451 Research survey indicates that 95 percent of new applications will use containers&lt;sup>3&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As these organizations extend their use of containers and Kubernetes beyond development and testing to production environments, they need to address key considerations including security, multi-cluster management and load balancing. New use cases are emerging for edge computing, databases, and more. In addition, a significant portion of their enterprise applications and systems are not cloud-native – these traditional monolithic applications are costly to maintain and many of them would benefit from containerization. But re-architecting or refactoring existing applications as cloud-native is time-consuming and expensive. And these applications have requirements that remain challenging with Kubernetes, such as root filesystem persistence and migration.&lt;br>&#xa; &lt;br>&#xa; The HPE Container Platform is a turnkey solution that uniquely addresses these challenges, with BlueData software as the control plane for container management, the MapR distributed file system for persistent data with containers, and Kubernetes for container orchestration. This breakthrough approach extends the benefits of containers beyond cloud-native microservices-architected applications, providing the ability to containerize non cloud-native monolithic applications with persistent data storage.&lt;/span>&lt;/p>&#xa;"/>
+                <imageonlycomponent
+                    jcr:created="{Date}2019-11-18T16:18:32.119Z"
+                    jcr:createdBy="tanya.dainoski@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T16:20:58.753Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/HPE Container Platform overview.png"
+                    imageAlignment="hpe-image-left"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_e9_483884602
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-18T16:18:21.344Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>The key benefits of the HPE Container Platform include:&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Modernizes non cloud-native monolithic applications without re-architecting them, elevating the experience to modern cloud standards.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Provides the ability to build applications once and run them anywhere, bridging the gap between on-premises, public clouds and the edge.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Improves productivity for developers and delivers new code releases faster, with simplified Kubernetes deployment and multi-cluster management.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Ensures enterprise-class security, performance, and reliability at lower cost, with bare-metal containers and data persistence.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span data-rte-class=&quot;rte-temp&quot;>&lt;span class=&quot;body-copy-large&quot;>This new solution complements existing HPE services to assist customers with container strategies, application modernization, and hybrid cloud deployments. HPE Pointnext provides advisory and consulting services built upon experience from over one thousand hybrid cloud engagements, with expertise and best practices from the acquisitions of Cloud Technology Partners and RedPixie.&lt;br>&#xa; &lt;br>&#xa; &lt;b style=&quot;font-weight: bold;&quot;>Availability&lt;/b>&lt;br>&#xa; &lt;br>&#xa; HPE Container Platform software will be orderable in early 2020 along with world-class advisory, consulting, deployment, and support services from HPE.&lt;br>&#xa; &lt;br>&#xa; &lt;b style=&quot;font-weight: bold;&quot;>Additional Resources&lt;/b>&lt;/span>&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Learn more about the overall HPE container vision and strategy in this&amp;nbsp;&lt;a href=&quot;https://www.hpe.com/us/en/newsroom/blog-post/2019/11/With-HPE-Container-Platform-enterprise-wide-containerization-is-a-reality.html&quot; target=&quot;_blank&quot;>blog post&lt;/a>&amp;nbsp;from HPE’s President of Hybrid IT.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Watch this &lt;a href=&quot;https://youtu.be/OTtwfx4vRGQ&quot; target=&quot;_blank&quot;>video&lt;/a> to see how the HPE Container Platform provides a unified solution for both cloud-native and monolithic applications.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>See a demo in the HPE booth (#P28) at&amp;nbsp;&lt;a href=&quot;https://developer.hpe.com/blog/hpe-dev-heads-to-kubecon-cloudnativecon-san-diego&quot; target=&quot;_blank&quot;>KubeCon I CloudNativeCon North America&lt;/a>&amp;nbsp;this week in San Diego, California.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Gartner, Arun Chandrasekaran, “Evolution of Virtualization: VMs, Containers, Serverless — Which to Use When?” Published: 26 September 2019&lt;br>&#xa; &lt;sup>2&amp;nbsp;&lt;/sup>IDC, Containers and Cloud Management Survey, May, 2019&lt;br>&#xa; &lt;sup>3&lt;/sup> 451 Research, Voice of the Enterprise: DevOps Q1 201&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-11-16T00:21:54.627Z"
+                    jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is the global edge-to-cloud platform-as-a-service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and innovating to advance the way we live and work, HPE delivers unique, open and intelligent technology solutions, with a consistent experience across all clouds and edges, to help customers develop new business models, engage in new ways, and increase operational performance. For more information, visit: &lt;a href=&quot;http://www.hpe.com/&quot; target=&quot;_blank&quot;>www.hpe.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa; Editorial contact&lt;br>&#xa; &lt;br>&#xa; &lt;b>Doron Aronson, HPE&lt;br>&#xa; &lt;/b>+1 650.258.0327&lt;br>&#xa; &lt;a href=&quot;mailto:doron.aronson@hpe.com&quot; target=&quot;_blank&quot;>doron.aronson@hpe.com&lt;/a>&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T19:32:08.050Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/11/With-HPE-Container-Platform-enterprise-wide-containerization-is-a-reality"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="With HPE Container Platform, enterprise-wide containerization is a reality"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="With HPE Container Platform, enterprise-wide containerization is a reality"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T19:32:08.050Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/11/image-norend/With-HPE-Container-Platform-enterprise-wide-containerization-is-a-reality.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T19:32:08.050Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T18:54:18.827Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/08/from-kubernetes-to-docker-hpe-onesphere-is-supercharging-cloud-application-development"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="From Kubernetes to Docker HPE OneSphere is supercharging cloud application development"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="From Kubernetes to Docker HPE OneSphere is supercharging cloud application development"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T18:54:18.827Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/08/image-norend/From-Kubernetes-to-Docker-HPE-OneSphere-is-supercharging-cloud-application-development-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T18:54:18.827Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-11-15T18:55:56.318Z"
+                            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpe-further-embraces-containers-to-help-customers-achieve-hybrid-it"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE further embraces containers to help customers achieve Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE further embraces containers to help customers achieve Hybrid IT"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-11-15T18:55:56.318Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-1.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-11-15T18:55:56.318Z"
+                                jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+        </main-par>
+    </jcr:content>
+</jcr:root>

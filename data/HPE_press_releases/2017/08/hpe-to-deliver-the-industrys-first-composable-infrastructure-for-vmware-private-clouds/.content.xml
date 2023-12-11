@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:09:07.557Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure,hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-to-deliver-the-industrys-first-composable-infrastructure-for-vmware-private-clouds"
+        jcr:uuid="c79d8704-164f-4254-b2ed-91f55da79add"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-08-29T04:57:00.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        metaDescription="HPE to Deliver the Industrys First Composable Infrastructure for VMware Private Clouds"
+        navTitle="HPE to Deliver the Industry’s First Composable Infrastructure for VMware Private Clouds"
+        pageTitle="HPE to Deliver the Industry’s First Composable Infrastructure for VMware Private Clouds"
+        priority="(None)"
+        subtitle="HPE Synergy with VMware Cloud Foundation will enable single-click deployment of traditional and private cloud workloads and allow infrastructure to be dynamically reallocated in minutes"
+        theme="dark"
+        UAID="28318fcd-e961-48b4-bca0-9a2238ddf066"
+        UCID="ddffbf45-8ec3-4082-8823-b862f15d5c70"
+        WPID="198767">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="August 29, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2017/08/image-norend/SynergyServers.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE to Deliver the Industrys First Composable Infrastructure for VMware Private Clouds"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T13:12:58.566Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Synergy with VMware Cloud Foundation will enable IT to deploy IaaS in minutes and lower VM costs compared to public clouds&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Synergy is the only platform available today that provides a single infrastructure for IT to dynamically compose their right mix of virtual, traditional and VMware Cloud Foundation&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Using HPE Synergy, IT can deploy VMware Cloud Foundation in minutes with a few simple clicks&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Synergy offers the industry’s fastest platform for VMware environments&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HPE Synergy with VMware Cloud Foundation will enable single-click deployment of traditional and private cloud workloads and allow infrastructure to be dynamically reallocated in minutes&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_l1x4
+                    jcr:lastModified="{Date}2020-05-12T17:00:35.661Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS –&amp;nbsp;August 29, 2017 –&amp;nbsp;Today, &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) at &lt;a href=&quot;https://www.vmworld.com/en/us/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>VMworld&lt;/a> announced the industrys first composable platform for &lt;a href=&quot;https://www.vmware.com/products/cloud-foundation.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>VMware Cloud Foundation&lt;/a>, based on &lt;a href=&quot;/content/hpe/base/blueprint/products/integrated-systems/synergy.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>HPE Synergy&lt;/a>. This solution will enable IT organizations to simplify their transformation to a hybrid IT infrastructure, deploy infrastructure as a service (IaaS) and private clouds in minutes and lower virtual machine (VM) costs compared to public clouds and traditional server racks.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_6qpb
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Deploy IaaS and private clouds in minutes and lower VM costs compared to public clouds and traditional server racks&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_ebk1
+                    jcr:lastModified="{Date}2018-10-18T13:28:26.719Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today, IT is under pressure to respond to line of business and developer initiatives with cloud speed, optimize their right mix of IT, including on-premises, hosted and public cloud, all while lowering capital and operational expenditures (CapEx and OpEx). The combination of HPE Synergy with VMware Cloud Foundation will enable customers to:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Operate a single platform to run traditional bare metal, virtualized SAN-based environments and new vSAN-based workloads&lt;/b>&amp;nbsp;– HPE Synergy is the only platform available today that provides a single infrastructure for IT to dynamically compose their right mix of virtual, traditional and VMware Cloud Foundation, increasing business agility and resource utilization.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Become an internal service provider of IaaS and private clouds&lt;/b>&amp;nbsp;– Using HPE Synergy Image Streamer, IT can deploy infrastructure and VMware Cloud Foundation software in minutes with a few simple clicks, to respond quickly to line of business and accelerate customers’ DevOps initiatives. By comparison, competitive solutions available today require multiple tools and steps.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Perform at cloud speed&lt;/b>&amp;nbsp;– HPE Synergy offers the industry’s fastest platform for VMware environments. HPE Synergy recently set the world record&amp;nbsp;&lt;a href=&quot;https://www.vmware.com/products/vmmark/results2x.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>VMmark 2.x Performance Benchmark&lt;/a>, performing 41 percent faster than the previous top scoring server.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Reduce CapEx and OpEx while increasing productivity&lt;/b>&amp;nbsp;– HPE Synergy is the industry’s first platform based on composable infrastructure, delivering VMs at a 29 percent lower cost compared to traditional architectures and up to 50 percent less than public clouds.1&amp;nbsp;In addition, customers can increase IT administrator productivity by up to three times, as customers are seeing triple the number of IT devices managed by a single administrator.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"/>
+                <pullquote_anlb
+                    jcr:lastModified="{Date}2018-10-18T13:29:04.650Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE Synergy offers the industry's fastest platform for VMware environments&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T13:29:04.650Z"
+                        jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_anlb>
+                <textonlycomponent_j8v4
+                    jcr:lastModified="{Date}2020-05-12T17:02:16.530Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>“In today’s competitive digital world, enterprises need technology that enables them to quickly introduce and scale new services,” said Ric Lewis, senior vice president and general manager, Software-Defined and Cloud Group, HPE. “HPE Synergy with VMware Cloud Foundation will deliver a private cloud experience that empowers IT to be an internal service provider and enables rapid response to business needs with single-click DevOps delivery.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Synergy with VMware Cloud Foundation extends HPE and VMware joint offerings, including vSphere and vRealize. These solutions are all built on a common architecture and integration with &lt;a href=&quot;/content/hpe/base/blueprint/products/integrated-systems/management-software.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>HPE OneView&lt;/a>, HPEs infrastructure automation software, allowing IT admins to discover, manage and optimize their virtualization environments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>“HPE Synergy powered by Cloud Foundation will provide a powerful solution to consolidate traditional, private and cloud native workloads onto a single integrated infrastructure platform that is simple to deploy and operate,” said John Gilmartin, vice president and general manager, Integrated Systems Business Unit, VMware. “Customers will benefit from a highly dynamic, programmable infrastructure foundation that eliminates the operational overhead of traditional deployments thanks to new built-in lifecycle automation capabilities. We are excited about the value that HPE Synergy powered by Cloud Foundation will unlock to our mutual customers.”&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Synergy with VMware Cloud Foundation can be combined with &lt;a href=&quot;/content/hpe/base/blueprint/services/flexible-capacity.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>HPE Flexible Capacity&lt;/a>, an infrastructure service offering on-demand capacity and a pay-as-you-go consumption model. HPE Flexible Capacity gives customers the ability to scale-up and scale-down capacity as need and allows customers to pay only pay for what they consume, providing cloud speed and economics on-premises, at or below the cost of public clouds.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Quickly deploy VMware private clouds on HPE hyperconverged infrastructure&lt;/b>&lt;br>&#xa; In addition to HPE Synergy with VMware Cloud Foundation, HPE announced Private Cloud Express with VMware vRealize, a new pre-integrated solution that includes VMware vRealize on HPE SimpliVity 380. Private Cloud Express is ideal for remote and branch offices, offering best in class data services to simplify management and reduce costs, in addition to providing application assessment services to determine the best process for migrating applications. For more information visit the &lt;a href=&quot;https://community.hpe.com/t5/Converged-Data-Center/Drive-business-agility-and-performance-with-Private-Cloud/ba-p/6975031&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>HPE Converged Data Center Infrastructure blog&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;br>&#xa; VMware Cloud Foundation on HPE Synergy is expected to be certified and available from HPE and channel and distribution partners in late 2017. vSphere and vSAN are certified and available with HPE Synergy today. Private Cloud Express with VMware vRealize is targeted for availability in September.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>The CloudGenera workload placement engine was utilized to determine the optimum provider configurations and unit pricing for public provider comparison as of April 17, 2017.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Forward-Looking Statement&lt;/b>&lt;br>&#xa; The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprise’s businesses; the competitive pressures faced by Hewlett Packard Enterprise’s businesses; risks associated with executing Hewlett Packard Enterprise’s strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprise’s filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_eyw9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/04/biotech-institute-hudsonalpha-talks-docker-containers-on-hpe-synergy-to-simplify-operations"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Biotech Institute HudsonAlpha Discusses Simplifying Operations With HPE Synergy"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Biotech Institute HudsonAlpha Discusses Simplifying Operations With HPE Synergy"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/04/image-norend/biotech-hero-sized.jpg"/>
+                        </contentblock_eyw9>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_bb54
+                            jcr:created="{Date}2018-10-18T14:21:10.782Z"
+                            jcr:createdBy="alexandru.ion@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T14:21:10.782Z"
+                            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-introduces-new-class-of-system-to-power-next-era-in-hybrid-infrastructure"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Introduces New Class of System to Power Next Era in Hybrid Infrastructure"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Introduces New Class of System to Power Next Era in Hybrid Infrastructure"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_bb54>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys"/>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-10-18T13:11:33.094Z"
+            jcr:lastModifiedBy="alexandru.ion@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

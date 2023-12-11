@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T07:53:20.708Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-helps-customers-accelerate-the-move-to-all-flash-data-centers"
+        jcr:uuid="a42913cb-1944-4839-8777-7a082bdda801"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:07.000-07:00"
+        metaDescription="HP Helps Customers Accelerate the Move to All-Flash Data Centers"
+        navTitle="HP Helps Customers Accelerate the Move to All-Flash Data Centers"
+        pageTitle="HP Helps Customers Accelerate the Move to All-Flash Data Centers"
+        priority="(None)"
+        subtitle="HP 3PAR StoreServ Storage Delivers the Affordability, Density, Resiliency and Multi-System Agility Required to Deploy Flash for Every Application"
+        theme="dark"
+        UAID="0f8cf730-342f-48a5-b1b1-5763ff4fad47"
+        UCID="83529d3c-5f85-4f3b-b88f-79b88d0d6767"
+        WPID="1518">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T11:33:15.960Z"
+                jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 1, 2015 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP 3PAR StoreServ Storage Delivers the Affordability, Density, Resiliency and Multi-System Agility Required to Deploy Flash for Every Application&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_co6i
+                    jcr:lastModified="{Date}2018-10-18T12:30:28.830Z"
+                    jcr:lastModifiedBy="razvan.floristeanu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>LAS VEGAS, NV--(Marketwired - Jun 1, 2015) - HP (NYSE: HPQ) announced today a series of innovations for the &lt;a rel=&quot;nofollow&quot; href=&quot;/content/hpe/base/blueprint/products/storage/flash-hybrid-storage/3par-storserv-storage-array-system.html&quot;>HP 3PAR StoreServ Storage&lt;/a> family, including 25 percent lower cost flash capacity, a new class of massively scalable flash arrays, and flash-optimized data services to accelerate IT-as-a-Service consolidation and hybrid IT initiatives.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The ability to provide applications with predictable, high performance in less physical space has led IDC to forecast a 46 percent compound annual growth rate for all-flash arrays over the next five years.&lt;sup>(1) &lt;/sup>According to Gartner, HP was the fastest growing flash vendor based on revenue from shipments of Solid-State Arrays in the market in 2014.&lt;sup>(2)&lt;/sup> Customers are now looking to extend the benefits of those all-flash arrays across their data centers that go beyond performance, including increased productivity and data center consolidation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To accelerate transformation to the all-flash data center, HP is lowering the cost of all-flash storage to $1.50 per usable gigabyte&lt;sup>(3)&lt;/sup> and introducing ultra-dense and scalable flash systems. The new HP 3PAR StoreServ Storage 20000 enterprise flash family boosts performance with over 3.2 million IOPS at sub-millisecond latency&lt;sup>(4)&lt;/sup> and consumes 85% less space than traditional high-end arrays &lt;sup>(5)&lt;/sup> for massive footprint reduction. To support mission-critical workloads and enable greater agility, HP is unveiling flash-optimized software for end-to-end availability and non-disruptive workload balancing across the data center. These capabilities build on an already strong set of tier-1 data services unmatched by competitive all-flash arrays.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Early flash adopters are seeing added benefits such as extreme savings and productivity enhancements that are leading to an all-flash strategy for more applications,&amp;quot; said Manish Goel, senior vice president and general manager, HP Storage. &amp;quot;HP 3PAR StoreServ is in a class of its own, with the affordability, scale and resiliency required for datacenter-wide flash adoption.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Bringing the cost of all-flash to $1.50 per gigabyte usable is just the beginning&lt;br>&#xa; &lt;/b>Customers looking to deploy flash for more of their applications can now do so more affordably thanks to the industry's largest capacity solid state drive in a tier-1 all-flash array. Combined with HP flash optimization and hardware-accelerated data compaction that increases usable capacity by 75 percent,&lt;sup>(6)&lt;/sup> these new 3.84 terabyte drives bring down the cost of all-flash storage to $1.50 per usable gigabyte, approaching that of 10K RPM SAS hard disk drives.&lt;sup>(7)&lt;/sup> When customers apply space efficient snapshot features like those in 3PAR StoreServ to the multiple full data copies used for developers and data warehouses, they can reduce capacity needs by 6 times, in effect reducing cost per gigabyte to $0.25.&lt;sup>(8)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>New class of enterprise flash revolutionizes speed, scale, and data center efficiency &lt;br>&#xa; &lt;/b>The new HP 3PAR StoreServ 20000 family scales-out to eight nodes and is ideal for customers consolidating multiple racks of legacy high-end storage while assuring application quality of service. The all-flash 3PAR StoreServ 20850 is capable of delivering greater than 3.2 million IOPS at sub-millisecond latency&lt;sup>(4)&lt;/sup> and over 75 GBps of sustained throughput for maximum application performance.&lt;sup>(9)&lt;/sup> The new family also includes the 3PAR StoreServ 20800 converged flash array which scales up to 15 petabytes (PB) of usable capacity. These new models are built on the HP 3PAR Gen5 Thin Express ASIC, enabling higher levels of performance, scalability and efficiency including hardware-accelerated deduplication.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With industry-leading density that is over 8 times that of major flash array competitors,&lt;sup>(10)&lt;/sup> these new 3PAR StoreServ models consolidate 280 terabytes of usable capacity into a single 2U drive chassis and 5.5 PB usable onto a single floor tile. Both models support unified block and file workloads as well as object access for cloud-developed application consolidation. This density and workload flexibility assures that customers can prevent flash-array sprawl caused by introducing separate, capacity limited flash architectures into their datacenter.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerated data integrity, availability, and protection for all-flash data centers&lt;br>&#xa; &lt;/b>To support mission-critical applications, flash arrays and all-flash data centers must include built-in data availability and business continuity to reduce risk without performance penalty.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Powered by the new HP 3PAR Gen5 Thin Express ASIC, 3PAR Persistent Checksum ensures end-to-end data integrity from the application server through to the storage array for any workload while remaining completely transparent to those servers and applications. This data validation capability protects against flash media and transmission errors as data moves from HP ProLiant Servers through the fabric and to the 3PAR StoreServ storage array.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP 3PAR Remote Copy support for asynchronous streaming replication enables replication where latency, distance and recovery are optimized. Especially suited for the all-flash data centers, asynchronous streaming eliminates the overhead of synchronous replication while providing a near-exact data copy with recovery point objectives (RPOs) measured in seconds.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The low latency of flash also benefits customers requiring a zero-RPO solution. For these environments, HP now provides the Alcatel-Lucent 1830 Photonic Services Switch which when combined with 3PAR Remote Copy software, delivers synchronous replication over fibre infrastructure up to 130 kilometers with in-flight encryption to reduce business risk.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP also announced new 3PAR Remote Copy integration with &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/go/rmc&quot;>HP StoreOnce Recovery Manager Central&lt;/a> (RMC) software. StoreOnce RMC enables application-managed snapshots on HP 3PAR StoreServ systems and automatic movement of data to HP StoreOnce that is 17 times faster than traditional backup with almost 5 times faster restore.&lt;sup>(11)&lt;/sup> With this integration, StoreOnce RMC now supports replication of application-managed snapshots between HP 3PAR arrays.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>One-click workload rebalancing across arrays with zero added overhead&lt;br>&#xa; &lt;/b>Enterprise datacenters running a mix of legacy high-end and all-flash arrays with limited scale have been forced to knit together these silos with added layers of cost, risk, and complexity in the form of dedicated external SAN virtualization appliances placed directly in the data path. To eliminate these compromises, HP announced enhancements to the native storage federation capabilities within HP 3PAR StoreServ 20000 Storage systems.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>New HP 3PAR Peer Motion support for non-disruptive, bi-directional data movement allows enterprises to create a storage federation, or an elastic resource pool, across multiple storage arrays with up to 60 PB of aggregate usable capacity, capable of delivering over 10 million IOPS and 300 GBps bandwidth.&lt;sup>(12) &lt;/sup>With a single click, workloads can move between members of a federation to dynamically rebalance storage resources for cost and performance optimization, rapid response to new business opportunities, and simple technology refreshes.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To simplify consolidation onto modern all-flash storage, HP 3PAR Online Import now supports simple migration from Hitachi Data Systems (HDS) TagmaStore Network Storage Controller (NSC), Universal Storage Platforms (USP), and Virtual Storage Platforms (VSP) Storage systems in addition to EMC VMAX, EMC VNX, and EMC CLARiiON CX4 storage systems.&lt;sup>(13)&lt;/sup>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b> &lt;b>&lt;sup>(14)&lt;/sup>&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New 3.84 TB cMLC SSDs are available worldwide, orderable and shipping immediately.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP 3PAR StoreServ 20000 Storage Systems are available worldwide, orderable immediately and shipping in August 2015 for a US street price starting at $75,000.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>All new 3PAR StoreServ software features will only be available for 20000 systems.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP Financial Services' IT investment solutions create the financial flexibility and control within the infrastructure to accelerate migration to new HP 3PAR StoreServ Storage technology, and acquire capacity in line with changing business needs.&lt;sup>(15)&lt;/sup>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HP StoreOnce Recovery Manager Central for VMware (RMC-V) with 3PAR Remote Copy support will be available worldwide, June 2015 at no additional charge to customers who have an existing RMC-V or RM-V license and a valid support contract.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.More information about HP is available at &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.hp.com/&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1) IDC, &amp;quot;IDC Analyst Connection: New Mixed Workload Consolidation Focus for AFAs Forces Customers to Look Beyond Just Performance,&amp;quot; April 2015.&lt;br>&#xa;(2) Gartner, &amp;quot;Market Share Analysis: SSDs and Solid-State Arrays, Worldwide 2014,&amp;quot; May 2015.&lt;br>&#xa;(3) HP internal analysis; 3.84TB cMLC SSDs, when used in conjunction with 3PAR StoreServ compaction technologies, bring the cost of all-flash HP 3PAR StoreServ Storage to less than $1.50 per gigabyte of usable storage capacity.&lt;br>&#xa;(4) 3.2 million IOPS based on HP internal testing using 100% random read workload with an 8k block size and node local volume layout using RAID1 protection. RAID 5 performance at 3 million IOPS.&lt;br>&#xa;(5) HP internal analysis; as compared to EMC VMAX 400K with 12 PB (representing a mix of 90% HDDs and 10% SSDs).&lt;br>&#xa;(6) HP internal analysis; as compared to not using data compaction technologies and based on a 4:1 compaction ratio.&lt;br>&#xa;(7) HP internal analysis; as compared to the HP 3PAR StoreServ 7400 with a 2-node configuration, 600 GB of 10K disks and a total of 115 TB usable with HP 3PAR Reporting Suite, Replication Suite, Data Optimization Suite, Recover Manager for VMware, and Proactive Care 24 support.&lt;br>&#xa;(8) David Floyer, Wikibon CTO &lt;a rel=&quot;nofollow&quot; href=&quot;http://premium.wikibon.com/evolution-of-all-flash-array-architectures/&quot;>http://premium.wikibon.com/evolution-of-all-flash-array-architectures/&lt;/a> Table 2. Section: Eliminating Copies of Data by applications using the same data source.&lt;br>&#xa;(9) Based on HP testing using a 256K sequential read workload, node local volume layout, and RAID5 protection.&lt;br>&#xa;(10) HP internal analysis based on the comparison of the HP 3PAR StoreServ 20850 Storage with 12 BP usable capacity and EMC XtremIO storage, using 40TB flash bricks (a total of 8 systems) to achieve 12 PB usable capacity.&lt;br>&#xa;(11) HP testing comparing StoreOnce RMC backup and restore performance with market leading backup software.&lt;br>&#xa;(12) HP 3PAR Peer Motion software now supports up to four HP 3PAR StoreServ 20000 arrays. Assuming 4 x 20800 models that support 2.5 M IOPs and 15PBs of usable capacity, customers can configure up to 60 PBs of usable capacity that supports an aggregate of 10 million IOPs and 300GB/s of bandwidth.&lt;br>&#xa;(13) HP 3PAR Online Import software supports data migration from HP EVA, EMC VMAX, VNX, CLARiiON CX4 and HDS TagmaStore Network Storage (NSC), Universal Storage Platforms (USP), and Virtual Storage Platforms (VSP).&lt;br>&#xa;(14) Estimated U.S. street prices. Actual prices may vary.&lt;br>&#xa;(15) Financing and service offerings available through Hewlett-Packard Financial Services Company and its subsidiaries and affiliates (collectively HPFSC) in certain countries and are subject to credit approval and execution of standard HPFSC documentation. Rates and terms are based on customer's credit rating, offering types, services and/or equipment type and options. Not all customers may qualify. Not all services or offers are available in all countries. Other restrictions may apply. HPFSC reserves the right to change or cancel this program at any time without notice.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This press release contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of HP for future operations, including the separation transaction; the future performance of Hewlett-Packard Enterprise and HP Inc. if the separation is completed; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy, including the planned separation transaction, and plans for future operations and investments; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the execution, timing and results of the separation transaction or restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP's business) and the anticipated benefits of implementing the separation transaction and restructuring plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2015, and HP's other filings with the Securities and Exchange Commission. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>2015 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_0i4b
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/05/hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_0i4b>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5ind
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-disrupts-the-economics-of-flash-adoption"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Disrupts the Economics of Flash Adoption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Disrupts the Economics of Flash Adoption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/image-norend/placeholder.jpg"/>
+                        </contentblock_5ind>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ncoq
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/09/hpe-introduces-industrys-broadest-high-performance-flash-portfolio-for-midsize-businesses"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Office.jpg"/>
+                        </contentblock_ncoq>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

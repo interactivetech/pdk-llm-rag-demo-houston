@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2019-03-06T16:48:55.605Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-generic-template"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="03"
+        sling:resourceType="hpeweb/components/pages/page-generic-template"/>
+    <hpe-tech-pro-community-expands-globally-to-connect-solutions-architects-across-channel-partners-and-hpe/>
+    <hewlett-packard-enterprise-discover-more-conference-comes-to-the-united-arab-emirates/>
+    <hpe-announces-next-generation-innovation-center-to-accelerate-uaes-innovation-ecosystem/>
+    <hpe-helps-businesses-build-their-hybrid-cloud-strategies-to-speed-deployment-and-save-cost/>
+    <first-us-exascale-supercomputer-to-be-a-cray-shasta-system/>
+</jcr:root>

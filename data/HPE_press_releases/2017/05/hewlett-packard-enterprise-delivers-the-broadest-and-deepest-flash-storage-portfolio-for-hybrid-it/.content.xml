@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:23:10.342Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hewlett-packard-enterprise-delivers-the-broadest-and-deepest-flash-storage-portfolio-for-hybrid-it"
+        jcr:uuid="2c91d7e8-b0d6-4e8c-a520-c9055f0133b0"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-05-24T04:50:03.000-07:00"
+        metaDescription="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+        navTitle="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+        pageTitle="Hewlett Packard Enterprise Delivers The Broadest and Deepest Flash Storage Portfolio for Hybrid IT"
+        priority="(None)"
+        theme="dark"
+        UAID="c9c67cd7-2ab1-4dcf-a9d2-eab35f42d91c"
+        UCID="0cf99969-55ef-4aa6-ac47-9972a97be2be"
+        WPID="198010">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 24, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:39.916Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3> &lt;ul>&lt;/ul>"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_lz9i
+                    jcr:lastModified="{Date}2020-05-20T16:40:58.230Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., May 24, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (HPE) (NYSE:&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>HPE&lt;/a>)today announced a comprehensive flash portfolio update with new products and data protection solutions designed to help customers continue their journey to an all- flash data center. The new offerings include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>A more powerful midrange HPE 3PAR StoreServ 9450 all-flash array&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Availability of Nimble Storage primary and new secondary flash arrays&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Affordable fifth generation HPE MSA Storage&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>High-speed, cloud-connected StoreOnce data protection&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The adoption of flash storage continues to gain pace, with 51 percent of customers&lt;sup>1&lt;/sup>predicting that they will have an All-Flash Data Center within five years. Its not just enterprises, smaller companies are also adopting flash as prices come down. At the same time, IT teams are seeking deeper integration across servers, storage, networks, and automation tools to maximize value from investments.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;As flash permeates the datacenter it has become critical to move beyond the array from predictive analytics to data protection to investment strategies, said Bill Philbin, senior vice president, Data Center Infrastructure Group, Hewlett Packard Enterprise. These new solutions help more customers maximize the value of flash on-premises and enable flexible off-premises data mobility.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Leading All-Flash price-performance and density across multiple segments&lt;/b>&lt;br>&#xa; Data growth and app development in the data center is expanding exponentially and putting pressure on IT to consolidate more data on less infrastructure while also evaluating the right mix of on-premises and off-premises investments. To address these demands, HPE is updating its overall flash portfolio including the addition of cloud-ready Nimble Storage flash arrays powered by predictive analytics for a new-style approach to storage support and monitoring.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For midrange customers hitting performance limits of aging systems, HPE 3PAR is redefining expectations with the new &lt;b>HPE&lt;/b> &lt;b>3PAR StoreServ 9450, &lt;/b>a highly scalable, multi-tenant, and performance rich all-flash platform that builds on the product familys number one position in the midrange fibre channel.&lt;sup>2&lt;/sup>To enable the consolidation of more data in less space without compromising service levels, HPE is increasing performance 70 percent, doubling scale to 6PB, and enabling 3X the front-end connectivity with 80 host ports.&lt;sup>3&lt;/sup> This new, more powerful member of the 3PAR family enables consistent and predictable performance at less than half the cost of EMC VMAX 250F&lt;sup>4&lt;/sup>and supports consolidation of both block and file workloads. For those considering long-term investment strategies, the 3PAR StoreServ 9450 also provides a futureproof path to next generation Storage Class Memory and NVM Express (NVMe) using &lt;a title=&quot;HPE 3PAR 3D Cache&quot; href=&quot;https://community.hpe.com/t5/around-the-storage-block/hpe-3par-storage-class-memory-turbocharged-application/ba-p/6922573#.XsVdgmhKhaR&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;>HPE 3PAR 3D Cache&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is also unveiling the fifth generation of its entry SAN platform, HPE MSA, starting with the introduction of &lt;b>HPE MSA 2050 and 2052&lt;/b> models. MSA has been the leading entry fibre channel array for eight years&lt;sup>5&lt;/sup>and now delivers 2x more performance than the previous generation starting under $10,000&lt;sup>6&lt;/sup>. With all-inclusive software and 1.6 terabytes of solid-state disk (SSD) capacity included, the new &lt;b>HPE MSA 2052&lt;/b> offers a 40 percent cost savings&lt;sup>7&lt;/sup>on hybrid flash models. Both MSA platforms are affordable starting points for application acceleration providing flexibility to mix any combination of SSD and SAS drives plus including resiliency features such as snapshots and remote replication.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Flash-optimized protection now cloud-ready and 15x faster &lt;/b>&lt;br>&#xa; With the scale and speed of flash storage becoming pervasive its critical that customers re-think data protection to avoid risk and eliminate bottlenecks this includes taking advantage of public cloud to achieve the right mix of Hybrid IT. As part of that shift, HPE has federated primary, secondary, and object storage to enable zero-impact data protection while putting backup data to work.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For customers exploring public-cloud tiers for secondary data, HPE announced &lt;b>StoreOnce CloudBank&lt;/b>, a long-term data retention solution that provides significantly lower cost protection on multi-cloud destinations such as AWS, Azure or on premises object storage. Unlike many cloud backup solutions, StoreOnce CloudBank has been architected to reduce bandwidth requirements by over 99 percent, helping to lower costs of cloud-based storage to just $0.001 per gigabyte per month. The solution also supports the full set of on-premises StoreOnce features, including 3PAR integration, so customers can automatically transition data off-premises while assuring rapid and flexible disaster recovery.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>As HPE 3PAR flash customers seek to rapidly protect larger and larger data sets, &lt;b>HPE Recovery Manager Central&lt;/b> &lt;b>(RMC)&lt;/b> already provides the fastest possible protection of applications running on 3PAR by directly connecting to secondary StoreOnce data protection systems through patented block-level integration. RMC is part of 3PARs all-inclusive licensing model and has now been enhanced with a new Express Restore feature, which enables 15x faster data recovery&lt;sup>8&lt;/sup>from on-prem or off-prem StoreOnce repositories. RMC has also now been integrated with Veeam Explorer so customers can recover application items such as e-mails, documents and database schemas directly from RMC-V Express Protect backups.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Many customers moving to an all-flash datacenter are looking for ways to maximize return on those investments. For some that includes changing how they utilize data stored as backup copies. The new &lt;b>Nimble Secondary Flash Array&lt;/b> (SFA) allows customers to put their backup and copy data to work for secondary applications. The system brings together always-on deduplication and compression to lower capacity costs for backup with flash-optimized performance and zero-copy cloning to run production workloads like dev/test, QA and analytics.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and Availability&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE 3PAR StoreServ 9450 will be available June 2017 with US street pricing starting at $74,840.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE MSA 2050 will be available June 2017 with US street pricing starting at $7,750.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE MSA 2052 will be available June 2017 with US street pricing starting at $9,600.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>RMC 4.1 is included as part of the standard all-inclusive 3PAR StoreServ licensing package and will be available from September 2017.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE StoreOnce CloudBank is available as part of an Early Access Program. Contact HPE to see if you qualify.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Nimble Secondary Flash Array currently available with US street pricing starting under $40,000.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industrys most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Forward-Looking Statement&lt;br>&#xa; The information included in this press release contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard Enterprise may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard Enterprises businesses; the competitive pressures faced by Hewlett Packard Enterprises businesses; risks associated with executing Hewlett Packard Enterprises strategy; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by Hewlett Packard Enterprise and its suppliers, customers and partners; integration and other risks associated with business combination and investment transactions; and other risks that are described in Hewlett Packard Enterprises filings with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>________________________________&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>TechTarget Storage Market Landscape Study 2H16.&lt;br>&#xa; &lt;sup>2&lt;/sup>IDC WW Quarterly Enterprise Storage Systems Tracker, 4Q16, based on midrange fibre channel product revenues.&lt;br>&#xa; &lt;sup>3&lt;/sup>Based on HPE comparisons with 3PAR 8450.&lt;br>&#xa; &lt;sup>4&lt;/sup>Based on HPE price-performance ($/IOP) analysis of comparable systems using available pricing information.&lt;br>&#xa; &lt;sup>5&lt;/sup>IDC WW Quarterly Enterprise Storage Systems Tracker, 4Q16, based on vendor revenues.&lt;br>&#xa; &lt;sup>6&lt;/sup>Based on HPE performance testing comparisons.&lt;br>&#xa; &lt;sup>7&lt;/sup>HPE pricing comparison of MSA2050 with SSDs and Advanced Data Services suite vs MSA2052 after standard discounting.&lt;br>&#xa; &lt;sup>8&lt;/sup>Based on HPE restore performance testing comparisons.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_14w5
+                            jcr:lastModified="{Date}2020-05-20T16:41:21.658Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/09/hpe-introduces-industrys-broadest-high-performance-flash-portfolio-for-midsize-businesses"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T16:41:21.658Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Office.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T16:41:21.658Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_14w5>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ydwr
+                            jcr:lastModified="{Date}2020-05-20T16:41:31.778Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/05/hpe-guarantees-industrys-highest-all-flash-storage-capacity-efficiency"
+                            description="Press Release"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Guarantees Industrys Highest All-Flash Storage Capacity Efficiency"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Guarantees Industrys Highest All-Flash Storage Capacity Efficiency"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-20T16:41:31.778Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Nimble-All-Flash-Arrays-Man.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-20T16:41:31.778Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_ydwr>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys"/>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

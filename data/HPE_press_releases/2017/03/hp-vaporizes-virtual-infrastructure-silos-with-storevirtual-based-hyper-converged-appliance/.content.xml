@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-03-29T20:55:55.345Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-vaporizes-virtual-infrastructure-silos-with-storevirtual-based-hyper-converged-appliance"
+        jcr:uuid="d302e93e-cc0c-470b-88de-5192044c28c9"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Vaporizes Virtual Infrastructure Silos With StoreVirtual-Based Hyper-Converged Appliance"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-vaporizes-virtual-infrastructure-silos-with-storevirtual-based-hyper-converged-appliance/jcr:content/main-par/body-par/textonlycomponent_vd4d"
+        navTitle="HP Vaporizes Virtual Infrastructure Silos With StoreVirtual-Based Hyper-Converged Appliance"
+        pageTitle="HP Vaporizes Virtual Infrastructure Silos With StoreVirtual-Based Hyper-Converged Appliance"
+        priority="(None)"
+        subtitle="Highly Available Simplified Systems Empower Businesses to Provision Fully Virtualized and Resilient VMware vSphere Infrastructure in Minutes"
+        theme="dark"
+        UAID="89eb40a7-1342-4f37-9320-76b9b68905b7"
+        UCID="1e38f508-d7e0-464c-b0c7-eec5fb72e4d1"
+        WPID="1567">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T17:47:29.708Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 14, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-18T18:07:21.107Z"
+                    jcr:createdBy="esparza@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T18:08:10.310Z"
+                    jcr:lastModifiedBy="esparza@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Highly Available Simplified Systems Empower Businesses to Provision Fully Virtualized and Resilient VMware vSphere Infrastructure in Minutes&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_vd4d
+                    jcr:lastModified="{Date}2023-03-29T20:55:55.335Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>BARCELONA, SPAIN--(Marketwired - Oct 14, 2014) - HP (NYSE: HPQ) today announced at VMworld&amp;nbsp;Europe 2014 a new hyper-converged offering that combines software-defined storage, compute, management and VMware integration to deploy a complete virtualized environment from power-on to provisioning of new applications in less than 15 minutes.&lt;sup>(1)&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Virtualization continues to be a driver for infrastructure investment, however the complexity of building virtual infrastructure from individual components is fueling a 33 percent compound annual growth rate (CAGR) for integrated systems. IDC estimates the integrated systems market will grow from $5.4 billion in 2013 to $14.3 billion by 2017.&lt;sup>(2)&lt;/sup>&amp;nbsp;Hyper-converged systems are the next evolution of converged infrastructure, helping midsize locations simplify IT operations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To address this need, HP is introducing the HP ConvergedSystem 200-HC StoreVirtual, which combines all required hardware and management into a single scale-out system.&amp;nbsp;Architected for simplicity and built on proven and open data services, the system includes HP OneView InstantOn, HP OneView for VMware vCenter, and HP StoreVirtual VSA technology for simple self-installation and management of fully clustered, highly available servers and storage.&amp;nbsp;This flexible solution is aimed to help midsize businesses, remote offices and branch office locations that want a building block approach to infrastructure in order to simplify IT operations, accelerate service delivery, and enable enhanced disaster recovery for virtualized as well as physical servers.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This integrated appliance is sized for server virtualization and virtual desktop workloads based on VMware best practices, providing faster response times to business demands, simplified administration and improved application availability. The solution provides operational efficiencies through unified management across HP StoreVirtual, HP ProLiant Servers and HP OneView's converged management with robust VMware vSphere®integration and wizard-driven startup designed for IT generalists without specialized storage expertise.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Small and midsize enterprises are looking to simplify IT operations and deliver applications and services faster with absolute&amp;nbsp;simplicity,&amp;quot; said Nariman Teymourian, senior vice president and general manager, Converged Systems, HP. &amp;quot;The HP ConvergedSystem 200-HC StoreVirtual system enables the business to accelerate time to value and respond to business opportunities faster.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Today's announcement demonstrates the longstanding partnership between HP and VMware. The new ConvergedSystem 200 line of hyper-converged solutions starting with the HP StoreVirtual version and then the EVO:RAIL version, offer customers greater choice and flexibility.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Hyper-convergence is the next phase of infrastructure evolution and builds on the adoption of virtualization technologies,&amp;quot; said Raghu Raghuram, executive vice president, Software-Defined Data Center Division, VMware. &amp;quot;The HP ConvergedSystem 200-HC StoreVirtual system promises to accelerate operational efficiency outcomes for our mutual customers.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With more customers running VMware software on HP ProLiant Servers than any other platform, more than 50,000 HP OneView for VMware vCenter downloads,&lt;sup>(3)&lt;/sup>&amp;nbsp;and over one million HP StoreVirtual software-defined storage license distributions, customers can be confident that this solution builds on proven expertise.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;The mobile-cloud era has increased enterprise IT's standard of speed and efficiency, and software-defined data centers deliver on those expectations,&amp;quot; said Dan Molina, CTO, Nth Generation Computing. &amp;quot;The HP 200-HC StoreVirtual system provides the hyper-converged, warp-speed solution that midsize customers need to easily deploy an environment that handles any workload and responds quickly to changing business demands.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Deep hypervisor integration and best practice design accelerates deployment&amp;nbsp;&lt;br>&#xd;&#xa; &lt;/b>The knowledge and time required to manage separate servers, hypervisors, networking and storage can prevent organizations from realizing the benefits of server virtualization. The HP CS 200-HC StoreVirtual system is designed to simplify virtual infrastructure management, from ordering and deployment to support of applications and virtual desktops.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Designed for speed of deployment, the system includes HP OneView InstantOn -- a utility that provides simple self-installation and enables customers to be ready with loaded virtual machines in minutes and built on resilient server and storage infrastructure to provide application high availability. The HP ConvergedSystem 200-HC StoreVirtual system arrives pre-configured with all software pre-installed and only requires the entry of IP addresses, credentials and VMware vSphere license information to get up and running.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To simplify ongoing management, customers can take advantage of HP OneView for VMware vCenter for centralized management of compute, storage and virtual machines from inside VMware vCenter™ Server™.&amp;nbsp;This ensures an IT generalist can manage the entire virtual infrastructure from a single interface without any specialized server, storage, networking or virtualization expertise. Once the cluster-aware startup completes, administrators can:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Provision virtual machines directly from VMware vCenter Server&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Manage all hyper-converged systems and traditional virtual server systems across all sites from a single console using HP OneView for VMware vCenter&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Replicate from one hyper-converged system to another, or to a low-cost server/VSA combination for flexible disaster recovery&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Use optional vRealize Operations (formerly VMware vCenter™ Operations Manager™) for comprehensive monitoring of health and performance across VMs and critical physical components&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To help streamline and automate management of both physical and virtualized infrastructure, the intuitive HP OneView converged management platform will be extended over time to include even more functionality for the ConvergedSystem 200-HC StoreVirtual.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hyper-convergence with advanced data services for performance and resiliency&lt;br>&#xd;&#xa; &lt;/b>The HP ConvergedSystem 200-HC StoreVirtual system fits alongside the software-defined HP StoreVirtual Virtual Storage Appliance (VSA) and the HP StoreVirtual 4000 Storage appliance. All three HP StoreVirtual-based product families offer 100 percent shared data services, including replication, federation and transparent site failover.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HP ConvergedSystem 200-HC StoreVirtual system provides scale-out flexibility to handle changing workloads and is available in both performance and capacity optimized configurations. Systems can be clustered together up to 32 nodes to pool capacity and performance capabilities. Multiple clusters can then be managed from the same console, and adding systems to the cluster is quick and easy. Each additional system seamlessly adds the power of four servers and associated storage, maximizing the speed, agility and efficiency of customers' core infrastructure and operations.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Unlike storage in less mature hyper-converged offerings, the HP ConvergedSystem 200-HC StoreVirtual system includes a rich set of standard data services, including:&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Automated, sub-volume auto-tiering, thin provisioning and space reclamation provide capacity efficiency and lower storage costs without sacrificing performance.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Stretch cluster capabilities that keep applications online during appliance, rack-level or site-wide outages to address the need for business continuity.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Transparent multi-site high availability and workload mobility built on HP StoreVirtual technology certified by VMware as a vSphere Metro Storage Cluster solution and integrated with VMware vCenter Site Recovery Manager.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Data volumes that can be non-disruptively replicated or migrated from one HP ConvergedSystem 200-HC StoreVirtual system to another -- or to any x86-based server running any major hypervisor and HP StoreVirtual VSA -- using built-in HP Peer Motion to provide flexibility to meet changing business needs.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;div>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/div>&#xd;&#xa;&lt;div>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing and availability&lt;sup>(4)&amp;nbsp;&lt;/sup>&lt;/b>&lt;br>&#xd;&#xa;&lt;/span>&lt;/div>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;sup>&lt;/sup>&lt;/b>The HP ConvergedSystem 200-HC StoreVirtual system will be available worldwide in December 2014.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1)&amp;nbsp;Based on internal research.&amp;nbsp;&lt;br>&#xd;&#xa; (2)&amp;nbsp;IDC's Worldwide Integrated Systems 2014-2017 Forecast, March, 2014 IDC #246938.&amp;nbsp;&lt;br>&#xd;&#xa; (3)&amp;nbsp;Software-defined storage license distribution and OneView for VMware vCenter users based on number of downloads tracked by HP. Virtual machines running on HP ProLliant servers based on HP internal projections using sales statistics.&amp;nbsp;&amp;nbsp;&lt;br>&#xd;&#xa; (4)&amp;nbsp;Estimated U.S. list prices. Actual prices may vary.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>This news advisory contains forward-looking statements that involve risks, uncertainties and assumptions. If such risks or uncertainties materialize or such assumptions prove incorrect, the results of HP and its consolidated subsidiaries could differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including but not limited to statements of the plans, strategies and objectives of management for future operations; any statements concerning expected development, performance, market share or competitive performance relating to products and services; any statements regarding anticipated operational and financial results; any statements of expectation or belief; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP's businesses; the competitive pressures faced by HP's businesses; risks associated with executing HP's strategy; the impact of macroeconomic and geopolitical trends and events; the need to manage third party suppliers and the distribution of HP's products and services effectively; the protection of HP's intellectual property assets, including intellectual property licensed from third parties; risks associated with HP's international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the execution, timing and results of restructuring plans, including estimates and assumptions related to the cost and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims and disputes; and other risks that are described in HP's Quarterly Report on Form 10-Q for the fiscal quarter ended April 30, 2013 and HP's other filings with the Securities and Exchange Commission, including HP's Annual Report on Form 10-K for the fiscal year ended October 31, 2013. HP assumes no obligation and does not intend to update these forward-looking statements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein. Intel and Xeon are registered trademarks of Intel Corporation in the United States and other countries.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>VMware and Vmware Horizon, Vmware vCenter Operations Manager, vSphere, vCenter Server and EVO :RAIL&amp;nbsp;are registered trademarks or trademarks of VMware, Inc. in the United States and other jurisdictions. The use of the word &amp;quot;partner&amp;quot; or &amp;quot;partnership&amp;quot; does not imply a legal partnership relationship between VMware and any other company.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7akn
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/03/hpes-antonio-neri-talks-about-the-simplivity-acquisition"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Untitled-6.jpg"/>
+                        </contentblock_7akn>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wwie
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/03/hpe-extends-smb-it-budgets-with-multi-dimensional-storage-scalability"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Extends SMB IT Budgets with Multi-Dimensional Storage Scalability"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Extends SMB IT Budgets with Multi-Dimensional Storage Scalability"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/Storage_web.jpg"/>
+                        </contentblock_wwie>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_v3ai
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/09/hpe-introduces-industrys-broadest-high-performance-flash-portfolio-for-midsize-businesses"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Office.jpg"/>
+                        </contentblock_v3ai>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

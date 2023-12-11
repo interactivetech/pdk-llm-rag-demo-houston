@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-13T16:30:56.801Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---esg,hpe-newsroom:categories/hpe-financial-services-(hpefs)]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-financial-services-announces-capabilities-to-guide-customers-toward-circular-economy"
+        jcr:uuid="f0ea63ac-63e8-4b6f-99ea-b9a4d6e2d4f4"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-12-13T04:45:00.000-08:00"
+        metaDescription="HPE Financial Services announces capabilities to guide customers toward Circular Economy"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2018/12/hpe-financial-services-announces-capabilities-to-guide-customers-toward-circular-economy/jcr:content/main-par/body-par/textonlycomponent_wx99"
+        navTitle="HPE Financial Services announces capabilities to guide customers toward Circular Economy"
+        pageTitle="HPE Financial Services announces capabilities to guide customers toward Circular Economy"
+        priority="(None)"
+        subtitle="New Circular Economy Report helps organizations measure contribution to corporate sustainability goals when retiring end-of-use assets "
+        theme="dark"
+        UAID="ef8786d1-e7ba-44eb-aab3-91b582e0009b"
+        UCID="0dd5abef-c702-4e66-a69a-212cc05a5bf8"
+        WPID="202432">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2021-01-20T16:28:48.799Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="DECEMBER 13, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/12/image-norend/green.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Financial Services announces capabilities to guide customers toward Circular Economy"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-01-21T10:24:23.373Z"
+                    jcr:lastModifiedBy="vvoiculescu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE Financial Services announced a new Circular Economy Report that provides IT and sustainability organizations with a tool to quantify and share the energy, material, and landfill savings achieved by returning retired or end-of-use assets to HPE, for processing through HPE Technology Renewal Centers&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>There is an opportunity and imperative to invest in technology that will allow businesses to operate and thrive in a resource-constrained world and find new ways to manage the explosive demand for data by using far less space, materials, and energy&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Circular Economy Report helps organizations measure contribution to corporate sustainability goals when retiring end-of-use assets &lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_wew4
+                    jcr:lastModified="{Date}2023-04-13T16:28:38.925Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif. - December 13, 2018 - Today, &lt;a href=&quot;https://www.hpe.com/uk/en/services/finance-services.html&quot; target=&quot;_blank&quot;>HPE Financial Services&lt;/a> announced a new Circular Economy Report that provides IT and sustainability organizations with a tool to estimate and share the carbon, energy, and landfill waste savings achieved by returning retired or end-of-use assets to HPE, for processing through HPE Technology Renewal Centers.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Based on deep material science and product manufacturing information, the Circular Economy Report shows a breakdown by category of the products that were refurbished, remarketed and reintroduced into the economy, as well and those materials that were put back into the economy as recycled materials. The report can be used by organizations when disclosing their indirect (Scope 3) greenhouse gas emissions to investor and customer-driven disclosures such as the CDP. &lt;sup>1&lt;/sup>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additionally, HPE announced it has joined the Ellen McArthur Foundations CE 100 group a pre-competitive innovation program established to enable organizations to develop new opportunities and realize their Circular Economy ambitions faster. It brings together enterprises, governments and cities, academic institutions, emerging innovators and affiliates in a unique multi-stakeholder platform.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;A Circular Economy commitment helps IT meet business and sustainability goals, while reducing the worlds growing e-waste problem, said Irv Rothman, President and CEO of HPE Financial Services. Our aspiration is to help customers think about their infrastructure in new ways, build strategies to extend and extract value from what they have, and use retired assets to help fund the transition to new infrastructure.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_qvxj
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Circular Economy thinking helps IT meet business goals and reduce the worlds e-waste problem&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_b9k2
+                    jcr:lastModified="{Date}2021-01-20T16:23:30.640Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>As companies leverage the power of connectivity and data to generate business value, they are investing in expanding their IT infrastructure to store and process exponentially more information. There is an opportunity and imperative to invest in technology that will allow businesses to operate and thrive in a resource-constrained world and find new ways to manage the explosive demand for data by using far less space, materials, and energy; this is the Circular Economy.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>A Circular Economy reimagines a take-make-dispose system to a circular and regenerative economy. It considers the full product lifecycle: from resource extraction, to product design and use all the way to end-of-use management to extend product and material life and lower total cost of ownership. From a customer perspective, key drivers for a Circular Economy approach are new sources of business value and infrastructure efficiency. From a sustainability perspective, the need to move to a Circular Economy is driven by a consumption rate that is beyond the earth's ability to replenish.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Applying Circular Economy principles to the IT industry drives a more effective use of products and materials and enables businesses to retire their IT assets in a secure, compliant, and environmentally responsible manner. A recent HPE Financial Services study&lt;sup>&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>2&lt;/a>&amp;nbsp;&lt;/sup>showed that sustainability is critical, with 79 percent of companies committing to an environmental sustainability strategy, and 69 percent specifically having an IT sustainability strategy in place. In addition, 48 percent of the companies surveyed are highly regulated and must report on environmental impacts.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>First-of-its-kind Circular Economy Report Helps IT Measure Sustainability Impact&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPEs new Circular Economy Report gives customers key information to estimate ITs contribution to their Sustainability and Environmental Reporting (SER) requirements; it provides an analysis of the re-use to recycling ratio, as well as estimates of savings in energy, materials, greenhouse gas emissions and landfill volume avoided, so customers can track progress toward goals. At the same time, the report shows how through refurbishing and recycling their retired IT products, customers can return value to their business while helping to meet their sustainability goals.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_a53p
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>First-of-its-kind Circular Economy report helps IT measure sustainability impact&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_sshv
+                    jcr:lastModified="{Date}2023-04-13T16:29:59.801Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The report is part of the &lt;b>IT Asset Lifecycle Solutions&lt;/b> delivered by HPE Financial Services that include:&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Asset Upcycling Services&lt;/b> By providing true market value for resold equipment, Asset Upcycling Services can maximize the value of end-of-use assets, providing money back that customers can reinvest in other innovation projects. Asset Upcycling Services also help protect stored data by providing data overwriting and environmentally responsible removal and recycling.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Certified Pre&lt;/b>-&lt;b>owned Products&lt;/b> Companies can extend the life of legacy systems with tested, certified, used IT equipment, including the entire current HPE portfolio, from 18 months up to 25 years old. These products are available to purchase, lease, or rent.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Virtual Warehouse Services&lt;/b> Customers can save costs and extend legacy system life by supporting their future needs with their existing assets; they can store, update, or redeploy decommissioned equipment from HPEs centralized warehousing facilities.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Datacenter Consolidation Services&lt;/b> By renting HPEs pre-configured, customized systems, customers can ensure an interruption-free transition during their data center relocation or consolidation.&lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Proof of Concept Enablement Services&lt;/b> HPEs pool of IT technology can be deployed and redeployed to demo a design concept to OEMs and application vendors, or for extended usage in a real business production environment.&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE's global expertise and understanding of the requirements and options for safe recycling helps customers do the right thing, while maximizing their IT investments by putting equipment with value back into the world as a working asset for other customers. HPEs Technology Renewal Centers (TRCs) in Andover, Massachusetts and Erskine, Scotland help extend the life of technology whenever possible, and securely and responsibly recycle materials where appropriate. In 2018, HPE Technology Renewal Centers processed over 4 million units, including HPE and non-HPE equipment. Of that, 89% was refurbished and resold, and the rest was recycled in a secure and environmentally responsible way.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new Circular Economy Report is available to HPE Lease Return customers and Asset Upcycling Services customers. &amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_pupf
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE Financial Services helps customers use assets to fund the transition to new infrastructure&lt;/p>"
+                    topPadding="30"/>
+                <textonlycomponent_wx99
+                    jcr:lastModified="{Date}2023-04-13T16:30:56.790Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup>&amp;nbsp;Information contained in the Circular Economy Report does not replace the advice of an accountant, lawyer or other advisor, which advice should be sought independently in order to determine how to complete disclosure requirements.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup>&amp;nbsp;HPE Financial Services Study - Circular Economy and the IT Mindsets, 2018&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_47a7
+                            jcr:created="{Date}2019-01-21T10:37:51.121Z"
+                            jcr:createdBy="vvoiculescu@hpe.com"
+                            jcr:lastModified="{Date}2021-01-20T16:28:03.790Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/12/the-circular-economy-enabling-sustainability-for-business-and-planet"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="The Circular Economy: Enabling sustainability, for business and planet"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="The Circular Economy: Enabling sustainability, for business and planet"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2021-01-20T16:28:03.790Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/12/image-norend/The-Circular-Economy-Enabling-Sustainability-for-Business-and-Planet.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-01-20T16:28:03.790Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_47a7>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_a135
+                            jcr:created="{Date}2019-01-21T11:33:28.351Z"
+                            jcr:createdBy="vvoiculescu@hpe.com"
+                            jcr:lastModified="{Date}2021-01-20T16:26:31.847Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2019/06/simplifying-the-circular-economy-for-channel-partners"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Simplifying the Circular Economy for Channel Partners"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Simplifying the Circular Economy for Channel Partners"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2021-01-20T16:26:31.847Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/06/image-norend/Simplifying-the-Circular-Economy-for-Channel-Partners.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-01-20T16:26:31.847Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_a135>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b103
+                            jcr:created="{Date}2019-01-21T11:34:55.142Z"
+                            jcr:createdBy="vvoiculescu@hpe.com"
+                            jcr:lastModified="{Date}2021-01-20T16:28:19.018Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/services/asset-lifecycle"
+                            description="&lt;p>HPE&lt;/p>&#xd;&#xa;"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Begin your IT circular economy journey"
+                            headerFormat="h3"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Begin your IT circular economy journey"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2021-01-20T16:28:19.018Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/11/image-norend/Making-the-Most-Out-of-Every-Single-Byte-Everywhere.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-01-20T16:28:19.018Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_b103>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

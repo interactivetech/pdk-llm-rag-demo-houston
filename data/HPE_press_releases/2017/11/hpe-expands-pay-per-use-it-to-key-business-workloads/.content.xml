@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:57:02.307Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-expands-pay-per-use-it-to-key-business-workloads"
+        jcr:uuid="eebc482e-28ba-45b2-9c2d-c773139475bd"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-11-27T05:00:30.000-08:00"
+        metaDescription="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+        metaKeywords="pay-per-use IT, HPE Pointnext, HPE services, consumption-based services, Ana Pinczuk, HPE GreenLake"
+        navTitle="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+        pageTitle="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+        priority="(None)"
+        subtitle="New suite of solutions targeting customer workloads is designed, delivered and operated by HPE Pointnext with a simple, pay-per-use model"
+        theme="dark"
+        UAID="41c421ff-7f31-4620-9c36-fff4cb5aea94"
+        UCID="71ac2829-e35e-4899-80cb-7d3e70c1113e"
+        WPID="199515">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="November 27, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-05-11T23:08:55.851Z"
+                    jcr:lastModifiedBy="lunkova.volha"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    color="None"
+                    fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Expands-Pay-Per-Use-IT-to-Key-Business-Workloads.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    isVideo="false"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-17T19:10:14.734Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE launches HPE GreenLake, a new suite of &amp;quot;pay-per-use&amp;quot; IT solutions available for top customer workloads&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Simplifies the customer experience by providing choice and flexibility in where workloads live and how customers consume them&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Initial solutions include big data, backup, open database, SAP HANA, and edge computing&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New suite of solutions targeting customer workloads is designed, delivered and operated by HPE Pointnext with a simple, pay-per-use model&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_snpf
+                    jcr:lastModified="{Date}2018-10-18T17:58:31.090Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA&amp;nbsp;–&amp;nbsp;November 27, 2017&amp;nbsp;–&amp;nbsp;Today, &lt;a href=&quot;/content/hpe/base/blueprint/home.html&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) announced the launch of HPE GreenLake, a suite of pay-per-use solutions available for top customer workloads. Those offerings include: big data, backup, open database, SAP HANA, and edge computing. As part of its continued focus on providing customers flexible consumption offerings, HPE is also rebranding and making enhancements to HPE GreenLake Flex Capacity, a market leading infrastructure consumption service.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_fts5
+                    jcr:lastModified="{Date}2018-10-17T19:11:48.011Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE GreenLake simplifies the IT experience and offers customers choice in where workloads should live and how to flexibly consume them&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T19:11:48.011Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_fts5>
+                <textonlycomponent_pa8o
+                    jcr:lastModified="{Date}2018-10-17T19:14:37.653Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>IT teams are under more pressure than ever to deliver solutions fast, while minimizing company risk and cost. The shift to consumption and &amp;quot;everything-as-a-service&amp;quot; accelerates businesses, but often with the loss of control for IT. To answer this challenge, businesses require flexible infrastructure environments on-premises that offer cloud-like capabilities for workloads. HPE GreenLake simplifies the IT experience and offers customers choice in where workloads should live and how to flexibly consume them.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The outcome-based IT consumption solutions include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake Big Data &lt;/b>offers a Hadoop data lake, pre-integrated and tested on the latest HPE technology and Hortonworks or Cloudera software. &lt;b>&lt;/b>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake Backup &lt;/b>delivers on-premises backup capacity using Commvault software pre-integrated on the latest HPE technology with HPE metering technology and management services to run it.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake Database with EDB Postgres &lt;/b>delivered on-premises and built on open source technology to help simplify operations and substantially reduce total cost of ownership for a customer's entire database platform.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake for SAP HANA &lt;/b>offers an on-premises appliance operated by HPE with the right-sized, SAP-certified hardware, operating system, and services to meet workload performance and availability objectives.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>HPE GreenLake Edge Compute&lt;/b> offers an end-to-end lifecycle framework to accelerate a customer's Internet of Things (IoT) journey.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;&amp;quot;Building on the leadership and success of consuming infrastructure with HPE GreenLake Flex Capacity, we are taking the next step in consumption,&amp;quot; said Ana Pinczuk, SVP and GM of HPE Pointnext. &amp;quot;HPE GreenLake offers an experience that is the best of both worlds&amp;nbsp;–&amp;nbsp;a simple, pay-per-use technology model with the risk management of data thats under the customers direct control.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_4hcr
+                    jcr:lastModified="{Date}2018-10-17T19:11:42.051Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE GreenLake is the next generation of on-premises consumption services&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-17T19:11:42.051Z"
+                        jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_4hcr>
+                <textonlycomponent_iv5s
+                    jcr:lastModified="{Date}2018-10-18T18:36:55.179Z"
+                    jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake is the next generation of on-premises consumption services that go beyond pay-per-use infrastructure to pay-per-use outcomes. Included in each HPE GreenLake outcome-driven solution is:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Advisory and professional services from HPE Pointnext to help customers quickly define, deploy, and integrate your solution, as well as provide HPE recommendations for continual optimization of systems and processes.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Purpose-built reference architectures, based on the latest technologies (hardware and software) and optimized for each solution, to help deliver results quickly.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE's proven pay-per-use HPE GreenLake Flex Capacity model to consume a wide range of infrastructure from HPE using a unique business metric.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Remote monitoring and management of the solution by HPE Pointnext, offloading routine infrastructure management tasks from the IT department and providing both skills and knowledge of the new technologies from day one.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Enterprise-grade support along with an HPE Digital Learner subscription to e-learning content, providing the digital skills needed for IT to do its best work.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;br>&#xa;To learn more about how HPE has paved the way for consumption-based services to drive business growth,&amp;nbsp;&lt;a href=&quot;/content/hpe/base/blueprint/newsroom/blog-post/2017/11/pay-per-use-it-is-driving-business-growth-a-qa-with-ana-pinczuk-of-hpe-pointnext.html&quot; rel=&quot;noopener&quot;>read this Q&amp;amp;A with Pinczuk&lt;/a>.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;The foundation of new offering is HPE GreenLake Flex Capacity, an innovative service delivered by HPE Pointnext that brings on-premises infrastructure consumption to customers today. Depending on need, level of expertise required, and in-house IT resources, businesses can choose between HPE GreenLake complete solutions or HPE GreenLake Flex Capacity based infrastructure solutions.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;As part of today's news, HPE is also announcing enhancements to HPE GreenLake Flex Capacity that include:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New modular, pre-packaged infrastructure choices to help customers get started faster and stay ahead of demand with active capacity planning.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Expanded technology choices&amp;nbsp;–&amp;nbsp;with high performance computing (HPC), Microsoft Azure Stack, and HPE SimpliVity&amp;nbsp;– to help customers design their infrastructure solutions and consume them the way that they need.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;These latest enhancements to HPE GreenLake Flex Capacity come on the heels of recent announcements with Rackspace and Wipro Limited that reflect the companys ongoing growth with consumption-based services through partnership and innovation.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;For more information on HPE GreenLake, please visit: &lt;a href=&quot;/content/hpe/base/blueprint/services/it-consumption.html&quot; rel=&quot;noopener&quot;>hpe.com/GreenLake&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&amp;nbsp;&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xa;About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xa;Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_g16u
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/06/hpe-pointnext-leading-digital-transformation-for-our-customers"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Pointnext: Leading Digital Transformation for Our Customers"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Pointnext: Leading Digital Transformation for Our Customers"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/anaimage_NewsroomRedesignTemplate.jpg"/>
+                        </contentblock_g16u>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_68oe
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-redefines-technology-services-organization-pointnext"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Redefines Technology Services Organization: Pointnext"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Redefines Technology Services Organization: Pointnext"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/HPE-Redefining-Technology-Services.jpg"/>
+                        </contentblock_68oe>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_32f0
+                            jcr:created="{Date}2018-10-17T19:24:35.637Z"
+                            jcr:createdBy="jodi.haugen@hpe.com"
+                            jcr:lastModified="{Date}2018-10-18T18:40:11.033Z"
+                            jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/content-hub/hpe-pointnext"
+                            description="&lt;p>External Resource&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            header="HPE Pointnext"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Pointnext"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2018-10-18T18:40:11.033Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/HPE-Pointnext-Content-Hub.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2018-10-18T18:40:11.033Z"
+                                jcr:lastModifiedBy="jodi.haugen@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_32f0>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-13T22:38:20.848Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/cloud]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="HPE accelerates Artificial Intelligence innovation with enterprise-grade solution for managing entire machine learning lifecycle"
+        jcr:uuid="b39625bf-2ead-4f46-9e23-cc746c6d2ae4"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="HPE accelerates Artificial Intelligence innovation with enterprise-grade solution for managing entire machine learning lifecycle"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-09-10T04:45:00.000-07:00"
+        featured="true"
+        metaDescription="New HPE Machine Learning (ML) Ops solution speeds time-to-value for AI from months to days and brings DevOps agility to the ML model lifecycle"
+        metaKeywords="HPE, BlueData, artificial intelligence, machine learning, deep learning, devops, operationalization, Keras, MXNet, PyTorch, TensorFlow, Dataiku, H2O.ai"
+        metaOgImage="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-accelerates-artificial-intelligence-innovation-with-enterprise-grade-solution-for-managing-entire-machine-learning-lifecycle.jpg"
+        metaTwitterCardType="summary_large_image"
+        navTitle="HPE accelerates Artificial Intelligence innovation with enterprise-grade solution for managing entire machine learning lifecycle"
+        pageTitle="HPE accelerates Artificial Intelligence innovation with enterprise-grade solution for managing entire machine learning lifecycle"
+        priority="(None)"
+        socialDescription="New HPE Machine Learning (ML) Ops solution speeds time-to-value for AI from months to days and brings DevOps agility to the ML model lifecycle"
+        subtitle="New HPE Machine Learning (ML) Ops solution speeds time-to-value for AI from months to days and brings DevOps agility to the ML model lifecycle"
+        theme="dark"
+        UAID="611425f5-3d6c-475c-98af-29231cd085c7"
+        UCID="1ed4cc3d-4d0e-4a30-84aa-37a4ecbdfa1d">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-09-10T10:03:56.656Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="SEPTEMBER 10, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T11:20:41.430Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/09/image-norend/hpe-accelerates-artificial-intelligence-innovation-with-enterprise-grade-solution-for-managing-entire-machine-learning-lifecycle.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T10:04:59.294Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE ML Ops delivers the industry’s most comprehensive operationalization for machine learning&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New container-based software solution accelerates AI innovation, unlocking new business value&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_3a
+                    jcr:created="{Date}2019-09-10T10:06:13.788Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T10:06:40.653Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New HPE Machine Learning (ML) Ops solution speeds time-to-value for AI from months to days and brings&amp;nbsp;DevOps agility to the ML model lifecycle&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T10:07:20.621Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise (HPE) today announced a container-based software solution, &lt;a href=&quot;https://www.hpe.com/info/MLOps&quot; target=&quot;_blank&quot;>HPE ML Ops&lt;/a>, to support the entire machine learning model lifecycle for on-premises, public cloud and hybrid cloud environments. The new solution introduces a DevOps-like process to standardize machine learning workflows and accelerate AI deployments from months to days.&lt;/span> &lt;/p>&#xa;"
+                    topPadding="30"/>
+                <pullquote_e5d1
+                    jcr:created="{Date}2019-09-10T10:07:37.279Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T10:08:00.037Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE ML Ops accelerates AI deployments from months to days&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-09-10T10:08:00.037Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_e5d1>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T10:09:38.948Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new HPE ML Ops solution extends the capabilities of the &lt;a href=&quot;https://www.hpe.com/info/bluedata&quot; target=&quot;_blank&quot;>BlueData EPIC™&lt;/a> container software platform, providing data science teams with on-demand access to containerized environments for distributed AI / ML and analytics. BlueData was acquired by HPE in November 2018 to bolster its AI, analytics, and container offerings, and complements HPE’s Hybrid IT solutions and HPE Pointnext Services for enterprise AI deployments.&lt;br>&#xa; &lt;br>&#xa; Enterprise AI adoption has more than doubled in the last four years&lt;sup>1&lt;/sup>, and organizations continue to invest significant time and resources in building machine learning and deep learning models for a wide range of AI use cases such as fraud detection, personalized medicine, and predictive customer analytics. However, the biggest challenge faced by technical professionals is operationalizing ML, also known as the “last mile,” to successfully deploy and manage these models, and unlock business value. According to Gartner, by 2021, at least 50 percent of machine learning projects will not be fully deployed due to lack of operationalization.&lt;sup>2&lt;/sup>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T10:09:55.771Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>HPE addresses the entire machine learning lifecycle for on-premises and hybrid cloud&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2019-09-10T10:09:55.771Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2020-07-02T19:29:44.202Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE ML Ops transforms AI initiatives from experimentation and pilot projects to enterprise-grade operations and production by addressing the entire machine learning lifecycle from data preparation and model building, to training, deployment, monitoring, and collaboration.&lt;br>&#xd;&#xa; &lt;i>&lt;br>&#xd;&#xa;“Only operational machine learning models deliver business value,” said Kumar Sreekanti, SVP and CTO, Hybrid IT at HPE. “And with HPE ML Ops, we provide the only enterprise-class solution to operationalize the end-to-end machine learning lifecycle for on-premises and hybrid cloud deployments. We’re bringing DevOps speed and agility to machine learning, delivering faster time-to-value for AI in the enterprise.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “From retail to banking to manufacturing to healthcare and beyond, virtually all industries are adopting or investigating AI/ML to develop innovative products and services and gain a competitive edge. While most businesses are ramping up on the build and train phase of their AI/ML projects, they are struggling to operationalize the entire ML lifecycle from PoC to pilot to production deployment and monitoring,” said Ritu Jyoti, program vice president, Artificial Intelligence (AI) Strategies at IDC. “HPE is closing this gap by addressing the entire ML lifecycle with its container-based, platform-agnostic offering – to support a range of ML operational requirements, accelerate the overall time to insights, and drive superior business outcomes.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; “Our online games generate billions of data points every day,” says Alex Ryabov, head of Data Services at Wargaming. “Using complex ML models, our data scientists leverage this data for prescriptive analytics to improve our players’ experience, lifetime value, and loyalty. With HPE’s BlueData software, we’re containerizing these ML and analytics environments to help improve operational efficiency and optimize our business.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; With the HPE ML Ops solution, data science teams involved in building and deploying ML models can benefit from the industry’s most comprehensive operationalization and lifecycle management solution for &lt;a href=&quot;https://www.hpe.com/us/en/solutions/artificial-intelligence.html&quot; target=&quot;_blank&quot;>enterprise AI&lt;/a>:&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_eb
+                    jcr:created="{Date}2019-09-10T10:12:49.570Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2020-07-02T19:30:22.919Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textIsRich="true"
+                    textOnly="&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Model Build&lt;/b>: Pre-packaged, self-service sandbox environments for ML tools and data science notebooks&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Model Training&lt;/b>: Scalable training environments with secure access to data&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Model Deployment&lt;/b>: Flexible and rapid deployment with reproducibility&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Model Monitoring:&lt;/b> End-to-end visibility across the ML model lifecycle&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Collaboration:&lt;/b> Enable CI/CD workflows with code, model, and project repositories&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Security and Control:&lt;/b> Secure multi-tenancy with integration to enterprise authentication mechanisms&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Hybrid Deployment:&lt;/b> Support for on-premises, public cloud, or hybrid cloud&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The HPE ML Ops solution works with a wide range of open source machine learning and &lt;a href=&quot;https://www.hpe.com/us/en/solutions/hpc-high-performance-computing/deep-learning.html&quot; target=&quot;_blank&quot;>deep learning frameworks&lt;/a> including Keras, MXNet, PyTorch, and TensorFlow as well as commercial machine learning applications from ecosystem software partners such as &lt;a href=&quot;https://www.dataiku.com/&quot; target=&quot;_blank&quot;>Dataiku&lt;/a> and &lt;a href=&quot;https://community.hpe.com/t5/Infrastructure-Insights/How-to-build-AI-solutions-at-scale-in-the-enterprise/ba-p/7059401&quot; target=&quot;_blank&quot;>H2O.ai&lt;/a>.&lt;br>&#xd;&#xa; &lt;i>&lt;br>&#xd;&#xa;&amp;quot;As a longtime partner with HPE Pointnext Services, we are very excited that BlueData is now part of HPE,” said Florian Douetteau, CEO of Dataiku. “At Dataiku, we strive to bring large-scale adoption of machine learning to all enterprises. The combination of Dataiku with HPE’s BlueData software will help our customers to successfully scale and operationalize their machine learning projects, delivering real impact for their business.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/i>To learn more about HPE ML Ops, please visit: &lt;a href=&quot;https://www.hpe.com/info/MLOps&quot; target=&quot;_blank&quot;>hpe.com/info/MLOps&lt;/a>&lt;br>&#xd;&#xa; &amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Availability&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE ML Ops is generally available now as a software subscription, together with HPE Pointnext Services and customer support.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>Additional Resources&lt;/b>&lt;/span>&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Learn more in the blog post:&amp;nbsp;&lt;a href=&quot;https://community.hpe.com/t5/Infrastructure-Insights/Machine-Learning-Operationalization-in-the-Enterprise/ba-p/7062451&quot; target=&quot;_blank&quot;>Machine Learning Operationalization in the Enterprise&lt;/a>&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Attending the &lt;a href=&quot;https://conferences.oreilly.com/artificial-intelligence/ai-ca&quot; target=&quot;_blank&quot;>O’Reilly AI Conference in San Jose&lt;/a>? View a demo at the HPE booth and join the session &lt;a href=&quot;https://conferences.oreilly.com/artificial-intelligence/ai-ca/public/schedule/detail/79747&quot; target=&quot;_blank&quot;>Unlock Your Data’s Value with A&lt;/a>I on September 11&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/span>&lt;/li>&#xd;&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Join a live virtual event on September 17 at 9am PDT / 12pm EDT: “&lt;a href=&quot;https://www.crowdchat.net/MLOps&quot; target=&quot;_blank&quot;>Machine Learning Operations&lt;/a>” #MLOps&lt;/span>&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-09-10T10:11:52.890Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>1&lt;/sup> Source: Gartner, 2019 CIO Survey: CIOs Have Awoken to the Importance of AI, January 3 2019.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;sup>2&lt;/sup> Source: Gartner, A Guidance Framework for Operationalizing Machine Learning for AI, October 24 2018.&lt;/span> &lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-09-10T11:24:29.256Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/05/hewlett-packard-enterprise-integrates-bluedata-to-accelerate-ai-and-data-driven-innovation-in-the-enterprise"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise integrates BlueData to accelerate Artificial Intelligence and data-driven innovation in the enterprise"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise integrates BlueData to accelerate Artificial Intelligence and data-driven innovation in the enterprise"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-10T11:24:29.256Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/Hewlett-Packard-Enterprise-integrates-BlueData-to-accelerate-Artificial-Intelligence-and-data-driven-innovation-in-the-enterprise.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-10T11:24:29.256Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-09-10T11:26:22.956Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/11/hpe-to-acquire-bluedata"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE to acquire BlueData"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE to acquire BlueData"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-10T11:26:22.956Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/shared-publishing/images-norend/generic-named/BlueData.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-10T11:26:22.956Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-09-10T11:28:21.553Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/08/hpe-advances-its-intelligent-data-platform-with-acquisition-of-mapr-business-assets"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            header="HPE advances its intelligent data platform with acquisition of MapR business assets"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE advances its intelligent data platform with acquisition of MapR business assets"
+                            loopMedia="false"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-09-10T11:28:21.553Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/imageOnly/hpe-advances-its-intelligent-data-platform-with-acquisition-of-mapr-business-assets.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-09-10T11:28:21.553Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-09-25T14:50:47.620Z"
+            jcr:lastModifiedBy="christine.seales@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-24T20:27:57.414Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-redefines-active-defense-to-combat-cyberthreats-at-hp-protect-2014"
+        jcr:uuid="87867985-3ac0-41ff-b24d-6a56efa811df"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:52.000-07:00"
+        metaDescription="HP Redefines Active Defense to Combat Cyberthreats at HP Protect 2014"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-redefines-active-defense-to-combat-cyberthreats-at-hp-protect-2014/jcr:content/main-par/body-par/textonlycomponent_ta2g"
+        navTitle="HP Redefines Active Defense to Combat Cyberthreats at HP Protect 2014"
+        pageTitle="HP Redefines Active Defense to Combat Cyberthreats at HP Protect 2014"
+        priority="(None)"
+        subtitle="New Portfolio Offerings Arm Organizations to Take Action With Application Self-Protection, Unified Network Security Detection and Enhanced Log Management"
+        theme="dark"
+        UAID="41b5f40d-1f65-4759-8e9e-7b982d61b59b"
+        UCID="d3f5e526-a0f8-475f-afe1-5186958ccba0"
+        WPID="1578">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-18T22:05:21.933Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="September 9, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New Portfolio Offerings Arm Organizations to Take Action With Application Self-Protection, Unified Network Security Detection and Enhanced Log Management&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_ta2g
+                    jcr:lastModified="{Date}2023-04-24T20:27:57.405Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>WASHINGTON, DC--(Marketwired - Sep 9, 2014) - Today at&amp;nbsp;HP Protect, the company's annual&amp;nbsp;enterprise security&amp;nbsp;user conference, HP (NYSE: HPQ) will address nearly 1,500 security professionals, introducing new offerings designed to arm organizations with the actionable&amp;nbsp;security intelligence&amp;nbsp;needed to engage a more proactive defense against the adversary.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The average cost of cybercrime has increased 78 percent in the last four years,&lt;sup>(1)&lt;/sup>&amp;nbsp;putting the industry on the defensive against adversaries that attack with unmatched speed, innovation and collaboration. To keep pace with these growing threats, security professionals need to gather intelligence, determine its relevance and then use it to build a proactive defense that can anticipate, neutralize or mitigate an attack.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP is introducing new solutions that anticipate attacks, expand visibility and enable automated, real-time response. By gathering threat intelligence and coordinating response across integrated solutions and teams, organizations can proactively defend against attacks at every point in the threat life cycle.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Adversaries are capitalizing on fragmented security strategies, siloed teams and standalone point products to aggressively attack and gain entry through every door left open across an organization,&amp;quot; said Art Gilliland, senior vice president and general manager, Enterprise Security Products, HP. &amp;quot;We need intelligence and automation that empowers security professionals to take action against the adversary -- and gets the right intelligence to the right people at the right time.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Stopping breaches in real time with first application self-protection service&lt;br>&#xd;&#xa; &lt;/b>With more than 80 percent of today's successful security breaches occurring through the application layer,&lt;sup>(2)&lt;/sup>&amp;nbsp;production applications require real-time protection and remediation from the inside out. Traditional methods of responding to new and existing threats -- such as changing code or implementing perimeter defense -- are important, but can take weeks or months to fully deploy. To minimize the risk at the application layer, HP is introducing&amp;nbsp;HP Application Defender, the first cloud-based security service that enables self-protection for applications in production by virtually patching software vulnerabilities.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP Application Defender uses&amp;nbsp;Runtime Application Self-Protection&amp;nbsp;(RASP) technology to help IT security professionals identify and stop attacks by monitoring application activity in the runtime environment. This helps protect against common software application vulnerabilities, including SQL injection, cross-site scripting and unauthorized access.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Neutralizing &amp;quot;Patient Zero&amp;quot; to stop advanced targeted attacks&lt;br>&#xd;&#xa; &lt;/b>To block threats in real time, the new&amp;nbsp;HP TippingPoint Advanced Threat Appliance (ATA)&amp;nbsp;product family brings together a comprehensive set of network-enforcement capabilities to detect, act upon and mitigate advanced network security threats, utilizing static, dynamic and behavioral detection techniques. Employing a rich set of automated blocking techniques combined with advanced threat detection and analysis, the new HP solution set provides organizations with enhanced defense against initial &amp;quot;patient zero&amp;quot; infection and subsequent lateral spread.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The industry-leading&amp;nbsp;HP Tipping Point Next-Generation Intrusion Prevention System (NGIPS)&amp;nbsp;with the&amp;nbsp;HP TippingPoint Next-Generation Firewall (NGFW)&amp;nbsp;and&amp;nbsp;HP TippingPoint Security Management System (SMS)&amp;nbsp;allow organizations to quickly block threats from further infiltration and lateral spread across the network. They then use the&amp;nbsp;security intelligence gained to block future attacks. The new HP TippingPoint ATA family of products will combine these advanced threat capabilities with the filter-writing expertise of&amp;nbsp;HP TippingPoint Digital Vaccine (DV) Labs&amp;nbsp;to further strengthen protection.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;Activating intelligence at scale&lt;br>&#xd;&#xa; &lt;/b>To address the challenge of parsing through an increasing amount of data to deliver actionable security intelligence, HP is introducing&amp;nbsp;HP ArcSight Logger&amp;nbsp;6.0, the latest release of its universal log management solution that unifies collection, storage and analysis of machine data to consolidate security and compliance.&amp;nbsp;A core part of the leading HP ArcSight Security Information and Event Management (SIEM) portfolio, HP ArcSight Logger 6.0 offers enhanced scalability to handle eight times more data at 10 times higher performance than the previous version&lt;sup>(3)&lt;/sup>&amp;nbsp;to deliver continuous monitoring and high-speed contextual forensic investigation capabilities.&amp;nbsp;&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Additional information about HP Enterprise Security Products can be found at&amp;nbsp;www.hp.com/go/esp.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP's annual&amp;nbsp;enterprise security&amp;nbsp;user conference,&amp;nbsp;HP Protect, is taking place this week from Sept. 8-11 in Washington, D.C. Follow HP Security on Twitter&amp;nbsp;@HPsecurity.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society.&amp;nbsp;With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world.&amp;nbsp;More information about HP&amp;nbsp;is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>(1)&amp;nbsp;2013 Cost of Cybercrime Survey, Ponemon Institute, October 2013.&amp;nbsp;&lt;br>&#xd;&#xa; (2)&amp;nbsp;HP Enterprise Security Products, Research.&amp;nbsp;&lt;br>&#xd;&#xa; (3)&amp;nbsp;HP Enterprise Security Products, Internal Testing.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_pa71
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/09/aruba-modernizes-network-security-to-help-businesses-reduce-risk-in-the-era-of-mobile-cloud-and-iot"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Modernizes Network Security to Help Businesses Reduce Risk in the Era of Mobile, Cloud, and IoT"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Aruba-Modernizes-Network-Security-to-Help-Businesses-Reduce-Risk-in-the-Era-of-Mobile-Cloud-and-IoT-1.jpg"/>
+                        </contentblock_pa71>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_ertu
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hewlett-packard-enterprise-report-reveals-trials-and-errors-of-security-operations"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise Report Reveals Trials and Errors of Security Operations"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/03/image-norend/SecurityOperations.jpg"/>
+                        </contentblock_ertu>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_29c0
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/cape-networks-will-become-the-newest-company-to-join-the-hpe-family"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Cape Networks Will Become the Newest Company to Join the HPE Family"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Cape Networks Will Become the Newest Company to Join the HPE Family"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Cape-Networks-Will-Become-the-Newest-Company-to-Join-the-HPE-Family.jpg"/>
+                        </contentblock_29c0>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

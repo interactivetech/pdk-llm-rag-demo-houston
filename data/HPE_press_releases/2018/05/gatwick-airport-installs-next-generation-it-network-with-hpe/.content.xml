@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T06:53:53.982Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/servers,hpe-newsroom:categories/company---customers,hpe-newsroom:categories/industry---transportation]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="gatwick-airport-installs-next-generation-it-network-with-hpe"
+        jcr:uuid="c90bd88a-3062-4f38-94e8-7161f4aad0e0"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-05-13T16:01:42.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Clare Loxley"
+        metaDescription="Gatwick Airport Installs Next Generation IT Network with HPE"
+        navTitle="Gatwick Airport Installs Next Generation IT Network with HPE"
+        pageTitle="Gatwick Airport Installs Next Generation IT Network with HPE"
+        priority="(None)"
+        subtitle="Airport now brilliantly positioned to take best advantage of new technologies  including artificial intelligence, Internet of Things and machine learning  with network also more resilient to disruption"
+        theme="dark"
+        UAID="b7d08bc9-bb13-453d-ac45-d44ba06dd055"
+        UCID="2cb0141a-4d1b-419e-b547-3c28f828c237"
+        webSectionId="R11989"
+        WPID="200562">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-26T12:39:45.535Z"
+                jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="May 14, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/Gatwick-Airport-Installs-Next-Generation-IT-Network-with-HPE.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Gatwick Airport Installs Next Generation IT Network with HPE"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:01:08.325Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Gatwick Airport, U.K.'s second largest airport is partnering with HPE to bring added resilience and performance to its network to improve operations and the customer experience&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>New network is capable of handling future technologies that process considerably more data like AI, IoT and machine learning&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Project completed in just 18 months, without any downtime, while the airport remained fully operational&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-15T17:32:40.487Z"
+                    jcr:lastModifiedBy="nagle@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>Airport now brilliantly positioned to take best advantage of new technologies – including artificial intelligence, Internet of Things and machine learning&amp;nbsp;– with network also more resilient to disruption&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_cip1
+                    jcr:lastModified="{Date}2018-10-31T10:01:50.869Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LONDON, UNITED KINGDOM – May 14, 2018&lt;/b> – Hewlett Packard Enterprise (HPE) today announced that it has supported Gatwick Airport – the UK’s second largest airport and a critical national infrastructure site – in future proofing its entire IT network.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>The new network, provided by HPE and Aruba, a Hewlett Packard Enterprise company, allows the airport to take advantage of new, modern technologies for the benefit of airport users – including more than 250 onsite businesses, 30,000 staff and 45 million annual passengers – while also making the network more resilient and tolerant to disruption.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Completed in just 18 months while the airport remained 100% operational, the project had to be completed without any downtime or instability. Similar transitions typically take up to four years, but Gatwick and HPE absorbed the challenges of completing the massive project in less than half the normal time, to ensure Gatwick had the resilience necessary for a critical national infrastructure site and the world’s most efficient single-runway airport.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Marc Waters, Managing Director for UK &amp;amp; Ireland, HPE, said:&lt;/b> “Transitioning from old to new networks while keeping the world’s most efficient runway operating is like performing open heart surgery on a patient while he is running. We’re delighted with how smoothly the project has run - the world’s most efficient single runway now has an equally powerful and productive IT network to match it. All parties have worked seamlessly, while the airport remains fully functioning, to avoid any impact to the day-to-day running of the airport and its millions of passengers. This transition will be one of the most impressive to have taken place in recent years – we’re very proud to have led it.”&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_tvtk
+                    jcr:lastModified="{Date}2018-10-26T12:40:50.516Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;The world's most efficient single runway now has an equally powerful and productive IT network&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-26T12:40:50.516Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_tvtk>
+                <textonlycomponent_naix
+                    jcr:lastModified="{Date}2018-10-31T10:02:26.587Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>For Gatwick Airport, resilience and security is absolutely essential in the network. The old network provided a limited number of data paths to communicate between its constituent components – but the new simplified and fully meshed design provides 10 times the number of links for data to traverse the campus, making it much more resilient to disruption.&amp;nbsp;By removing bottlenecks and potential single points of failure, and by utilising a backbone based on many multiples of 40Gb connections, Gatwick’s new network represents a step change in resilience and performance.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Increases in the airport’s data capability also mean that Gatwick, its passengers and on-site businesses will be able to take advantage of the latest technologies. This will completely change the passenger experience and improve efficiency across the airport, with new technologies including:&lt;/span>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Internet of Things&lt;/b> – deploying sensors to measure numerous parameters including waste bin levels, occupancy of check in desks, table availability or pond water levels.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Superfast WiFi &lt;/b>– Free WiFi for passengers which typically gives more than 30mbps download speed.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Network for campus entities &lt;/b>– Stable network services for airlines, ground handlers and retailers, improving the flexibility and stability of their business operations, in addition to generating IT related revenue for the airport.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>CCTV &amp;amp; IPTV services&lt;/b> – Ability to operate high definition CCTV and IPTV systems.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Passenger flow analytics&lt;/b> – Detection of passenger flow based on smart phone locations as well as heat maps identifying queueing and performance improvement opportunities.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Baggage reconciliation &lt;/b>– Reliable WiFi services for airlines to reconcile bags with passengers.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Machine learning&lt;/b> and &lt;b>facial recognition&lt;/b> – to bolster security or develop Passenger Journey Mapping so gate staff can track late running passengers and send notifications via apps.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Cathal Corcoran, Chief Information Officer, Gatwick Airport, said:&lt;/b> “We’ve seen record breaking passenger growth since 2010 and to make sure our passengers have the best experience possible, we needed a new network that could handle our expected future growth numbers.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_jhwb
+                    jcr:lastModified="{Date}2018-10-26T12:42:11.483Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;To improve customer experience, Gatwick Airport needed a new network - HPE had the solution&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-26T12:42:11.483Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_jhwb>
+                <textonlycomponent_qwpz
+                    jcr:lastModified="{Date}2018-10-31T10:03:29.082Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The network's capability has been uplifted by such a scale that it now matches that of an Internet Service Provider and allows the airport to provide the latest technologies across a campus that serves over 250 onsite businesses, 30,000 staff and 45 million annual passengers.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We also needed a much more resilient, self-healing and fault tolerant network and one that is capable of handling future technologies that process considerably more data. HPEs combined network offering provides this and more as it ultimately supports our vision of an IT infrastructure for a decade.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_dc4k
+                    jcr:lastModified="{Date}2018-10-26T12:42:59.269Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;Gatwick Airport's network capability now matches that of an internet service provider&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-26T12:42:59.269Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_dc4k>
+                <textonlycomponent_ielq
+                    jcr:lastModified="{Date}2018-10-31T10:03:26.176Z"
+                    jcr:lastModifiedBy="alexandru.ion@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The network deal, worth $15 million, was implemented by a team of leading international experts within HPE, Aruba and the Gatwick team. The project strategy has been deliberately streamlined to keep things simple, with HPE designing, implementing, and installing everything from end-to-end. The HPE Pointnext team automated and simplified the complex migration using HPE IP and tools and provided a dashboard for stakeholders and an audit trail of activities.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE Pointnext will also provide ongoing management of the new network underpinning the day-to-day running of the airport, including flight information displays, ticketing and baggage services, security surveillance and local commercial activities. HPE will also provide support on the delivery of future projects and provide innovative networking and security solutions via Aruba, a Hewlett Packard Enterprise company.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Technical specifications around the project are included below.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>ENDS&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Notes to Editor&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Gatwick's modern network now supports the following capacity:&lt;/span>&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Thousands of terabytes/second switching capacity&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Hundreds of VPN instances for multi-tenant solutions&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Tens of multicast VPN instances for various applications, provisioning capacity for hundreds of thousands of multicast groups&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Millions of IPv4 address routing capacity&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Scalability up to tens of HPE FlexFabric 12900E switches, hundreds of HPE FlexFabric 5930 and Aruba 2930M switches, to support thousands of 1G ports and hundreds of 10G/40G ports&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>In addition to introducing new technology and a modern network architecture, the project featured:&lt;/span>&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Network simplification, reducing nodes and removal of STP. The simplified design introduced the HPE IRF technology to replace the legacy three-tier design with a flatter network topology.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Flawless transition between the legacy architecture to the new architecture, including interoperation of the legacy and modern networks during the migration&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Strong collaboration between Gatwick Airport, HPE Pointnext and HPE R&amp;amp;D teams to execute one of the most complex transitions, while maintaining continuity of the airport network operations&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Execution of thousands of use cases before going live to confirm all aspects of the network design and operation&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The key HPE product features include:&lt;/span>&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Hitless In Service Software Upgrades&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Multipoint Redundancy&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Multicast and QoS functionality&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>State of the art HPE Networking products, including core switches (HPE FlexFabric 12900E), top of rack switches (HPE FlexFabric 5930) and access switches (Aruba 2930M)&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to core to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About London Gatwick&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Gatwick Airport is the UK's second largest airport and the most efficient single-runway airport in the world. It serves more than 228 destinations in 74 countries for 45 million passengers a year on short and long-haul point-to-point services. It is also a major economic driver for the UK contributing £5.3 billion to national GDP and generating 85,000 jobs nationally, with around 24,000 on the wider airport campus alone. The airport is south of Central London with excellent public transport links, including the Gatwick Express, and is part of the Oyster contactless payment network. Gatwick Airport is owned by a group of international investment funds, of which Global Infrastructure Partners is the largest shareholder.&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7oft
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/gatwicks-digital-transformation-the-airport-of-the-future-today"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Gatwicks Digital Transformation: The Airport of the Future, Today"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Gatwicks Digital Transformation: The Airport of the Future, Today"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Hewlett-Packard-Enterprise-Introduces-Blockchain-as-a-Service-Solution-for-Enterprises.jpg"/>
+                        </contentblock_7oft>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_guij
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/smart-digital-workplace-flexible-connected-and-here-sooner-than-you-think"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Smart Digital Workplace: Flexible, Connected, and Here Sooner Than You Think"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Smart Digital Workplace: Flexible, Connected, and Here Sooner Than You Think"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Smart-Digital-Workplaces-Flexible-Connected-and-Here-Sooner-Than-You-Think.jpg"/>
+                        </contentblock_guij>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_g2r0
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/happy-anniversary-hpe-pointnext"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Happy Anniversary, HPE Pointnext!"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Happy Anniversary, HPE Pointnext!"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Happy-Anniversary-HPE-Pointnext.jpg"/>
+                        </contentblock_g2r0>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

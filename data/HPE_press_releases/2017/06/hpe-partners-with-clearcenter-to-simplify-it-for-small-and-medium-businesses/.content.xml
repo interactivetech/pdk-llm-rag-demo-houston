@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T01:16:25.568Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-partners-with-clearcenter-to-simplify-it-for-small-and-medium-businesses"
+        jcr:uuid="d20c3abe-0a48-4dfc-862d-d6da32b56f3b"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-06-05T14:02:03.000-07:00"
+        metaDescription="HPE Partners with ClearCenter to Simplify IT for Small and Medium Businesses"
+        navTitle="HPE Partners with ClearCenter to Simplify IT for Small and Medium Businesses"
+        pageTitle="HPE Partners with ClearCenter to Simplify IT for Small and Medium Businesses"
+        priority="(None)"
+        theme="dark"
+        UAID="7206e78e-970a-473b-972e-be03d3d0a749"
+        UCID="37cac285-bdd7-4675-9e72-18d06e5c7c05"
+        WPID="198268">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 05, 2017 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    topPadding="30"/>
+                <textonlycomponent_emar
+                    jcr:lastModified="{Date}2020-05-12T16:40:38.759Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, Calif., June 05, 2017 (GLOBE NEWSWIRE) -- Hewlett Packard Enterprise (NYSE:&lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot;>HPE&lt;/a>) today announced an exclusive partnership with ClearCenter, a leading open source platform provider, to offer ClearOS, a Linux-based operating system on HPE ProLiant servers. Tailored to fit the IT needs of small and medium businesses by consolidating server, gateway and networking functionality, HPE and ClearCenter deliver a powerful IT solution with a simple web-based user interface and a built-in application marketplace, making IT deployments for SMBs simple, secure and economical.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>IT for SMBs is complex, with conflicting technology choices and trade-offs making it difficult for companies to identify the right solutions for their short- and long-term needs. HPE is joining forces with ClearCenter to help channel partners deliver cloudlike simplicity and on premise security in one affordable solution that will grow with the business.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition, HPE is announcing new servers for SMB customers, including the new ProLiant MicroServer, as part of its Gen 10 portfolio. Designed specifically for Small Office/Home Office (SOHO), the ProLiant MicroServer Gen 10 boasts several upgrades including:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>AMD graphics embedded in the chip, enabling high-resolution applications like media streaming.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Dual DisplayPort connectors, equipping two monitors with 4K experience.&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Optional GPU support on a PCIe slot, which allows users to connect a total of five monitors to the MicroServer or a five screen extended display.&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Finally, HPE completes our line of Gen9 servers with the ProLiant ML30 and ProLiant DL20 servers refreshed with new Kaby Lake processors from Intel.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;At HPE, we are committed to providing our SMB customers with simple, secure and cost effective solutions that are easy to deploy,&amp;quot; said Peter Schrady, senior vice president and general manager, ProLiant Servers, Hewlett Packard Enterprise. &amp;quot;Through our exclusive partnership with ClearCenter to deliver ClearOS, we will enable customers to create a ready-to-use server at no additional cost with more than 100 applications to choose from so businesses can build the IT solution that is just right for them.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Small and medium businesses need easy-to-use solutions that are secure and affordable. HPE will be offering ClearOS pre-loaded on the new HPE ProLiant MicroServer Gen10, as well as ML110, ML30 and DL20. HPE ProLiant preloaded with ClearOS is ready to use out of the box, easy to customize and integrates into any IT environment.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>ClearOS makes it easy for customers to choose the right solution for their needs through a simple application marketplace that offers a range of solutions with varying features and affordability. Individual apps run as cloud, server, network and gateway services on ClearOS that replace the need for complex hardware and software combinations from multiple vendors. Businesses can decide what applications to run now, and then pay as they grow.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Through our partnership with HPE, we are providing small businesses with a cost-effective tool to obtain a simple, secure operating system,&amp;quot; said Michael Proper, CEO, ClearCenter. &amp;quot;ClearOS gives customers the freedom and flexibility to protect and manage their entire IT environment on one HPE ProLiant server, or select just the apps they need to fill gaps in their existing infrastructure.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Channel Benefits&lt;br>&#xa; &lt;/b>Through the HPE and ClearCenter partnership agreement, channel partners and customers will receive a single platform capable of providing server, network and gateway functionality, greatly simplifying customer IT environments and lowering infrastructure as well as management costs. HPE ProLiant with ClearOS make IT simple, secure and affordable for the SMB.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pricing &amp;amp; Availability &lt;/b>&lt;br>&#xa; ClearOS can be downloaded today on &lt;a title=&quot;HPE.com&quot; href=&quot;https://www.hpe.com/us/en/home.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;>HPE.com&lt;/a>&amp;nbsp;or the HPE partner site at ClearCenter.com. ClearOS will also be available for download and installation via Intelligent Provisioning for all HPE ProLiant 10, 100 and 300 series rack and tower servers. The HPE ProLiant MicroServer Gen10 with ClearOS will also be available for purchase in early June, with BTO pricing starting at $399 in the Americas.&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;br>&#xa; Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With the industry's most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>CONTACT: Editorial contact&lt;/span>&lt;/b>&lt;/p>&#xa;&lt;p>&lt;b>&lt;span class=&quot;body-copy-large&quot;>Jyotsna Grover, HPE&lt;br>&#xa; Jyotsna.Grover@hpe.com&lt;/span>&lt;/b>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_8012
+                            jcr:created="{Date}2018-10-17T14:52:22.764Z"
+                            jcr:createdBy="hpe.publishers"
+                            jcr:lastModified="{Date}2020-05-12T16:40:53.521Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/10/hpe-transforms-future-of-small-to-midsized-businesses-with-simple-and-secure-hybrid-cloud-solutions"
+                            description="&lt;p>News Advisory&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Transforms Future of Small to Midsized Businesses with Simple and Secure Hybrid Cloud Solutions"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How to Find More Time, Money and Higher Security for Your Small Business"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T16:40:53.521Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/06/image-norend/HPE-Transforms-Future-of-Small-to-Midsized-Businesses-with-Simple-and-Secure-Hybrid-Cloud-Solutions-320x180.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T16:40:53.521Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_8012>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_17bf
+                            jcr:created="{Date}2018-10-17T14:52:01.849Z"
+                            jcr:createdBy="hpe.publishers"
+                            jcr:lastModified="{Date}2020-05-12T16:41:08.904Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/09/how-to-find-more-time-money-and-higher-security-for-your-small-business"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="How to Find More Time, Money and Higher Security for Your Small Business"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="How to Find More Time, Money and Higher Security for Your Small Business"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T16:41:08.904Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/How-to-Find-More-Time-Money-and-Higher-Security-for-Your-Small-Business.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T16:41:08.904Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_17bf>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_5b03
+                            jcr:created="{Date}2018-10-17T14:51:39.510Z"
+                            jcr:createdBy="hpe.publishers"
+                            jcr:lastModified="{Date}2020-05-12T16:41:15.949Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2017/09/hpe-introduces-industrys-broadest-high-performance-flash-portfolio-for-midsize-businesses"
+                            description="News Advisory"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="false"
+                            enableStateQuote="false"
+                            header="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Introduces Industrys Broadest High Performance Flash Portfolio for Midsize Businesses"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="true"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2020-05-12T16:41:15.949Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/09/image-norend/Office.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2020-05-12T16:41:15.949Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_5b03>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

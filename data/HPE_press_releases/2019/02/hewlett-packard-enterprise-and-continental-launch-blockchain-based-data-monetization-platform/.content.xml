@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2022-02-14T11:39:34.031Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry--manufacturing,hpe-newsroom:categories/company---customers]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Hewlett Packard Enterprise and Continental launch blockchain-based data monetization platform"
+        jcr:uuid="c2c96abd-8e52-4bfb-8cfc-3f4d41a1942f"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        browserTitle="Hewlett Packard Enterprise and Continental launch blockchain-based data monetization platform"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2019-02-25T03:42:00.000-08:00"
+        featured="true"
+        metaDescription="New platform fuels sharing of vehicle data to improve driver safety, convenience, by providing unprecedented level of data sovereignty"
+        metaKeywords="Continental, vehicle, car, sensors, data, blockchain, monetization, automotive, autonomous, GDPR, decentral, decentralized, privacy, traffic, safety"
+        metaOgImage="/content/dam/hpe/newsroom/2019/02/image-norend/Hewlett Packard Enterprise and Continental Launch Blockchain-Based Data ....jpg"
+        metaTwitterCardType="summary_large_image"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2019/02/hewlett-packard-enterprise-and-continental-launch-blockchain-based-data-monetization-platform/jcr:content/main-par/body-par/textonlycomponent_97"
+        navTitle="Hewlett Packard Enterprise and Continental launch blockchain-based data monetization platform"
+        pageTitle="Hewlett Packard Enterprise and Continental launch blockchain-based data monetization platform"
+        priority="(None)"
+        socialDescription="New platform fuels sharing of vehicle data to improve driver safety, convenience, by providing unprecedented level of data sovereignty"
+        subtitle="New platform fuels sharing of vehicle data to improve driver safety, convenience, by providing unprecedented level of data sovereignty"
+        theme="dark"
+        UAID="62115dba-0dbb-4097-ad71-7a8e6ab49021"
+        UCID="58be5262-8732-40f9-a7c3-226d5ea0417b">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2019-02-22T11:39:50.429Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="FEBRUARY 25, 2019 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-22T14:03:23.142Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/Hewlett Packard Enterprise and Continental Launch Blockchain-Based Data ....jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Guarantees"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-22T11:44:37.889Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    color="style-bg-gray-3"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Based on blockchain technology, HPE and Continental’s platform provides data sovereignty, security, transparency, and efficiency to overcome the barriers of sharing vehicle data&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The platform enables digital services that improve driver safety and convenience, while helping car manufacturers to monetize their data and differentiate their brands&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_3c
+                    jcr:created="{Date}2019-02-22T11:45:01.995Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2019-02-22T11:45:28.402Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>New platform fuels sharing of vehicle data to improve driver safety, convenience, by providing unprecedented level of data sovereignty&lt;/h2>&#xa;"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-02-14T11:38:12.206Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Barcelona, February 25, 2019 – Hewlett Packard Enterprise (HPE) and the technology company &lt;a href=&quot;https://www.continental-corporation.com/&quot; target=&quot;_blank&quot;>Continental&lt;/a> today announced a new platform, expected to be available in 2019, for sharing vehicle data to enable new digital services that improve driver safety and convenience. At the same time, the platform will help car manufacturers monetize their data and differentiate their brands. Based on &lt;a href=&quot;https://www.hpe.com/us/en/solutions/blockchain.html&quot; target=&quot;_blank&quot;>blockchain technology&lt;/a>, the platform provides data sovereignty, security, transparency, and efficiency to overcome the barriers of sharing vehicle data.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; Enterprises across different industries have understood that they need to find ways to break down data silos and enable multiple parties to work together to extract the full value from their data. In the case of connected and autonomous vehicles, data sharing across automotive brands is key to providing driver-assistance services that help drivers avoid traffic hazards and find the most convenient, practical and efficient travel routes – for example real-time traffic warnings and locating available parking.&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;b>Decentralized architecture empowers market participants and creates trust for data sharing&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>Several existing digital ecosystems enable data sharing based on a middleman model, where platform owners centrally coordinate the data flows and monetization. Applying a complimentary approach, HPE and Continental’s platform leverages a decentralized architecture based on blockchain technologies. Participants, such as car manufacturers, continue storing the data in their own data centers and only share specific data sets upon purchase directly with the buyer. This approach gives data sovereignty to all participants in the ecosystem, while at the same time providing a highly efficient and secure procedure for monetizing vehicle data.&lt;/span>&lt;/p>&#xd;&#xa;"
+                    topPadding="30"/>
+                <pullquote_690f
+                    jcr:created="{Date}2019-02-22T12:22:52.366Z"
+                    jcr:createdBy="christine.seales@hpe.com"
+                    jcr:lastModified="{Date}2022-02-14T11:38:34.732Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Sharing vehicle data can solve some of the toughest traffic problems and improve driver experience&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2022-02-14T11:38:34.732Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_690f>
+                <textonlycomponent_b4
+                    jcr:created="{Date}2018-06-18T09:18:06.257-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-02-14T11:38:43.951Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>“Sharing vehicle data across vendors can solve some of the toughest traffic problems and improve driver experience by leveraging the power of swarm intelligence,” said Phil Davis, President Hybrid IT, Chief Sales Officer, HPE. “Together with Continental, we provide the key to unlock the value of this data treasure, not by taking control of the data ourselves, but by giving control to the drivers and car manufacturers.”&lt;br />&#xd;&#xa;&lt;br />&#xd;&#xa;&lt;/i>The data-monetization platform will enable car manufacturers and other partners to trade data with each other – either to improve digital services for their customers or to monetize vehicle data. However, trading is only feasible upon a driver’s consent. Therefore, the platform will integrate a consent management system and provide an easy to use opt-in and opt-out system for drivers. HPE and Continental take data privacy seriously to be compliant with GDPR and data protection regulations in other countries.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_349b
+                    jcr:created="{Date}2018-06-18T09:23:47.197-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-02-14T11:38:53.465Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>Our platform cuts the Gordian knot of data sharing and data privacy&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2022-02-14T11:38:53.465Z"
+                        jcr:lastModifiedBy="christine.seales@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_349b>
+                <textonlycomponent_97
+                    jcr:created="{Date}2018-06-22T11:22:31.557-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2022-02-14T11:39:34.018Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE and Continental have already received overwhelmingly positive feedback on the new platform from car manufacturers. &lt;i>“We are sure that our platform cuts the Gordian knot of data sharing and data privacy,” said Helmut Matschi, Member of the Executive Board, Interior Division, Continental AG. “We invite car manufacturers globally to join our platform and collaboratively shape this quickly growing ecosystem.”&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/i>As part of a strategic partnership between HPE and Continental, the new platform was jointly designed by HPE Pointnext and Continental’s Interior division. HPE and Continental will provide additional services to facilitate data trading and the integration of vehicle data into car manufacturers’ backend systems and services. The platform’s interface capability will enable multiple ecosystems – both centralized and decentralized – to interconnect and leverage new ways of data monetization. Furthermore, the platform is compliant with the VDA NEVADA Share &amp;amp; Secure concept&lt;/span>&amp;nbsp;&lt;span class=&quot;body-copy-large&quot;>which was developed by the German automotive industry to govern the secure transmission and transfer of vehicle generated data to third parties.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;br>&#xd;&#xa;&lt;b>HPE and Continental demonstrate new blockchain-based data monetization platform at Mobile World Congress&lt;br>&#xd;&#xa; &lt;br>&#xd;&#xa; &lt;/b>At Mobile World Congress in Barcelona, February 25-28, 2019, at the HPE booth (Hall 3, booth 3E11), HPE, Continental and the technology startup Crossbar demonstrate the blockchain-based data monetization platform with a driving simulator.&lt;br>&#xd;&#xa;&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_fe
+                    jcr:created="{Date}2018-06-18T09:28:54.456-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2019-02-22T12:28:08.109Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;br>&#xa;&lt;br>&#xa;&lt;/b>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;br>&#xa;&lt;br>&#xa;&lt;b>About Continental&lt;br>&#xa;&lt;br>&#xa;&lt;/b>Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. Founded in 1871, the technology company offers safe, efficient, intelligent, and affordable solutions for vehicles, machines, traffic and transportation. In 2018, Continental generated preliminary sales of around €44.4 billion and currently employs around 244,000 people in 61 countries and markets.&lt;/span>&lt;/p>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_bf
+                    jcr:created="{Date}2018-07-02T13:12:59.755-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:10:50.633Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_7c25
+                            jcr:created="{Date}2018-07-02T13:15:28.984-07:00"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-02-22T12:30:26.019Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/at-the-intelligent-edge-and-with-blockchain-data-glitters-like-gold"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="At the Intelligent Edge, and with Blockchain, Data Glitters Like Gold"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="At the Intelligent Edge, and with Blockchain, Data Glitters Like Gold"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-02-22T12:30:26.019Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/At-the-Intelligent-Edge-and-with-Blockchain-Data-Glitters-Like-Gold.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-02-22T12:30:26.019Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_7c25>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_4dff
+                            jcr:created="{Date}2018-09-21T21:01:47.387Z"
+                            jcr:createdBy="velazquez@hpe.com"
+                            jcr:lastModified="{Date}2019-02-22T12:35:55.993Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2017/11/four-industries-ripe-for-blockchain-disruption"
+                            description="&lt;p>Blog Post&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Four Industries Ripe for Blockchain Disruption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Four Industries Ripe for Blockchain Disruption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-02-22T12:35:55.993Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2017/11/image-norend/Auto2-640x360.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-02-22T12:35:55.993Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_4dff>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_50f2
+                            jcr:created="{Date}2018-09-05T17:41:27.359Z"
+                            jcr:createdBy="nagle@hpe.com"
+                            jcr:lastModified="{Date}2019-02-22T12:37:56.619Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2019/02/hewlett-packard-enterprise-launches-platform-to-unleash-real-time-processing-at-the-telecommunications-edge"
+                            description="&lt;p>Press Release&lt;/p>&#xa;"
+                            enablePrimaryCta="true"
+                            enableSocialSharing="true"
+                            header="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Hewlett Packard Enterprise launches platform to unleash real-time processing at the telecommunications edge"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:lastModified="{Date}2019-02-22T12:37:56.619Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2019/02/image-norend/Hewlett-Packard-Enterprise-Launches-Platform-to-Unleash-Real-Time-Proces....jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2019-02-22T12:37:56.619Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_50f2>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2019-04-11T16:01:54.589Z"
+            jcr:lastModifiedBy="tanya.dainoski@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

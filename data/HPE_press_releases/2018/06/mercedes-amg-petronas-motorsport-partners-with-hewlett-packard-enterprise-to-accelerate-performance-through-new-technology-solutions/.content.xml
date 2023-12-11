@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:37:18.937Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/industry--manufacturing,hpe-newsroom:categories/networking,hpe-newsroom:categories/company---partners]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="mercedes-amg-petronas-motorsport-partners-with-hewlett-packard-enterprise-to-accelerate-performance-through-new-technology-solutions"
+        jcr:uuid="7c28912f-3c7e-4ef2-8bc2-f7b84418db0c"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-06-13T04:00:48.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Lindsey Berryhill"
+        metaDescription="Mercedes-AMG Petronas Motorsport Partners with Hewlett Packard Enterprise to Accelerate Performance through New Technology Solutions"
+        navTitle="Mercedes-AMG Petronas Motorsport Partners with Hewlett Packard Enterprise to Accelerate Performance through New Technology Solutions"
+        pageTitle="Mercedes-AMG Petronas Motorsport Partners with Hewlett Packard Enterprise to Accelerate Performance through New Technology Solutions"
+        priority="(None)"
+        subtitle="Hewlett Packard Enterprise becomes an Official Team Partner, providing edge-to-cloud solutions and advisory services both at the factory and trackside"
+        theme="dark"
+        UAID="9770e0a8-867b-41e3-9a31-24aff1cc47e1"
+        UCID="dd3c2c19-997a-4c16-9ce0-61303a25fcf6"
+        webSectionId="R11989"
+        WPID="200838">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-07-02T13:31:27.189-07:00"
+                jcr:lastModifiedBy="velazquez@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="June 13, 2018 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Mercedes-AMG-Petronas-Motorsport-partners-with-Hewlett-Packard-Enterprise-to-Accelerate-Performance-through-New-Technology-Solutions.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="Mercedes-AMG Petronas Motorsport Partners with Hewlett Packard Enterprise to Accelerate Performance through New Technology Solutions"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:21:36.560Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE is partnering with Mercedes-AMG Petronas Motorsport to enhance the team's operational efficiency, car performance and overall technology capability&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>The partnership involves a multi-year technology roadmap, with phased product and process implementation across the factory and trackside operations, to improve performance and capability, while furthering the team's engineering excellence&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>An Apollo high-performance computing system is being used to run complex race simulations, giving the engineers additional information to make faster and better-informed decisions before, during and after on-track sessions&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-31T10:21:04.423Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:21:37.936Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:22:05.142Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;h2>Hewlett Packard Enterprise becomes an Official Team Partner, providing edge-to-cloud solutions and advisory services both at the factory and trackside&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_v6ys
+                    jcr:lastModified="{Date}2018-10-31T10:22:35.421Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Mercedes-AMG Petronas Motorsport is delighted to announce a new partnership with &lt;a href=&quot;https://news.hpe.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>Hewlett Packard Enterprise (HPE)&lt;/a> to enhance the teams operational efficiency, car performance and overall technology capability.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>To begin the new partnership, HPE was welcomed into the team at the Canadian Grand Prix over the race weekend.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Recognizing that organizations that harness data - and have the speed and agility to learn from and quickly act on it - will be the winners, HPE is focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. Through the new partnership, the team will benefit from advisory services from HPE Pointnext, as well as innovative software solutions from HPE.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;We are delighted to welcome Hewlett Packard Enterprise to Mercedes-AMG Petronas Motorsport&amp;quot;, said Toto Wolff, Team Principal &amp;amp; CEO. &amp;quot;Data is becoming increasingly important - not just in the world of Formula One, but the world in general. In F1, we use data on our relentless search for performance, across all functions of the team - both at the track and at the factory. With the support of HPE we can better process and analyse that data, enabling our team members to do what they do best - from the early stages of conceiving a competitive car to the final moment of the car setup on a race weekend. Formula One has always been on the forefront of technological development and with partners like HPE we are able to accelerate our development rate to an even faster pace.&amp;quot;&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_qdtz
+                    jcr:lastModified="{Date}2018-10-18T12:28:05.828Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;With HPE we can better process and analyse that data, enabling our team to do what they do best&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T12:28:05.828Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_qdtz>
+                <imageonlycomponent_7
+                    jcr:created="{Date}2018-10-18T12:45:45.288Z"
+                    jcr:createdBy="camelia.manoiu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T12:46:34.819Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomMargin="30"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/da03485e-6dfb-11e8-a944-a0369f103266.jpeg"
+                    imageAlignment="hpe-image-left"
+                    topMargin="30"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_6o2r
+                    jcr:lastModified="{Date}2018-10-31T10:23:03.365Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>The partnership involves a multi-year technology roadmap, with phased product and process implementation across the factory and trackside operations, to improve performance and capability, while furthering the team's engineering excellence.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>'The future belongs to the fast - and nowhere is that more true than within the world of Formula One racing&amp;quot;, said Antonio Neri, President and Chief Executive Officer, HPE. &amp;quot;We are thrilled to support Mercedes-AMG Petronas Motorsport on their digital transformation journey and look forward to working alongside their team members to unlock new levels of innovation and performance - both on and off the track.&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_7g06
+                    jcr:lastModified="{Date}2018-10-18T12:48:14.438Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;The future belongs to the fast and nowhere is that more true than within the world of F1 racing&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T12:48:14.438Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_7g06>
+                <textonlycomponent_br40
+                    jcr:lastModified="{Date}2018-10-18T12:50:14.863Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>Prior to today's announcement, the first phase of HPE hardware installation has already been completed at the team's factory in Brackley, UK. This deployment includes the Apollo high-performance computing (HPC) system, which has been integrated into the on-site data center. This will be used to run complex race simulations, giving the engineers additional information and insights to make faster and better-informed decisions before, during and after on-track sessions.&lt;/span>&lt;/p>&#xa;"/>
+                <imageonlycomponent_8
+                    jcr:created="{Date}2018-10-18T12:50:51.761Z"
+                    jcr:createdBy="camelia.manoiu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-18T12:51:32.919Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    bottomMargin="30"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/da070bd8-6dfb-11e8-a793-a0369f103266.jpeg"
+                    imageAlignment="hpe-image-left"
+                    topMargin="30"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_b7
+                    jcr:created="{Date}2018-10-18T12:49:12.473Z"
+                    jcr:createdBy="camelia.manoiu@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:23:39.827Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;quot;The organizations that can turn data into knowledge, knowledge into insights and insights into outcomes will be the winners&amp;quot;, said Jim Jackson, Chief Marketing Officer, HPE. &amp;quot;Our sponsorship of Mercedes-AMG Petronas Motorsport is all about bringing the power of the world's best technology and services to a team with a history of innovation to fuel performance at the highest possible level.&amp;quot;&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Contacts:&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;b>Bradley Lord&lt;/b>&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Mercedes-AMG Motorsport Communications Director&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:blord@mercedesamgf1.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>&lt;b>blord@mercedesamgf1.com&lt;/b>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>+44 (0) 7785 682 893&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&lt;b>Lindsey Berryhill&lt;/b>&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;a href=&quot;mailto:Lindsey.berryhill@hpe.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>&lt;b>Lindsey.berryhill@hpe.com&lt;/b>&lt;/a>&lt;/span>&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>+1 650 518 6131&lt;/span>&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wqh8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/04/academia-and-industry-collaborate-to-drive-uk-supercomputer-adoption"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Academia and Industry Collaborate to Drive UK Supercomputer Adoption"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/04/image-norend/M2_4623.jpg"/>
+                        </contentblock_wqh8>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_npnb
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/06/tottenham-hotspur-football-club-partners-with-hewlett-packard-enterprise-to-support-technology-vision-for-new-stadium"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Tottenham Hotspur Football Club Partners with Hewlett Packard Enterprise to Support Technology Vision for New Stadium"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Tottenham Hotspur Football Club Partners with Hewlett Packard Enterprise to Support Technology Vision for New Stadium"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2017/07/image-norend/stadium_NewsroomRedesignTemplate.jpg"/>
+                        </contentblock_npnb>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_wo7c
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/05/at-the-intelligent-edge-and-with-blockchain-data-glitters-like-gold"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="At the Intelligent Edge, and with Blockchain, Data Glitters Like Gold"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="At the Intelligent Edge, and with Blockchain, Data Glitters Like Gold"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/05/image-norend/At-the-Intelligent-Edge-and-with-Blockchain-Data-Glitters-Like-Gold.jpg"/>
+                        </contentblock_wo7c>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

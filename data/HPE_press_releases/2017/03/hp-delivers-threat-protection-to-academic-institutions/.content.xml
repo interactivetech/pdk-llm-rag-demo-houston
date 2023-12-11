@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2023-04-03T19:43:25.305Z"
+        cq:lastModifiedBy="christine.seales@hpe.com"
+        cq:tags="[hpe-newsroom:categories/compute,hpe-newsroom:categories/infrastructure]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hp-delivers-threat-protection-to-academic-institutions"
+        jcr:uuid="f537d262-01e0-4d90-8346-4d8dea84c82a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2017-03-31T16:01:38.000-07:00"
+        metaDescription="HP Delivers Threat Protection to Academic Institutions"
+        msmcomponent="/content/hpe/base/blueprint/newsroom/press-release/2017/03/hp-delivers-threat-protection-to-academic-institutions/jcr:content/main-par/body-par/textonlycomponent_9xl3"
+        navTitle="HP Delivers Threat Protection to Academic Institutions"
+        pageTitle="HP Delivers Threat Protection to Academic Institutions"
+        priority="(None)"
+        subtitle="HP TippingPoint Helps Detect and Prevent Network Security Breaches From Threatening Sensitive Research and Productivity"
+        theme="dark"
+        UAID="7e888cc5-685c-475c-885a-fa6a9f96d3f0"
+        UCID="73c33439-adc2-4c59-b507-e198d36ccfe0"
+        WPID="1562">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2018-10-19T16:20:36.850Z"
+                jcr:lastModifiedBy="esparza@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="October 20, 2014 • Press Release"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-06-18T09:16:54.243-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-18T09:18:45.987-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-10T18:44:10.994Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>HP TippingPoint Helps Detect and Prevent Network Security Breaches From Threatening Sensitive Research and Productivity&lt;/h2>"
+                    topPadding="30"/>
+                <textonlycomponent_9xl3
+                    jcr:lastModified="{Date}2023-04-03T19:43:25.297Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>PALO ALTO, CA--(Marketwired - Oct 20, 2014) - HP (NYSE: HPQ) today announced that academic institutions including Loyola University Chicago, California's Irvine Unified School District and Illinois' Collinsville Community Unit School District 10 are leveraging HP TippingPoint&amp;nbsp;network security&amp;nbsp;solutions to help prevent and immediately block certain cyber threats through&amp;nbsp;security intelligence&amp;nbsp;utilizing proactive intrusion prevention, broad-scoped threat protection and application awareness and control.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>With the expanded use and reliance on technology across all levels of education, academic institutions today face a barrage of internal and external security threats that place IT operations, student and faculty information, and sensitive research at risk. While still giving the necessary network access to students and staff, IT departments within these organizations must be equipped to monitor and mitigate external threats such as malware and bot attacks on a daily basis, as well as managing internal threats such as student and faculty downloads and flash drive use that expose networks to potential infection.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;With academic institutions relying on both school-owned and student-supplied technology more than ever before, the burden falls on IT security professionals to manage the growing security risk and protect academic assets,&amp;quot; said Rob Greer, vice president and general manager, TippingPoint, Enterprise Security Products, HP. &amp;quot;HP TippingPoint's network security offerings, including&amp;nbsp;Next-Generation Firewall (NGFW)&amp;nbsp;and&amp;nbsp;Intrusion Prevention System (IPS),&amp;nbsp;are enabling customers in the education field to immediately detect and block threats that would otherwise expose sensitive information or disrupt student and staff productivity.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Loyola University Chicago supports a network of nearly 16,000 students, many of which bring an average of 4.5 devices each on campus. This means that the university's ITS department must detect threats and prevent infections that these devices could potentially introduce to the network. To maximize visibility into the network and attempt to block the malicious activity trying to break through, Loyola's ITS group has implemented a layered approach, leveraging HP TippingPoint's Next-Generation&amp;nbsp;Intrusion Prevention System&amp;nbsp;(NGIPS).&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Given the number of devices we have on campus, we need to be sure that when a device is compromised, we can identify that 'patient zero' and prevent it from spreading through the network -- putting information at risk and slowing productivity,&amp;quot; said Brett Weston, information security administrator, Loyola University Chicago. &amp;quot;With TippingPoint we have been able to block an average of 2 million threats per week -- but with the help of TippingPoint's DVLabs, we have been able to block 8.5 million threats per week.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>In addition to higher education environments, K-12 districts face a growing number of threats to productivity. As one of the fastest growing school districts in the U.S., Irvine Unified School District educates 30,000 students and supports an information network running through 8,500 school-owned workstations, and thousands of private devices. To combat the spread of malware and click fraud, the school district deployed the HP&amp;nbsp;TippingPoint&amp;nbsp;660N NGIPS, along with HP ArcSight Logger. Immediately, threats such as SQL injection, WordPress and Joomla attacks, and cross-site scripting were blocked before ever infiltrating the network.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Our network was being attacked 24/7 by malware, click fraud, and other cyber threats, which was affecting online research and operations,&amp;quot; said Lance Auman, information security architect, Irvine Unified School District. &amp;quot;By deploying the HP TippingPoint Next-Generation Intrusion Prevention device, we successfully blocked threats without interrupting school operations, and with the upgrade to ThreatDV, we saw immediate results in blocking malware from spreading.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Application control also represents a top concern for academic institutions, as IT professionals must ensure that students and staff have an optimized environment for learning as well as the current demands for online testing. Collinsville School District deployed the HP TippingPoint&amp;nbsp;Next-Generation Firewall (NGFW)&amp;nbsp;to monitor and prioritize network traffic, while automatically blocking threats through HP TippingPoint's&amp;nbsp;ThreatDV&amp;nbsp;filters and database.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;We were put to the test right from the start when an end user downloaded malware that created its own spam filter, and the entire district was unable to receive emails from external sources,&amp;quot; said Mike Kunz, director of technology, Collinsville Community Unit School District 10. &amp;quot;HP TippingPoint's next generation firewall enabled us to identify the machine and mitigate the infection.&amp;quot;&lt;/i>&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HP TippingPoint's Next-Generation Firewall has been thoroughly tested and granted certification for Corporate Firewall (4.1) with High Availability by ICSA Labs, an independent division of Verizon. To achieve certification, ICSA requires that firewall products meet and maintain a rigorous set of standards composed of functional and assurance criteria.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>&lt;br _rte_temp_br=&quot;brEOB&quot;>&#xd;&#xa;About HP&lt;br>&#xd;&#xa; &lt;/b>HP creates new possibilities for technology to have a meaningful impact on people, businesses, governments and society. With the broadest technology portfolio spanning printing, personal systems, software, services and IT infrastructure, HP delivers solutions for customers' most complex challenges in every region of the world. More information about HP is available at&amp;nbsp;&lt;a href=&quot;http://www.hp.com/&quot; target=&quot;_blank&quot;>http://www.hp.com&lt;/a>.&lt;/span>&lt;/p>&#xd;&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>© 2014 Hewlett-Packard Development Company, L.P. The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_86qc
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/news-advisory/2018/01/hpe-enables-cquniversity-to-make-its-it-infrastructure-future-ready"
+                            description="News Advisory"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="HPE Enables CQUniversity To Make Its IT Infrastructure Future Ready"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Enables CQUniversity To Make Its IT Infrastructure Future Ready"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/01/image-norend/cq-uni-news-advisory-.jpg"/>
+                        </contentblock_86qc>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_kn9j
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2018/06/aruba-introduces-integrated-sd-wan-lan-and-security-solution-to-power-the-software-defined-branch"
+                            description="Press Release"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="Aruba Introduces Integrated SD-WAN, LAN and Security Solution to Power the Software-Defined Branch"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Aruba Introduces Integrated SD-WAN, LAN and Security Solution to Power the Software-Defined Branch"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Aruba-SD-Release.jpg"/>
+                        </contentblock_kn9j>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_981g
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/a-software-defined-branch-blends-simplicity-with-performance"
+                            description="Blog Post"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="true"
+                            header="A Software-defined Branch Blends Simplicity with Performance"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="A Software-defined Branch Blends Simplicity with Performance"
+                            topPadding="30px|30px|30px|30px|30px">
+                            <image
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Aruba-blog-post.jpg"/>
+                        </contentblock_981g>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>

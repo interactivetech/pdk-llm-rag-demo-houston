@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/apps/settings/wcm/designs/hpeweb"
+        cq:lastModified="{Date}2021-12-14T00:39:39.013Z"
+        cq:lastModifiedBy="tony.dunn@hpe.com"
+        cq:tags="[hpe-newsroom:categories/big-data]"
+        cq:template="/apps/hpeweb/templates/page-text-heavy"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="hpe-introduces-industry-first-services-to-optimize-public-and-private-cloud-consumption"
+        jcr:uuid="139d9fd4-6547-4958-867c-8f4d16a4da1a"
+        sling:resourceType="hpeweb/components/pages/page-text-heavy"
+        changefreq="daily"
+        contentType="Press Release"
+        displayDate="{Date}2018-06-19T11:00:49.000-07:00"
+        mediaContactEmail="corpmediarelations@hpe.com"
+        mediaContactName="Angela Chatzidimitriou"
+        metaDescription="HPE Introduces Industry-first Service to Optimize Public, Private and Hybrid Cloud Consumption"
+        navTitle="HPE Introduces Industry-first Service to Optimize Public, Private and Hybrid Cloud Consumption"
+        pageTitle="HPE Introduces Industry-first Service to Optimize Public, Private and Hybrid Cloud Consumption"
+        priority="(None)"
+        subtitle="HPE GreenLake Hybrid Cloud delivers cloud-native operations, compliance, financial control, and more for AWS, Microsoft Azure and Microsoft Azure Stack"
+        theme="dark"
+        UAID="db12695b-8540-4e77-bbdd-114cf09db2ff"
+        UCID="7ecaffdd-4201-4bea-849d-14d04a875cc7"
+        webSectionId="R11989"
+        WPID="200769">
+        <main-par
+            jcr:lastModified="{Date}2018-06-28T13:09:39.402-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="hpeweb/components/content/textHeavyComponent"
+            siderail="none">
+            <subtitle
+                jcr:lastModified="{Date}2021-08-19T14:41:13.121Z"
+                jcr:lastModifiedBy="christine.seales@hpe.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="hpeweb/components/content/newsroom/newsroomSubtitleComponent"
+                textOnly="JUNE 19, 2018 • PRESS RELEASE"/>
+            <body-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <imageonlycomponent_c
+                    jcr:created="{Date}2018-06-18T09:06:27.827-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-09-20T21:11:38.161Z"
+                    jcr:lastModifiedBy="oscar.lopez-macias@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/imageOnlyComponent"
+                    fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-GreenLake.jpg"
+                    imageAlignment="hpe-image-center"
+                    imageAltText="HPE Introduces Industry-first Service to Optimize Public, Private and Hybrid Cloud Consumption"
+                    topMargin="60"
+                    videoSource="video"
+                    videoType="youtube"/>
+                <textonlycomponent_cd
+                    jcr:created="{Date}2018-06-18T09:12:49.742-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:02:08.590Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    leftPadding="30"
+                    rightPadding="30"
+                    textOnly="&lt;h3>IN THIS ARTICLE&lt;/h3>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>Today, Hewlett Packard Enterprise announced HPE GreenLake Hybrid Cloud, a new consumption experience designed to help customers manage and optimize their on- and off-premises clouds&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Hybrid Cloud helps deliver rapid time to value, simplified IT, and services for continuous management of specific cost and compliance controls for public and on-premise clouds&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Hybrid Cloud provides ongoing management and optimization of customers' environments in leading cloud solutions such as AWS, Microsoft Azure and Azure Stack&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli
+                    jcr:created="{Date}2018-10-31T10:00:39.364Z"
+                    jcr:createdBy="silviu.gavriluta@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:02:11.154Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <textonlycomponent_e9
+                    jcr:created="{Date}2018-06-22T11:24:07.263-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-31T10:04:40.231Z"
+                    jcr:lastModifiedBy="silviu.gavriluta@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    bottomPadding="30"
+                    textOnly="&lt;h2>HPE GreenLake Hybrid Cloud delivers cloud-native operations, compliance, financial control, and more for AWS, Microsoft Azure and Microsoft Azure Stack&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <textonlycomponent_5ds2
+                    jcr:lastModified="{Date}2020-05-12T17:16:18.726Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>LAS VEGAS, June 19, 2018 -&lt;/b> Today, &lt;a href=&quot;https://www.hpe.com/us/en/home.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>Hewlett Packard Enterprise&lt;/a> (HPE) announced HPE GreenLake Hybrid Cloud, a new consumption experience designed to help customers manage and optimize their on- and off-premises clouds. HPE GreenLake Hybrid Cloud is an automated cloud operating model, leveraging HPEs leading intellectual property and standardized with HPE best practices to help customers consume the exact cloud resources they need, wherever their workloads live while driving improved performance, cost, security and compliance. By eliminating the need for staff to manage the hybrid environment day-to-day, the new solution helps diminish human error and enables staff to focus on innovation.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hybrid IT is the reality for most enterprises as it allows them to blend a mix of applications, services and platforms, all tailored to their needs. However, many enterprises struggle with the complexity of operating different private, public and hybrid clouds and having the right skills to oversee and manage their cloud implementation, which can lead to unknown, unrestrained cost and risk. According to Gartner by 2020, organizations that lack cost optimization processes will average 40% overspend in public cloud&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot;>&lt;sup>1&lt;/sup>&lt;/a>.&amp;nbsp;In addition, many customers lack automation and simple tools to unleash the agility of the cloud, and continuous monitoring of controls and compliance frameworks to manage risk.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Hybrid Cloud helps solve the problem of complex management. It sets up processes to manage cloud resources in a customer's environment of choice; establishes specific cost, security and compliance controls; and then manages those resources on behalf of the customer. Unlike a traditional managed service, GreenLake Hybrid Cloud offers an automated, cloud-native model that is designed to eliminate the need for organizations to hire or train new staff to oversee and manage cloud implementations.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Enterprises need a fast, simple way to optimize their public and on-premises clouds to enable applications and data under a common operating model&amp;quot;, said Ana Pinczuk, SVP and GM of HPE Pointnext. &amp;quot;HPE GreenLake Hybrid Cloud is a breakthrough solution that removes the complexity of operating multiple clouds and enables customers to maintain control, reduce costs and accelerate time to value&amp;quot;.&lt;/i>&lt;/span>&lt;/p>&#xa;"/>
+                <pullquote_0y08
+                    jcr:lastModified="{Date}2018-10-18T11:33:31.023Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;HPE GreenLake Hybrid Cloud is a breakthrough solution that removes multi-cloud complexity&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T11:33:31.023Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_0y08>
+                <textonlycomponent_78v6
+                    jcr:lastModified="{Date}2021-08-19T14:40:18.366Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    designAccentColor="gray"
+                    textIsRich="true"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Hybrid Cloud helps deliver rapid time to value, simplified IT, and services for continuous management of specific cost and compliance controls for public and on-premises clouds. Leveraging the cloud architecture and implementation expertise from HPE Pointnext through its acquisitions of Cloud Technology Partners and RedPixie, HPE GreenLake Hybrid Cloud provides ongoing management and optimization of customers' environments in leading cloud solutions such as AWS, Microsoft Azure and Azure Stack.&lt;/span>&lt;/p>&#xd;&#xa;"/>
+                <pullquote_r99e
+                    jcr:lastModified="{Date}2018-10-18T11:47:42.481Z"
+                    jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/homepage/design2/pullQuote"
+                    attribution=" "
+                    bottomPadding="30"
+                    color="style-bg-slate"
+                    enableSocialSharing="true"
+                    quoteLayout="standard"
+                    quoteText="&lt;p>&amp;quot;With CTP and RedPixie, HPE has created an offer that can span between on and off premises clouds&amp;quot;&lt;/p>&#xa;"
+                    topPadding="30">
+                    <image
+                        jcr:lastModified="{Date}2018-10-18T11:47:42.481Z"
+                        jcr:lastModifiedBy="camelia.manoiu@hpe.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/image"/>
+                </pullquote_r99e>
+                <textonlycomponent_djx2
+                    jcr:lastModified="{Date}2020-05-12T17:17:22.545Z"
+                    jcr:lastModifiedBy="christine.seales@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE GreenLake Hybrid Cloud is built on an automated toolset featuring HPE OneSphere and HPE's software-defined technology to support and operate hybrid cloud workloads. Microsoft Azure Stack is delivered using the HPE GreenLake flexible consumption model that brings the pay-per-use&lt;a href=&quot;#_ftn2&quot; name=&quot;_ftnref2&quot;>&lt;sup>2&lt;/sup>&lt;/a>&amp;nbsp;approach to on-premises environments using the HPE ProLiant for Microsoft Azure Stack.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;i>&amp;quot;Looking at how companies like to optimize their cloud experience, we find that 23% want to consume off premises as-a-service and 35% on premises as-a-service with the remaining being in a capex or leased model&lt;b>&lt;a href=&quot;#_ftn3&quot; name=&quot;_ftnref3&quot;>&lt;sup>3&lt;/sup>&lt;/a>&amp;quot;&lt;/b>, &lt;/i>said Rob Brothers, Program VP for IDC&lt;i>. &amp;quot;HPE has created an offer with the acquisition of Cloud Technology Partners and RedPixie that can span between the on and off premises cloud&amp;quot;.&lt;/i>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>451 Research showed that two of the biggest challenges customers face when implementing their cloud infrastructure are compliance and cost management&lt;a href=&quot;#_ftn4&quot; name=&quot;_ftnref4&quot;>&lt;sup>4&lt;/sup>&lt;/a>. HPE GreenLake Hybrid Cloud helps solve these challenges by offering key benefits:&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Accelerate time to value&lt;/b>&amp;nbsp;- Cloud-native, automated operating model delivers shorter time to cloud and increased speed of IT operation&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Pay-per-use -&lt;/b> Consumption model and continuous monitoring of cost control areas to align costs with business needs helps reduce total cost of ownership (TCO) for on-premises IT&lt;a href=&quot;#_ftn5&quot; name=&quot;_ftnref5&quot;>&lt;sup>5&lt;/sup>&lt;/a>&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Simplify IT -&amp;nbsp;&lt;/b>Expert services from HPE Pointnext cut the &amp;quot;heavy lifting&amp;quot; in the data center and free staff for strategic business value&lt;/span>&lt;/li>&#xa;&lt;li>&lt;span class=&quot;body-copy-large&quot;>&lt;b>Keep proper control&lt;/b>&amp;nbsp;- Real-time alerting of monitored control failures and remediation recommendations, as well as continuous synchronization and monitoring controls for compliance, helps customers have up to date information on what is being monitored and helps reduce the unintended risks that come from inexperience&lt;/span>&lt;/li>&#xa;&lt;/ul>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>HPE is a long-time leader in the consumption market. Based on eight years of experience offering flexible consumption models to customers, HPE Pointnext last year introduced HPE GreenLake, a suite of consumptionbased, infrastructure and workload solutions that deliver IT outcomes in a pay-per-use model &lt;a href=&quot;#_ftn6&quot; name=&quot;_ftnref6&quot;>&lt;sup>6&lt;/sup>&lt;/a>&amp;nbsp;on premises. With HPE GreenLake, customers can access a simple, pay- per-use model, while maintaining control of the IT experience they deliver with fast onboarding and no capital outlay.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>For more information on HPE GreenLake and HPE GreenLake Hybrid Cloud, please visit: &lt;a href=&quot;http://hpe.com/GreenLake&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>hpe.com/GreenLake&lt;/a> and Ana Pinczuk's blog &lt;a href=&quot;https://news.hpe.com/only-hpe-offers-metered-on-premises-it-consumption-and-weve-just-made-it-even-better/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;>here&lt;/a>.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>&lt;b>About Hewlett Packard Enterprise&lt;/b>&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;span class=&quot;body-copy-large&quot;>Hewlett Packard Enterprise is a global technology leader focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to cloud. HPE enables customers to accelerate business outcomes by driving new business models, creating new customer and employee experiences, and increasing operational efficiency today and into the future.&lt;/span>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref1&quot; name=&quot;_ftn1&quot;>1&lt;/a>.&lt;span class=&quot;body-copy-large&quot;>&amp;nbsp;&lt;/span>&amp;quot;Predicts 2018: The Cloud Platform Becomes the Expedited Path to Value&amp;quot;, Gartner, ID: G00349547, 21 February 2018&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref2&quot; name=&quot;_ftn2&quot;>2&lt;/a>.&amp;nbsp;Minimum commitment may apply&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref3&quot; name=&quot;_ftn3&quot;>3&lt;/a>.&amp;nbsp;&amp;quot;Hyperconverged Consumption: How Customers Want to Finance or Consume Hyperconverged Infrastructures&amp;quot;, IDC Survey Spotlight, May 2018&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref4&quot; name=&quot;_ftn4&quot;>4&lt;/a>&amp;nbsp;&amp;quot;Voice of the Enterprise, Cloud, Hosting and Managed Services, Budgets and Outlook 2017&amp;quot;, 451 Research, February 2018&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref5&quot; name=&quot;_ftn5&quot;>5&lt;/a>.&amp;nbsp;Minimum commitment may apply&lt;/p>&#xa;&lt;p>&lt;a href=&quot;#_ftnref6&quot; name=&quot;_ftn6&quot;>6&lt;/a>.&amp;nbsp;As above&lt;/p>&#xa;"/>
+                <textonlycomponent_c0
+                    jcr:created="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-10-12T16:16:21.448Z"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/textOnlyComponent"
+                    textOnly="&lt;h2>RELATED NEWS&lt;/h2>&#xa;"
+                    topPadding="30"/>
+                <horizontalgrayruleli_540225213
+                    jcr:created="{Date}2018-06-18T10:12:48.909-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:22:53.902-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/horizontalGrayRuleLineComponent"
+                    theme="transparent"/>
+                <columncontainercompo
+                    jcr:created="{Date}2018-07-02T13:14:23.594-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-07-02T13:15:08.106-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/columnContainerComponent"
+                    columns="column-content-3">
+                    <column_0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_b5ce
+                            jcr:lastModified="{Date}2021-08-19T14:40:31.372Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/press-release/2017/11/hpe-expands-pay-per-use-it-to-key-business-workloads"
+                            description="&lt;p>Press Release&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="HPE Expands Pay-Per-Use IT to Key Business Workloads"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-08-19T14:40:31.372Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/HPE-Expands-“Pay-Per-Use-IT”-to-Key-Business-Workloads.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-08-19T14:40:31.372Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_b5ce>
+                    </column_0>
+                    <column_1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_m6xo
+                            jcr:lastModified="{Date}2021-08-19T14:40:38.889Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/06/only-hpe-offers-metered-on-premises-it-consumption-and-weve-just-made-it-even-better"
+                            description="&lt;p>Blog Post&lt;/p>&#xd;&#xa;&#xd;&#xa;&#xd;&#xa;"
+                            designAccentColor="hpe-green"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Only HPE Offers Metered, On-Premises IT Consumption  and We've Just Made it Even Better"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Only HPE Offers Metered, On-Premises IT Consumption  and Weve Just Made it Even Better"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-08-19T14:40:38.889Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"
+                                fileReference="/content/dam/hpe/newsroom/2018/06/image-norend/Only-HPE-Offers-Metered-On-Premises-IT-Consumption-and-We-u2019ve-Just-Made-it-Even-Better.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-08-19T14:40:38.889Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="foundation/components/image"/>
+                        </contentblock_m6xo>
+                    </column_1>
+                    <column_2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="foundation/components/parsys">
+                        <contentblock_mew7
+                            jcr:lastModified="{Date}2021-08-19T14:40:45.665Z"
+                            jcr:lastModifiedBy="christine.seales@hpe.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="hpeweb/components/content/homepage/design2/contentBlock"
+                            anchorName="share"
+                            bottomPadding="30px|30px|30px|30px|30px"
+                            ctaNewWindow="true"
+                            ctaNewWindowMicroModule="false"
+                            ctaStyle="arrow-link"
+                            ctaText="Read More"
+                            ctaUrl="/content/hpe/base/blueprint/newsroom/blog-post/2018/03/happy-anniversary-hpe-pointnext"
+                            description="Blog Post"
+                            designAccentColor="gray"
+                            enableAnimation="false"
+                            enableMicroModule="false"
+                            enablePrimaryCta="true"
+                            enableSecondaryCta="false"
+                            enableSocialSharing="true"
+                            enableStateQuote="false"
+                            enableText="false"
+                            header="Happy Anniversary, HPE Pointnext!"
+                            headerFormat="h3"
+                            horizontalAlignment="left"
+                            horizontalLayout="cb-50-50-left"
+                            imageAltText="Happy Anniversary, HPE Pointnext!"
+                            loopMedia="false"
+                            sqDesignElement="stat"
+                            textIsRich="[true,true]"
+                            topPadding="30px|30px|30px|30px|30px"
+                            verticalAlignment="top">
+                            <image
+                                jcr:lastModified="{Date}2021-08-19T14:40:45.665Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"
+                                fileReference="/content/dam/hpe/newsroom/2018/03/image-norend/Happy-Anniversary-HPE-Pointnext.jpg"/>
+                            <imageMicroModule
+                                jcr:lastModified="{Date}2021-08-19T14:40:45.665Z"
+                                jcr:lastModifiedBy="christine.seales@hpe.com"
+                                jcr:primaryType="nt:unstructured"/>
+                        </contentblock_mew7>
+                    </column_2>
+                </columncontainercompo>
+            </body-par>
+            <side-par
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys">
+                <buttonctaitemcompone
+                    jcr:created="{Date}2018-06-28T13:06:31.075-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:06:46.099-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 1"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_661124859
+                    jcr:created="{Date}2018-06-28T13:06:51.115-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:11.079-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 2"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+                <buttonctaitemcompone_606970408
+                    jcr:created="{Date}2018-06-28T13:06:53.400-07:00"
+                    jcr:createdBy="velazquez@hpe.com"
+                    jcr:lastModified="{Date}2018-06-28T13:07:02.336-07:00"
+                    jcr:lastModifiedBy="velazquez@hpe.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="hpeweb/components/content/buttonCTAItemComponent"
+                    ctaLinkStyle="default"
+                    ctaReferenceType="Link"
+                    ctaText="Cta Nav 3"
+                    ctaType="Link"
+                    ctaUrl="#"
+                    videoType="youtube"/>
+            </side-par>
+        </main-par>
+        <image
+            jcr:lastModified="{Date}2018-07-02T13:34:09.338-07:00"
+            jcr:lastModifiedBy="velazquez@hpe.com"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+</jcr:root>
