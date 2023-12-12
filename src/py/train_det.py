@@ -146,8 +146,8 @@ def create_client():
     print("os.getenv(DET_USER) == admin: ",os.getenv("DET_MASTER")=='admin')
     print("os.getenv(DET_USER) == : ",os.getenv("DET_MASTER")=='')
     return DeterminedClient(
-        master='10.239.255.103:8080',
-        user='admin',
+        master='http://mlds-determined.us.rdlabs.hpecorp.net:8080',
+        user='andrew',
         password='',
     )
 
@@ -324,8 +324,8 @@ def main():
     client = create_client()
     # model = get_or_create_model(client, args.model, pipeline, args.repo)
     exp = run_experiment(client, 
-                         '/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/notebooks/determined_files/const.yaml', 
-                         '/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/notebooks/determined_files/', 
+                         '/pfs/code/src/determined_files/const.yaml', 
+                         '/pfs/code/src/determined_files/', 
                          None, 
                          incremental=False)
 

@@ -29,10 +29,10 @@ def main(csv_path,path_to_db):
     db = chromadb.PersistentClient(path=path_to_db, settings=settings)
     print("Done!")
     db.reset()
-    model_path='/mnt/efs/shared_fs/determined/all-MiniLM-L6-v2/'
+    model_path=args.emb_model_path
     print("Loading {}...".format(model_path))
     emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
-        model_name='/mnt/efs/shared_fs/determined/all-MiniLM-L6-v2/', device="cpu"
+        model_name=model_path, device="cpu"
     )
     print("Done!")
     #model_path='/mnt/efs/shared_fs/determined/all-MiniLM-L6-v2/'
@@ -59,6 +59,7 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser()
     parser.add_argument('--path_to_db',type=str, default='/mnt/efs/shared_fs/determined/rag_db/', help='path to csv containing press releases')
+    parser.add_argument('--emb_model_path',type=str, default=None, help='path to locally saved sentence transformer model')
 
     parser.add_argument('--csv_path',type=str, default='/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/data/HPE_2023_Press_Releases_qa.csv', help='path to csv containing press releases')
     args = parser.parse_args()

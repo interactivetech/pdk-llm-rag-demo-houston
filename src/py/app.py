@@ -67,7 +67,7 @@ async def main(message: cl.Message):
     await show_sources(results)
 
     results = "\n\n".join(results)
-    prompt = f"[INST]{results}. Using the above information, answer the following question: {message.content}[/INST]"
+    prompt = f"[INST]`{results}`. Using the above information, answer the following question: {message.content}[/INST]"
     json = {"text": prompt}
     response = requests.post(titan_url, json=json, stream=True)
     response.encoding = "utf-8"

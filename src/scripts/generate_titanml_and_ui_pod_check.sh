@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Install Kubectl
-# curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-install -o root -g root -m 0755 /mnt/efs/shared_fs/determined/kubectl /usr/local/bin/kubectl
+# curl -Lo /nvmefs1/andrew.mendez/kubectl "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+install -o root -g root -m 0755 /nvmefs1/andrew.mendez/kubectl /usr/local/bin/kubectl
 
 # export ROOT_DIR=/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/pipeline_notebooks/
 export ROOT_DIR=/pfs/code/src/scripts/
@@ -52,10 +52,10 @@ if kubectl get pod -n pachyderm "$POD_NAME" --ignore-not-found --output name | g
     export DB_PATH=/nvmefs1/andrew.mendez/rag_db/
     export API_PORT=80
     export API_HOST=10.182.1.48
-    export UI_IP=10.182.1.49
+    export UI_IP=10.182.1.50
     export EMBED_CACHE=/nvmefs1/andrew.mendez/chromadb_cache
     export HOST_VOLUME=/nvmefs1/
-    
+    export APP_PY_PATH="/nvmefs1/shared_nb/01 - Users/cyrill.hug/pdk-llm-rag-demo-houston/src/py/app.py"
     sed -e "s|{{UI_PORT}}|$UI_PORT|g" \
        -e "s|{{DB_PATH}}|$DB_PATH|g" \
        -e "s|{{API_PORT}}|$API_PORT|g" \
@@ -63,6 +63,7 @@ if kubectl get pod -n pachyderm "$POD_NAME" --ignore-not-found --output name | g
        -e "s|{{UI_IP}}|$UI_IP|g" \
        -e "s|{{EMBED_CACHE}}|$EMBED_CACHE|g" \
        -e "s|{{HOST_VOLUME}}|$HOST_VOLUME|g" \
+       -e "s|{{APP_PY_PATH}}|\"$APP_PY_PATH\"|g" \
         "$ROOT_DIR"/ui-pod-template.yaml > "$ROOT_DIR"/ui-pod-runner.yaml
     kubectl apply -f "$ROOT_DIR"/ui-pod-runner.yaml
     kubectl wait --for=condition=ready pod/ui-pod
@@ -74,10 +75,10 @@ else
     export DB_PATH=/nvmefs1/andrew.mendez/rag_db/
     export API_PORT=80
     export API_HOST=10.182.1.48
-    export UI_IP=10.182.1.49
+    export UI_IP=10.182.1.50
     export EMBED_CACHE=/nvmefs1/andrew.mendez/chromadb_cache
-    export HOST_VOLUME=/nvmefs1/andrew.mendez/
-    
+    export HOST_VOLUME=/nvmefs1/
+    export APP_PY_PATH="/nvmefs1/shared_nb/01 - Users/cyrill.hug/pdk-llm-rag-demo-houston/src/py/app.py"
     sed -e "s|{{UI_PORT}}|$UI_PORT|g" \
        -e "s|{{DB_PATH}}|$DB_PATH|g" \
        -e "s|{{API_PORT}}|$API_PORT|g" \
@@ -85,6 +86,7 @@ else
        -e "s|{{UI_IP}}|$UI_IP|g" \
        -e "s|{{EMBED_CACHE}}|$EMBED_CACHE|g" \
        -e "s|{{HOST_VOLUME}}|$HOST_VOLUME|g" \
+       -e "s|{{APP_PY_PATH}}|\"$APP_PY_PATH\"|g" \
         "$ROOT_DIR"/ui-pod-template.yaml > "$ROOT_DIR"/ui-pod-runner.yaml
     kubectl apply -f "$ROOT_DIR"/ui-pod-runner.yaml
     kubectl wait --for=condition=ready pod/ui-pod

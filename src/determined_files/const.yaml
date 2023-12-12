@@ -11,26 +11,30 @@ hyperparameters:
     warmup_steps: 3
     gradient_accumulation_steps: 1
     # dataset_name: 'PDS2'
-    model_cache_dir: '/mnt/efs/shared_fs/determined/hf_cache/mistral_instruct_model_cache/'
-    tokenizer_cache_dir: '/mnt/efs/shared_fs/determined/hf_cache/mistral_instruct_tokenizer_cache/'
+    model_cache_dir: '/nvmefs1/andrew.mendez/mistral_instruct_cache/'
+    tokenizer_cache_dir: '/nvmefs1/andrew.mendez/mistral_instruct_tokenizer_cache/'
     dataset_cache_dir: '/mnt/efs/shared_fs/determined/hf_cache/dataset_tokenizer_cache/'
     dataset_json_file: '/mnt/efs/shared_fs/determined/hf_cache/dataset_download_json_dir.json'
     finetune_results_dir: '/mnt/efs/shared_fs/determined/hf_cache/mistral_ft_results/'
     dataset_name: 'hpe_press_release'
 bind_mounts:
-  - container_path: /mnt/
-    host_path: /mnt
+  - container_path: /nvmefs1/
+    host_path: /nvmefs1/
+    read_only: false
+  - container_path: /pfs/
+    host_path: /pfs/
     read_only: false
 environment:
     image: "mendeza/mistral-rag-env:0.0.1"
 records_per_epoch: 64 
 resources:
     slots_per_trial: 1
+    resource_pool: A100
 min_validation_period:
   batches: 2
 checkpoint_policy: none
 checkpoint_storage:
-  host_path: /mnt/efs/shared_fs/determined
+  host_path: /nvmefs1/determined/checkpoints
   propagation: rprivate
   save_experiment_best: 0
   save_trial_best: 0

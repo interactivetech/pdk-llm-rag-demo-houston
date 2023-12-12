@@ -58,8 +58,8 @@ class MyCallbacks(PyTorchCallback):
         print(f"checkpoint dir: {checkpoint_dir}")
         
         # save pretrained model
-        model_dir = '/mnt/efs/shared_fs/mistral_ckpt/mistral_model/'
-        tokenizer_dir = '/mnt/efs/shared_fs/mistral_ckpt/mistral_tokenizer'
+        model_dir = '/nvmefs1/andrew.mendez/mistral_ckpt/mistral_model'
+        # tokenizer_dir = '/mnt/efs/shared_fs/mistral_ckpt/mistral_tokenizer'
         print("Saving model at {}...".format(model_dir))
         # self.model.save_state_dict(model_dir)
         merged_model = self.model.merge_and_unload()
@@ -67,7 +67,7 @@ class MyCallbacks(PyTorchCallback):
         merged_model.save_pretrained(model_dir,safe_serialization=True)
 
         print("Done")
-        print("Saving tokenizer at {}...".format(tokenizer_dir))
+        print("Saving tokenizer at {}...".format(model_dir))
         self.tokenizer.save_pretrained(model_dir)
         print("Done")        
 
@@ -97,7 +97,7 @@ class MistralFinetuneTrial(PyTorchTrial):
         #                                               bnb_4bit_compute_dtype=torch.bfloat16,
         #                                               bnb_4bit_use_double_quant=False,
         #                                               bnb_4bit_quant_type='nf4')
-        self.model = AutoModelForCausalLM.from_pretrained('/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/notebooks/mistral2',
+        self.model = AutoModelForCausalLM.from_pretrained('/nvmefs1/andrew.mendez/mistral_instruct_model_and_tokenizer',
                                               load_in_4bit=False,
                                               torch_dtype=torch.bfloat16,
                                               device_map={"": 0},
@@ -110,7 +110,7 @@ class MistralFinetuneTrial(PyTorchTrial):
         self.model = self.context.wrap_model(self.model)
         self.batch_size = self.context.get_per_slot_batch_size()
         self.test_batch_size = 1
-        self.tokenizer = AutoTokenizer.from_pretrained('/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/notebooks/mistral2')
+        self.tokenizer = AutoTokenizer.from_pretrained('/nvmefs1/andrew.mendez/mistral_instruct_tokenizer/')
         self.tokenizer.padding_side = 'right'
         self.tokenizer.pad_token = self.tokenizer.eos_token
 
@@ -196,7 +196,8 @@ class MistralFinetuneTrial(PyTorchTrial):
 
         CONVERSION_TOKEN = 'LaTeX:'
         # data = pd.read_csv('/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/data/HPE_qa_dataset.csv')
-        data = pd.read_csv('/pfs/instruction_tuning_dataset/HPE_qa_dataset.csv')
+        #TODO (12/12/2023): update to download dataset 
+        data = pd.read_csv('/nvmefs1/shared_nb/01 - Users/cyrill.hug/pdk-llm-rag-demo-houston/data/HPE_qa_dataset.csv')
 
         # combined_prompt_ans = f'''[INST]Given the document:\n{data['Content']}\n Answer the question: {data['Question']}\n[\INST]Answer: {data['Answer']}'''
         combined_prompt_ans = ('[INST]Given the document:\n'+data['Content']+'\n Answer the question: '+data['Question']+'\n[\INST]Answer: '+data['Answer']).astype(str)

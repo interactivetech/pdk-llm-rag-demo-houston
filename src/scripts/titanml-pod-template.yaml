@@ -29,7 +29,7 @@ spec:
     - effect: NoSchedule
       key: accelerator
       operator: Equal
-      value: Tesla-T4
+      value: NVIDIA-A100-SXM4-80GB
   volumes:
   - name: host-volume
     hostPath:
