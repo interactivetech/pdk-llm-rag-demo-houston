@@ -2,10 +2,10 @@
 
 #Install Kubectl
 # curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-install -o root -g root -m 0755 /mnt/efs/shared_fs/determined/kubectl /usr/local/bin/kubectl
+# install -o root -g root -m 0755 /mnt/efs/shared_fs/determined/kubectl /usr/local/bin/kubectl
 
 # export ROOT_DIR=/mnt/efs/shared_fs/determined/nb_fs/dev-llm-rag-app/pipeline_notebooks/
-export ROOT_DIR=/pfs/code/src/scripts/
+export ROOT_DIR="/nvmefs1/shared_nb/01 - Users/cyrill.hug/pdk-llm-rag-demo-houston/src/scripts"
 
 # export POD_NAME=ui-pod
 
@@ -76,7 +76,7 @@ else
     export API_HOST=10.182.1.48
     export UI_IP=10.182.1.49
     export EMBED_CACHE=/nvmefs1/andrew.mendez/chromadb_cache
-    export HOST_VOLUME=/nvmefs1/andrew.mendez/
+    export HOST_VOLUME=/nvmefs1/
     
     sed -e "s|{{UI_PORT}}|$UI_PORT|g" \
        -e "s|{{DB_PATH}}|$DB_PATH|g" \

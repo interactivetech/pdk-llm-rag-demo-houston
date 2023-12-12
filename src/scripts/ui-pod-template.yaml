@@ -20,7 +20,7 @@ spec:
       hostPort: {{UI_PORT}}
     volumeMounts:
     - name: host-volume
-      mountPath: /mnt/efs/shared_fs/determined/
+      mountPath: /nvmefs1/
     - name: embed-cache
       mountPath: /root/.cache
   volumes:
