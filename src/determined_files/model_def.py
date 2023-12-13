@@ -40,10 +40,11 @@ from determined import pytorch
 from determined.pytorch import DataLoader, PyTorchTrial, PyTorchTrialContext, LRScheduler, PyTorchCallback
 
 class MyCallbacks(PyTorchCallback):
-    def __init__(self, cat_mapping=3,model=None,tokenizer=None) -> None:
+    def __init__(self, cat_mapping=3,model=None,tokenizer=None,save_model_dir=None) -> None:
         self.cat_mapping = cat_mapping
         self.output_json_file = None
         self.model=model
+        self.save_model_dir = save_model_dir
         self.tokenizer=tokenizer
         super().__init__()
 
@@ -58,17 +59,17 @@ class MyCallbacks(PyTorchCallback):
         print(f"checkpoint dir: {checkpoint_dir}")
         
         # save pretrained model
-        model_dir = '/nvmefs1/andrew.mendez/mistral_ckpt/mistral_model'
+        save_model_dir = self.save_model_dir
         # tokenizer_dir = '/mnt/efs/shared_fs/mistral_ckpt/mistral_tokenizer'
-        print("Saving model at {}...".format(model_dir))
+        print("Saving model at {}...".format(save_model_dir))
         # self.model.save_state_dict(model_dir)
         merged_model = self.model.merge_and_unload()
         # merged_model.to(torch.bfloat16)
         merged_model.save_pretrained(model_dir,safe_serialization=True)
 
         print("Done")
-        print("Saving tokenizer at {}...".format(model_dir))
-        self.tokenizer.save_pretrained(model_dir)
+        print("Saving tokenizer at {}...".format(save_model_dir))
+        self.tokenizer.save_pretrained(save_model_dir)
         print("Done")        
 
             
@@ -78,11 +79,12 @@ class MistralFinetuneTrial(PyTorchTrial):
         '''
         '''
         self.context=context
-        model_cache_dir = self.context.get_hparam('model_cache_dir')
-        tokenizer_cache_dir = self.context.get_hparam('tokenizer_cache_dir')
-        dataset_cache_dir = self.context.get_hparam('dataset_cache_dir')
-        dataset_json_file = self.context.get_hparam('dataset_json_file')
-        finetune_results_dir = self.context.get_hparam('finetune_results_dir')
+        self.model_path = self.context.get_hparam('model_path')
+        print("self.model_path: ",self.model_path)
+        self.tokenizer_path = self.context.get_hparam('tokenizer_path')
+        print("self.tokenizer_path: ",self.tokenizer_path)
+        self.finetune_results_dir = self.context.get_hparam('finetune_results_dir')
+        print("self.finetune_results_dir: ",self.finetune_results_dir)
         self.context=context
         peft_config = LoraConfig(
                                     r=1,
@@ -97,7 +99,7 @@ class MistralFinetuneTrial(PyTorchTrial):
         #                                               bnb_4bit_compute_dtype=torch.bfloat16,
         #                                               bnb_4bit_use_double_quant=False,
         #                                               bnb_4bit_quant_type='nf4')
-        self.model = AutoModelForCausalLM.from_pretrained('/nvmefs1/andrew.mendez/mistral_instruct_model_and_tokenizer',
+        self.model = AutoModelForCausalLM.from_pretrained(self.model_path,
                                               load_in_4bit=False,
                                               torch_dtype=torch.bfloat16,
                                               device_map={"": 0},
@@ -110,7 +112,7 @@ class MistralFinetuneTrial(PyTorchTrial):
         self.model = self.context.wrap_model(self.model)
         self.batch_size = self.context.get_per_slot_batch_size()
         self.test_batch_size = 1
-        self.tokenizer = AutoTokenizer.from_pretrained('/nvmefs1/andrew.mendez/mistral_instruct_tokenizer/')
+        self.tokenizer = AutoTokenizer.from_pretrained(self.tokenizer_path)
         self.tokenizer.padding_side = 'right'
         self.tokenizer.pad_token = self.tokenizer.eos_token
 
@@ -153,7 +155,10 @@ class MistralFinetuneTrial(PyTorchTrial):
         )
 
     def build_callbacks(self) -> Dict[str, PyTorchCallback]:
-        return {"my_callbacks": MyCallbacks(cat_mapping=3,model=self.model,tokenizer=self.tokenizer)}
+        return {"my_callbacks": MyCallbacks(cat_mapping=3,
+                                            model=self.model,
+                                            tokenizer=self.tokenizer,
+                                            save_model_dir=self.finetune_results_dir)}
     
     def get_dataset(self,dataset_name):
         '''

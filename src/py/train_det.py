@@ -141,14 +141,14 @@ def setup_config(config_file, repo, pipeline, job_id, project):
 
 
 def create_client():
-    print(os.getenv("DET_MASTER"),os.getenv("DET_USER"),os.getenv("DET_PASSWORD"))
-    print("os.getenv(DET_MASTER) == 10.239.255.103:8080: ",os.getenv("DET_MASTER")=='10.239.255.103:8080')
-    print("os.getenv(DET_USER) == admin: ",os.getenv("DET_MASTER")=='admin')
-    print("os.getenv(DET_USER) == : ",os.getenv("DET_MASTER")=='')
+    # print(os.getenv("DET_MASTER"),os.getenv("DET_USER"),os.getenv("DET_PASSWORD"))
+    # print("os.getenv(DET_MASTER) == http://mlds-determined.us.rdlabs.hpecorp.net:8080: ",os.getenv("DET_MASTER")=='http://mlds-determined.us.rdlabs.hpecorp.net:8080')
+    # print("os.getenv(DET_USER) == andrew: ",os.getenv("DET_MASTER")=='andrew')
+    # print("os.getenv(DET_USER) == '' : ",os.getenv("DET_MASTER")=='')
     return DeterminedClient(
-        master='http://mlds-determined.us.rdlabs.hpecorp.net:8080',
-        user='andrew',
-        password='',
+        master=os.getenv("DET_MASTER"),
+        user=os.getenv("DET_USER"),
+        password=os.getenv("DET_PASSWORD"),
     )
 
 
