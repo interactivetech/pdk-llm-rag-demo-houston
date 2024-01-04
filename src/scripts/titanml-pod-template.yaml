@@ -24,7 +24,11 @@ spec:
       mountPath: /nvmefs1/
     resources:
       limits:
-        nvidia.com/gpu: 1 #specify number of gpus required
+        rdma/rdma_shared_device_a: '1'
+        rdma/rdma_shared_device_b: '3'
+      requests:
+          rdma/rdma_shared_device_a: '1'
+          rdma/rdma_shared_device_b: '3'
   tolerations:
     - effect: NoSchedule
       key: accelerator
