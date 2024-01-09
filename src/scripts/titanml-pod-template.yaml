@@ -7,12 +7,13 @@ metadata:
 spec:
   containers:
   - name: ubuntu
-    image: mendeza/takeoff-mistral
+    image: mendeza/takeoff-mistral:0.5
     command: ["/bin/sh", "-c"]
     args:
       - echo starting;
         export TAKEOFF_MODEL_NAME={{TAKEOFF_MODEL_NAME}};
         export TAKEOFF_DEVICE={{TAKEOFF_DEVICE}};
+        export API_PORT={{API_PORT}};
         sh run.sh
     ports:
     - containerPort: {{API_PORT}}
@@ -24,16 +25,12 @@ spec:
       mountPath: /nvmefs1/
     resources:
       limits:
-        rdma/rdma_shared_device_a: '1'
-        rdma/rdma_shared_device_b: '3'
-      requests:
-          rdma/rdma_shared_device_a: '1'
-          rdma/rdma_shared_device_b: '3'
+        nvidia.com/gpu: 1 #specify number of gpus required
   tolerations:
     - effect: NoSchedule
       key: accelerator
       operator: Equal
-      value: NVIDIA-A100-SXM4-80GB
+      value: A100-MLDM
   volumes:
   - name: host-volume
     hostPath:

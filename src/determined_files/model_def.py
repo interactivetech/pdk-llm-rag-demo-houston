@@ -65,7 +65,7 @@ class MyCallbacks(PyTorchCallback):
         # self.model.save_state_dict(model_dir)
         merged_model = self.model.merge_and_unload()
         # merged_model.to(torch.bfloat16)
-        merged_model.save_pretrained(model_dir,safe_serialization=True)
+        merged_model.save_pretrained(save_model_dir,safe_serialization=True)
 
         print("Done")
         print("Saving tokenizer at {}...".format(save_model_dir))
