@@ -18,10 +18,8 @@ hyperparameters:
 bind_mounts:
   - container_path: /nvmefs1/
     host_path: /nvmefs1/
-    read_only: false
   - container_path: /pfs/
     host_path: /pfs/
-    read_only: false
 environment:
     image: "mendeza/mistral-rag-env:0.0.1"
 records_per_epoch: 64 

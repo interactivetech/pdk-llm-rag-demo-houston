@@ -23,7 +23,7 @@ else
     # export TAKEOFF_MODEL_NAME=/mnt/efs/shared_fs/mistral_ckpt/mistral_model/
     export TAKEOFF_DEVICE=cuda
     export API_PORT=8080
-    export API_HOST=10.182.1.48
+    export API_HOST=10.182.1.60
     
     sed -e "s|{{HOST_VOLUME}}|$HOST_VOLUME2|g" \
        -e "s|{{HOST_VOLUME2}}|$HOST_VOLUME3|g" \
@@ -51,8 +51,8 @@ if kubectl get pod -n pachyderm "$POD_NAME" --ignore-not-found --output name | g
     export UI_PORT=8080
     export DB_PATH=/nvmefs1/andrew.mendez/rag_db/
     export API_PORT=8080
-    export API_HOST=10.182.1.48
-    export UI_IP=10.182.1.50
+    export API_HOST=10.182.1.60
+    export UI_IP=10.182.1.61
     export EMBED_CACHE=/nvmefs1/andrew.mendez/chromadb_cache
     export HOST_VOLUME=/nvmefs1/
     export APP_PY_PATH="/nvmefs1/shared_nb/01 - Users/cyrill.hug/pdk-llm-rag-demo-houston/src/py/app.py"
@@ -74,8 +74,8 @@ else
     export UI_PORT=8080
     export DB_PATH=/nvmefs1/andrew.mendez/rag_db/
     export API_PORT=8080
-    export API_HOST=10.182.1.48
-    export UI_IP=10.182.1.50
+    export API_HOST=10.182.1.60
+    export UI_IP=10.182.1.61
     export EMBED_CACHE=/nvmefs1/andrew.mendez/chromadb_cache
     export HOST_VOLUME=/nvmefs1/
     export APP_PY_PATH="/nvmefs1/shared_nb/01 - Users/cyrill.hug/pdk-llm-rag-demo-houston/src/py/app.py"

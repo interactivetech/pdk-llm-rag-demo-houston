@@ -21,7 +21,7 @@ else
     # export TAKEOFF_MODEL_NAME=/mnt/efs/shared_fs/determined/mistral_instruct_model
     export TAKEOFF_MODEL_NAME=/nvmefs1/andrew.mendez/mistral_ckpt/mistral_model/
     export TAKEOFF_DEVICE=cuda
-    export API_PORT=80
+    export API_PORT=8080
     export API_HOST=10.182.1.48
     
     sed -e "s|{{HOST_VOLUME}}|$HOST_VOLUME2|g" \
@@ -32,7 +32,7 @@ else
        -e "s|{{TAKEOFF_DEVICE}}|$TAKEOFF_DEVICE|g" \
         "$ROOT_DIR"/titanml-pod-template.yaml > "$ROOT_DIR"/titanml-pod-runner.yaml
     kubectl apply -f "$ROOT_DIR"/titanml-pod-runner.yaml
-    kubectl wait --for=condition=ready pod/titanml-pod
+    kubectl wait --for=condition=ready pod/titanml-pod -n pachyderm
 
     echo "Done!"
 fi
@@ -49,7 +49,7 @@ if kubectl get pod -n pachyderm "$POD_NAME" --ignore-not-found --output name | g
     echo "Restarted!"
     export UI_PORT=8080
     export DB_PATH=/nvmefs1/andrew.mendez/rag_db/
-    export API_PORT=80
+    export API_PORT=8080
     export API_HOST=10.182.1.48
     export UI_IP=10.182.1.50
     export EMBED_CACHE=/nvmefs1/andrew.mendez/chromadb_cache
@@ -66,14 +66,14 @@ if kubectl get pod -n pachyderm "$POD_NAME" --ignore-not-found --output name | g
        -e "s|{{APP_PY_PATH}}|\"$APP_PY_PATH\"|g" \
         "$ROOT_DIR"/ui-pod-template.yaml > "$ROOT_DIR"/ui-pod-runner.yaml
     kubectl apply -f "$ROOT_DIR"/ui-pod-runner.yaml
-    kubectl wait --for=condition=ready pod/ui-pod
+    kubectl wait --for=condition=ready pod/ui-pod -n pachyderm
 
     echo "Done!"
 else
     echo "Pod $POD_NAME does not exist, creating..."
     export UI_PORT=8080
     export DB_PATH=/nvmefs1/andrew.mendez/rag_db/
-    export API_PORT=80
+    export API_PORT=8080
     export API_HOST=10.182.1.48
     export UI_IP=10.182.1.50
     export EMBED_CACHE=/nvmefs1/andrew.mendez/chromadb_cache
@@ -89,7 +89,7 @@ else
        -e "s|{{APP_PY_PATH}}|\"$APP_PY_PATH\"|g" \
         "$ROOT_DIR"/ui-pod-template.yaml > "$ROOT_DIR"/ui-pod-runner.yaml
     kubectl apply -f "$ROOT_DIR"/ui-pod-runner.yaml
-    kubectl wait --for=condition=ready pod/ui-pod
+    kubectl wait --for=condition=ready pod/ui-pod -n pachyderm
 
     echo "Done!"
 fi
