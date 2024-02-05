@@ -1,7 +1,7 @@
 name: mistral_finetune_hpe
 workspace: Andrew
-project: Mistral
-description: "Mistral"
+project: Mixtral
+description: "Mixtral"
 
 hyperparameters:
     global_batch_size: 1
@@ -11,9 +11,9 @@ hyperparameters:
     warmup_steps: 3
     gradient_accumulation_steps: 1
     # dataset_name: 'PDS2'
-    model_path: '/nvmefs1/andrew.mendez/mistral_instruct_model_and_tokenizer'
-    tokenizer_path: '/nvmefs1/andrew.mendez/mistral_instruct_tokenizer/'
-    finetune_results_dir: '/nvmefs1/andrew.mendez/mistral_ckpt/mistral_model'
+    model_path: '/nvmefs1/andrew.mendez/mixtral/model_and_tokenizer'
+    tokenizer_path: '/nvmefs1/andrew.mendez/mixtral/model_and_tokenizer'
+    finetune_results_dir: '/nvmefs1/andrew.mendez/mixtral_ckpt/'
     dataset_name: 'hpe_press_release'
 bind_mounts:
   - container_path: /nvmefs1/
@@ -21,7 +21,7 @@ bind_mounts:
   - container_path: /pfs/
     host_path: /pfs/
 environment:
-    image: "mendeza/mistral-rag-env-train:0.0.1"
+    image: "mendeza/mixtral-rag-env-train:0.0.1"
 records_per_epoch: 64 
 resources:
     slots_per_trial: 1
@@ -49,4 +49,4 @@ searcher:
         batches: 2
     smaller_is_better: true
 max_restarts: 0
-entrypoint: python3 -m determined.launch.torch_distributed --trial model_def:MistralFinetuneTrial
+entrypoint: python3 -m determined.launch.torch_distributed --trial model_def_mixtral:MixtralFinetuneTrial

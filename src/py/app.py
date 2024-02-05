@@ -67,8 +67,15 @@ async def main(message: cl.Message):
     await show_sources(results)
 
     results = "\n\n".join(results)
-    prompt = f"[INST]`{results}`. Using the above information, answer the following question: {message.content}[/INST]"
-    json = {"text": prompt}
+    prompt = f"[INST]`{results}`. Using the above information, answer the following question: {message.content}. Answer concisely in three sentences.[/INST]"
+    params={ 'generate_max_length': 300,
+        'no_repeat_ngram_size': 0,
+        'sampling_topk': 50,
+        'sampling_topp': 0.95,
+        'sampling_temperature': 0.3,
+        'repetition_penalty': 1.0}
+    json = {"text": prompt,
+            **params}
     response = requests.post(titan_url, json=json, stream=True)
     response.encoding = "utf-8"
 
@@ -79,8 +86,15 @@ async def main(message: cl.Message):
 
 
 async def show_sources(results):
-    elements = [
-        cl.Text(name=f"Source {i+1}", content=r, display="inline")
-        for i, r in enumerate(results)
-    ]
-    await cl.Message(content="I found these sources:", elements=elements).send()
+    # elements = [
+    #     cl.Text(name=f"Source {i+1}", content=r, display="inline")
+    #     for i, r in enumerate(results)
+    # ]
+    # elements = [
+    #     cl.Text(content=r, display="inline")
+    #     for i, r in enumerate(results)
+    # ]
+    # await cl.Message(content="I found these sources:", elements=elements).send()
+    # await cl.Message(content="", elements=elements).send()
+    await cl.Message(content="").send()
+
