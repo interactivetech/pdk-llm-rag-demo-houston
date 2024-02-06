@@ -65,9 +65,17 @@ async def main(message: cl.Message):
     print("Original Indices:", original_indices)
     results = [results["documents"][0][original_indices[0]]]# get the first document
     await show_sources(results)
-
-    results = "\n\n".join(results)
-    prompt = f"[INST]`{results}`. Using the above information, answer the following question: {message.content}. Answer concisely in three sentences.[/INST]"
+    # print("results: ",results)`
+    '''
+    2/6/24 (Andrew): Add limit to ensure that any press release does not exceed >14k. 
+    This assumes TitanML API deployed on A100
+    This will decrease when API is deployed no T4.
+    '''
+    results = "\n\n".join(results)[:14000]
+    prompt = f"[INST]`{results}`. Using the above information, answer the following question: {message.content}. Answer concisely at most in three sentences. Respond in a natural way, like you are having a conversation with a friend.[/INST]"
+    print("=========prompt=============: ")
+    print(prompt)
+    print("=========end_of_prompt=============")
     params={ 'generate_max_length': 300,
         'no_repeat_ngram_size': 0,
         'sampling_topk': 50,
@@ -78,7 +86,7 @@ async def main(message: cl.Message):
             **params}
     response = requests.post(titan_url, json=json, stream=True)
     response.encoding = "utf-8"
-
+    print("response: ", response.content)
     for text in response.iter_content(chunk_size=1, decode_unicode=True):
         await msg.stream_token(text)
 
