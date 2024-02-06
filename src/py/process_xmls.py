@@ -132,6 +132,7 @@ if __name__ == "__main__":
 
     # Apply the function to the 'Date' column
     df2['Date'] = df2['Date'].apply(parse_date)
+    print("df2['Date']: ",df2['Date'])
     df3 = pd.concat([df,df2])
     print("Number of final examples: ",df3.shape[0])
     print("Saving parsed xml articles to a csv...")

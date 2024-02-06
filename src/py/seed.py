@@ -51,9 +51,8 @@ def main(csv_path,path_to_db):
     )
 
     query = "How were HPE's earnings in 2022?"
-    results = collection.query(query_texts=[query], n_results=2)
-    print("query: ",query)
-    print("results: ",results)
+    results = collection.query(query_texts=[query], n_results=5)
+    print("query: ",query, "results: ",results['documents'])
 
 if __name__ == '__main__':
     
